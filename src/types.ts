@@ -1,0 +1,21 @@
+export type Level='beginner'|'intermediate'|'advanced';
+export type Intensity='gentle'|'moderate'|'intense';
+export type Zone='pectorals'|'abs'|'back'|'shoulders'|'arms'|'legs'|'glutes';
+export interface Equipment {dumbbells:boolean; dumbbellCount:1|2; dumbbellKg:number; band:boolean; bandType:'flat'|'tube'; bandNominal:string; bandHandles:boolean; bandUnderFoot:boolean; rope:boolean; wheel:boolean; support:boolean; mat:boolean;}
+export interface Profile {id:string;initialized:boolean;level:Level;equipment:Equipment;exclusions:string[];limitationsKnown:boolean;noImpact:boolean;capacityPushups:number|null;wheelMastery:boolean;viewedTechniques:string[];audio:boolean;sounds:boolean;encouragements:boolean;voice:string;volume:number;prototype:boolean;}
+export interface Step {id:number;title:string;description:string;postureCues:string[];breathing:string;asset:string;alt:string;}
+export interface Exercise {id:string;version:number;name:string;category:'strength'|'cardio'|'mobility';movementPattern:string;mode:'reps'|'timed';counting:'total'|'per_side';sides:number;alternating:boolean;minimumLevel:Level;equipmentRequirements:{kind:string;count?:number;types?:string[]}[];equipmentKey:string;installation:string;position:string;impact:boolean;muscles:{primary:string[];secondary:string[];stabilizers:string[]};rolesNotApplicable:string[];mapKind:'mobility'|'strength';zones:Zone[];angle:string;steps:Step[];errors:string[];tip:string;breathing:string;variants:string[];constraints:string[];contentStatus:string;assetStatus:string;prototypeReady:boolean;review:{technical:unknown;visual:unknown};topViewRecommended:boolean;extraAngles:string[];}
+export interface Bounds {min:number;max:number;default:number;step?:number;}
+export interface Rule {sets:Bounds;reps:Bounds;duration:Bounds;rest:Bounds;secondsPerRep:number;capacityFraction:number;capacityCeilingFraction:number;levelFactors:Record<Level,number>;intensityFactors:Record<Intensity,number>;}
+export interface Rules {version:number;status:string;preparationSeconds:number;transitionSeconds:number;switchSeconds:number;budget:{warmup:number;training:number;cooldown:number;warmupMax:number;cooldownMax:number};levels:Record<Level,number>;byExercise:Record<string,Rule>;}
+export interface Block {id:string;exercise:Exercise;section:'warmup'|'training'|'cooldown';sets:number;value:number;rest:number;resistance:string;valueCeiling?:number;}
+export interface Estimate {total:number;preparation:number;work:number;rest:number;transitions:number;sides:number;deviation:number;}
+export interface Program {id:string;version:number;name:string;origin:'generated'|'manual';zones:Zone[];objective:'muscles'|'cardio'|'full';budget:number;blocks:Block[];favorite:boolean;createdAt:string;updatedAt:string;rulesVersion:number;catalogVersion:number;reasons:string[];constraints:string[];}
+export interface SetAttempt {id:string;blockId:string;exerciseId:string;exerciseVersion:number;exerciseName:string;category:Exercise['category'];set:number;attempt:number;side:number;planned:{mode:'reps'|'timed';value:number;resistance:string};declared:number|null;duration:number;status:'validated'|'skipped'|'interrupted';resistance:string;}
+export type PhaseKind='preparing'|'working_reps'|'working_timed'|'resting'|'switching_side';
+export type State=PhaseKind|'ready'|'paused'|'suspended'|'completed'|'aborted';
+export interface Phase {id:string;kind:PhaseKind;seconds:number;blockIndex:number;set:number;side:number;attempt:number;attemptId:string;}
+export interface Feedback {difficulty:''|'easy'|'balanced'|'hard';quality:''|'good'|'improve';}
+export interface Session {id:string;startedAt:string;endedAt:string|null;status:'active'|'completed'|'aborted';snapshot:Program;ruleSnapshot:Rules;equipment:Equipment;attempts:SetAttempt[];activeSeconds:number;pauseSeconds:number;feedback:Feedback;plannedSets:number;}
+export interface ActiveSession {session:Session;state:State;source:PhaseKind;phases:Phase[];index:number;remaining:number;phaseElapsed:number;anchor:number;journal:{id:string;event:string;at:string}[];revision:number;lastCheckpoint:string;}
+export interface LocalData {schema:1;profile:Profile;programs:Program[];sessions:Session[];draft:Program|null;active:ActiveSession|null;}

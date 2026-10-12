@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-12T08:27:41.918Z",
+  "mode": "prototype",
+  "exercises": 48,
+  "coreExpected": 291,
+  "corePresent": 291,
+  "extrasPresent": 36,
+  "packBytes": 21098313,
+  "missing": 0,
+  "pending": [],
+  "errors": [],
+  "humanReviews": 0
+}

@@ -1,0 +1,4449 @@
+{
+  "version": 1,
+  "status": "draft",
+  "exercises": [
+    {
+      "id": "EX01",
+      "version": 1,
+      "name": "Marche active sur place",
+      "category": "cardio",
+      "mode": "timed",
+      "minimumLevel": "beginner",
+      "movementPattern": "march",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "legs",
+          "calves"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [
+        "secondary",
+        "stabilizers"
+      ],
+      "mapKind": "mobility",
+      "zones": [
+        "legs"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Debout, appuis stables",
+          "description": "Debout, appuis stables",
+          "postureCues": [
+            "Garde le buste droit et les appuis silencieux.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Marche active sur place, étape 1 : debout, appuis stables, vue trois quarts avant."
+        },
+        {
+          "id": 2,
+          "title": "Lever un genou et le bras opposé",
+          "description": "Lever un genou et le bras opposé",
+          "postureCues": [
+            "Garde le buste droit et les appuis silencieux.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Marche active sur place, étape 2 : lever un genou et le bras opposé, vue trois quarts avant."
+        },
+        {
+          "id": 3,
+          "title": "Reposer le pied et alterner",
+          "description": "Reposer le pied et alterner",
+          "postureCues": [
+            "Garde le buste droit et les appuis silencieux.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Marche active sur place, étape 3 : reposer le pied et alterner, vue trois quarts avant."
+        }
+      ],
+      "errors": [
+        "Se pencher vers l’arrière",
+        "Frapper le sol avec les pieds"
+      ],
+      "tip": "Garde le buste droit et les appuis silencieux.",
+      "breathing": "Respire régulièrement, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX02",
+      "version": 1,
+      "name": "Step jacks sans saut",
+      "category": "cardio",
+      "mode": "timed",
+      "minimumLevel": "beginner",
+      "movementPattern": "lateral_step",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "legs",
+          "shoulders"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [
+        "secondary",
+        "stabilizers"
+      ],
+      "mapKind": "mobility",
+      "zones": [
+        "legs",
+        "shoulders"
+      ],
+      "angle": "face",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Pieds rapprochés, bras bas",
+          "description": "Pieds rapprochés, bras bas",
+          "postureCues": [
+            "Pose un pied après l’autre, sans saut.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Step jacks sans saut, étape 1 : pieds rapprochés, bras bas, vue face."
+        },
+        {
+          "id": 2,
+          "title": "Faire un pas latéral et ouvrir les bras",
+          "description": "Faire un pas latéral et ouvrir les bras",
+          "postureCues": [
+            "Pose un pied après l’autre, sans saut.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Step jacks sans saut, étape 2 : faire un pas latéral et ouvrir les bras, vue face."
+        },
+        {
+          "id": 3,
+          "title": "Revenir puis changer de côté",
+          "description": "Revenir puis changer de côté",
+          "postureCues": [
+            "Pose un pied après l’autre, sans saut.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Step jacks sans saut, étape 3 : revenir puis changer de côté, vue face."
+        }
+      ],
+      "errors": [
+        "Verrouiller les genoux",
+        "Monter les bras au-delà du confort"
+      ],
+      "tip": "Pose un pied après l’autre, sans saut.",
+      "breathing": "Respire régulièrement, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX03",
+      "version": 1,
+      "name": "Jumping jacks",
+      "category": "cardio",
+      "mode": "timed",
+      "minimumLevel": "intermediate",
+      "movementPattern": "jump",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": true,
+      "muscles": {
+        "primary": [
+          "legs",
+          "calves",
+          "shoulders"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [
+        "secondary",
+        "stabilizers"
+      ],
+      "mapKind": "mobility",
+      "zones": [
+        "legs",
+        "shoulders"
+      ],
+      "angle": "face",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Pieds rapprochés, genoux souples",
+          "description": "Pieds rapprochés, genoux souples",
+          "postureCues": [
+            "Amortis chaque réception avec les genoux souples.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Jumping jacks, étape 1 : pieds rapprochés, genoux souples, vue face."
+        },
+        {
+          "id": 2,
+          "title": "Petit saut, pieds écartés et bras hauts",
+          "description": "Petit saut, pieds écartés et bras hauts",
+          "postureCues": [
+            "Amortis chaque réception avec les genoux souples.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Jumping jacks, étape 2 : petit saut, pieds écartés et bras hauts, vue face."
+        },
+        {
+          "id": 3,
+          "title": "Réception souple et retour",
+          "description": "Réception souple et retour",
+          "postureCues": [
+            "Amortis chaque réception avec les genoux souples.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Jumping jacks, étape 3 : réception souple et retour, vue face."
+        }
+      ],
+      "errors": [
+        "Atterrir jambes raides",
+        "Rechercher une amplitude douloureuse"
+      ],
+      "tip": "Amortis chaque réception avec les genoux souples.",
+      "breathing": "Respire régulièrement, sans bloquer la respiration.",
+      "variants": [
+        "EX02"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX04",
+      "version": 1,
+      "name": "Corde à sauter, saut simple",
+      "category": "cardio",
+      "mode": "timed",
+      "minimumLevel": "intermediate",
+      "movementPattern": "jump",
+      "equipmentRequirements": [
+        {
+          "kind": "rope"
+        }
+      ],
+      "installation": "Corde déclarée disponible, sol dégagé, marge suffisante autour et au-dessus de la tête.",
+      "equipmentKey": "rope",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": true,
+      "muscles": {
+        "primary": [
+          "calves",
+          "legs"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [
+        "secondary",
+        "stabilizers"
+      ],
+      "mapKind": "mobility",
+      "zones": [
+        "legs"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Corde derrière, poignées basses",
+          "description": "Corde derrière, poignées basses",
+          "postureCues": [
+            "Tourne avec les poignets et saute juste assez pour passer la corde.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Corde à sauter, saut simple, étape 1 : corde derrière, poignées basses, vue trois quarts avant."
+        },
+        {
+          "id": 2,
+          "title": "Petite impulsion, corde sous les pieds",
+          "description": "Petite impulsion, corde sous les pieds",
+          "postureCues": [
+            "Tourne avec les poignets et saute juste assez pour passer la corde.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Corde à sauter, saut simple, étape 2 : petite impulsion, corde sous les pieds, vue trois quarts avant."
+        },
+        {
+          "id": 3,
+          "title": "Réception souple, rotation des poignets",
+          "description": "Réception souple, rotation des poignets",
+          "postureCues": [
+            "Tourne avec les poignets et saute juste assez pour passer la corde.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Corde à sauter, saut simple, étape 3 : réception souple, rotation des poignets, vue trois quarts avant."
+        }
+      ],
+      "errors": [
+        "Sauter trop haut",
+        "Faire de grands cercles avec les épaules"
+      ],
+      "tip": "Tourne avec les poignets et saute juste assez pour passer la corde.",
+      "breathing": "Respire régulièrement, sans bloquer la respiration.",
+      "variants": [
+        "EX01"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX05",
+      "version": 1,
+      "name": "Montées de genoux sans saut",
+      "category": "cardio",
+      "mode": "timed",
+      "minimumLevel": "beginner",
+      "movementPattern": "march",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "hip_flexors",
+          "legs"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [
+        "secondary",
+        "stabilizers"
+      ],
+      "mapKind": "mobility",
+      "zones": [
+        "legs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Debout, buste droit",
+          "description": "Debout, buste droit",
+          "postureCues": [
+            "Monte le genou dans une amplitude confortable.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Montées de genoux sans saut, étape 1 : debout, buste droit, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Lever un genou sans incliner le buste",
+          "description": "Lever un genou sans incliner le buste",
+          "postureCues": [
+            "Monte le genou dans une amplitude confortable.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Montées de genoux sans saut, étape 2 : lever un genou sans incliner le buste, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Reposer puis alterner",
+          "description": "Reposer puis alterner",
+          "postureCues": [
+            "Monte le genou dans une amplitude confortable.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Montées de genoux sans saut, étape 3 : reposer puis alterner, vue profil."
+        }
+      ],
+      "errors": [
+        "Cambrer pour monter le genou",
+        "Précipiter les appuis"
+      ],
+      "tip": "Monte le genou dans une amplitude confortable.",
+      "breathing": "Respire régulièrement, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX06",
+      "version": 1,
+      "name": "Squat au poids du corps",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "squat",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "quadriceps",
+          "glutes"
+        ],
+        "secondary": [
+          "hamstrings"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "legs",
+        "glutes"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Pieds stables, largeur confortable",
+          "description": "Pieds stables, largeur confortable",
+          "postureCues": [
+            "Les genoux suivent la direction des pieds, talons posés.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Squat au poids du corps, étape 1 : pieds stables, largeur confortable, vue trois quarts avant."
+        },
+        {
+          "id": 2,
+          "title": "Fléchir les hanches et les genoux",
+          "description": "Fléchir les hanches et les genoux",
+          "postureCues": [
+            "Les genoux suivent la direction des pieds, talons posés.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Squat au poids du corps, étape 2 : fléchir les hanches et les genoux, vue trois quarts avant."
+        },
+        {
+          "id": 3,
+          "title": "Se relever en contrôle",
+          "description": "Se relever en contrôle",
+          "postureCues": [
+            "Les genoux suivent la direction des pieds, talons posés.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Squat au poids du corps, étape 3 : se relever en contrôle, vue trois quarts avant."
+        }
+      ],
+      "errors": [
+        "Laisser les genoux rentrer",
+        "Décoller les talons"
+      ],
+      "tip": "Les genoux suivent la direction des pieds, talons posés.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [
+        "EX37"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX07",
+      "version": 1,
+      "name": "Fentes arrière alternées",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "lunge",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": true,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "quadriceps",
+          "glutes"
+        ],
+        "secondary": [
+          "hamstrings"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "legs",
+        "glutes"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Debout, bassin stable",
+          "description": "Debout, bassin stable",
+          "postureCues": [
+            "Garde le pied avant posé et une largeur d’appuis stable.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Fentes arrière alternées, étape 1 : debout, bassin stable, vue trois quarts latéral."
+        },
+        {
+          "id": 2,
+          "title": "Faire un pas arrière et fléchir",
+          "description": "Faire un pas arrière et fléchir",
+          "postureCues": [
+            "Garde le pied avant posé et une largeur d’appuis stable.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Fentes arrière alternées, étape 2 : faire un pas arrière et fléchir, vue trois quarts latéral."
+        },
+        {
+          "id": 3,
+          "title": "Revenir puis alterner",
+          "description": "Revenir puis alterner",
+          "postureCues": [
+            "Garde le pied avant posé et une largeur d’appuis stable.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Fentes arrière alternées, étape 3 : revenir puis alterner, vue trois quarts latéral."
+        }
+      ],
+      "errors": [
+        "Croiser les appuis",
+        "Laisser le genou avant rentrer"
+      ],
+      "tip": "Garde le pied avant posé et une largeur d’appuis stable.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX08",
+      "version": 1,
+      "name": "Fente statique",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "lunge",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "per_side",
+      "sides": 2,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "quadriceps",
+          "glutes"
+        ],
+        "secondary": [
+          "hamstrings"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "legs",
+        "glutes"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Appuis décalés et écartés en largeur",
+          "description": "Appuis décalés et écartés en largeur",
+          "postureCues": [
+            "Le talon avant reste au sol, le buste reste stable.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Fente statique, étape 1 : appuis décalés et écartés en largeur, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Descendre verticalement",
+          "description": "Descendre verticalement",
+          "postureCues": [
+            "Le talon avant reste au sol, le buste reste stable.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Fente statique, étape 2 : descendre verticalement, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Remonter, puis changer après la série",
+          "description": "Remonter, puis changer après la série",
+          "postureCues": [
+            "Le talon avant reste au sol, le buste reste stable.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Fente statique, étape 3 : remonter, puis changer après la série, vue profil."
+        }
+      ],
+      "errors": [
+        "Resserrer les pieds sur une ligne",
+        "Rebondir en bas"
+      ],
+      "tip": "Le talon avant reste au sol, le buste reste stable.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX09",
+      "version": 1,
+      "name": "Pont fessier",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "hip_extension",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "glutes"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "glutes",
+        "legs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Dos au sol, pieds posés, genoux fléchis",
+          "description": "Dos au sol, pieds posés, genoux fléchis",
+          "postureCues": [
+            "Pousse dans les pieds, arrête-toi avant de cambrer.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Pont fessier, étape 1 : dos au sol, pieds posés, genoux fléchis, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Soulever le bassin sans creuser le dos",
+          "description": "Soulever le bassin sans creuser le dos",
+          "postureCues": [
+            "Pousse dans les pieds, arrête-toi avant de cambrer.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Pont fessier, étape 2 : soulever le bassin sans creuser le dos, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Redescendre en contrôle",
+          "description": "Redescendre en contrôle",
+          "postureCues": [
+            "Pousse dans les pieds, arrête-toi avant de cambrer.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Pont fessier, étape 3 : redescendre en contrôle, vue profil."
+        }
+      ],
+      "errors": [
+        "Monter en creusant le dos",
+        "Pousser uniquement sur les pointes"
+      ],
+      "tip": "Pousse dans les pieds, arrête-toi avant de cambrer.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX10",
+      "version": 1,
+      "name": "Élévations des mollets",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "calf_raise",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "calves"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "legs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Debout, appuis parallèles",
+          "description": "Debout, appuis parallèles",
+          "postureCues": [
+            "Répartis la pression sous les avant-pieds et garde l’équilibre.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Élévations des mollets, étape 1 : debout, appuis parallèles, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Monter sur les avant-pieds",
+          "description": "Monter sur les avant-pieds",
+          "postureCues": [
+            "Répartis la pression sous les avant-pieds et garde l’équilibre.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Élévations des mollets, étape 2 : monter sur les avant-pieds, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Reposer lentement les talons",
+          "description": "Reposer lentement les talons",
+          "postureCues": [
+            "Répartis la pression sous les avant-pieds et garde l’équilibre.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Élévations des mollets, étape 3 : reposer lentement les talons, vue profil."
+        }
+      ],
+      "errors": [
+        "Basculer les chevilles vers l’extérieur",
+        "Rebondir sans contrôle"
+      ],
+      "tip": "Répartis la pression sous les avant-pieds et garde l’équilibre.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX11",
+      "version": 1,
+      "name": "Pompes inclinées",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [
+        {
+          "kind": "support"
+        }
+      ],
+      "installation": "Support fixe approprié confirmé : plan de travail ou banc stable. Aucun support mobile présumé.",
+      "equipmentKey": "support",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals",
+          "triceps"
+        ],
+        "secondary": [
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals",
+        "arms"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Mains sur un support stable, corps aligné",
+          "description": "Mains sur un support stable, corps aligné",
+          "postureCues": [
+            "Choisis un support fixe approprié, tête, bassin et talons alignés.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Pompes inclinées, étape 1 : mains sur un support stable, corps aligné, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Fléchir les coudes vers le support",
+          "description": "Fléchir les coudes vers le support",
+          "postureCues": [
+            "Choisis un support fixe approprié, tête, bassin et talons alignés.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Pompes inclinées, étape 2 : fléchir les coudes vers le support, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Repousser le support",
+          "description": "Repousser le support",
+          "postureCues": [
+            "Choisis un support fixe approprié, tête, bassin et talons alignés.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Pompes inclinées, étape 3 : repousser le support, vue profil."
+        }
+      ],
+      "errors": [
+        "Utiliser une chaise mobile",
+        "Laisser le bassin s’affaisser"
+      ],
+      "tip": "Choisis un support fixe approprié, tête, bassin et talons alignés.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [
+        "EX12",
+        "EX13"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": true,
+      "extraAngles": [
+        "top"
+      ]
+    },
+    {
+      "id": "EX12",
+      "version": 1,
+      "name": "Pompes sur les genoux",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals",
+          "triceps"
+        ],
+        "secondary": [
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals",
+        "arms"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Mains au sol, tête, bassin et genoux alignés",
+          "description": "Mains au sol, tête, bassin et genoux alignés",
+          "postureCues": [
+            "Les coudes sont obliques, le corps reste solidaire.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Pompes sur les genoux, étape 1 : mains au sol, tête, bassin et genoux alignés, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Descendre poitrine et bassin ensemble",
+          "description": "Descendre poitrine et bassin ensemble",
+          "postureCues": [
+            "Les coudes sont obliques, le corps reste solidaire.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Pompes sur les genoux, étape 2 : descendre poitrine et bassin ensemble, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Repousser en gardant l’alignement",
+          "description": "Repousser en gardant l’alignement",
+          "postureCues": [
+            "Les coudes sont obliques, le corps reste solidaire.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Pompes sur les genoux, étape 3 : repousser en gardant l’alignement, vue profil."
+        }
+      ],
+      "errors": [
+        "Plier seulement à la taille",
+        "Écarter les coudes à angle droit"
+      ],
+      "tip": "Les coudes sont obliques, le corps reste solidaire.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [
+        "EX11",
+        "EX13"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": true,
+      "extraAngles": [
+        "top"
+      ]
+    },
+    {
+      "id": "EX13",
+      "version": 1,
+      "name": "Pompes classiques",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals",
+          "triceps"
+        ],
+        "secondary": [
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals",
+        "arms"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Place-toi en planche, mains au sol",
+          "description": "Place-toi en planche, mains au sol",
+          "postureCues": [
+            "Aligne tête, tronc, bassin et talons. Garde les mêmes appuis.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Pompes classiques, étape 1 : place-toi en planche, mains au sol, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Descends en contrôle, coudes obliques",
+          "description": "Descends en contrôle, coudes obliques",
+          "postureCues": [
+            "Aligne tête, tronc, bassin et talons. Garde les mêmes appuis.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Pompes classiques, étape 2 : descends en contrôle, coudes obliques, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Repousse le sol, corps solidaire",
+          "description": "Repousse le sol, corps solidaire",
+          "postureCues": [
+            "Aligne tête, tronc, bassin et talons. Garde les mêmes appuis.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Pompes classiques, étape 3 : repousse le sol, corps solidaire, vue profil."
+        }
+      ],
+      "errors": [
+        "Laisser le bassin s’affaisser",
+        "Écarter les coudes à angle droit"
+      ],
+      "tip": "Aligne tête, tronc, bassin et talons. Garde les mêmes appuis.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [
+        "EX11",
+        "EX12",
+        "EX14",
+        "EX16"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": true,
+      "extraAngles": [
+        "top"
+      ]
+    },
+    {
+      "id": "EX14",
+      "version": 1,
+      "name": "Pompes mains rapprochées",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "advanced",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "triceps",
+          "pectorals"
+        ],
+        "secondary": [
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "arms",
+        "pectorals"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Mains rapprochées sans imposer un diamant",
+          "description": "Mains rapprochées sans imposer un diamant",
+          "postureCues": [
+            "Rapproche les mains seulement dans une position confortable pour les poignets.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Pompes mains rapprochées, étape 1 : mains rapprochées sans imposer un diamant, vue trois quarts avant."
+        },
+        {
+          "id": 2,
+          "title": "Descendre, coudes proches du buste",
+          "description": "Descendre, coudes proches du buste",
+          "postureCues": [
+            "Rapproche les mains seulement dans une position confortable pour les poignets.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Pompes mains rapprochées, étape 2 : descendre, coudes proches du buste, vue trois quarts avant."
+        },
+        {
+          "id": 3,
+          "title": "Repousser en conservant l’alignement",
+          "description": "Repousser en conservant l’alignement",
+          "postureCues": [
+            "Rapproche les mains seulement dans une position confortable pour les poignets.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Pompes mains rapprochées, étape 3 : repousser en conservant l’alignement, vue trois quarts avant."
+        }
+      ],
+      "errors": [
+        "Forcer un diamant inconfortable",
+        "Laisser le bassin tomber"
+      ],
+      "tip": "Rapproche les mains seulement dans une position confortable pour les poignets.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [
+        "EX13"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": true,
+      "extraAngles": [
+        "top"
+      ]
+    },
+    {
+      "id": "EX15",
+      "version": 1,
+      "name": "Développé poitrine avec bande derrière le dos",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "flat"
+          ]
+        }
+      ],
+      "installation": "Bande plate compatible et intacte ; aucun ancrage de porte. Installer comme indiqué dans les étapes.",
+      "equipmentKey": "band",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals",
+          "triceps"
+        ],
+        "secondary": [
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals",
+        "arms"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Bande derrière le haut du dos, mains au thorax",
+          "description": "Bande derrière le haut du dos, mains au thorax",
+          "postureCues": [
+            "Bande plate compatible, hors du cou, vérifier son intégrité avant installation.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Développé poitrine avec bande derrière le dos, étape 1 : bande derrière le haut du dos, mains au thorax, vue trois quarts avant."
+        },
+        {
+          "id": 2,
+          "title": "Pousser les mains devant soi",
+          "description": "Pousser les mains devant soi",
+          "postureCues": [
+            "Bande plate compatible, hors du cou, vérifier son intégrité avant installation.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Développé poitrine avec bande derrière le dos, étape 2 : pousser les mains devant soi, vue trois quarts avant."
+        },
+        {
+          "id": 3,
+          "title": "Revenir en contrôle",
+          "description": "Revenir en contrôle",
+          "postureCues": [
+            "Bande plate compatible, hors du cou, vérifier son intégrité avant installation.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Développé poitrine avec bande derrière le dos, étape 3 : revenir en contrôle, vue trois quarts avant."
+        }
+      ],
+      "errors": [
+        "Placer la bande contre le cou",
+        "Relâcher brutalement la tension"
+      ],
+      "tip": "Bande plate compatible, hors du cou, vérifier son intégrité avant installation.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [
+        "EX16",
+        "EX13"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX16",
+      "version": 1,
+      "name": "Développé haltères au sol",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [
+        {
+          "kind": "dumbbells",
+          "count": 2
+        }
+      ],
+      "installation": "Deux haltères de même masse déclarée, prises sûres et espace dégagé.",
+      "equipmentKey": "dumbbells2",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals",
+          "triceps"
+        ],
+        "secondary": [
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals",
+        "arms"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Dos au sol, coudes près du sol",
+          "description": "Dos au sol, coudes près du sol",
+          "postureCues": [
+            "Garde les poignets alignés et les coudes obliques.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Développé haltères au sol, étape 1 : dos au sol, coudes près du sol, vue trois quarts latéral."
+        },
+        {
+          "id": 2,
+          "title": "Pousser les haltères vers le haut",
+          "description": "Pousser les haltères vers le haut",
+          "postureCues": [
+            "Garde les poignets alignés et les coudes obliques.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Développé haltères au sol, étape 2 : pousser les haltères vers le haut, vue trois quarts latéral."
+        },
+        {
+          "id": 3,
+          "title": "Redescendre jusqu’à l’arrêt des bras par le sol",
+          "description": "Redescendre jusqu’à l’arrêt des bras par le sol",
+          "postureCues": [
+            "Garde les poignets alignés et les coudes obliques.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Développé haltères au sol, étape 3 : redescendre jusqu’à l’arrêt des bras par le sol, vue trois quarts latéral."
+        }
+      ],
+      "errors": [
+        "Choquer les haltères",
+        "Creuser le dos pour pousser"
+      ],
+      "tip": "Garde les poignets alignés et les coudes obliques.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [
+        "EX15",
+        "EX13"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX17",
+      "version": 1,
+      "name": "Développé épaules avec haltères",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "vertical_push",
+      "equipmentRequirements": [
+        {
+          "kind": "dumbbells",
+          "count": 2
+        }
+      ],
+      "installation": "Deux haltères de même masse déclarée, prises sûres et espace dégagé.",
+      "equipmentKey": "dumbbells2",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "shoulders",
+          "triceps"
+        ],
+        "secondary": [
+          "upper_back"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "shoulders",
+        "arms"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Debout, haltères près des épaules",
+          "description": "Debout, haltères près des épaules",
+          "postureCues": [
+            "Garde les côtes et le bassin stables, choisis une amplitude confortable.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Développé épaules avec haltères, étape 1 : debout, haltères près des épaules, vue trois quarts avant."
+        },
+        {
+          "id": 2,
+          "title": "Pousser au-dessus sans cambrer",
+          "description": "Pousser au-dessus sans cambrer",
+          "postureCues": [
+            "Garde les côtes et le bassin stables, choisis une amplitude confortable.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Développé épaules avec haltères, étape 2 : pousser au-dessus sans cambrer, vue trois quarts avant."
+        },
+        {
+          "id": 3,
+          "title": "Redescendre en contrôle",
+          "description": "Redescendre en contrôle",
+          "postureCues": [
+            "Garde les côtes et le bassin stables, choisis une amplitude confortable.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Développé épaules avec haltères, étape 3 : redescendre en contrôle, vue trois quarts avant."
+        }
+      ],
+      "errors": [
+        "Cambrer sous la charge",
+        "Pousser avec un élan des jambes"
+      ],
+      "tip": "Garde les côtes et le bassin stables, choisis une amplitude confortable.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX18",
+      "version": 1,
+      "name": "Élévations latérales légères",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "shoulder_abduction",
+      "equipmentRequirements": [
+        {
+          "kind": "dumbbells",
+          "count": 2
+        }
+      ],
+      "installation": "Deux haltères de même masse déclarée, prises sûres et espace dégagé.",
+      "equipmentKey": "dumbbells2",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "lateral_deltoids"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "shoulders"
+      ],
+      "angle": "face",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Bras bas, coudes souples",
+          "description": "Bras bas, coudes souples",
+          "postureCues": [
+            "Utilise une charge légère, sans hausser les épaules.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Élévations latérales légères, étape 1 : bras bas, coudes souples, vue face."
+        },
+        {
+          "id": 2,
+          "title": "Élever les bras vers les côtés",
+          "description": "Élever les bras vers les côtés",
+          "postureCues": [
+            "Utilise une charge légère, sans hausser les épaules.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Élévations latérales légères, étape 2 : élever les bras vers les côtés, vue face."
+        },
+        {
+          "id": 3,
+          "title": "Redescendre sans élan",
+          "description": "Redescendre sans élan",
+          "postureCues": [
+            "Utilise une charge légère, sans hausser les épaules.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Élévations latérales légères, étape 3 : redescendre sans élan, vue face."
+        }
+      ],
+      "errors": [
+        "Balancer le buste",
+        "Hausser les épaules"
+      ],
+      "tip": "Utilise une charge légère, sans hausser les épaules.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX19",
+      "version": 1,
+      "name": "Rowing bande sous les pieds",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "horizontal_pull",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "flat"
+          ]
+        }
+      ],
+      "installation": "Bande plate compatible et intacte ; aucun ancrage de porte. Installer comme indiqué dans les étapes.",
+      "equipmentKey": "band",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "back",
+          "lats"
+        ],
+        "secondary": [
+          "biceps",
+          "posterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "back"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Bande sous les deux pieds, buste incliné",
+          "description": "Bande sous les deux pieds, buste incliné",
+          "postureCues": [
+            "Les deux pieds maintiennent une bande plate compatible, dos neutre.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Rowing bande sous les pieds, étape 1 : bande sous les deux pieds, buste incliné, vue trois quarts latéral."
+        },
+        {
+          "id": 2,
+          "title": "Tirer les mains vers les flancs",
+          "description": "Tirer les mains vers les flancs",
+          "postureCues": [
+            "Les deux pieds maintiennent une bande plate compatible, dos neutre.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Rowing bande sous les pieds, étape 2 : tirer les mains vers les flancs, vue trois quarts latéral."
+        },
+        {
+          "id": 3,
+          "title": "Revenir en contrôlant la bande",
+          "description": "Revenir en contrôlant la bande",
+          "postureCues": [
+            "Les deux pieds maintiennent une bande plate compatible, dos neutre.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Rowing bande sous les pieds, étape 3 : revenir en contrôlant la bande, vue trois quarts latéral."
+        }
+      ],
+      "errors": [
+        "Arrondir le dos",
+        "Laisser glisser la bande sous les pieds"
+      ],
+      "tip": "Les deux pieds maintiennent une bande plate compatible, dos neutre.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [
+        "EX20"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX20",
+      "version": 1,
+      "name": "Rowing haltère unilatéral sans banc",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "horizontal_pull",
+      "equipmentRequirements": [
+        {
+          "kind": "dumbbells",
+          "count": 1
+        }
+      ],
+      "installation": "Un haltère avec prise sûre et charge choisie avant la séance.",
+      "equipmentKey": "dumbbells1",
+      "position": "standing",
+      "counting": "per_side",
+      "sides": 2,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "back",
+          "lats"
+        ],
+        "secondary": [
+          "biceps",
+          "posterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "back"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Appuis décalés, main libre sur la cuisse",
+          "description": "Appuis décalés, main libre sur la cuisse",
+          "postureCues": [
+            "Garde le bassin et les épaules orientés vers le sol.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Rowing haltère unilatéral sans banc, étape 1 : appuis décalés, main libre sur la cuisse, vue trois quarts latéral."
+        },
+        {
+          "id": 2,
+          "title": "Tirer l’haltère vers la hanche",
+          "description": "Tirer l’haltère vers la hanche",
+          "postureCues": [
+            "Garde le bassin et les épaules orientés vers le sol.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Rowing haltère unilatéral sans banc, étape 2 : tirer l’haltère vers la hanche, vue trois quarts latéral."
+        },
+        {
+          "id": 3,
+          "title": "Redescendre sans tourner le buste",
+          "description": "Redescendre sans tourner le buste",
+          "postureCues": [
+            "Garde le bassin et les épaules orientés vers le sol.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Rowing haltère unilatéral sans banc, étape 3 : redescendre sans tourner le buste, vue trois quarts latéral."
+        }
+      ],
+      "errors": [
+        "Tourner le buste à chaque tirage",
+        "Tirer en haussant l’épaule"
+      ],
+      "tip": "Garde le bassin et les épaules orientés vers le sol.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [
+        "EX19"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX21",
+      "version": 1,
+      "name": "Écartement de bande devant soi",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "scapular_pull",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "flat"
+          ]
+        }
+      ],
+      "installation": "Bande plate compatible et intacte ; aucun ancrage de porte. Installer comme indiqué dans les étapes.",
+      "equipmentKey": "band",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "posterior_deltoids",
+          "upper_back"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "shoulders",
+        "back"
+      ],
+      "angle": "face",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Bande plate devant la poitrine, prise adaptée",
+          "description": "Bande plate devant la poitrine, prise adaptée",
+          "postureCues": [
+            "Vérifie la bande et choisis une tension permettant un contrôle complet.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Écartement de bande devant soi, étape 1 : bande plate devant la poitrine, prise adaptée, vue face."
+        },
+        {
+          "id": 2,
+          "title": "Écarter les mains sans hausser les épaules",
+          "description": "Écarter les mains sans hausser les épaules",
+          "postureCues": [
+            "Vérifie la bande et choisis une tension permettant un contrôle complet.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Écartement de bande devant soi, étape 2 : écarter les mains sans hausser les épaules, vue face."
+        },
+        {
+          "id": 3,
+          "title": "Revenir sans relâcher brusquement",
+          "description": "Revenir sans relâcher brusquement",
+          "postureCues": [
+            "Vérifie la bande et choisis une tension permettant un contrôle complet.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Écartement de bande devant soi, étape 3 : revenir sans relâcher brusquement, vue face."
+        }
+      ],
+      "errors": [
+        "Hausser les épaules",
+        "Laisser la bande revenir brutalement"
+      ],
+      "tip": "Vérifie la bande et choisis une tension permettant un contrôle complet.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX22",
+      "version": 1,
+      "name": "Rétraction scapulaire en W au sol",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "scapular_pull",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "upper_back"
+        ],
+        "secondary": [
+          "posterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "back"
+      ],
+      "angle": "trois quarts arrière",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Sur le ventre, bras en W, nuque neutre",
+          "description": "Sur le ventre, bras en W, nuque neutre",
+          "postureCues": [
+            "Le mouvement reste petit, sans extension excessive du dos.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Rétraction scapulaire en W au sol, étape 1 : sur le ventre, bras en w, nuque neutre, vue trois quarts arrière."
+        },
+        {
+          "id": 2,
+          "title": "Lever légèrement les bras, rapprocher les omoplates",
+          "description": "Lever légèrement les bras, rapprocher les omoplates",
+          "postureCues": [
+            "Le mouvement reste petit, sans extension excessive du dos.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Rétraction scapulaire en W au sol, étape 2 : lever légèrement les bras, rapprocher les omoplates, vue trois quarts arrière."
+        },
+        {
+          "id": 3,
+          "title": "Reposer les bras en contrôle",
+          "description": "Reposer les bras en contrôle",
+          "postureCues": [
+            "Le mouvement reste petit, sans extension excessive du dos.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Rétraction scapulaire en W au sol, étape 3 : reposer les bras en contrôle, vue trois quarts arrière."
+        }
+      ],
+      "errors": [
+        "Lever la tête pour regarder devant",
+        "Cambrer pour monter les bras"
+      ],
+      "tip": "Le mouvement reste petit, sans extension excessive du dos.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX23",
+      "version": 1,
+      "name": "Extension triceps avec bande sous un pied",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "elbow_extension",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "flat",
+            "tube"
+          ]
+        }
+      ],
+      "installation": "Bande ou tube intact compatible avec le maintien sous le pied. Vérifier la prise et les poignées si présentes.",
+      "equipmentKey": "band_or_tube",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "triceps"
+        ],
+        "secondary": [
+          "shoulders"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "arms"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Bande sous le pied, mains derrière la tête",
+          "description": "Bande sous le pied, mains derrière la tête",
+          "postureCues": [
+            "Installation compatible sous le pied, bande hors du visage, prise sûre.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Extension triceps avec bande sous un pied, étape 1 : bande sous le pied, mains derrière la tête, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Étendre les coudes, bras supérieurs stables",
+          "description": "Étendre les coudes, bras supérieurs stables",
+          "postureCues": [
+            "Installation compatible sous le pied, bande hors du visage, prise sûre.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Extension triceps avec bande sous un pied, étape 2 : étendre les coudes, bras supérieurs stables, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Replier les coudes en contrôle",
+          "description": "Replier les coudes en contrôle",
+          "postureCues": [
+            "Installation compatible sous le pied, bande hors du visage, prise sûre.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Extension triceps avec bande sous un pied, étape 3 : replier les coudes en contrôle, vue profil."
+        }
+      ],
+      "errors": [
+        "Laisser l’élastique glisser",
+        "Cambrer pendant l’extension"
+      ],
+      "tip": "Installation compatible sous le pied, bande hors du visage, prise sûre.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [
+        "EX24"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX24",
+      "version": 1,
+      "name": "Extension triceps haltère au-dessus de la tête",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "elbow_extension",
+      "equipmentRequirements": [
+        {
+          "kind": "dumbbells",
+          "count": 1
+        }
+      ],
+      "installation": "Un haltère avec prise sûre et charge choisie avant la séance.",
+      "equipmentKey": "dumbbells1",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "triceps"
+        ],
+        "secondary": [
+          "shoulders"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "arms"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Haltère à deux mains, coudes fléchis",
+          "description": "Haltère à deux mains, coudes fléchis",
+          "postureCues": [
+            "Garde une prise sûre à deux mains et les bras supérieurs stables.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Extension triceps haltère au-dessus de la tête, étape 1 : haltère à deux mains, coudes fléchis, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Étendre les bras sans cambrer",
+          "description": "Étendre les bras sans cambrer",
+          "postureCues": [
+            "Garde une prise sûre à deux mains et les bras supérieurs stables.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Extension triceps haltère au-dessus de la tête, étape 2 : étendre les bras sans cambrer, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Redescendre derrière la tête en contrôle",
+          "description": "Redescendre derrière la tête en contrôle",
+          "postureCues": [
+            "Garde une prise sûre à deux mains et les bras supérieurs stables.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Extension triceps haltère au-dessus de la tête, étape 3 : redescendre derrière la tête en contrôle, vue profil."
+        }
+      ],
+      "errors": [
+        "Ouvrir les coudes sans contrôle",
+        "Creuser le dos sous la charge"
+      ],
+      "tip": "Garde une prise sûre à deux mains et les bras supérieurs stables.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [
+        "EX23"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX25",
+      "version": 1,
+      "name": "Curl haltères",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "elbow_flexion",
+      "equipmentRequirements": [
+        {
+          "kind": "dumbbells",
+          "count": 2
+        }
+      ],
+      "installation": "Deux haltères de même masse déclarée, prises sûres et espace dégagé.",
+      "equipmentKey": "dumbbells2",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "biceps"
+        ],
+        "secondary": [
+          "forearms"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "arms"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Bras bas, coudes près du buste",
+          "description": "Bras bas, coudes près du buste",
+          "postureCues": [
+            "Les bras supérieurs restent près du corps, poignets neutres.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Curl haltères, étape 1 : bras bas, coudes près du buste, vue trois quarts avant."
+        },
+        {
+          "id": 2,
+          "title": "Fléchir les coudes sans balancer",
+          "description": "Fléchir les coudes sans balancer",
+          "postureCues": [
+            "Les bras supérieurs restent près du corps, poignets neutres.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Curl haltères, étape 2 : fléchir les coudes sans balancer, vue trois quarts avant."
+        },
+        {
+          "id": 3,
+          "title": "Redescendre lentement",
+          "description": "Redescendre lentement",
+          "postureCues": [
+            "Les bras supérieurs restent près du corps, poignets neutres.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Curl haltères, étape 3 : redescendre lentement, vue trois quarts avant."
+        }
+      ],
+      "errors": [
+        "Balancer le buste",
+        "Casser les poignets"
+      ],
+      "tip": "Les bras supérieurs restent près du corps, poignets neutres.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [
+        "EX26"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX26",
+      "version": 1,
+      "name": "Curl avec bande sous les pieds",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "elbow_flexion",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "flat",
+            "tube"
+          ]
+        }
+      ],
+      "installation": "Bande ou tube intact compatible avec le maintien sous le pied. Vérifier la prise et les poignées si présentes.",
+      "equipmentKey": "band_or_tube",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "biceps"
+        ],
+        "secondary": [
+          "forearms"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "arms"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Bande sous les deux pieds, mains basses",
+          "description": "Bande sous les deux pieds, mains basses",
+          "postureCues": [
+            "Maintiens la bande sous les deux semelles et garde les coudes près du buste.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Curl avec bande sous les pieds, étape 1 : bande sous les deux pieds, mains basses, vue trois quarts avant."
+        },
+        {
+          "id": 2,
+          "title": "Fléchir les coudes, bras supérieurs stables",
+          "description": "Fléchir les coudes, bras supérieurs stables",
+          "postureCues": [
+            "Maintiens la bande sous les deux semelles et garde les coudes près du buste.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Curl avec bande sous les pieds, étape 2 : fléchir les coudes, bras supérieurs stables, vue trois quarts avant."
+        },
+        {
+          "id": 3,
+          "title": "Revenir en contrôlant la tension",
+          "description": "Revenir en contrôlant la tension",
+          "postureCues": [
+            "Maintiens la bande sous les deux semelles et garde les coudes près du buste.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Curl avec bande sous les pieds, étape 3 : revenir en contrôlant la tension, vue trois quarts avant."
+        }
+      ],
+      "errors": [
+        "Laisser glisser la bande",
+        "Balancer le tronc"
+      ],
+      "tip": "Maintiens la bande sous les deux semelles et garde les coudes près du buste.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [
+        "EX25"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX27",
+      "version": 1,
+      "name": "Planche sur avant-bras",
+      "category": "strength",
+      "mode": "timed",
+      "minimumLevel": "intermediate",
+      "movementPattern": "anti_extension",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "core"
+        ],
+        "secondary": [
+          "hip_flexors"
+        ],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Avant-bras et genoux posés, coudes sous épaules",
+          "description": "Avant-bras et genoux posés, coudes sous épaules",
+          "postureCues": [
+            "Garde la tête dans l’axe, le bassin stable et respire régulièrement.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Planche sur avant-bras, étape 1 : avant-bras et genoux posés, coudes sous épaules, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Étendre les jambes, corps aligné",
+          "description": "Étendre les jambes, corps aligné",
+          "postureCues": [
+            "Garde la tête dans l’axe, le bassin stable et respire régulièrement.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Planche sur avant-bras, étape 2 : étendre les jambes, corps aligné, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Tenir puis poser les genoux",
+          "description": "Tenir puis poser les genoux",
+          "postureCues": [
+            "Garde la tête dans l’axe, le bassin stable et respire régulièrement.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Planche sur avant-bras, étape 3 : tenir puis poser les genoux, vue profil."
+        }
+      ],
+      "errors": [
+        "Laisser le bassin s’affaisser",
+        "Retenir sa respiration"
+      ],
+      "tip": "Garde la tête dans l’axe, le bassin stable et respire régulièrement.",
+      "breathing": "Respire régulièrement, sans bloquer la respiration.",
+      "variants": [
+        "EX29"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": true,
+      "extraAngles": [
+        "top"
+      ]
+    },
+    {
+      "id": "EX28",
+      "version": 1,
+      "name": "Planche latérale genoux fléchis",
+      "category": "strength",
+      "mode": "timed",
+      "minimumLevel": "beginner",
+      "movementPattern": "anti_lateral_flexion",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "per_side",
+      "sides": 2,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "obliques",
+          "lateral_stabilizers"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Sur le côté, coude sous l’épaule, genoux fléchis",
+          "description": "Sur le côté, coude sous l’épaule, genoux fléchis",
+          "postureCues": [
+            "Aligne l’épaule et le bassin, garde le coude sous l’épaule.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Planche latérale genoux fléchis, étape 1 : sur le côté, coude sous l’épaule, genoux fléchis, vue trois quarts avant."
+        },
+        {
+          "id": 2,
+          "title": "Lever le bassin en appui sur coude et genoux",
+          "description": "Lever le bassin en appui sur coude et genoux",
+          "postureCues": [
+            "Aligne l’épaule et le bassin, garde le coude sous l’épaule.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Planche latérale genoux fléchis, étape 2 : lever le bassin en appui sur coude et genoux, vue trois quarts avant."
+        },
+        {
+          "id": 3,
+          "title": "Tenir puis reposer, changer après la série",
+          "description": "Tenir puis reposer, changer après la série",
+          "postureCues": [
+            "Aligne l’épaule et le bassin, garde le coude sous l’épaule.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Planche latérale genoux fléchis, étape 3 : tenir puis reposer, changer après la série, vue trois quarts avant."
+        }
+      ],
+      "errors": [
+        "Éloigner le coude de l’épaule",
+        "Tourner le bassin vers le sol"
+      ],
+      "tip": "Aligne l’épaule et le bassin, garde le coude sous l’épaule.",
+      "breathing": "Respire régulièrement, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": true,
+      "extraAngles": [
+        "top"
+      ]
+    },
+    {
+      "id": "EX29",
+      "version": 1,
+      "name": "Dead bug",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "anti_extension",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": true,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "core"
+        ],
+        "secondary": [
+          "hip_flexors"
+        ],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Dos au sol, bras hauts, hanches et genoux fléchis",
+          "description": "Dos au sol, bras hauts, hanches et genoux fléchis",
+          "postureCues": [
+            "Choisis une amplitude qui conserve le contrôle du bas du dos.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Dead bug, étape 1 : dos au sol, bras hauts, hanches et genoux fléchis, vue trois quarts latéral."
+        },
+        {
+          "id": 2,
+          "title": "Éloigner le bras et la jambe opposés sans cambrer",
+          "description": "Éloigner le bras et la jambe opposés sans cambrer",
+          "postureCues": [
+            "Choisis une amplitude qui conserve le contrôle du bas du dos.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Dead bug, étape 2 : éloigner le bras et la jambe opposés sans cambrer, vue trois quarts latéral."
+        },
+        {
+          "id": 3,
+          "title": "Revenir et alterner",
+          "description": "Revenir et alterner",
+          "postureCues": [
+            "Choisis une amplitude qui conserve le contrôle du bas du dos.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Dead bug, étape 3 : revenir et alterner, vue trois quarts latéral."
+        }
+      ],
+      "errors": [
+        "Creuser le dos en éloignant la jambe",
+        "Bouger trop vite"
+      ],
+      "tip": "Choisis une amplitude qui conserve le contrôle du bas du dos.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": true,
+      "extraAngles": [
+        "top"
+      ]
+    },
+    {
+      "id": "EX30",
+      "version": 1,
+      "name": "Bird dog",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "trunk_stability",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": true,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "core"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "À quatre pattes, mains sous épaules",
+          "description": "À quatre pattes, mains sous épaules",
+          "postureCues": [
+            "Le bassin reste horizontal, la jambe ne monte pas au-delà du contrôle.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Bird dog, étape 1 : à quatre pattes, mains sous épaules, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Étendre un bras et la jambe opposée",
+          "description": "Étendre un bras et la jambe opposée",
+          "postureCues": [
+            "Le bassin reste horizontal, la jambe ne monte pas au-delà du contrôle.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Bird dog, étape 2 : étendre un bras et la jambe opposée, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Revenir puis alterner",
+          "description": "Revenir puis alterner",
+          "postureCues": [
+            "Le bassin reste horizontal, la jambe ne monte pas au-delà du contrôle.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Bird dog, étape 3 : revenir puis alterner, vue profil."
+        }
+      ],
+      "errors": [
+        "Tourner le bassin",
+        "Lever la jambe en cambrant"
+      ],
+      "tip": "Le bassin reste horizontal, la jambe ne monte pas au-delà du contrôle.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": true,
+      "extraAngles": [
+        "top"
+      ]
+    },
+    {
+      "id": "EX31",
+      "version": 1,
+      "name": "Crunch inversé",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "trunk_flexion",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "abdominals"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Dos au sol, jambes fléchies",
+          "description": "Dos au sol, jambes fléchies",
+          "postureCues": [
+            "Privilégie un petit enroulement contrôlé, sans lancer les jambes.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Crunch inversé, étape 1 : dos au sol, jambes fléchies, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Enrouler légèrement le bassin sans élan",
+          "description": "Enrouler légèrement le bassin sans élan",
+          "postureCues": [
+            "Privilégie un petit enroulement contrôlé, sans lancer les jambes.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Crunch inversé, étape 2 : enrouler légèrement le bassin sans élan, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Reposer lentement le bassin",
+          "description": "Reposer lentement le bassin",
+          "postureCues": [
+            "Privilégie un petit enroulement contrôlé, sans lancer les jambes.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Crunch inversé, étape 3 : reposer lentement le bassin, vue profil."
+        }
+      ],
+      "errors": [
+        "Prendre de l’élan",
+        "Appuyer fortement sur la nuque"
+      ],
+      "tip": "Privilégie un petit enroulement contrôlé, sans lancer les jambes.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX32",
+      "version": 1,
+      "name": "Crunch court",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "trunk_flexion",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "rectus_abdominis"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Dos au sol, genoux fléchis, mains sans traction",
+          "description": "Dos au sol, genoux fléchis, mains sans traction",
+          "postureCues": [
+            "Garde la nuque confortable et une petite amplitude.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Crunch court, étape 1 : dos au sol, genoux fléchis, mains sans traction, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Décoller légèrement les épaules",
+          "description": "Décoller légèrement les épaules",
+          "postureCues": [
+            "Garde la nuque confortable et une petite amplitude.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Crunch court, étape 2 : décoller légèrement les épaules, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Reposer en contrôle",
+          "description": "Reposer en contrôle",
+          "postureCues": [
+            "Garde la nuque confortable et une petite amplitude.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Crunch court, étape 3 : reposer en contrôle, vue profil."
+        }
+      ],
+      "errors": [
+        "Tirer sur la tête",
+        "Monter tout le buste avec de l’élan"
+      ],
+      "tip": "Garde la nuque confortable et une petite amplitude.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX33",
+      "version": 1,
+      "name": "Mountain climbers lents",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "anti_extension",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": true,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "core",
+          "hip_flexors"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs",
+        "legs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "En planche bras tendus",
+          "description": "En planche bras tendus",
+          "postureCues": [
+            "Déplace une jambe à la fois sans modifier les appuis des mains.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Mountain climbers lents, étape 1 : en planche bras tendus, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Approcher un genou, bassin stable",
+          "description": "Approcher un genou, bassin stable",
+          "postureCues": [
+            "Déplace une jambe à la fois sans modifier les appuis des mains.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Mountain climbers lents, étape 2 : approcher un genou, bassin stable, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Revenir puis alterner",
+          "description": "Revenir puis alterner",
+          "postureCues": [
+            "Déplace une jambe à la fois sans modifier les appuis des mains.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Mountain climbers lents, étape 3 : revenir puis alterner, vue profil."
+        }
+      ],
+      "errors": [
+        "Rebondir avec les deux pieds",
+        "Laisser tomber le bassin"
+      ],
+      "tip": "Déplace une jambe à la fois sans modifier les appuis des mains.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": true,
+      "extraAngles": [
+        "top"
+      ]
+    },
+    {
+      "id": "EX34",
+      "version": 1,
+      "name": "Roue abdominale à genoux, amplitude courte",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "advanced",
+      "movementPattern": "anti_extension",
+      "equipmentRequirements": [
+        {
+          "kind": "wheel"
+        }
+      ],
+      "installation": "Roue abdominale vérifiée, surface non glissante, appuis genoux confortables.",
+      "equipmentKey": "wheel",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "core"
+        ],
+        "secondary": [
+          "hip_flexors"
+        ],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "À genoux, roue proche, tronc gainé",
+          "description": "À genoux, roue proche, tronc gainé",
+          "postureCues": [
+            "Réserve cet exercice à une maîtrise déclarée et une fiche consultée.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Roue abdominale à genoux, amplitude courte, étape 1 : à genoux, roue proche, tronc gainé, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Avancer dans une amplitude maîtrisée",
+          "description": "Avancer dans une amplitude maîtrisée",
+          "postureCues": [
+            "Réserve cet exercice à une maîtrise déclarée et une fiche consultée.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Roue abdominale à genoux, amplitude courte, étape 2 : avancer dans une amplitude maîtrisée, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Ramener sans creuser le dos",
+          "description": "Ramener sans creuser le dos",
+          "postureCues": [
+            "Réserve cet exercice à une maîtrise déclarée et une fiche consultée.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Roue abdominale à genoux, amplitude courte, étape 3 : ramener sans creuser le dos, vue profil."
+        }
+      ],
+      "errors": [
+        "Rouler au-delà du contrôle",
+        "Creuser le dos au retour"
+      ],
+      "tip": "Réserve cet exercice à une maîtrise déclarée et une fiche consultée.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [
+        "EX29"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "wheel_mastery",
+        "technique_viewed"
+      ],
+      "topViewRecommended": true,
+      "extraAngles": [
+        "top"
+      ]
+    },
+    {
+      "id": "EX35",
+      "version": 1,
+      "name": "Hollow hold groupé",
+      "category": "strength",
+      "mode": "timed",
+      "minimumLevel": "intermediate",
+      "movementPattern": "anti_extension",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "core"
+        ],
+        "secondary": [
+          "hip_flexors"
+        ],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Dos au sol, genoux fléchis",
+          "description": "Dos au sol, genoux fléchis",
+          "postureCues": [
+            "Conserve le contrôle du dos et une respiration régulière.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Hollow hold groupé, étape 1 : dos au sol, genoux fléchis, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Décoller légèrement les épaules, jambes groupées",
+          "description": "Décoller légèrement les épaules, jambes groupées",
+          "postureCues": [
+            "Conserve le contrôle du dos et une respiration régulière.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Hollow hold groupé, étape 2 : décoller légèrement les épaules, jambes groupées, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Tenir puis reposer",
+          "description": "Tenir puis reposer",
+          "postureCues": [
+            "Conserve le contrôle du dos et une respiration régulière.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Hollow hold groupé, étape 3 : tenir puis reposer, vue profil."
+        }
+      ],
+      "errors": [
+        "Tendre les jambes au-delà du contrôle",
+        "Tirer la tête vers l’avant"
+      ],
+      "tip": "Conserve le contrôle du dos et une respiration régulière.",
+      "breathing": "Respire régulièrement, sans bloquer la respiration.",
+      "variants": [
+        "EX29"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": true,
+      "extraAngles": [
+        "top"
+      ]
+    },
+    {
+      "id": "EX36",
+      "version": 1,
+      "name": "Touchers de talons alternés",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "lateral_flexion",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": true,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "obliques"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Dos au sol, genoux fléchis",
+          "description": "Dos au sol, genoux fléchis",
+          "postureCues": [
+            "Une petite inclinaison suffit, sans forcer la nuque.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Touchers de talons alternés, étape 1 : dos au sol, genoux fléchis, vue trois quarts avant."
+        },
+        {
+          "id": 2,
+          "title": "Incliner légèrement le buste vers un talon",
+          "description": "Incliner légèrement le buste vers un talon",
+          "postureCues": [
+            "Une petite inclinaison suffit, sans forcer la nuque.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Touchers de talons alternés, étape 2 : incliner légèrement le buste vers un talon, vue trois quarts avant."
+        },
+        {
+          "id": 3,
+          "title": "Recentrer puis alterner",
+          "description": "Recentrer puis alterner",
+          "postureCues": [
+            "Une petite inclinaison suffit, sans forcer la nuque.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Touchers de talons alternés, étape 3 : recentrer puis alterner, vue trois quarts avant."
+        }
+      ],
+      "errors": [
+        "Tourner tout le bassin",
+        "Forcer la nuque pour atteindre le talon"
+      ],
+      "tip": "Une petite inclinaison suffit, sans forcer la nuque.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": true,
+      "extraAngles": [
+        "top"
+      ]
+    },
+    {
+      "id": "EX37",
+      "version": 1,
+      "name": "Squat goblet léger",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "squat",
+      "equipmentRequirements": [
+        {
+          "kind": "dumbbells",
+          "count": 1
+        }
+      ],
+      "installation": "Un haltère avec prise sûre et charge choisie avant la séance.",
+      "equipmentKey": "dumbbells1",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "quadriceps",
+          "glutes"
+        ],
+        "secondary": [
+          "hamstrings"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "legs",
+        "glutes"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Haltère maintenu près de la poitrine",
+          "description": "Haltère maintenu près de la poitrine",
+          "postureCues": [
+            "Les genoux suivent les pieds, la charge reste près du thorax.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Squat goblet léger, étape 1 : haltère maintenu près de la poitrine, vue trois quarts avant."
+        },
+        {
+          "id": 2,
+          "title": "Fléchir les hanches et les genoux",
+          "description": "Fléchir les hanches et les genoux",
+          "postureCues": [
+            "Les genoux suivent les pieds, la charge reste près du thorax.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Squat goblet léger, étape 2 : fléchir les hanches et les genoux, vue trois quarts avant."
+        },
+        {
+          "id": 3,
+          "title": "Se relever, charge proche du corps",
+          "description": "Se relever, charge proche du corps",
+          "postureCues": [
+            "Les genoux suivent les pieds, la charge reste près du thorax.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Squat goblet léger, étape 3 : se relever, charge proche du corps, vue trois quarts avant."
+        }
+      ],
+      "errors": [
+        "Éloigner l’haltère du corps",
+        "Décoller les talons"
+      ],
+      "tip": "Les genoux suivent les pieds, la charge reste près du thorax.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [
+        "EX06"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX38",
+      "version": 1,
+      "name": "Charnière de hanches avec bande sous les pieds",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "hip_hinge",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "flat"
+          ]
+        }
+      ],
+      "installation": "Bande plate compatible et intacte ; aucun ancrage de porte. Installer comme indiqué dans les étapes.",
+      "equipmentKey": "band",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "glutes",
+          "hamstrings"
+        ],
+        "secondary": [
+          "back"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "glutes",
+        "legs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Bande sous les pieds et dans les mains, genoux souples",
+          "description": "Bande sous les pieds et dans les mains, genoux souples",
+          "postureCues": [
+            "La flexion vient des hanches, bande plate maintenue par les deux pieds.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Charnière de hanches avec bande sous les pieds, étape 1 : bande sous les pieds et dans les mains, genoux souples, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Reculer les hanches, buste incliné, dos neutre",
+          "description": "Reculer les hanches, buste incliné, dos neutre",
+          "postureCues": [
+            "La flexion vient des hanches, bande plate maintenue par les deux pieds.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Charnière de hanches avec bande sous les pieds, étape 2 : reculer les hanches, buste incliné, dos neutre, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Se redresser par les hanches",
+          "description": "Se redresser par les hanches",
+          "postureCues": [
+            "La flexion vient des hanches, bande plate maintenue par les deux pieds.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Charnière de hanches avec bande sous les pieds, étape 3 : se redresser par les hanches, vue profil."
+        }
+      ],
+      "errors": [
+        "Arrondir le dos",
+        "Transformer le mouvement en squat"
+      ],
+      "tip": "La flexion vient des hanches, bande plate maintenue par les deux pieds.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX39",
+      "version": 1,
+      "name": "Fente latérale alternée",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "lateral_lunge",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": true,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "quadriceps",
+          "glutes",
+          "adductors"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "legs",
+        "glutes"
+      ],
+      "angle": "face",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Debout, pieds stables",
+          "description": "Debout, pieds stables",
+          "postureCues": [
+            "Le pied de la jambe fléchie reste posé, genou dans son axe.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Fente latérale alternée, étape 1 : debout, pieds stables, vue face."
+        },
+        {
+          "id": 2,
+          "title": "Pas latéral, hanche reculée, genou fléchi",
+          "description": "Pas latéral, hanche reculée, genou fléchi",
+          "postureCues": [
+            "Le pied de la jambe fléchie reste posé, genou dans son axe.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Fente latérale alternée, étape 2 : pas latéral, hanche reculée, genou fléchi, vue face."
+        },
+        {
+          "id": 3,
+          "title": "Revenir et alterner",
+          "description": "Revenir et alterner",
+          "postureCues": [
+            "Le pied de la jambe fléchie reste posé, genou dans son axe.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Fente latérale alternée, étape 3 : revenir et alterner, vue face."
+        }
+      ],
+      "errors": [
+        "Laisser le genou rentrer",
+        "Reporter tout le poids sur la pointe"
+      ],
+      "tip": "Le pied de la jambe fléchie reste posé, genou dans son axe.",
+      "breathing": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX40",
+      "version": 1,
+      "name": "Rotations thoraciques debout",
+      "category": "mobility",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "thoracic_rotation",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": true,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "thoracic_spine"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [
+        "secondary",
+        "stabilizers"
+      ],
+      "mapKind": "mobility",
+      "zones": [
+        "back"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Debout, mains sur la poitrine ou bras devant",
+          "description": "Debout, mains sur la poitrine ou bras devant",
+          "postureCues": [
+            "Les appuis restent stables et la rotation reste confortable.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire naturellement pendant le mouvement doux.",
+          "asset": "step-01.webp",
+          "alt": "Rotations thoraciques debout, étape 1 : debout, mains sur la poitrine ou bras devant, vue trois quarts avant."
+        },
+        {
+          "id": 2,
+          "title": "Tourner doucement le haut du buste",
+          "description": "Tourner doucement le haut du buste",
+          "postureCues": [
+            "Les appuis restent stables et la rotation reste confortable.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire naturellement pendant le mouvement doux.",
+          "asset": "step-02.webp",
+          "alt": "Rotations thoraciques debout, étape 2 : tourner doucement le haut du buste, vue trois quarts avant."
+        },
+        {
+          "id": 3,
+          "title": "Revenir et tourner de l’autre côté",
+          "description": "Revenir et tourner de l’autre côté",
+          "postureCues": [
+            "Les appuis restent stables et la rotation reste confortable.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire naturellement pendant le mouvement doux.",
+          "asset": "step-03.webp",
+          "alt": "Rotations thoraciques debout, étape 3 : revenir et tourner de l’autre côté, vue trois quarts avant."
+        }
+      ],
+      "errors": [
+        "Forcer l’amplitude",
+        "Tourner avec un élan"
+      ],
+      "tip": "Les appuis restent stables et la rotation reste confortable.",
+      "breathing": "Respire naturellement pendant le mouvement doux.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX41",
+      "version": 1,
+      "name": "Cercles d’épaules",
+      "category": "mobility",
+      "mode": "timed",
+      "minimumLevel": "beginner",
+      "movementPattern": "shoulder_mobility",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "shoulder_girdle"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [
+        "secondary",
+        "stabilizers"
+      ],
+      "mapKind": "mobility",
+      "zones": [
+        "shoulders"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Debout, bras relâchés",
+          "description": "Debout, bras relâchés",
+          "postureCues": [
+            "Fais des cercles lents dans une amplitude confortable.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Cercles d’épaules, étape 1 : debout, bras relâchés, vue trois quarts avant."
+        },
+        {
+          "id": 2,
+          "title": "Élever puis reculer doucement les épaules",
+          "description": "Élever puis reculer doucement les épaules",
+          "postureCues": [
+            "Fais des cercles lents dans une amplitude confortable.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Cercles d’épaules, étape 2 : élever puis reculer doucement les épaules, vue trois quarts avant."
+        },
+        {
+          "id": 3,
+          "title": "Abaisser et revenir",
+          "description": "Abaisser et revenir",
+          "postureCues": [
+            "Fais des cercles lents dans une amplitude confortable.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Cercles d’épaules, étape 3 : abaisser et revenir, vue trois quarts avant."
+        }
+      ],
+      "errors": [
+        "Crisper la nuque",
+        "Accélérer avec des à-coups"
+      ],
+      "tip": "Fais des cercles lents dans une amplitude confortable.",
+      "breathing": "Respire régulièrement, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX42",
+      "version": 1,
+      "name": "Mobilisation de cheville en fente",
+      "category": "mobility",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "ankle_mobility",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "per_side",
+      "sides": 2,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "ankle",
+          "calves"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [
+        "secondary",
+        "stabilizers"
+      ],
+      "mapKind": "mobility",
+      "zones": [
+        "legs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Petite fente, talon avant au sol",
+          "description": "Petite fente, talon avant au sol",
+          "postureCues": [
+            "Garde le talon avant posé, réduis l’amplitude si nécessaire.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire naturellement pendant le mouvement doux.",
+          "asset": "step-01.webp",
+          "alt": "Mobilisation de cheville en fente, étape 1 : petite fente, talon avant au sol, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Avancer le genou dans l’axe du pied",
+          "description": "Avancer le genou dans l’axe du pied",
+          "postureCues": [
+            "Garde le talon avant posé, réduis l’amplitude si nécessaire.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire naturellement pendant le mouvement doux.",
+          "asset": "step-02.webp",
+          "alt": "Mobilisation de cheville en fente, étape 2 : avancer le genou dans l’axe du pied, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Revenir puis faire l’autre côté",
+          "description": "Revenir puis faire l’autre côté",
+          "postureCues": [
+            "Garde le talon avant posé, réduis l’amplitude si nécessaire.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire naturellement pendant le mouvement doux.",
+          "asset": "step-03.webp",
+          "alt": "Mobilisation de cheville en fente, étape 3 : revenir puis faire l’autre côté, vue profil."
+        }
+      ],
+      "errors": [
+        "Décoller le talon",
+        "Laisser le genou rentrer"
+      ],
+      "tip": "Garde le talon avant posé, réduis l’amplitude si nécessaire.",
+      "breathing": "Respire naturellement pendant le mouvement doux.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX43",
+      "version": 1,
+      "name": "Ouverture de poitrine debout",
+      "category": "mobility",
+      "mode": "timed",
+      "minimumLevel": "beginner",
+      "movementPattern": "chest_mobility",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals",
+          "shoulders"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [
+        "secondary",
+        "stabilizers"
+      ],
+      "mapKind": "mobility",
+      "zones": [
+        "pectorals",
+        "shoulders"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Debout, bras souples le long du corps",
+          "description": "Debout, bras souples le long du corps",
+          "postureCues": [
+            "L’ouverture reste douce, sans pousser les côtes vers l’avant.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Ouverture de poitrine debout, étape 1 : debout, bras souples le long du corps, vue trois quarts avant."
+        },
+        {
+          "id": 2,
+          "title": "Ouvrir légèrement bras et poitrine sans cambrer",
+          "description": "Ouvrir légèrement bras et poitrine sans cambrer",
+          "postureCues": [
+            "L’ouverture reste douce, sans pousser les côtes vers l’avant.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Ouverture de poitrine debout, étape 2 : ouvrir légèrement bras et poitrine sans cambrer, vue trois quarts avant."
+        },
+        {
+          "id": 3,
+          "title": "Maintenir doucement puis relâcher",
+          "description": "Maintenir doucement puis relâcher",
+          "postureCues": [
+            "L’ouverture reste douce, sans pousser les côtes vers l’avant.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Ouverture de poitrine debout, étape 3 : maintenir doucement puis relâcher, vue trois quarts avant."
+        }
+      ],
+      "errors": [
+        "Cambrer pour ouvrir plus",
+        "Forcer les épaules vers l’arrière"
+      ],
+      "tip": "L’ouverture reste douce, sans pousser les côtes vers l’avant.",
+      "breathing": "Respire régulièrement, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX44",
+      "version": 1,
+      "name": "Posture de repos à genoux",
+      "category": "mobility",
+      "mode": "timed",
+      "minimumLevel": "beginner",
+      "movementPattern": "back_mobility",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "back",
+          "shoulders"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [
+        "secondary",
+        "stabilizers"
+      ],
+      "mapKind": "mobility",
+      "zones": [
+        "back",
+        "shoulders"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "À quatre pattes, appuis confortables",
+          "description": "À quatre pattes, appuis confortables",
+          "postureCues": [
+            "Adapte l’écartement des genoux et les bras à ton confort.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Posture de repos à genoux, étape 1 : à quatre pattes, appuis confortables, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Reculer le bassin vers les talons selon confort",
+          "description": "Reculer le bassin vers les talons selon confort",
+          "postureCues": [
+            "Adapte l’écartement des genoux et les bras à ton confort.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Posture de repos à genoux, étape 2 : reculer le bassin vers les talons selon confort, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Maintenir puis revenir doucement",
+          "description": "Maintenir puis revenir doucement",
+          "postureCues": [
+            "Adapte l’écartement des genoux et les bras à ton confort.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Posture de repos à genoux, étape 3 : maintenir puis revenir doucement, vue profil."
+        }
+      ],
+      "errors": [
+        "Forcer les fesses sur les talons",
+        "Retenir sa respiration"
+      ],
+      "tip": "Adapte l’écartement des genoux et les bras à ton confort.",
+      "breathing": "Respire régulièrement, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX45",
+      "version": 1,
+      "name": "Étirement fléchisseurs de hanche à genoux",
+      "category": "mobility",
+      "mode": "timed",
+      "minimumLevel": "beginner",
+      "movementPattern": "hip_mobility",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "per_side",
+      "sides": 2,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "hip_flexors"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [
+        "secondary",
+        "stabilizers"
+      ],
+      "mapKind": "mobility",
+      "zones": [
+        "legs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Un genou au sol, pied opposé devant",
+          "description": "Un genou au sol, pied opposé devant",
+          "postureCues": [
+            "Garde le bassin contrôlé et protège le genou avec une surface confortable.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Étirement fléchisseurs de hanche à genoux, étape 1 : un genou au sol, pied opposé devant, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Déplacer légèrement le bassin sans cambrer",
+          "description": "Déplacer légèrement le bassin sans cambrer",
+          "postureCues": [
+            "Garde le bassin contrôlé et protège le genou avec une surface confortable.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Étirement fléchisseurs de hanche à genoux, étape 2 : déplacer légèrement le bassin sans cambrer, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Maintenir puis changer de côté",
+          "description": "Maintenir puis changer de côté",
+          "postureCues": [
+            "Garde le bassin contrôlé et protège le genou avec une surface confortable.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Étirement fléchisseurs de hanche à genoux, étape 3 : maintenir puis changer de côté, vue profil."
+        }
+      ],
+      "errors": [
+        "Cambrer pour avancer",
+        "Forcer une tension douloureuse"
+      ],
+      "tip": "Garde le bassin contrôlé et protège le genou avec une surface confortable.",
+      "breathing": "Respire régulièrement, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX46",
+      "version": 1,
+      "name": "Étirement ischio-jambiers allongé",
+      "category": "mobility",
+      "mode": "timed",
+      "minimumLevel": "beginner",
+      "movementPattern": "hamstring_mobility",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "per_side",
+      "sides": 2,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "hamstrings"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [
+        "secondary",
+        "stabilizers"
+      ],
+      "mapKind": "mobility",
+      "zones": [
+        "legs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Dos au sol, une jambe fléchie",
+          "description": "Dos au sol, une jambe fléchie",
+          "postureCues": [
+            "Soutiens la cuisse, garde une flexion du genou si nécessaire.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Étirement ischio-jambiers allongé, étape 1 : dos au sol, une jambe fléchie, vue profil."
+        },
+        {
+          "id": 2,
+          "title": "Soutenir l’autre cuisse, étendre le genou selon confort",
+          "description": "Soutenir l’autre cuisse, étendre le genou selon confort",
+          "postureCues": [
+            "Soutiens la cuisse, garde une flexion du genou si nécessaire.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Étirement ischio-jambiers allongé, étape 2 : soutenir l’autre cuisse, étendre le genou selon confort, vue profil."
+        },
+        {
+          "id": 3,
+          "title": "Maintenir puis relâcher et changer",
+          "description": "Maintenir puis relâcher et changer",
+          "postureCues": [
+            "Soutiens la cuisse, garde une flexion du genou si nécessaire.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Étirement ischio-jambiers allongé, étape 3 : maintenir puis relâcher et changer, vue profil."
+        }
+      ],
+      "errors": [
+        "Tirer sur le pied sans contrôle",
+        "Forcer le genou complètement droit"
+      ],
+      "tip": "Soutiens la cuisse, garde une flexion du genou si nécessaire.",
+      "breathing": "Respire régulièrement, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX47",
+      "version": 1,
+      "name": "Boxe dans le vide sans impact",
+      "category": "cardio",
+      "mode": "timed",
+      "minimumLevel": "beginner",
+      "movementPattern": "shadow_boxing",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "shoulders",
+          "arms",
+          "legs"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [
+        "secondary",
+        "stabilizers"
+      ],
+      "mapKind": "mobility",
+      "zones": [
+        "shoulders",
+        "arms",
+        "legs"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "En garde, genoux souples",
+          "description": "En garde, genoux souples",
+          "postureCues": [
+            "Les gestes restent contrôlés, sans poids dans les mains.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Boxe dans le vide sans impact, étape 1 : en garde, genoux souples, vue trois quarts avant."
+        },
+        {
+          "id": 2,
+          "title": "Tendre un bras sans verrouiller brusquement",
+          "description": "Tendre un bras sans verrouiller brusquement",
+          "postureCues": [
+            "Les gestes restent contrôlés, sans poids dans les mains.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Boxe dans le vide sans impact, étape 2 : tendre un bras sans verrouiller brusquement, vue trois quarts avant."
+        },
+        {
+          "id": 3,
+          "title": "Ramener en garde puis alterner",
+          "description": "Ramener en garde puis alterner",
+          "postureCues": [
+            "Les gestes restent contrôlés, sans poids dans les mains.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Boxe dans le vide sans impact, étape 3 : ramener en garde puis alterner, vue trois quarts avant."
+        }
+      ],
+      "errors": [
+        "Verrouiller violemment le coude",
+        "Crisper les épaules"
+      ],
+      "tip": "Les gestes restent contrôlés, sans poids dans les mains.",
+      "breathing": "Respire régulièrement, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    },
+    {
+      "id": "EX48",
+      "version": 1,
+      "name": "Pas de patineur sans saut",
+      "category": "cardio",
+      "mode": "timed",
+      "minimumLevel": "beginner",
+      "movementPattern": "lateral_step",
+      "equipmentRequirements": [],
+      "installation": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "equipmentKey": "none",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "glutes",
+          "legs"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [
+        "secondary",
+        "stabilizers"
+      ],
+      "mapKind": "mobility",
+      "zones": [
+        "glutes",
+        "legs"
+      ],
+      "angle": "face",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Debout, appuis stables",
+          "description": "Debout, appuis stables",
+          "postureCues": [
+            "Garde une amplitude contrôlée et pose chaque pied.",
+            "Prépare tous les appuis avant de commencer."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Pas de patineur sans saut, étape 1 : debout, appuis stables, vue face."
+        },
+        {
+          "id": 2,
+          "title": "Faire un pas latéral et transférer le poids",
+          "description": "Faire un pas latéral et transférer le poids",
+          "postureCues": [
+            "Garde une amplitude contrôlée et pose chaque pied.",
+            "Choisis une amplitude que tu peux contrôler."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Pas de patineur sans saut, étape 2 : faire un pas latéral et transférer le poids, vue face."
+        },
+        {
+          "id": 3,
+          "title": "Revenir vers l’autre côté sans saut",
+          "description": "Revenir vers l’autre côté sans saut",
+          "postureCues": [
+            "Garde une amplitude contrôlée et pose chaque pied.",
+            "Reviens sans à-coup et conserve les appuis."
+          ],
+          "breathing": "Respire régulièrement, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Pas de patineur sans saut, étape 3 : revenir vers l’autre côté sans saut, vue face."
+        }
+      ],
+      "errors": [
+        "Transformer le pas en saut",
+        "Laisser le genou rentrer"
+      ],
+      "tip": "Garde une amplitude contrôlée et pose chaque pied.",
+      "breathing": "Respire régulièrement, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": []
+    }
+  ]
+}

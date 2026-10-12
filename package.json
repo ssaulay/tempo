@@ -1,0 +1,30 @@
+{
+  "name": "tempo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "npm run audit:assets && tsc -b && vite build && node scripts/write-precache.mjs",
+    "build:release": "node scripts/audit-assets.mjs --release && tsc -b && vite build && node scripts/write-precache.mjs",
+    "preview": "node scripts/prepare-preview.mjs && vite preview --host 0.0.0.0",
+    "test": "vitest run",
+    "audit:assets": "node scripts/audit-assets.mjs",
+    "catalog:generate": "node scripts/create-catalog.mjs",
+    "assets:derive": "python3 scripts/derive-pilots.py && node scripts/create-manifest.mjs"
+  },
+  "dependencies": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "lucide-react": "^0.577.0",
+    "idb": "^8.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1",
+    "vitest": "^4.0.18",
+    "fake-indexeddb": "^6.2.4"
+  }
+}
