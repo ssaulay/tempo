@@ -1,0 +1,51 @@
+{
+  "url": "https://tempo.ssaulay.workers.dev",
+  "date": "2026-10-13T09:42:49.121Z",
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 832
+    },
+    {
+      "path": "/sw.js",
+      "status": 200,
+      "bytes": 1444
+    },
+    {
+      "path": "/manifest.webmanifest",
+      "status": 200,
+      "bytes": 350
+    },
+    {
+      "path": "/precache.json",
+      "status": 200,
+      "bytes": 11025
+    },
+    {
+      "path": "/assets/manifest.json",
+      "status": 200,
+      "bytes": 199140
+    },
+    {
+      "path": "/assets/exercises/v1/EX01/demo.gif",
+      "status": 200,
+      "bytes": 76216
+    },
+    {
+      "path": "/assets/exercises/v1/EX77/thumb.webp",
+      "status": 200,
+      "bytes": 5374
+    },
+    {
+      "path": "/assets/audio/v1/manifest.json",
+      "status": 200,
+      "bytes": 52559
+    },
+    {
+      "path": "/assets/audio/tubes-v2/manifest.json",
+      "status": 200,
+      "bytes": 82
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "clips": [
+    {
+      "id": "EX03.name",
+      "text": "Jumping jacks.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "e482ab6afe83c4275b1ae8724f322b00ede85c12623d9b273be807b4fbe48190"
+    },
+    {
+      "id": "EX03.prepare",
+      "text": "Jumping jacks. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "fbcf458cbeab710d7bf6b6569c97e81b3215cebccedffa3bbcf2008286901d38"
+    },
+    {
+      "id": "EX29.name",
+      "text": "Dead bug.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "b5a75c14d6e26a2c03f7b2096cc93727a72c96f100680505e0f1e0f9853d21c7"
+    },
+    {
+      "id": "set.2.3",
+      "text": "Série deux sur trois.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "eaad42351930a310f1a931d8ea0ebc1064a6f9f4865c68872c2c414abb106cc8"
+    },
+    {
+      "id": "reps.12",
+      "text": "Douze répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "39a56b3a03c9a682001e2149201d06de9fcd8eb59f250ca90aa19040d16d1128"
+    },
+    {
+      "id": "rest.30",
+      "text": "Trente secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "aeec10936a5c4baf352dccc771c2dbb08f782664da90a18edaf6aae6e1f35f67"
+    },
+    {
+      "id": "common.per_side",
+      "text": "Par côté.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "db5bdbdb49ecc0325d4dbd6882104ba17f008f20fb3fc953faf57ff4f062044f"
+    },
+    {
+      "id": "common.next",
+      "text": "Ensuite.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "e9180e6e2974431f4e33e2ba5092588f5f7eefb39602125dca4f3b244453eb22"
+    },
+    {
+      "id": "common.ten_remaining",
+      "text": "Dix secondes restantes.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "a1eb1122ab736e59013c68e4e449514eb1ca5ef23a5180fa0a0f9c96cab87865"
+    },
+    {
+      "id": "common.encourage.rhythm",
+      "text": "Garde ton rythme et respire.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "73f7ca61e2e28f0560a77737c3da6743467d43c25eb6044e9f9c493218679512"
+    },
+    {
+      "id": "comparison.prepare",
+      "text": "Prépare-toi.",
+      "family": "comparison"
+    },
+    {
+      "id": "comparison.full",
+      "text": "Dead bug. Série deux sur trois. Douze répétitions. Par côté.",
+      "family": "comparison"
+    }
+  ],
+  "voices": [
+    {
+      "id": "F1",
+      "voice_id": "voice_pjrwzzqm559j",
+      "model": "gemini-3.8-flash-tts",
+      "display_name": "Coach féminine solaire",
+      "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni."
+    },
+    {
+      "id": "M2-deep-v2",
+      "voice_id": "voice_j1nyh1atfcz8",
+      "model": "gemini-3.8-flash-tts",
+      "display_name": "Coach masculin complice - plus grave",
+      "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni."
+    }
+  ]
+}

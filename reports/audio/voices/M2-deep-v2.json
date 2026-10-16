@@ -1,0 +1,131 @@
+{
+  "gender": "male",
+  "identity_prompt": "Français de France métropolitain, accent contemporain neutre. Prononciation, rythme et intonation de France, sans accent québécois, canadien, belge ou suisse. Voix adulte jeune, environ 25 à 35 ans, naturelle, dynamique et sympathique. Articulation claire des nombres et du vocabulaire sportif. Timbre masculin naturellement grave, plein et chaleureux, avec une résonance de poitrine douce et une hauteur un peu plus basse. Conserver la jeunesse adulte, la souplesse et le sourire dans la voix, ton complice et spontané, avec une énergie entraînante. Texture humaine légère, cadence souple et respirations discrètes. Éviter voix enfantine, aigu forcé, grave forcé, ton robotique, militaire ou publicitaire.",
+  "id": "M2-deep-v2",
+  "display_name": "Coach masculin complice - plus grave",
+  "voice_id": "voice_j1nyh1atfcz8",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni.",
+  "phrase": "Allez, on y va ! Prépare-toi pour les squats. Garde ton rythme et respire. Encore dix secondes, puis tu récupères.",
+  "status": "selected_by_simon",
+  "creation_usage": {
+    "total_tokens": 913,
+    "total_input_tokens": 269,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 119
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 644,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 644
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 132,
+    "raw_prompt_token": 432,
+    "model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 282
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 649
+          }
+        ],
+        "thoughts_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 132
+          }
+        ]
+      }
+    ],
+    "non_grounding_model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 282
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 649
+          }
+        ],
+        "thoughts_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 132
+          }
+        ]
+      }
+    ]
+  },
+  "synthesis_usage": {
+    "total_tokens": 195,
+    "total_input_tokens": 34,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 34
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 161,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 161
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0,
+    "raw_prompt_token": 870,
+    "model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 226
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 163
+          }
+        ]
+      }
+    ],
+    "non_grounding_model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 226
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 163
+          }
+        ]
+      }
+    ]
+  },
+  "duration_seconds": 6.44,
+  "sample_rate": 24000
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tempo",
+  "account_id": "189474ebd5b456cefc4eff147856b508",
+  "compatibility_date": "2026-10-13",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  },
+  "workers_dev": true
+}

@@ -1,0 +1,19 @@
+{
+  "exercises": [
+    {
+      "id": "EX75",
+      "name": "Développé pectoral vers le haut avec kit et ancrage bas",
+      "mount": "door_low"
+    },
+    {
+      "id": "EX76",
+      "name": "Développé pectoral vers le bas avec kit et ancrage haut",
+      "mount": "door_high"
+    },
+    {
+      "id": "EX77",
+      "name": "Écarté pectoral unilatéral avec kit et ancrage latéral",
+      "mount": "door_mid"
+    }
+  ]
+}

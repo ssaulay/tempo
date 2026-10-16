@@ -1,0 +1,804 @@
+{
+  "status": "editorial_draft_not_validated",
+  "description": "Hypothèses de dosage locales ajustables, distinctes des preuves documentaires. EX52 puissance : cible courte sans montée automatique d’intensité.",
+  "byExercise": {
+    "EX49": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX50": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX51": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 2
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX52": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 2,
+        "max": 6,
+        "default": 4,
+        "step": 1
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 90,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX53": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX54": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX55": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX56": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX57": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX58": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX59": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 2
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX60": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 2
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX61": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 2
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX62": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX63": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 2
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX64": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX65": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX66": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX67": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 2
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX68": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    },
+    "EX69": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 5,
+        "max": 60,
+        "default": 15,
+        "step": 5
+      },
+      "rest": {
+        "min": 30,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 4,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 1,
+        "intermediate": 1,
+        "advanced": 1
+      },
+      "intensityFactors": {
+        "gentle": 0.75,
+        "moderate": 1,
+        "intense": 1
+      }
+    }
+  }
+}

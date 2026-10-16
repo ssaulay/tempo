@@ -1,8 +1,12 @@
 import {readdirSync,writeFileSync,readFileSync} from 'node:fs';
 import {createHash} from 'node:crypto';
 const files=readdirSync('dist/assets').filter(f=>/\.(js|css)$/.test(f)).map(f=>'/assets/'+f);
-const version=createHash('sha256').update(files.join(',')).digest('hex').slice(0,12);
-writeFileSync('dist/precache.json',JSON.stringify(['/','/manifest.webmanifest','/icon.svg','/assets/manifest.json','/precache.json',...files]));
-const worker=readFileSync('dist/sw.js','utf8').replace("tempo-shell-v1'",`tempo-shell-v1-${version}'`);
+const audio=JSON.parse(readFileSync('public/assets/audio/v1/manifest.json','utf8'));
+const tubeAudio=JSON.parse(readFileSync('public/assets/audio/tubes-v2/manifest.json','utf8'));
+const audioFiles=[...audio.entries,...tubeAudio.entries].map(e=>e.url);
+const version=createHash('sha256').update(files.join(',')+JSON.stringify(audio)+JSON.stringify(tubeAudio)).digest('hex').slice(0,12);
+writeFileSync('dist/precache.json',JSON.stringify(['/','/manifest.webmanifest','/icon.svg','/assets/manifest.json','/precache.json','/assets/audio/v1/manifest.json','/assets/audio/tubes-v2/manifest.json',...audioFiles,...files]));
+const {mediaRevision}=JSON.parse(readFileSync('assets/manifest.json','utf8'));
+const worker=readFileSync('dist/sw.js','utf8').replace("tempo-shell-v1'",`tempo-shell-v1-${version}'`).replace("tempo-media-v1'",`tempo-media-${mediaRevision}'`);
 writeFileSync('dist/sw.js',worker);
 console.log(`Coque hors ligne : ${files.length} fichiers JS/CSS, version ${version}.`);

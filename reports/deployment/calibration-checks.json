@@ -1,0 +1,60 @@
+{
+  "url": "https://tempo.ssaulay.workers.dev",
+  "version": "4b5fd888-f33a-42f9-b022-53bc4e9a68ed",
+  "at": "2026-10-13T10:18:23.905Z",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "sha256": "9b726a9288e4f6801ed850ee56ab431a90ab1f73825768bbb782d848e05c8afe"
+    },
+    {
+      "path": "/sw.js",
+      "status": 200,
+      "sha256": "c594c1cbeed3e829aaa3b0efdd5bb59faf7d48165e0e8ca4fa90bd11b6fa1038"
+    },
+    {
+      "path": "/precache.json",
+      "status": 200,
+      "sha256": "447777d6b37b94526516fcf4665097ed3662a7afd50bce11977e6d16cb9292c7"
+    },
+    {
+      "path": "/assets/index-CBWUmWwp.js",
+      "status": 200,
+      "sha256": "5e39e371e78c460b9e67ccbeaf9f9eb96547e18f7721049ab90d8952f8f8e823"
+    },
+    {
+      "path": "/assets/react-dgengZBm.js",
+      "status": 200,
+      "sha256": "5925486d4a2fcc4e6999a10dc58708031fd443c9979d14b268ebbb8e3d660158"
+    },
+    {
+      "path": "/assets/catalog-BWVft3H8.js",
+      "status": 200,
+      "sha256": "b0e4e56530a80168fd49b314022e0060bce0958ceb25f65138be8f08edb91f27"
+    },
+    {
+      "path": "/assets/index-CbPwl8KW.css",
+      "status": 200,
+      "sha256": "a63d6c3a8356463a145dd7ab8407afb9417bf0b15289797c8f72c3a4a3ecbe5c"
+    },
+    {
+      "path": "/assets/exercises/v1/EX12/step-01.webp",
+      "status": 200,
+      "sha256": "153345d14b11ea68f2f25b4592a7577a8af9efefa59be719510aa198c93dd221"
+    },
+    {
+      "path": "/assets/exercises/v1/EX27/step-02.webp",
+      "status": 200,
+      "sha256": "bd1a488908ab004b87f7bd3e75a44b68b628e11a07ffc66041dd8b93d2d0fcaf"
+    }
+  ],
+  "mobileChromium": {
+    "width": 390,
+    "onboarding": true,
+    "manualEntry": true,
+    "reloadPersistence": true,
+    "settingsRecalibration": true
+  },
+  "physicalIPhoneTested": false
+}

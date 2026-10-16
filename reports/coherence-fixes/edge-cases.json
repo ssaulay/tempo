@@ -1,0 +1,164 @@
+[
+  {
+    "width": 320,
+    "height": 844,
+    "inputVisible": true,
+    "controls": [
+      {
+        "text": "Pause",
+        "height": 70.1875,
+        "visible": true
+      },
+      {
+        "text": "Série terminée",
+        "height": 70.1875,
+        "visible": true
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "height": 668,
+    "inputVisible": true,
+    "controls": [
+      {
+        "text": "Pause",
+        "height": 70.1875,
+        "visible": true
+      },
+      {
+        "text": "Série terminée",
+        "height": 70.1875,
+        "visible": true
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "height": 500,
+    "inputVisible": true,
+    "controls": [
+      {
+        "text": "Pause",
+        "height": 70.1875,
+        "visible": true
+      },
+      {
+        "text": "Série terminée",
+        "height": 70.1875,
+        "visible": true
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "inputVisible": true,
+    "controls": [
+      {
+        "text": "Pause",
+        "height": 72.78125,
+        "visible": true
+      },
+      {
+        "text": "Série terminée",
+        "height": 72.78125,
+        "visible": true
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "height": 668,
+    "inputVisible": true,
+    "controls": [
+      {
+        "text": "Pause",
+        "height": 72.78125,
+        "visible": true
+      },
+      {
+        "text": "Série terminée",
+        "height": 72.78125,
+        "visible": true
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "height": 500,
+    "inputVisible": true,
+    "controls": [
+      {
+        "text": "Pause",
+        "height": 72.78125,
+        "visible": true
+      },
+      {
+        "text": "Série terminée",
+        "height": 72.78125,
+        "visible": true
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "height": 844,
+    "inputVisible": true,
+    "controls": [
+      {
+        "text": "Pause",
+        "height": 68,
+        "visible": true
+      },
+      {
+        "text": "Série terminée",
+        "height": 68,
+        "visible": true
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "height": 668,
+    "inputVisible": true,
+    "controls": [
+      {
+        "text": "Pause",
+        "height": 68,
+        "visible": true
+      },
+      {
+        "text": "Série terminée",
+        "height": 68,
+        "visible": true
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "height": 500,
+    "inputVisible": true,
+    "controls": [
+      {
+        "text": "Pause",
+        "height": 68,
+        "visible": true
+      },
+      {
+        "text": "Série terminée",
+        "height": 68,
+        "visible": true
+      }
+    ],
+    "overflow": false
+  }
+]

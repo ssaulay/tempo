@@ -1,0 +1,903 @@
+{
+  "version": 1,
+  "status": "prototype_not_human_reviewed",
+  "exercises": [
+    {
+      "id": "EX70",
+      "version": 1,
+      "name": "Développé poitrine debout avec kit et ancrage de porte",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        },
+        {
+          "kind": "doorAnchor"
+        }
+      ],
+      "installation": "Kit de tubes avec deux poignées et ancrage de porte. Porte solide, fermée et sécurisée contre toute ouverture pendant la série. Utilise le côté où la traction maintient la porte fermée et respecte la notice de ton ancrage. Vérifie la sangle et les connexions avant chaque série. Ancrage derrière toi à hauteur de poitrine. Pieds décalés, poignées près de la poitrine et coudes fléchis.",
+      "equipmentKey": "tube_handles",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals",
+          "triceps"
+        ],
+        "secondary": [
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals",
+        "arms"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Ancrage derrière toi à hauteur de poitrine. Pieds décalés, poignées près de la poitrine et coudes fléchis.",
+          "postureCues": [
+            "Ancrage derrière toi à hauteur de poitrine. Pieds décalés, poignées près de la poitrine et coudes fléchis."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Développé poitrine debout avec kit et ancrage de porte : Ancrage derrière toi à hauteur de poitrine. Pieds décalés, poignées près de la poitrine et coudes fléchis."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Pousse les deux poignées devant la poitrine, sans verrouiller les coudes ni cambrer le dos.",
+          "postureCues": [
+            "Pousse les deux poignées devant la poitrine, sans verrouiller les coudes ni cambrer le dos."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Développé poitrine debout avec kit et ancrage de porte : Pousse les deux poignées devant la poitrine, sans verrouiller les coudes ni cambrer le dos."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Reviens doucement, sans laisser les coudes partir loin derrière le buste. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Reviens doucement, sans laisser les coudes partir loin derrière le buste. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Développé poitrine debout avec kit et ancrage de porte : Reviens doucement, sans laisser les coudes partir loin derrière le buste. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "errors": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "tip": "Souffle en poussant et garde le bassin stable.",
+      "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "equipmentVariant": "tube",
+      "requiresBandHandles": true,
+      "bandMount": "door_mid",
+      "audioKey": "EX70",
+      "preparationCue": "Ancrage derrière toi à hauteur de poitrine. Pieds décalés, poignées près de la poitrine et coudes fléchis.",
+      "relatedExercises": [
+        "EX16"
+      ],
+      "documentaryExtension": true
+    },
+    {
+      "id": "EX71",
+      "version": 1,
+      "name": "Écartés poitrine debout avec kit et ancrage de porte",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "horizontal_adduction",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        },
+        {
+          "kind": "doorAnchor"
+        }
+      ],
+      "installation": "Kit de tubes avec deux poignées et ancrage de porte. Porte solide, fermée et sécurisée contre toute ouverture pendant la série. Utilise le côté où la traction maintient la porte fermée et respecte la notice de ton ancrage. Vérifie la sangle et les connexions avant chaque série. Dos à l’ancrage à hauteur d’épaules, pieds décalés, bras ouverts et coudes légèrement fléchis.",
+      "equipmentKey": "tube_handles",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals",
+        "arms"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Dos à l’ancrage à hauteur d’épaules, pieds décalés, bras ouverts et coudes légèrement fléchis.",
+          "postureCues": [
+            "Dos à l’ancrage à hauteur d’épaules, pieds décalés, bras ouverts et coudes légèrement fléchis."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Écartés poitrine debout avec kit et ancrage de porte : Dos à l’ancrage à hauteur d’épaules, pieds décalés, bras ouverts et coudes légèrement fléchis."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Rapproche les poignées devant la poitrine dans un arc, en conservant le même pli aux coudes.",
+          "postureCues": [
+            "Rapproche les poignées devant la poitrine dans un arc, en conservant le même pli aux coudes."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Écartés poitrine debout avec kit et ancrage de porte : Rapproche les poignées devant la poitrine dans un arc, en conservant le même pli aux coudes."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Ouvre lentement les bras, sans chercher une amplitude douloureuse. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Ouvre lentement les bras, sans chercher une amplitude douloureuse. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Écartés poitrine debout avec kit et ancrage de porte : Ouvre lentement les bras, sans chercher une amplitude douloureuse. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "errors": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "tip": "Rapproche les bras sans transformer le geste en développé.",
+      "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "equipmentVariant": "tube",
+      "requiresBandHandles": true,
+      "bandMount": "door_mid",
+      "audioKey": "EX71",
+      "preparationCue": "Dos à l’ancrage à hauteur d’épaules, pieds décalés, bras ouverts et coudes légèrement fléchis.",
+      "relatedExercises": [
+        "EX16"
+      ],
+      "documentaryExtension": true
+    },
+    {
+      "id": "EX72",
+      "version": 1,
+      "name": "Rowing debout avec kit et ancrage de porte",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "horizontal_pull",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        },
+        {
+          "kind": "doorAnchor"
+        }
+      ],
+      "installation": "Kit de tubes avec deux poignées et ancrage de porte. Porte solide, fermée et sécurisée contre toute ouverture pendant la série. Utilise le côté où la traction maintient la porte fermée et respecte la notice de ton ancrage. Vérifie la sangle et les connexions avant chaque série. Face à l’ancrage à hauteur du bas de la poitrine, genoux souples, poignées devant toi et bras allongés.",
+      "equipmentKey": "tube_handles",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "back",
+          "lats"
+        ],
+        "secondary": [
+          "biceps",
+          "posterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "back"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Face à l’ancrage à hauteur du bas de la poitrine, genoux souples, poignées devant toi et bras allongés.",
+          "postureCues": [
+            "Face à l’ancrage à hauteur du bas de la poitrine, genoux souples, poignées devant toi et bras allongés."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Rowing debout avec kit et ancrage de porte : Face à l’ancrage à hauteur du bas de la poitrine, genoux souples, poignées devant toi et bras allongés."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Ramène les poignées vers les côtes basses, coudes près du buste, sans basculer en arrière.",
+          "postureCues": [
+            "Ramène les poignées vers les côtes basses, coudes près du buste, sans basculer en arrière."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Rowing debout avec kit et ancrage de porte : Ramène les poignées vers les côtes basses, coudes près du buste, sans basculer en arrière."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Allonge les bras lentement en gardant le tronc à la même place. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Allonge les bras lentement en gardant le tronc à la même place. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Rowing debout avec kit et ancrage de porte : Allonge les bras lentement en gardant le tronc à la même place. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "errors": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "tip": "Tire les coudes vers l’arrière et garde les épaules détendues.",
+      "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "equipmentVariant": "tube",
+      "requiresBandHandles": true,
+      "bandMount": "door_mid",
+      "audioKey": "EX72",
+      "preparationCue": "Face à l’ancrage à hauteur du bas de la poitrine, genoux souples, poignées devant toi et bras allongés.",
+      "relatedExercises": [
+        "EX19"
+      ],
+      "documentaryExtension": true
+    },
+    {
+      "id": "EX73",
+      "version": 1,
+      "name": "Extension triceps vers le bas avec kit et ancrage haut",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "elbow_extension",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        },
+        {
+          "kind": "doorAnchor"
+        }
+      ],
+      "installation": "Kit de tubes avec deux poignées et ancrage de porte. Porte solide, fermée et sécurisée contre toute ouverture pendant la série. Utilise le côté où la traction maintient la porte fermée et respecte la notice de ton ancrage. Vérifie la sangle et les connexions avant chaque série. Face à la porte, ancrage en haut. Coudes près des côtes, poignées devant le bas de la poitrine.",
+      "equipmentKey": "tube_handles",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "triceps"
+        ],
+        "secondary": [
+          "shoulders"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "arms"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Face à la porte, ancrage en haut. Coudes près des côtes, poignées devant le bas de la poitrine.",
+          "postureCues": [
+            "Face à la porte, ancrage en haut. Coudes près des côtes, poignées devant le bas de la poitrine."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Extension triceps vers le bas avec kit et ancrage haut : Face à la porte, ancrage en haut. Coudes près des côtes, poignées devant le bas de la poitrine."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Allonge les coudes pour descendre les poignées près des cuisses, bras restant au même endroit.",
+          "postureCues": [
+            "Allonge les coudes pour descendre les poignées près des cuisses, bras restant au même endroit."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Extension triceps vers le bas avec kit et ancrage haut : Allonge les coudes pour descendre les poignées près des cuisses, bras restant au même endroit."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Replie les coudes sous contrôle, sans avancer les épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Replie les coudes sous contrôle, sans avancer les épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Extension triceps vers le bas avec kit et ancrage haut : Replie les coudes sous contrôle, sans avancer les épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "errors": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "tip": "Garde les coudes près du buste et souffle en descendant.",
+      "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "equipmentVariant": "tube",
+      "requiresBandHandles": true,
+      "bandMount": "door_high",
+      "audioKey": "EX73",
+      "preparationCue": "Face à la porte, ancrage en haut. Coudes près des côtes, poignées devant le bas de la poitrine.",
+      "relatedExercises": [
+        "EX23"
+      ],
+      "documentaryExtension": true
+    },
+    {
+      "id": "EX74",
+      "version": 1,
+      "name": "Écartés inversés debout avec kit et ancrage de porte",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "horizontal_abduction",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        },
+        {
+          "kind": "doorAnchor"
+        }
+      ],
+      "installation": "Kit de tubes avec deux poignées et ancrage de porte. Porte solide, fermée et sécurisée contre toute ouverture pendant la série. Utilise le côté où la traction maintient la porte fermée et respecte la notice de ton ancrage. Vérifie la sangle et les connexions avant chaque série. Face à l’ancrage à hauteur d’épaules, genoux souples, bras devant toi et coudes légèrement fléchis.",
+      "equipmentKey": "tube_handles",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "posterior_deltoids",
+          "upper_back"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "shoulders",
+        "back"
+      ],
+      "angle": "face",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Face à l’ancrage à hauteur d’épaules, genoux souples, bras devant toi et coudes légèrement fléchis.",
+          "postureCues": [
+            "Face à l’ancrage à hauteur d’épaules, genoux souples, bras devant toi et coudes légèrement fléchis."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Écartés inversés debout avec kit et ancrage de porte : Face à l’ancrage à hauteur d’épaules, genoux souples, bras devant toi et coudes légèrement fléchis."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Ouvre les bras sur les côtés, sans hausser les épaules ni plier davantage les coudes.",
+          "postureCues": [
+            "Ouvre les bras sur les côtés, sans hausser les épaules ni plier davantage les coudes."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Écartés inversés debout avec kit et ancrage de porte : Ouvre les bras sur les côtés, sans hausser les épaules ni plier davantage les coudes."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Ramène les bras devant toi lentement, sans laisser les tubes te tirer. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Ramène les bras devant toi lentement, sans laisser les tubes te tirer. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Écartés inversés debout avec kit et ancrage de porte : Ramène les bras devant toi lentement, sans laisser les tubes te tirer. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "errors": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "tip": "Ouvre les bras sans transformer le mouvement en rowing.",
+      "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "equipmentVariant": "tube",
+      "requiresBandHandles": true,
+      "bandMount": "door_mid",
+      "audioKey": "EX74",
+      "preparationCue": "Face à l’ancrage à hauteur d’épaules, genoux souples, bras devant toi et coudes légèrement fléchis.",
+      "relatedExercises": [
+        "EX21"
+      ],
+      "documentaryExtension": true
+    },
+    {
+      "id": "EX75",
+      "version": 1,
+      "name": "Développé pectoral vers le haut avec kit et ancrage bas",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        },
+        {
+          "kind": "doorAnchor"
+        }
+      ],
+      "installation": "Kit de tubes avec deux poignées et ancrage de porte. Porte solide, fermée et sécurisée contre toute ouverture pendant la série. Utilise le côté où la traction maintient la porte fermée et respecte la notice de ton ancrage. Vérifie la sangle et les connexions. Dos à la porte, ancrage bas, pieds décalés et une poignée près de chaque côté de la poitrine.",
+      "equipmentKey": "tube_handles",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "anterior_deltoids",
+          "triceps"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals",
+        "arms"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Dos à la porte, ancrage bas, pieds décalés et une poignée près de chaque côté de la poitrine.",
+          "postureCues": [
+            "Dos à la porte, ancrage bas, pieds décalés et une poignée près de chaque côté de la poitrine."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Développé pectoral vers le haut avec kit et ancrage bas : Dos à la porte, ancrage bas, pieds décalés et une poignée près de chaque côté de la poitrine."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Pousse les poignées devant toi et vers le haut, jusqu’à une hauteur confortable devant le visage, sans cambrer le dos.",
+          "postureCues": [
+            "Pousse les poignées devant toi et vers le haut, jusqu’à une hauteur confortable devant le visage, sans cambrer le dos."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Développé pectoral vers le haut avec kit et ancrage bas : Pousse les poignées devant toi et vers le haut, jusqu’à une hauteur confortable devant le visage, sans cambrer le dos."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Ramène les poignées près de la poitrine en freinant le retour. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée.",
+          "postureCues": [
+            "Ramène les poignées près de la poitrine en freinant le retour. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Développé pectoral vers le haut avec kit et ancrage bas : Ramène les poignées près de la poitrine en freinant le retour. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée."
+        }
+      ],
+      "errors": [
+        "Tourner ou cambrer le buste : réduis la résistance et conserve des appuis stables.",
+        "Laisser le tube ramener le bras brutalement : freine le retour.",
+        "Chercher une grande amplitude malgré une gêne : raccourcis le mouvement ou arrête la série."
+      ],
+      "tip": "Pousse en diagonale devant toi, sans te pencher en arrière.",
+      "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis.",
+        "Angles et amplitude individuels, sans promesse d’isolation ni de croissance d’une région pectorale.",
+        "Montage réel, consignes, programmation et illustrations sans revue technique humaine."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "equipmentVariant": "tube",
+      "requiresBandHandles": true,
+      "bandMount": "door_low",
+      "audioKey": "EX75",
+      "preparationCue": "Dos à la porte, ancrage bas, pieds décalés et une poignée près de chaque côté de la poitrine.",
+      "relatedExercises": [
+        "EX70"
+      ],
+      "documentaryExtension": true
+    },
+    {
+      "id": "EX76",
+      "version": 1,
+      "name": "Développé pectoral vers le bas avec kit et ancrage haut",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        },
+        {
+          "kind": "doorAnchor"
+        }
+      ],
+      "installation": "Kit de tubes avec deux poignées et ancrage de porte. Porte solide, fermée et sécurisée contre toute ouverture pendant la série. Utilise le côté où la traction maintient la porte fermée et respecte la notice de ton ancrage. Vérifie la sangle et les connexions. Dos à la porte, ancrage haut, pieds décalés, poignées près de la poitrine et coudes fléchis.",
+      "equipmentKey": "tube_handles",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "anterior_deltoids",
+          "triceps"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals",
+        "arms"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Dos à la porte, ancrage haut, pieds décalés, poignées près de la poitrine et coudes fléchis.",
+          "postureCues": [
+            "Dos à la porte, ancrage haut, pieds décalés, poignées près de la poitrine et coudes fléchis."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Développé pectoral vers le bas avec kit et ancrage haut : Dos à la porte, ancrage haut, pieds décalés, poignées près de la poitrine et coudes fléchis."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Pousse les poignées devant toi et vers le bas, jusqu’à hauteur du bas de la poitrine ou du haut du ventre.",
+          "postureCues": [
+            "Pousse les poignées devant toi et vers le bas, jusqu’à hauteur du bas de la poitrine ou du haut du ventre."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Développé pectoral vers le bas avec kit et ancrage haut : Pousse les poignées devant toi et vers le bas, jusqu’à hauteur du bas de la poitrine ou du haut du ventre."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Replie les coudes sous contrôle pour revenir près de la poitrine. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée.",
+          "postureCues": [
+            "Replie les coudes sous contrôle pour revenir près de la poitrine. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Développé pectoral vers le bas avec kit et ancrage haut : Replie les coudes sous contrôle pour revenir près de la poitrine. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée."
+        }
+      ],
+      "errors": [
+        "Tourner ou cambrer le buste : réduis la résistance et conserve des appuis stables.",
+        "Laisser le tube ramener le bras brutalement : freine le retour.",
+        "Chercher une grande amplitude malgré une gêne : raccourcis le mouvement ou arrête la série."
+      ],
+      "tip": "Pousse devant toi en diagonale, pas verticalement près des cuisses.",
+      "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis.",
+        "Angles et amplitude individuels, sans promesse d’isolation ni de croissance d’une région pectorale.",
+        "Montage réel, consignes, programmation et illustrations sans revue technique humaine."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "equipmentVariant": "tube",
+      "requiresBandHandles": true,
+      "bandMount": "door_high",
+      "audioKey": "EX76",
+      "preparationCue": "Dos à la porte, ancrage haut, pieds décalés, poignées près de la poitrine et coudes fléchis.",
+      "relatedExercises": [
+        "EX70"
+      ],
+      "documentaryExtension": true
+    },
+    {
+      "id": "EX77",
+      "version": 1,
+      "name": "Écarté pectoral unilatéral avec kit et ancrage latéral",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "horizontal_adduction",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        },
+        {
+          "kind": "doorAnchor"
+        }
+      ],
+      "installation": "Kit de tubes avec deux poignées et ancrage de porte. Porte solide, fermée et sécurisée contre toute ouverture pendant la série. Utilise le côté où la traction maintient la porte fermée et respecte la notice de ton ancrage. Vérifie la sangle et les connexions. Place ton côté actif vers l’ancrage à hauteur de poitrine. Fixe les deux extrémités des tubes à une même poignée compatible et tiens-la avec la main active. Main libre sur la hanche.",
+      "equipmentKey": "tube_handles",
+      "position": "standing",
+      "counting": "per_side",
+      "sides": 2,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals",
+        "arms"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Place ton côté actif vers l’ancrage à hauteur de poitrine. Fixe les deux extrémités des tubes à une même poignée compatible et tiens-la avec la main active. Main libre sur la hanche.",
+          "postureCues": [
+            "Place ton côté actif vers l’ancrage à hauteur de poitrine. Fixe les deux extrémités des tubes à une même poignée compatible et tiens-la avec la main active. Main libre sur la hanche."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Écarté pectoral unilatéral avec kit et ancrage latéral : Place ton côté actif vers l’ancrage à hauteur de poitrine. Fixe les deux extrémités des tubes à une même poignée compatible et tiens-la avec la main active. Main libre sur la hanche."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Rapproche la poignée devant le sternum dans un arc horizontal, en gardant le même léger pli au coude et le buste face à l’avant.",
+          "postureCues": [
+            "Rapproche la poignée devant le sternum dans un arc horizontal, en gardant le même léger pli au coude et le buste face à l’avant."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Écarté pectoral unilatéral avec kit et ancrage latéral : Rapproche la poignée devant le sternum dans un arc horizontal, en gardant le même léger pli au coude et le buste face à l’avant."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Reviens doucement vers l’ancrage. Réduis la tension avant de changer de côté, puis refais la même installation. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée.",
+          "postureCues": [
+            "Reviens doucement vers l’ancrage. Réduis la tension avant de changer de côté, puis refais la même installation. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Écarté pectoral unilatéral avec kit et ancrage latéral : Reviens doucement vers l’ancrage. Réduis la tension avant de changer de côté, puis refais la même installation. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée."
+        }
+      ],
+      "errors": [
+        "Tourner ou cambrer le buste : réduis la résistance et conserve des appuis stables.",
+        "Laisser le tube ramener le bras brutalement : freine le retour.",
+        "Chercher une grande amplitude malgré une gêne : raccourcis le mouvement ou arrête la série."
+      ],
+      "tip": "Garde le bassin et le buste immobiles pendant le mouvement du bras.",
+      "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis.",
+        "Angles et amplitude individuels, sans promesse d’isolation ni de croissance d’une région pectorale.",
+        "Montage réel, consignes, programmation et illustrations sans revue technique humaine.",
+        "Une poignée reçoit les deux extrémités ; respecter la capacité des connexions. Le dosage est par côté, pas un total alterné."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "equipmentVariant": "tube",
+      "requiresBandHandles": true,
+      "bandMount": "door_mid",
+      "audioKey": "EX77",
+      "preparationCue": "Place ton côté actif vers l’ancrage à hauteur de poitrine. Fixe les deux extrémités des tubes à une même poignée compatible et tiens-la avec la main active. Main libre sur la hanche.",
+      "relatedExercises": [
+        "EX71"
+      ],
+      "documentaryExtension": true
+    }
+  ]
+}

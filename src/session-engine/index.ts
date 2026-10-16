@@ -5,6 +5,8 @@ export type Event={type:'Tick'|'PhaseElapsed'|'Pause'|'Resume'|'VisibilityLost'|
 const activeStates:State[]=['preparing','working_reps','working_timed','resting','switching_side'];
 export const isRunning=(a:ActiveSession)=>activeStates.includes(a.state);
 export const currentPhase=(a:ActiveSession)=>a.phases[a.index];
+export const canSkipExercise=(a:ActiveSession)=>isRunning(a)||['paused','suspended'].includes(a.state);
+export const canSkipSet=(a:ActiveSession)=>canSkipExercise(a)&&a.phases.slice(a.index).some(p=>p.blockIndex===currentPhase(a).blockIndex&&p.kind.startsWith('working'));
 export function startSession(program:Program,equipment:Equipment,now:number,id:string=uid(),at=new Date().toISOString()):ActiveSession{
  if(!program.blocks.length)throw Error('Un programme vide ne peut pas être démarré.');
  const phases=phasePlan(program);
@@ -56,10 +58,14 @@ export function transition(state:ActiveSession,event:Event,now:number,at=new Dat
   case 'Next':
    if(!['preparing','resting','switching_side'].includes(a.state))return state;advance(a,now,at);break;
   case 'SkipSet':
-   if(!isRunning(a))return state;
-   if(phase.kind.startsWith('working')){record(a,phase,'skipped');advance(a,now,at);}else return state;break;
+   if(!canSkipSet(a))return state;
+   if(!phase.kind.startsWith('working')){
+    while(!currentPhase(a).kind.startsWith('working'))a.index++;
+    a.phaseElapsed=0;
+   }
+   record(a,currentPhase(a),'skipped');advance(a,now,at);break;
   case 'SkipExercise':{
-   if(!isRunning(a))return state;
+   if(!canSkipExercise(a))return state;
    const blockIndex=phase.blockIndex;record(a,phase,'skipped');
    while(a.index+1<a.phases.length&&a.phases[a.index+1].blockIndex===blockIndex){a.index++;record(a,currentPhase(a),'skipped',null,0);}
    advance(a,now,at);break;
@@ -76,6 +82,7 @@ export function transition(state:ActiveSession,event:Event,now:number,at=new Dat
   case 'Abort':record(a,phase,'interrupted');a.state='aborted';a.session.status='aborted';a.session.endedAt=at;break;
   default:changed=false;
  }
+ if(['SkipSet','SkipExercise'].includes(event.type)&&['paused','suspended'].includes(state.state)&&isRunning(a))a.state=state.state;
  if(changed){a.revision++;a.lastCheckpoint=at;a.journal.push({id:event.id||uid(),event:event.type,at});}
  return a;
 }
@@ -95,3 +102,12 @@ export function remainingEstimate(a:ActiveSession):number{
  return current+a.phases.slice(a.index+1).reduce((s,p)=>s+p.seconds,0);
 }
 export function plannedSets(a:ActiveSession){return a.phases.filter(p=>p.kind.startsWith('working')&&a.session.snapshot.blocks[p.blockIndex].exercise.category!=='mobility').length;}
+// Use the scheduled phases, including repeated sets, rather than the next block.
+export function nextPhaseLabel(a:ActiveSession):string{
+ const next=a.phases[a.index+1];if(!next)return 'Votre bilan';
+ const block=a.session.snapshot.blocks[next.blockIndex];
+ if(next.kind==='resting')return `Récupération · ${next.seconds} s`;
+ if(next.kind==='preparing')return `Préparation · ${block.exercise.name}`;
+ if(next.kind==='switching_side')return `Changement de côté · ${block.exercise.name} · côté ${next.side} sur ${block.exercise.sides}`;
+ return `${block.exercise.name} · série ${next.set} sur ${block.sets}${block.exercise.sides>1?` · côté ${next.side} sur ${block.exercise.sides}`:''}${next.attempt>1?` · tentative ${next.attempt}`:''}`;
+}

@@ -1,0 +1,76 @@
+{
+  "newVariants": 5,
+  "newExercises": 5,
+  "definitions": [
+    {
+      "id": "EX17",
+      "version": 2,
+      "name": "Développé épaules avec tubes et poignées",
+      "mount": "under_feet",
+      "parent": "EX17"
+    },
+    {
+      "id": "EX18",
+      "version": 2,
+      "name": "Élévations latérales avec tubes et poignées",
+      "mount": "under_feet",
+      "parent": "EX18"
+    },
+    {
+      "id": "EX23",
+      "version": 2,
+      "name": "Extension triceps au-dessus de la tête avec tubes",
+      "mount": "under_feet",
+      "parent": "EX23"
+    },
+    {
+      "id": "EX37",
+      "version": 2,
+      "name": "Squat avec tubes et poignées aux épaules",
+      "mount": "under_feet",
+      "parent": "EX37"
+    },
+    {
+      "id": "EX38",
+      "version": 2,
+      "name": "Charnière de hanches avec tubes et poignées",
+      "mount": "under_feet",
+      "parent": "EX38"
+    },
+    {
+      "id": "EX70",
+      "version": 1,
+      "name": "Développé poitrine debout avec kit et ancrage de porte",
+      "mount": "door_mid",
+      "parent": "EX16"
+    },
+    {
+      "id": "EX71",
+      "version": 1,
+      "name": "Écartés poitrine debout avec kit et ancrage de porte",
+      "mount": "door_mid",
+      "parent": "EX16"
+    },
+    {
+      "id": "EX72",
+      "version": 1,
+      "name": "Rowing debout avec kit et ancrage de porte",
+      "mount": "door_mid",
+      "parent": "EX19"
+    },
+    {
+      "id": "EX73",
+      "version": 1,
+      "name": "Extension triceps vers le bas avec kit et ancrage haut",
+      "mount": "door_high",
+      "parent": "EX23"
+    },
+    {
+      "id": "EX74",
+      "version": 1,
+      "name": "Écartés inversés debout avec kit et ancrage de porte",
+      "mount": "door_mid",
+      "parent": "EX21"
+    }
+  ]
+}

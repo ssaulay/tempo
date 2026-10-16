@@ -1,0 +1,39 @@
+{
+  "voice": "M2-deep-v2",
+  "voice_id": "voice_j1nyh1atfcz8",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni.",
+  "clip": {
+    "id": "EX12.name",
+    "text": "Pompes sur les genoux.",
+    "family": "exercise_name",
+    "status": "text_frozen",
+    "review": "editorial_prepared_not_sport_technical",
+    "text_sha256": "5a3464270c9742968199a5b5de635ebffbba3fe232964e3c5700a2e178102c0f"
+  },
+  "usage": {
+    "total_tokens": 45,
+    "total_input_tokens": 8,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 8
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 37,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 37
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0
+  },
+  "status": "generated_listening_pending",
+  "duration_seconds": 1.48,
+  "sample_rate": 24000,
+  "checksum": "b95ed80da5d37489a8a70b99481d23ca945d009e12f9712d795b2b5aca647db8",
+  "cost_standard_usd": 0.000337
+}

@@ -1,0 +1,72 @@
+{
+  "voice": "F1",
+  "voice_id": "voice_pjrwzzqm559j",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni.",
+  "clip": {
+    "id": "EX18.name",
+    "text": "Élévations latérales légères.",
+    "family": "exercise_name",
+    "status": "text_frozen",
+    "review": "editorial_prepared_not_sport_technical",
+    "text_sha256": "73fd6774ec98dd8bc457ed0a0ef511deb8e7cf59d85689d7c5a686746f6549c2"
+  },
+  "usage": {
+    "total_tokens": 69,
+    "total_input_tokens": 9,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 9
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 60,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 60
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0,
+    "raw_prompt_token": 1022,
+    "model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 175
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 62
+          }
+        ]
+      }
+    ],
+    "non_grounding_model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 175
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 62
+          }
+        ]
+      }
+    ]
+  },
+  "status": "generated_listening_pending",
+  "duration_seconds": 2.4,
+  "sample_rate": 24000,
+  "checksum": "24aedcf70942062edd903270707b6b411aa5c427cb2170237550d2da8618c2ff",
+  "cost_standard_usd": 0.0005445
+}

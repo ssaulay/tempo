@@ -1,0 +1,1056 @@
+{
+  "version": 1,
+  "group": "core",
+  "accessed": "2026-10-12",
+  "catalogBaseline": "catalog/exercises.json version 1; lecture seulement",
+  "status": "reference documentaire de travail, non validée techniquement",
+  "sources": [
+    {
+      "id": "C-ACE-PLANK",
+      "publisher": "ACE",
+      "title": "Front Plank",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/32/front-plank/",
+      "accessed": "2026-10-12",
+      "scope": "Planche avant-bras, jambes tendues",
+      "confirms": "Coudes sous épaules, jambes actives, tronc stable, respiration continue; arrêt si douleur lombaire.",
+      "limits": "Entrée et sortie décrites depuis ventre au sol; Tempo propose une transition par les genoux."
+    },
+    {
+      "id": "C-NHS-PLANK",
+      "publisher": "Worcestershire Acute Hospitals NHS Trust",
+      "title": "Core Stability 2",
+      "url": "https://www.worcsacute.nhs.uk/leaflets/core-stability-2-physiotherapy/",
+      "accessed": "2026-10-12",
+      "scope": "Planche avant-bras, progression genoux vers orteils",
+      "confirms": "Appuis avant-bras/genoux puis avant-bras/orteils; retour sur genoux quand contrôle perdu.",
+      "limits": "Document de physiothérapie; dosage clinique non repris."
+    },
+    {
+      "id": "C-NHS-SIDE",
+      "publisher": "Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust",
+      "title": "Hip arthroscopy - side plank, p.11 imprimée / p.12 PDF",
+      "url": "https://www.rjah.nhs.uk/media/ivkj0wuh/hip-arthroscopy-screen-friendly.pdf",
+      "accessed": "2026-10-12",
+      "scope": "Planche latérale partielle, genoux fléchis",
+      "confirms": "Coude sous épaule, genoux fléchis, lever bassin sans rotation.",
+      "limits": "Contexte postopératoire, pas prescription générale; ne reprendre aucun calendrier de rééducation."
+    },
+    {
+      "id": "C-FITBOD-SIDE",
+      "publisher": "Fitbod",
+      "title": "Side Plank With Knees Bent - reviewed Jim Parker CPT",
+      "url": "https://fitbod.me/exercises/side-plank-with-knees-bent",
+      "accessed": "2026-10-12",
+      "scope": "Variante exacte, deux genoux fléchis",
+      "confirms": "Cuisses dans axe tronc, appui avant-bras inférieur; alignement épaules-bassin-genoux.",
+      "limits": "Catégorie abs globale, pas mesure anatomique; respiration absente."
+    },
+    {
+      "id": "C-NHS-SIDE2",
+      "publisher": "Oxleas NHS Foundation Trust / MSK Bexley",
+      "title": "Patellofemoral Pain Syndrome - Modified Side Plank",
+      "url": "https://msk-bexley.nhs.uk/conditions/knee-pain/patellofemoral-pain-syndrome-pfps",
+      "accessed": "2026-10-12",
+      "scope": "Deux genoux fléchis à angle droit",
+      "confirms": "Avant-bras, cuisses/tronc alignés, travail taille et hanche.",
+      "limits": "Rééducation genou; deuxième auteur NHS mais pas deuxième famille institutionnelle indépendante."
+    },
+    {
+      "id": "C-NASM-DEAD",
+      "publisher": "NASM",
+      "title": "Dead Bug",
+      "url": "https://www.nasm.org/resource-center/exercise-library/dead-bug",
+      "accessed": "2026-10-12",
+      "scope": "Dead bug départ bras verticaux, hanches/genoux à 90°",
+      "confirms": "Stabilité anti-extension et coordination opposée.",
+      "limits": "Neutral spine et press lower back sont employés ensemble; utiliser contact confortable, sans promesse de neutralité géométrique parfaite."
+    },
+    {
+      "id": "C-PURE-DEAD",
+      "publisher": "PureGym",
+      "title": "How To Do Deadbugs",
+      "url": "https://www.puregym.com/exercises/abs/deadbugs/",
+      "accessed": "2026-10-12",
+      "scope": "Dead bug bras et jambe opposés",
+      "confirms": "Bras verticaux, genoux au-dessus hanches; éloignement opposé contrôlé sans cambrure.",
+      "limits": "Ne définit pas amplitude universelle; texte vidéo compte les deux côtés comme une répétition, contrairement comptage total par côté proposé Tempo."
+    },
+    {
+      "id": "C-ACE-BIRD",
+      "publisher": "ACE",
+      "title": "Bird-dog",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/14/bird-dog/",
+      "accessed": "2026-10-12",
+      "scope": "Quadrupédie, bras et jambe opposés",
+      "confirms": "Mains sous épaules, genoux sous hanches, membres près horizontale seulement avec contrôle; pas rotation.",
+      "limits": "Classe intermédiaire, alors que catalogue débutant; niveau dépend de maîtrise."
+    },
+    {
+      "id": "C-NASM-BIRD",
+      "publisher": "NASM",
+      "title": "Bird Dog",
+      "url": "https://www.nasm.org/resource-center/exercise-library/bird-dog",
+      "accessed": "2026-10-12",
+      "scope": "Variante exacte alternée",
+      "confirms": "Stabilité tronc, retour contrôlé, abdominaux et érecteurs stabilisateurs, fessiers/épaule associés.",
+      "limits": "Rôles qualitatifs; explication de pression et apnée non reprise telle quelle."
+    },
+    {
+      "id": "C-MAYO-CORE",
+      "publisher": "Mayo Clinic",
+      "title": "Exercises to improve your core strength",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/core-strength/art-20546851",
+      "accessed": "2026-10-12",
+      "scope": "Quadruped, planche modifiée et crunch pieds au mur",
+      "confirms": "Respiration libre; bird dog opposé comme progression; consulter si problème de dos/ostéoporose/autre préoccupation médicale.",
+      "limits": "Crunch pieds au mur diffère du crunch pieds au sol; ce lien ne valide pas toutes les variantes."
+    },
+    {
+      "id": "C-ACE-REVERSE",
+      "publisher": "ACE",
+      "title": "Reverse Ab Crunch",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/76/reverse-crunch/",
+      "accessed": "2026-10-12",
+      "scope": "Enroulement bassin, genoux à 90°",
+      "confirms": "Bassin vers cage thoracique, bras supports, expiration montée/inspiration retour, genoux reviennent au-dessus hanches.",
+      "limits": "ACE propose un enroulement plus grand; Tempo retient un petit décollement, à revoir humainement."
+    },
+    {
+      "id": "C-PURE-REVERSE",
+      "publisher": "PureGym",
+      "title": "How To Do Reverse Crunches",
+      "url": "https://www.puregym.com/exercises/abs/reverse-crunches/",
+      "accessed": "2026-10-12",
+      "scope": "Crunch inversé au sol",
+      "confirms": "Flexion vertébrale par déplacement bassin, abdominaux/obliques avec fléchisseurs de hanche, contrôle sans élan.",
+      "limits": "Variante de retour des pieds plus bas que ACE; texte vidéo dit de relever épaules alors que tutoriel écrit décrit fesses/lombaires. Cette contradiction impose arbitrage, pas reprise automatique."
+    },
+    {
+      "id": "C-PURE-REVERSE-DK",
+      "publisher": "PureGym",
+      "title": "Reverse crunch",
+      "url": "https://www.puregym.dk/inspiration/reverse-crunch",
+      "accessed": "2026-10-12",
+      "scope": "Description danoise avec talons au sol entre répétitions",
+      "confirms": "Bassin décollé par enroulement sans balancer jambes.",
+      "limits": "Désaccord retour talons au sol versus ACE genoux au-dessus hanches; même éditeur que version UK, pas source indépendante supplémentaire."
+    },
+    {
+      "id": "C-CATALYST-REVERSE",
+      "publisher": "Catalyst Athletics",
+      "title": "Reverse Crunch",
+      "url": "https://www.catalystathletics.com/exercise/320/Reverse-Crunch/",
+      "accessed": "2026-10-12",
+      "scope": "Crunch inversé avec prise derrière tête",
+      "confirms": "Contracter abdominaux pour enrouler bassin, pas lancer jambes, ne pas hyperétendre lombaires.",
+      "limits": "Appui main différent; contenu obtenu par index web, ouverture directe échouée. Sert à arbitrer principe, pas à copier appuis."
+    },
+    {
+      "id": "C-ACE-CRUNCH",
+      "publisher": "ACE",
+      "title": "Crunch",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/52/crunch/",
+      "accessed": "2026-10-12",
+      "scope": "Crunch au sol pieds posés",
+      "confirms": "Petite flexion tronc, pieds/bassin/lombaires restent au sol, souffle montée/inspiration descente.",
+      "limits": "Mains derrière tête; catalogue ne tranche pas placement, proposition Tempo bras devant."
+    },
+    {
+      "id": "C-PURE-CRUNCH",
+      "publisher": "PureGym",
+      "title": "How To Do Ab Crunches",
+      "url": "https://www.puregym.com/exercises/abs/crunches/",
+      "accessed": "2026-10-12",
+      "scope": "Crunch court pieds au sol",
+      "confirms": "Mains sur cuisses ou bras croisés; épaules/haut dos soulevés, bas dos posé, retour lent.",
+      "limits": "Pas règle de hauteur métrique; instruction vidéo contient texte annexe plank à ne pas mélanger."
+    },
+    {
+      "id": "C-NSCA-TSAC",
+      "publisher": "NSCA",
+      "title": "TSAC Report 55 - Abdominal and lumbo-pelvic stability exercises, p.17",
+      "url": "https://www.nsca.com/globalassets/education/tsac-report/tsac-report-55.pdf",
+      "accessed": "2026-10-12",
+      "scope": "Mountain climbers et roue à genoux",
+      "confirms": "Climber mains sous épaules, genou vers coude ipsilatéral; roue genoux sous hanches, bras tendus, gainage et rétroversion.",
+      "limits": "Climber trajet vers coude différent de genou sous poitrine; rollout complet différent de court; respiration non précisée."
+    },
+    {
+      "id": "C-NHS-CLIMB",
+      "publisher": "Kent and Medway NHS and Social Care Partnership Trust",
+      "title": "Physiotherapy cardio exercise booklet",
+      "url": "https://www.kentmedwaymentalhealth.nhs.uk/media/2611/km1237-physiotherapy-cardio-exercise-booklet.pdf",
+      "accessed": "2026-10-12",
+      "scope": "Mountain climbers, vitesse adaptable",
+      "confirms": "Regard sol, ventre contrôlé, jambes alternées; augmenter vitesse pour augmenter défi.",
+      "limits": "Texte court, aucune garantie de tolérance des poignets; variante lente à compléter."
+    },
+    {
+      "id": "C-NHS-CLIMB-REG",
+      "publisher": "University Hospitals Coventry and Warwickshire NHS Trust",
+      "title": "Cardiac Rehabilitation Circuit Training Programme, p.6",
+      "url": "https://www.uhcw.nhs.uk/download/clientfiles/files/Patient%20Information%20Leaflets/Medicine/Cardiology/Cardiac%20Rehabilitation%20Circuit%20Training%20Programme.pdf",
+      "accessed": "2026-10-12",
+      "scope": "Mountain climber mains sur chaise/plan de travail",
+      "confirms": "Planche sur support haut, genou vers poitrine, retour puis autre côté.",
+      "limits": "Contexte cardiaque; dosage et support chaise non transposés automatiquement à domicile."
+    },
+    {
+      "id": "C-NSCA-WHEEL",
+      "publisher": "NSCA",
+      "title": "NSCA Coach 7.1 - Ab Wheel, p.13",
+      "url": "https://www.nsca.com/globalassets/education/nsca-coach/nsca-coach-7.1.pdf",
+      "accessed": "2026-10-12",
+      "scope": "Roue à genoux",
+      "confirms": "Départ à genoux, extension hanche et flexion épaule à aller; tronc et fléchisseurs hanche retour.",
+      "limits": "Ne fixe ni courte distance ni respiration; deux documents NSCA restent une seule famille éditoriale."
+    },
+    {
+      "id": "C-PURE-WHEEL",
+      "publisher": "PureGym",
+      "title": "How To Do Ab Wheel Rollouts",
+      "url": "https://www.puregym.com/exercises/abs/ab-wheel-rollouts/",
+      "accessed": "2026-10-12",
+      "scope": "Roue à genoux et réduction amplitude",
+      "confirms": "Genoux sous hanches, bras tendus, avancer/retour gainé; réduire amplitude si dos se cambre.",
+      "limits": "Arrêt au stretch ou parallèle ne convient pas à variante courte: retenir contrôle avant limite, jamais chercher étirement douloureux."
+    },
+    {
+      "id": "C-NASM-ABS",
+      "publisher": "NASM",
+      "title": "Best Abs Exercises: Science-Based Core Training",
+      "url": "https://www.nasm.org/resource-center/blog/training/best-abs-exercises",
+      "accessed": "2026-10-12",
+      "scope": "Anti-extension et rollout",
+      "confirms": "Plus de levier demande plus au tronc; réserver rollout à maîtrise corporelle suffisante.",
+      "limits": "Source mécanisme/programme; pas validation des appuis ni respiration exacte."
+    },
+    {
+      "id": "C-ACE-HOLLOW",
+      "publisher": "ACE",
+      "title": "Crunch Time: An Evidence-based Approach to Training the Abs",
+      "url": "https://www.acefitness.org/resources/pros/expert-articles/8989/crunch-time-an-evidence-based-approach-to-training-the-abs/",
+      "accessed": "2026-10-12",
+      "scope": "Hollow hold avec régression genoux tabletop",
+      "confirms": "Lombaires en contact sol, tension chaîne antérieure, genoux fléchis possible.",
+      "limits": "Position des bras groupée pas précisément imposée; hold et rock distincts."
+    },
+    {
+      "id": "C-CROSSFIT-HOLLOW",
+      "publisher": "CrossFit",
+      "title": "Gymnastics Training Guide, p.15",
+      "url": "https://assets.crossfit.com/pdfs/seminars/SMERefs/Gymnastics/GymnasticsCourse_SeminarGuide.pdf",
+      "accessed": "2026-10-12",
+      "scope": "Hollow au sol et option tucked",
+      "confirms": "Bassin basculé, lombaires sol, omoplates relevées; départ groupé explicitement possible.",
+      "limits": "Bras au-dessus tête/jambes tendues appartiennent progression, pas groupé Tempo; respiration non détaillée."
+    },
+    {
+      "id": "C-NSCA-HEEL",
+      "publisher": "NSCA (document hébergé par The Kinkaid School)",
+      "title": "NSCA Flight Manual - Module 4 - Ab Choice: Heel Touches, p.88",
+      "url": "https://www.kinkaid.org/uploaded/Athletics/2015-16/Strength_Training.pdf",
+      "accessed": "2026-10-12",
+      "scope": "Touchers de talons et variante oblique alternée",
+      "confirms": "Pieds plats, genoux fléchis, épaules décollées, épaule/main du même côté vers talon; pas traction tête ni décollement lombaires.",
+      "limits": "Manuel ancien, provenance NSCA imprimée mais copie institutionnelle hébergée ailleurs; début décrit aussi toucher bilatéral, seule variante oblique concerne EX36."
+    },
+    {
+      "id": "C-SFS-HEEL",
+      "publisher": "SET FOR SET",
+      "title": "Heel Touches - Garett Reid, CSCS",
+      "url": "https://www.setforset.com/blogs/news/heel-touches",
+      "accessed": "2026-10-12",
+      "scope": "Touchers alternés exacts",
+      "confirms": "Petite flexion latérale, grand droit maintient épaules, obliques mouvement, expiration toucher/inspiration centre.",
+      "limits": "Guide commercial rédigé par entraîneur; ses affirmations de protection générale et de muscle selon sensation ne sont pas retenues comme preuves."
+    },
+    {
+      "id": "C-BARBEND-HEEL",
+      "publisher": "BarBend",
+      "title": "Heel Touches - Jesse Zucker, NCSF CPT",
+      "url": "https://barbend.com/heel-touches/",
+      "accessed": "2026-10-12",
+      "scope": "Démonstration originale entraîneur, touchers alternés",
+      "confirms": "Talons ipsilatéraux, lombaires sol, souffle toucher et inspiration centre.",
+      "limits": "Formulation spine neutral contredit flexion tronc nécessaire; retenir nuque confortable, pas colonne entièrement neutre; pas étude EMG spécifique."
+    },
+    {
+      "id": "C-PURE-CLIMB",
+      "publisher": "PureGym",
+      "title": "How to do Mountain Climbers",
+      "url": "https://www.puregym.com/exercises/full-body/mountain-climbers/",
+      "accessed": "2026-10-12",
+      "scope": "Genou vers poitrine, retour avant alternance; départ lent possible",
+      "confirms": "Mains sous épaules, genou sans contact sol; aller lent pour débuter puis accélération facultative.",
+      "limits": "Article qualifie globalement exercice explosif, mais conseil take it slowly valide adaptation lente; pas cycle respiratoire précis."
+    },
+    {
+      "id": "C-GMB-HOLLOW",
+      "publisher": "GMB Fitness",
+      "title": "Hollow Body Holds For A Strong And Functional Core",
+      "url": "https://gmb.io/hollow-body/",
+      "accessed": "2026-10-12",
+      "readStatus": "actual_text_read",
+      "locator": "Here’s How To Do It, points 1-4 et progression suivante",
+      "scope": "Tutoriel original groupé bras vers talons puis jambes/bras allongés.",
+      "limits": "Pas de sortie séquencée ni respiration détaillée; menton tuck non adopté comme compression. Vidéos/images non examinées.",
+      "author": "Ryan Hurst",
+      "independence": "Tradition gymnastique commune à CrossFit, rédaction distincte; même URL dans deux lots, une source unique."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "EX27",
+      "name": "Planche sur avant-bras",
+      "exactVariant": "Avant-bras et pointes des pieds; maintien, transition par genoux",
+      "status": "corroboration documentaire avec décisions à revoir",
+      "humanReview": null,
+      "startingPosition": "À genoux sur tapis, avant-bras parallèles au sol, paumes posées; coudes à la verticale des épaules. Orteils repliés, regard entre les mains. Allonger successivement les jambes pour établir les appuis avant-bras et avant-pieds.",
+      "movement": {
+        "actionAndEnd": "Tendre les genoux et maintenir tête, épaules, bassin et chevilles dans une ligne sans affaisser le ventre. Garder épaules éloignées des oreilles. Il n’y a pas de répétition du bassin pendant le maintien.",
+        "return": "Conserver les appuis et l’alignement pendant le temps contrôlable; interrompre avant de subir une cambrure.",
+        "exit": "Poser les genoux doucement, puis ramener le poids vers eux et détendre les avant-bras."
+      },
+      "breathing": {
+        "setup": "Souffler doucement en préparant le gainage.",
+        "effort": "Inspirer et expirer librement pendant tout le maintien.",
+        "return": "Continuer à respirer quand les genoux se posent.",
+        "basis": "Respiration continue explicitement ACE; souffle de préparation proposé."
+      },
+      "muscleRoles": {
+        "documented": "Abdominaux et dos stabilisent tronc: ACE; fonction anti-extension: NASM.",
+        "inferred": "Fessiers/quadriceps contribuent à garder bassin et genoux; stabilisateurs de l’épaule supportent les appuis. Fléchisseurs de hanche ne méritent pas seuls le rôle secondaire dominant.",
+        "quantification": "Aucune proportion d’activation."
+      },
+      "errorsAndCorrections": [
+        "Bassin qui tombe: reposer genoux puis raccourcir maintien.",
+        "Fesses trop hautes: retrouver ligne, sans forcer une baisse si le tronc ne tient plus.",
+        "Épaules aux oreilles: repousser doucement le sol avec avant-bras."
+      ],
+      "regressions": [
+        "Planche avant-bras sur genoux, ligne épaules-bassin-genoux.",
+        "Séquences plus courtes, repos complet entre elles."
+      ],
+      "discomfortAndStop": "Douleur lombaire: arrêter, ne pas continuer en corrigeant sous douleur (ACE). Douleur épaule/coude ou difficulté respiratoire: quitter appuis; si persistante ou inhabituelle, avis professionnel.",
+      "mediaSpecification": {
+        "status": "critères de revue proposés; assets non inspectés dans ce lot",
+        "keyframe1": "Genoux posés, coudes sous épaules, orteils repliés visibles.",
+        "keyframe2": "Genoux tendus, appui avant-pieds, bassin dans ligne; profil doit montrer absence de chute lombaire.",
+        "auxiliaryViews": [
+          "Profil prioritaire pour bassin; dessus pour symétrie coudes/avant-bras et largeur pieds."
+        ],
+        "animation": "Pour un maintien, distinguer installation et maintien: une boucle entrée-sortie ne représente pas le travail isométrique. Pour un mouvement alterné, annoncer et montrer les deux côtés; deux images seules ne prouvent pas le trajet."
+      },
+      "audioCues": {
+        "setup": "Coudes sous les épaules. Allonge une jambe, puis l’autre.",
+        "effort": "Garde le bassin dans la ligne et continue à respirer.",
+        "exit": "Pose doucement les genoux."
+      },
+      "catalogAudit": [
+        "Structure actuelle cohérente mais appui orteils et épaules absents.",
+        "core est trop global; hip_flexors seuls en secondaire à réexaminer.",
+        "Step 1 vers 2 est installation, pas animation d’exercice répétitif."
+      ],
+      "sources": [
+        "C-ACE-PLANK",
+        "C-NHS-PLANK",
+        "C-NASM-ABS"
+      ],
+      "editorialDecisions": "Transition par genoux retenue pour cohérence catalogue, corroborée NHS; la descente ventre au sol ACE n’est pas imposée.",
+      "evidenceBoundary": "Synthèse originale. Les appuis et principes attribués sont documentaires; choix de bras, repères visuels, adaptations et cues Tempo restent propositions de coaching. Aucune quantification musculaire ni validation médicale individuelle.",
+      "evidenceCoverage": {
+        "variant": "exacte corroborée",
+        "positions": "appuis et principes recoupés; détails définis dans exactVariant",
+        "muscles": "qualitatif, rôle documenté séparé des inférences",
+        "breathing": "documenté",
+        "media": "spécification seulement, contrôle visuel non réalisé",
+        "audio": "phrases originales proposées, enregistrement non produit ni testé",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX28",
+      "name": "Planche latérale genoux fléchis",
+      "exactVariant": "Planche latérale sur avant-bras inférieur et côté du genou inférieur, deux genoux fléchis",
+      "status": "corroboration documentaire avec décisions à revoir",
+      "humanReview": null,
+      "startingPosition": "Sur le côté, genoux fléchis environ à angle droit, pieds derrière et jambes superposées. Cuisses dans le prolongement du tronc, pas ramenées devant ventre. Coude inférieur sous épaule, avant-bras devant soi; main supérieure sur hanche. Tête suit axe tronc.",
+      "movement": {
+        "actionAndEnd": "Pousser dans avant-bras et côté du genou inférieur, lever bassin pour aligner épaule, hanche et genou. Garder épaules et bassin superposés, sans rouler vers ventre ou plafond.",
+        "return": "Tenir immobile, sans lever le genou supérieur ni tendre les jambes.",
+        "exit": "Reposer bassin lentement; pour changer de côté, passer par position assise ou allongée confortable."
+      },
+      "breathing": {
+        "setup": "Souffler à la levée du bassin (proposition).",
+        "effort": "Respirer régulièrement pendant la tenue.",
+        "return": "Inspirer librement pendant descente.",
+        "basis": "Phases proposées de coaching, non décrites par les deux sources exactes."
+      },
+      "muscleRoles": {
+        "documented": "Obliques et tronc: Fitbod; sensation taille/hanche: Bexley.",
+        "inferred": "Stabilisateurs hanche et épaule inférieures maintiennent appuis et alignement. Ne pas transformer sensation en pourcentage de travail.",
+        "quantification": "Aucune hiérarchie fine certifiée."
+      },
+      "errorsAndCorrections": [
+        "Coude éloigné: replacer sous épaule avant lever.",
+        "Bassin vers arrière: réaligner cuisses/tronc au sol avant nouvelle tenue.",
+        "Rotation: garder main supérieure sur hanche pour repère."
+      ],
+      "regressions": [
+        "Tenue plus courte ou petit décollement du bassin avec retour complet.",
+        "Tapis sous genou, sans empiler une surface instable."
+      ],
+      "discomfortAndStop": "Compression douloureuse sur genou inférieur ou douleur épaule: poser bassin et arrêter cette variante. Contexte postopératoire de la source NHS n’autorise pas une prescription de rééducation personnelle.",
+      "mediaSpecification": {
+        "status": "critères de revue proposés; assets non inspectés dans ce lot",
+        "keyframe1": "Bassin posé, deux genoux fléchis, coude sous épaule.",
+        "keyframe2": "Bassin levé, épaule-hanche-genou alignés, jambe supérieure encore fléchie.",
+        "auxiliaryViews": [
+          "Trois quarts avant pour appui coude/genou; profil latéral du corps pour hanche; dessus pour exclure rotation."
+        ],
+        "animation": "Pour un maintien, distinguer installation et maintien: une boucle entrée-sortie ne représente pas le travail isométrique. Pour un mouvement alterné, annoncer et montrer les deux côtés; deux images seules ne prouvent pas le trajet."
+      },
+      "audioCues": {
+        "setup": "Sur le côté, coude sous l’épaule, genoux pliés.",
+        "effort": "Soulève le bassin. Garde les hanches superposées et respire.",
+        "exit": "Repose doucement le bassin avant de changer de côté."
+      },
+      "catalogAudit": [
+        "Dire avant-bras et genou inférieur, pas seulement coude et genoux.",
+        "lateral_stabilizers est une famille fonctionnelle vague.",
+        "Ne pas importer ACE side plank modified 99: jambe supérieure tendue, variante différente."
+      ],
+      "sources": [
+        "C-NHS-SIDE",
+        "C-FITBOD-SIDE",
+        "C-NHS-SIDE2"
+      ],
+      "editorialDecisions": "Deux genoux fléchis explicitement figés pour supprimer ambiguïté entre planche à un genou et deux genoux.",
+      "evidenceBoundary": "Synthèse originale. Les appuis et principes attribués sont documentaires; choix de bras, repères visuels, adaptations et cues Tempo restent propositions de coaching. Aucune quantification musculaire ni validation médicale individuelle.",
+      "evidenceCoverage": {
+        "variant": "exacte corroborée",
+        "positions": "appuis et principes recoupés; détails définis dans exactVariant",
+        "muscles": "qualitatif, rôle documenté séparé des inférences",
+        "breathing": "proposition de coaching non corroborée phase par phase",
+        "media": "spécification seulement, contrôle visuel non réalisé",
+        "audio": "phrases originales proposées, enregistrement non produit ni testé",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX29",
+      "name": "Dead bug",
+      "exactVariant": "Dead bug alterné bras et jambe opposés, départ tabletop",
+      "status": "corroboration documentaire avec décisions à revoir",
+      "humanReview": null,
+      "startingPosition": "Dos sur tapis, bassin et tête posés; bras tendus vers plafond à hauteur épaules, paumes face à face. Cuisses verticales, genoux fléchis environ à angle droit, tibias parallèles sol, pieds sans appui. Ajuster bassin pour contact lombaire confortable.",
+      "movement": {
+        "actionAndEnd": "Éloigner lentement un bras derrière tête et la jambe opposée devant, sans déplacer les deux membres restants. Arrêter avant que lombaires se décollent ou côtes s’ouvrent. Aucun membre ne doit obligatoirement toucher sol.",
+        "return": "Ramener bras vertical et genou au-dessus hanche puis alterner. Une extension-retour d’un côté constitue une répétition Tempo.",
+        "exit": "Revenir en tableau, poser un pied puis l’autre avant détendre bras et tronc."
+      },
+      "breathing": {
+        "setup": "Inspirer au centre.",
+        "effort": "Souffler pendant éloignement opposé.",
+        "return": "Inspirer au retour contrôlé.",
+        "basis": "Synchronisation proposée pour la variante, respiration libre prioritaire; ne pas forcer longue expiration."
+      },
+      "muscleRoles": {
+        "documented": "Tronc anti-extension et anti-rotation: NASM/PureGym.",
+        "inferred": "Fléchisseurs hanche contrôlent jambe suspendue; épaule produit déplacement bras. Abdominaux stabilisent plutôt que réaliser un crunch.",
+        "quantification": "Aucun isolement du transverse démontré par ces guides."
+      },
+      "errorsAndCorrections": [
+        "Dos qui se creuse: réduire déplacement jambe ou garder genou plié.",
+        "Bras et jambe du même côté: vérifier paire opposée avant repartir.",
+        "Tête relevée: reposer tête, ce n’est pas hollow hold."
+      ],
+      "regressions": [
+        "Bouger une jambe pliée seulement, bras immobiles.",
+        "Toucher doucement sol avec talon d’un genou encore plié, amplitude réduite."
+      ],
+      "discomfortAndStop": "Arrêter en cas de douleur lombaire/hanche ou gêne à lever bras; revenir pieds posés. Contact dos-sol reste un repère, pas pression douloureuse à obtenir.",
+      "mediaSpecification": {
+        "status": "critères de revue proposés; assets non inspectés dans ce lot",
+        "keyframe1": "Tableau complet, tête posée, membres distincts et tibias horizontaux.",
+        "keyframe2": "Bras droit/jambe gauche éloignés, autres membres au centre, bassin immobile.",
+        "auxiliaryViews": [
+          "Trois quarts latéral pour distinguer membres opposés; dessus pour latéralité; profil pour lombaires."
+        ],
+        "animation": "Pour un maintien, distinguer installation et maintien: une boucle entrée-sortie ne représente pas le travail isométrique. Pour un mouvement alterné, annoncer et montrer les deux côtés; deux images seules ne prouvent pas le trajet."
+      },
+      "audioCues": {
+        "setup": "Dos posé. Bras vers le plafond, genoux au-dessus des hanches.",
+        "effort": "Souffle. Éloigne un bras et la jambe opposée, sans creuser le dos.",
+        "return": "Reviens au centre, puis change de côté."
+      },
+      "catalogAudit": [
+        "Texte actuel cohérent mais départ et limites d’amplitude trop vagues.",
+        "Expirer pendant effort devient concret: effort est éloignement, pas levée au retour.",
+        "Une répétition totale par côté doit être explicite en audio; PureGym vidéo compte paire gauche/droite comme une répétition, décision Tempo différente."
+      ],
+      "sources": [
+        "C-NASM-DEAD",
+        "C-PURE-DEAD"
+      ],
+      "editorialDecisions": "Contact lombaire confortable retenu; ne pas prescrire simultanément une lordose neutre stricte et écrasement maximal.",
+      "evidenceBoundary": "Synthèse originale. Les appuis et principes attribués sont documentaires; choix de bras, repères visuels, adaptations et cues Tempo restent propositions de coaching. Aucune quantification musculaire ni validation médicale individuelle.",
+      "evidenceCoverage": {
+        "variant": "exacte corroborée",
+        "positions": "appuis et principes recoupés; détails définis dans exactVariant",
+        "muscles": "qualitatif, rôle documenté séparé des inférences",
+        "breathing": "proposition de coaching non corroborée phase par phase",
+        "media": "spécification seulement, contrôle visuel non réalisé",
+        "audio": "phrases originales proposées, enregistrement non produit ni testé",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX30",
+      "name": "Bird dog",
+      "exactVariant": "Quadrupédie puis bras et jambe opposés, retour avant alternance",
+      "status": "corroboration documentaire avec décisions à revoir",
+      "humanReview": null,
+      "startingPosition": "Mains à plat largeur épaules, doigts devant; poignets sous épaules, genoux sous hanches largeur bassin sur tapis. Pieds derrière, orteils repliés si confortable. Coudes tendus sans verrouillage forcé; regard sol, tête dans axe dos.",
+      "movement": {
+        "actionAndEnd": "Tendre une jambe en arrière et bras opposé devant. Chercher longueur, pas hauteur. Garder bassin et épaules parallèles sol; membres proches horizontale uniquement si dos ne se creuse pas.",
+        "return": "Reposer main et genou sous leurs articulations, stabiliser les quatre appuis, puis autre paire.",
+        "exit": "Revenir à quatre pattes et déplacer poids vers genoux pour libérer mains."
+      },
+      "breathing": {
+        "setup": "Inspirer dans les quatre appuis.",
+        "effort": "Souffler doucement en allongeant; si pause, respirer librement.",
+        "return": "Inspirer en replaçant main/genou.",
+        "basis": "Phases éditoriales; Mayo confirme respiration libre et séquence opposée."
+      },
+      "muscleRoles": {
+        "documented": "NASM: abdominaux, transverse et érecteurs stabilisent; obliques, fessiers et épaule participent. ACE: tronc/dos/hanche.",
+        "inferred": "Fessier produit extension hanche, épaule l’élévation bras; rôle moteur distinct de stabilisation tronc.",
+        "quantification": "Aucune proportion."
+      },
+      "errorsAndCorrections": [
+        "Jambe trop haute: abaisser jusqu’à dos contrôlé.",
+        "Bassin ouvert: pointer les deux hanches vers tapis.",
+        "Déplacement trop rapide: séparer retour et alternance."
+      ],
+      "regressions": [
+        "Allonger une jambe en gardant orteils au sol.",
+        "Lever uniquement bras ou jambe comme progression Mayo."
+      ],
+      "discomfortAndStop": "Douleur poignet/genou: quitter appuis. Douleur lombaire ou épaule pendant extension: revenir sans maintenir position douloureuse; adapter après repos, demander avis si récurrent.",
+      "mediaSpecification": {
+        "status": "critères de revue proposés; assets non inspectés dans ce lot",
+        "keyframe1": "Quatre appuis, mains sous épaules et genoux sous hanches.",
+        "keyframe2": "Bras et jambe opposés étendus, bassin horizontal, tête dans axe.",
+        "auxiliaryViews": [
+          "Profil pour hauteur et cambrure; dessus indispensable pour détecter rotation/paires opposées."
+        ],
+        "animation": "Pour un maintien, distinguer installation et maintien: une boucle entrée-sortie ne représente pas le travail isométrique. Pour un mouvement alterné, annoncer et montrer les deux côtés; deux images seules ne prouvent pas le trajet."
+      },
+      "audioCues": {
+        "setup": "À quatre pattes, mains sous les épaules, genoux sous les hanches.",
+        "effort": "Allonge un bras et la jambe opposée. Le bassin reste face au sol.",
+        "return": "Repose les appuis, puis change de côté."
+      },
+      "catalogAudit": [
+        "Genoux sous hanches et retour stabilisé manquent.",
+        "Muscles uniquement core ne rendent pas dos/fessiers/épaules.",
+        "Classe débutant à condition de régression; ACE classe version opposée intermédiaire."
+      ],
+      "sources": [
+        "C-ACE-BIRD",
+        "C-NASM-BIRD",
+        "C-MAYO-CORE"
+      ],
+      "editorialDecisions": "",
+      "evidenceBoundary": "Synthèse originale. Les appuis et principes attribués sont documentaires; choix de bras, repères visuels, adaptations et cues Tempo restent propositions de coaching. Aucune quantification musculaire ni validation médicale individuelle.",
+      "evidenceCoverage": {
+        "variant": "exacte corroborée",
+        "positions": "appuis et principes recoupés; détails définis dans exactVariant",
+        "muscles": "qualitatif, rôle documenté séparé des inférences",
+        "breathing": "proposition de coaching non corroborée phase par phase",
+        "media": "spécification seulement, contrôle visuel non réalisé",
+        "audio": "phrases originales proposées, enregistrement non produit ni testé",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX31",
+      "name": "Crunch inversé",
+      "exactVariant": "Crunch inversé court, départ genoux au-dessus hanches, tête posée",
+      "status": "corroboré sur principe; décision amplitude/retour à arbitrer",
+      "humanReview": null,
+      "startingPosition": "Dos et tête posés sur tapis, bras le long du corps un peu écartés, paumes au sol. Lever les pieds pour cuisses verticales et genoux pliés environ à angle droit; tibias horizontaux. Épaules restent relâchées sur tapis.",
+      "movement": {
+        "actionAndEnd": "Souffler et enrouler doucement bassin vers côtes, jusqu’à un petit décollement des fesses. Garder angle genoux stable; il ne s’agit ni d’un lancer jambes ni d’une chandelle sur nuque.",
+        "return": "Reposer bassin lentement puis retrouver genoux au-dessus hanches; ne pas abaisser jambes loin du corps pendant répétitions de cette variante.",
+        "exit": "Après retour bassin posé, descendre un pied puis l’autre, reposer jambes confortablement."
+      },
+      "breathing": {
+        "setup": "Respirer au tableau.",
+        "effort": "Expirer pendant enroulement du bassin.",
+        "return": "Inspirer pendant descente bassin.",
+        "basis": "Phases ACE explicites."
+      },
+      "muscleRoles": {
+        "documented": "ACE/PureGym: abdominaux mobilisent bassin, obliques et fléchisseurs hanche participent.",
+        "inferred": "Grand droit contribue à rapprocher bassin/cage, bras servent équilibre. Ne pas présenter « bas des abdos » comme muscle séparé.",
+        "quantification": "Pas classement d’efficacité ni pourcentages."
+      },
+      "errorsAndCorrections": [
+        "Balancer jambes: raccourcir enroulement, pause départ.",
+        "Rouler jusqu’à nuque: garder épaules/tête posées, réduire hauteur.",
+        "Cambrer au retour: revenir uniquement au tableau."
+      ],
+      "regressions": [
+        "Basculer légèrement bassin avec pieds posés sans décoller fesses.",
+        "Réduire décollement et nombre de répétitions."
+      ],
+      "discomfortAndStop": "Douleur dos/nuque, pression inhabituelle abdominale ou impossibilité de retour contrôlé: terminer et poser pieds. Problème de dos connu ou ostéoporose: demander adaptation professionnelle, conformément contexte Mayo.",
+      "mediaSpecification": {
+        "status": "critères de revue proposés; assets non inspectés dans ce lot",
+        "keyframe1": "Genoux au-dessus hanches, angle fléchi stable, tête et paumes posées.",
+        "keyframe2": "Bassin légèrement enroulé et décollé, épaules toujours au sol, pas jambes verticales en chandelle.",
+        "auxiliaryViews": [
+          "Profil prioritaire; trois quarts léger peut montrer appuis bras, dessus non indispensable au petit enroulement."
+        ],
+        "animation": "Pour un maintien, distinguer installation et maintien: une boucle entrée-sortie ne représente pas le travail isométrique. Pour un mouvement alterné, annoncer et montrer les deux côtés; deux images seules ne prouvent pas le trajet."
+      },
+      "audioCues": {
+        "setup": "Dos et tête posés. Garde les genoux au-dessus des hanches.",
+        "effort": "Souffle et enroule doucement le bassin, sans lancer les jambes.",
+        "return": "Repose le bassin lentement, puis retrouve le centre."
+      },
+      "catalogAudit": [
+        "Départ jambes fléchies ne dit pas si pieds en l’air.",
+        "Secondary vide omet participation fléchisseurs hanche documentée.",
+        "Retour de bassin cohérent, préciser jambes restent en tableau."
+      ],
+      "sources": [
+        "C-ACE-REVERSE",
+        "C-PURE-REVERSE",
+        "C-PURE-REVERSE-DK",
+        "C-CATALYST-REVERSE",
+        "C-MAYO-CORE"
+      ],
+      "editorialDecisions": "ACE ramène genoux au-dessus hanches, PureGym DK ramène talons au sol; Catalyst pieds proches sol sans toucher. Pour EX31 court retenir tableau ACE. Variante de prise Catalyst exclue. PureGym UK dit relever épaules dans transcription vidéo mais pas tutoriel écrit: retenir tête/épaules posées ACE, point à examiner humainement. Petit décollement Tempo reste choix conservateur, pas consensus chiffré.",
+      "evidenceBoundary": "Synthèse originale. Les appuis et principes attribués sont documentaires; choix de bras, repères visuels, adaptations et cues Tempo restent propositions de coaching. Aucune quantification musculaire ni validation médicale individuelle.",
+      "evidenceCoverage": {
+        "variant": "exacte avec divergence ou détails éditoriaux",
+        "positions": "appuis et principes recoupés; détails définis dans exactVariant",
+        "muscles": "qualitatif, rôle documenté séparé des inférences",
+        "breathing": "documenté",
+        "media": "spécification seulement, contrôle visuel non réalisé",
+        "audio": "phrases originales proposées, enregistrement non produit ni testé",
+        "humanTechnicalReview": null
+      },
+      "followupReview": {
+        "date": "2026-10-12",
+        "decision": "Conserver retour genoux au-dessus des hanches, pieds suspendus, tête/épaules posées; ne pas importer talons au sol de PureGym DK. Amplitude courte reste choix Tempo.",
+        "sourceIds": [
+          "C-ACE-REVERSE",
+          "C-PURE-REVERSE",
+          "C-CATALYST-REVERSE"
+        ],
+        "evidenceByDomain": {
+          "positions": "Retour ACE relu; petit décollement sans amplitude universelle.",
+          "muscles": "Pas nouvelle preuve musculaire.",
+          "advice": "Cue retour doit nommer bassin, pas descente pieds au sol.",
+          "media": "Brief dérivé des consignes seulement; aucune nouvelle inspection ou validation de média. Trajectoire complète, entrée et sortie à revoir humainement.",
+          "audio": "Brouillon dépendant de la variante; aucune approbation de script, production, écoute ou intégration dans cette passe."
+        },
+        "humanApproval": false
+      }
+    },
+    {
+      "id": "EX32",
+      "name": "Crunch court",
+      "exactVariant": "Crunch court, pieds posés, bras devant sans prise tête",
+      "status": "corroboration documentaire avec décisions à revoir",
+      "humanReview": null,
+      "startingPosition": "Dos sur tapis, genoux fléchis et pieds à plat largeur bassin. Bassin posé, bas du dos en contact confortable. Bras devant, mains glissent sur cuisses; épaules relâchées, menton légèrement rentré sans écraser gorge.",
+      "movement": {
+        "actionAndEnd": "En soufflant, rapprocher cage thoracique du bassin et décoller épaules/haut du dos d’une petite hauteur. Pieds et bassin restent posés; tête accompagne buste sans traction mains.",
+        "return": "Inspirer et reposer lentement haut du dos puis tête; ne pas partir en position assise.",
+        "exit": "Reposer tête et bras, détendre tronc avec pieds encore au sol."
+      },
+      "breathing": {
+        "setup": "Inspirer avant répétition.",
+        "effort": "Expirer pendant petit enroulement du buste.",
+        "return": "Inspirer pendant descente.",
+        "basis": "ACE et PureGym DK décrivent ces phases."
+      },
+      "muscleRoles": {
+        "documented": "ACE/PureGym: abdominaux pour flexion tronc; grand droit cible principale.",
+        "inferred": "Obliques contribuent sans rotation intentionnelle; muscles nuque accompagnent tête mais ne constituent pas cible.",
+        "quantification": "core stabilizer reste trop vague pour une carte anatomique fine."
+      },
+      "errorsAndCorrections": [
+        "Tirer tête: mains devant, baisser hauteur.",
+        "Monter assis: arrêter dès décollement épaules suffisant.",
+        "Pieds décollent/bassin bascule fortement: réduire vitesse et hauteur."
+      ],
+      "regressions": [
+        "Plus petit décollement; faire moins de répétitions.",
+        "Abandonner crunch en cas de gêne cervicale persistante et choisir exercice tête posée à faire adapter."
+      ],
+      "discomfortAndStop": "Nuque ou dos douloureux: reposer et arrêter. Une brûlure musculaire progressive n’oblige pas à poursuivre; douleur vive, irradiée ou inhabituelle mérite avis.",
+      "mediaSpecification": {
+        "status": "critères de revue proposés; assets non inspectés dans ce lot",
+        "keyframe1": "Pieds plats, genoux pliés, tête posée et mains sur cuisses.",
+        "keyframe2": "Épaules décollées modérément, pieds/bassin encore posés, pas traction tête.",
+        "auxiliaryViews": [
+          "Profil prioritaire pour amplitude et nuque; trois quarts pour vérifier pieds."
+        ],
+        "animation": "Pour un maintien, distinguer installation et maintien: une boucle entrée-sortie ne représente pas le travail isométrique. Pour un mouvement alterné, annoncer et montrer les deux côtés; deux images seules ne prouvent pas le trajet."
+      },
+      "audioCues": {
+        "setup": "Pieds au sol, mains sur les cuisses.",
+        "effort": "Souffle et décolle légèrement les épaules. Garde la nuque confortable.",
+        "return": "Repose lentement le haut du dos."
+      },
+      "catalogAudit": [
+        "Position mains sans traction non fixée; retenir mains sur cuisses évite image ambiguë.",
+        "Petite amplitude déjà cohérente.",
+        "Ne pas utiliser crunch pieds au mur Mayo comme validation exacte."
+      ],
+      "sources": [
+        "C-ACE-CRUNCH",
+        "C-PURE-CRUNCH"
+      ],
+      "editorialDecisions": "Bras devant retenus pour réduire ambiguïté traction; source ACE derrière tête consultée mais placement PureGym choisi.",
+      "evidenceBoundary": "Synthèse originale. Les appuis et principes attribués sont documentaires; choix de bras, repères visuels, adaptations et cues Tempo restent propositions de coaching. Aucune quantification musculaire ni validation médicale individuelle.",
+      "evidenceCoverage": {
+        "variant": "exacte corroborée",
+        "positions": "appuis et principes recoupés; détails définis dans exactVariant",
+        "muscles": "qualitatif, rôle documenté séparé des inférences",
+        "breathing": "documenté",
+        "media": "spécification seulement, contrôle visuel non réalisé",
+        "audio": "phrases originales proposées, enregistrement non produit ni testé",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX33",
+      "name": "Mountain climbers lents",
+      "exactVariant": "Mountain climber lent, genou sous poitrine, retour complet puis alternance sans saut",
+      "status": "trajet poitrine et adaptation lente corroborés; respiration à revoir",
+      "humanReview": null,
+      "startingPosition": "À quatre pattes, mains à plat sous épaules largeur épaules, doigts devant; allonger jambes pour appui paumes et avant-pieds. Coudes tendus sans hyperextension forcée, regard sol. Bassin dans ligne tronc/jambes; pieds largeur confortable.",
+      "movement": {
+        "actionAndEnd": "Lever un pied et ramener ce genou sous poitrine, dans son couloir, sans chercher toucher coude. L’autre avant-pied et les deux mains restent appuis. Garder épaules proches verticale mains et bassin sans rotation.",
+        "return": "Replacer le pied arrière, retrouver planche stable, puis ramener autre genou; pas permutation sautée.",
+        "exit": "Poser un genou puis l’autre et ramener poids vers genoux avant libérer mains."
+      },
+      "breathing": {
+        "setup": "Respirer en planche.",
+        "effort": "Expirer pendant rapprochement genou.",
+        "return": "Inspirer pendant retour pied.",
+        "basis": "Synchronisation proposée pour tempo lent, non universelle; souffle libre si rythme ne convient pas."
+      },
+      "muscleRoles": {
+        "documented": "NSCA: grand droit/obliques pour stabilité; guide NHS confirme contrôle ventre.",
+        "inferred": "Fléchisseurs hanche amènent cuisse; triceps et stabilisateurs épaules tiennent appui, jambe arrière participe au soutien.",
+        "quantification": "Le travail cardio dépend cadence; version lente ne justifie pas promesse cardiovasculaire chiffrée."
+      },
+      "errorsAndCorrections": [
+        "Deux pieds sautent: revenir à pas séparés.",
+        "Bassin chute: raccourcir trajet genou ou revenir genoux.",
+        "Genou croise: rester sous même côté poitrine."
+      ],
+      "regressions": [
+        "Mains sur plan de travail fixe, pied revient avant alterner; principe documenté UHCW.",
+        "Trajet genou plus court au sol."
+      ],
+      "discomfortAndStop": "Douleur poignet/épaule: quitter appui; plan élevé peut réduire charge mais ne garantit pas absence de douleur. Gêne hanche/dos: cesser et réduire amplitude seulement après retour confortable.",
+      "mediaSpecification": {
+        "status": "critères de revue proposés; assets non inspectés dans ce lot",
+        "keyframe1": "Planche bras tendus, pieds posés, tête dans axe.",
+        "keyframe2": "Un genou sous poitrine, pied correspondant décollé; autre jambe arrière tendue, mains inchangées.",
+        "auxiliaryViews": [
+          "Profil pour appuis/bassin; dessus pour genou dans couloir et absence croisement."
+        ],
+        "animation": "Pour un maintien, distinguer installation et maintien: une boucle entrée-sortie ne représente pas le travail isométrique. Pour un mouvement alterné, annoncer et montrer les deux côtés; deux images seules ne prouvent pas le trajet."
+      },
+      "audioCues": {
+        "setup": "Mains sous les épaules. Trouve ta planche.",
+        "effort": "Souffle et ramène un genou sous la poitrine.",
+        "return": "Repose le pied derrière toi avant de changer de côté."
+      },
+      "catalogAudit": [
+        "Approcher un genou manque destination et appui pied opposé.",
+        "Sources explosives Royal Berkshire ne prouvent pas le tempo lent.",
+        "Stabilisateurs actuellement vides malgré appui haut du corps."
+      ],
+      "sources": [
+        "C-NSCA-TSAC",
+        "C-NHS-CLIMB",
+        "C-NHS-CLIMB-REG",
+        "C-PURE-CLIMB"
+      ],
+      "editorialDecisions": "NSCA décrit genou vers coude ipsilatéral; PureGym décrit genou poitrine et autorise départ lent. Tempo retient poitrine, sans importer recommandation de vitesse maximale. Pas d’atteinte obligatoire poitrine/coude.",
+      "evidenceBoundary": "Synthèse originale. Les appuis et principes attribués sont documentaires; choix de bras, repères visuels, adaptations et cues Tempo restent propositions de coaching. Aucune quantification musculaire ni validation médicale individuelle.",
+      "evidenceCoverage": {
+        "variant": "exacte corroborée",
+        "positions": "appuis et principes recoupés; détails définis dans exactVariant",
+        "muscles": "qualitatif, rôle documenté séparé des inférences",
+        "breathing": "proposition de coaching non corroborée phase par phase",
+        "media": "spécification seulement, contrôle visuel non réalisé",
+        "audio": "phrases originales proposées, enregistrement non produit ni testé",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX34",
+      "name": "Roue abdominale à genoux, amplitude courte",
+      "exactVariant": "Roue à genoux courte, bras tendus, aucun objectif de parallèle au sol",
+      "status": "variante courte corroborée; respiration et média à revoir",
+      "humanReview": null,
+      "startingPosition": "Vérifier roue, poignées et sol dégagé non glissant. À genoux sur tapis stable, genoux largeur bassin sous hanches; mains fermées sur poignées, roue sous épaules ou légèrement devant. Bras tendus, poignets dans prolongement avant-bras, regard sol. Préparer tronc et bassin sans cambrure.",
+      "movement": {
+        "actionAndEnd": "Rouler très progressivement en avant: épaules se fléchissent, hanches s’ouvrent, genoux restent fixes. S’arrêter alors que retour encore contrôlable, avant affaissement lombaire. Courte amplitude n’est pas une distance universelle et ne vise pas buste parallèle sol.",
+        "return": "Ramener roue et bassin ensemble vers départ, sans tirer brusquement des bras ni s’asseoir soudain sur talons.",
+        "exit": "Revenir roue proche, transférer poids vers genoux, poser roue avant relâcher poignées."
+      },
+      "breathing": {
+        "setup": "Souffler doucement et préparer tronc.",
+        "effort": "Respiration continue pendant aller; une inspiration calme à aller et expiration au retour peuvent servir de cadence.",
+        "return": "Souffler en ramenant roue, sans apnée.",
+        "basis": "Proposition à faire revoir; sources sélectionnées ne fixent pas phases, « effort » existe à aller et retour."
+      },
+      "muscleRoles": {
+        "documented": "NSCA: tronc stabilise, fléchisseurs hanche participent retour; PureGym: grand droit/obliques/érecteurs/fessiers.",
+        "inferred": "Épaules/grand dorsal et bras contrôlent roue; leurs rôles changent avec angle.",
+        "quantification": "Aucun muscle isolé ni classement de force établi."
+      },
+      "errorsAndCorrections": [
+        "Aller trop loin: réduire course avant répétition suivante.",
+        "Cambrure à aller ou retour: cesser, proposer EX29.",
+        "S’asseoir très vite: course plus courte et retour continu."
+      ],
+      "regressions": [
+        "Course encore plus courte, seulement si contrôle réel.",
+        "Dead bug ou planche genoux, pas progression automatique vers roue."
+      ],
+      "discomfortAndStop": "Arrêter pour douleur dos, épaules, poignets ou genoux, roue incontrôlable, respiration bloquée. Maîtrise déclarée dans réglages ne prouve pas maîtrise réelle; première exécution avec regard technique recommandée.",
+      "mediaSpecification": {
+        "status": "critères de revue proposés; assets non inspectés dans ce lot",
+        "keyframe1": "Roue proche, appuis genoux stables, poignets/bras/épaules lisibles.",
+        "keyframe2": "Roue légèrement avancée, hanche ouverte, bassin contrôlé; angle permet retour sans dos creusé.",
+        "auxiliaryViews": [
+          "Profil indispensable: roue, bassin, lombaires, genoux entiers; dessus secondaire pour trajectoire droite et appuis symétriques."
+        ],
+        "animation": "Pour un maintien, distinguer installation et maintien: une boucle entrée-sortie ne représente pas le travail isométrique. Pour un mouvement alterné, annoncer et montrer les deux côtés; deux images seules ne prouvent pas le trajet."
+      },
+      "audioCues": {
+        "setup": "À genoux, roue proche. Prépare ton tronc.",
+        "effort": "Avance juste un peu, sans creuser le dos.",
+        "return": "Souffle et ramène la roue doucement.",
+        "exit": "Repose la roue avant de relâcher les mains."
+      },
+      "catalogAudit": [
+        "Tip actuel restriction produit n’explique pas mécanique.",
+        "Expiration pendant effort/inspiration retour est ambiguë pour anti-extension roue.",
+        "Erreur dos seulement au retour omet risque de contrôle à aller.",
+        "Gates wheel_mastery et technique_viewed nécessaires mais pas validation humaine."
+      ],
+      "sources": [
+        "C-NSCA-WHEEL",
+        "C-NSCA-TSAC",
+        "C-PURE-WHEEL",
+        "C-NASM-ABS"
+      ],
+      "editorialDecisions": "PureGym confirme réduire course; NSCA décrit rollout complet. Retenir courte course, pas seuil en cm. Ne pas importer leurs amplitudes complètes dans keyframe 2.",
+      "evidenceBoundary": "Synthèse originale. Les appuis et principes attribués sont documentaires; choix de bras, repères visuels, adaptations et cues Tempo restent propositions de coaching. Aucune quantification musculaire ni validation médicale individuelle.",
+      "evidenceCoverage": {
+        "variant": "exacte avec divergence ou détails éditoriaux",
+        "positions": "appuis et principes recoupés; détails définis dans exactVariant",
+        "muscles": "qualitatif, rôle documenté séparé des inférences",
+        "breathing": "proposition de coaching non corroborée phase par phase",
+        "media": "spécification seulement, contrôle visuel non réalisé",
+        "audio": "phrases originales proposées, enregistrement non produit ni testé",
+        "humanTechnicalReview": null
+      },
+      "followupReview": {
+        "date": "2026-10-12",
+        "decision": "Conserver courte course contrôlable, aller et retour à examiner ensemble; aucune cible buste parallèle. Respiration proposée reste non approuvée.",
+        "sourceIds": [
+          "C-NSCA-WHEEL",
+          "C-PURE-WHEEL"
+        ],
+        "evidenceByDomain": {
+          "positions": "Réduction amplitude PureGym relue; aucun seuil centimétrique.",
+          "muscles": "Pas nouvelle preuve musculaire.",
+          "advice": "Éviter cue effort ambigu; boucle ne prouve pas contrôle du retour.",
+          "media": "Brief dérivé des consignes seulement; aucune nouvelle inspection ou validation de média. Trajectoire complète, entrée et sortie à revoir humainement.",
+          "audio": "Brouillon dépendant de la variante; aucune approbation de script, production, écoute ou intégration dans cette passe."
+        },
+        "humanApproval": false
+      }
+    },
+    {
+      "id": "EX35",
+      "name": "Hollow hold groupé",
+      "exactVariant": "Hollow hold groupé statique, genoux pliés en l’air, bras vers cuisses",
+      "status": "groupé bras vers talons recoupé; entrée/sortie et média à revoir",
+      "humanReview": null,
+      "startingPosition": "Allongé dos au sol, genoux pliés au-dessus hanches, pieds en l’air, tibias environ horizontaux. Bras le long du corps, mains dirigées vers cuisses. Basculer doucement bassin pour garder lombaires en contact confortable; tête d’abord posée.",
+      "movement": {
+        "actionAndEnd": "Souffler pour relever légèrement tête/omoplates en rapprochant côtes du bassin; bras tendus vers cuisses sans saisir genoux. Maintenir jambes groupées et lombaires posées. Position reste fixe, pas balancement hollow rock ni crunch répétitif.",
+        "return": "Pendant tenue, garder même flexion genoux; si contact dos ou respiration perdus, terminer plutôt qu’allonger jambes.",
+        "exit": "Reposer épaules puis tête, poser un pied puis l’autre, relâcher tronc."
+      },
+      "breathing": {
+        "setup": "Souffler doucement au placement bassin et relevé épaules.",
+        "effort": "Respirer continuellement pendant tenue; petits cycles confortables, sans immobiliser souffle.",
+        "return": "Respirer librement en reposant.",
+        "basis": "Phases installation proposées; sources hollow ne fournissent pas cycle précis; respiration libre cohérente recommandation Mayo."
+      },
+      "muscleRoles": {
+        "documented": "ACE: grand droit et stabilisateurs antérieurs; CrossFit: tension abdominaux et bascule bassin.",
+        "inferred": "Fléchisseurs hanche soutiennent cuisses fléchies; épaules/bras interviennent moins bras devant que bras au-dessus tête.",
+        "quantification": "Ne pas annoncer isolation transverse ou ciblage « abdos inférieurs ». "
+      },
+      "errorsAndCorrections": [
+        "Lombaires se décollent: rapprocher genoux ou terminer tenue.",
+        "Menton plaqué poitrine: réduire relevé, garder nuque confortable.",
+        "Tendre jambes: conserver groupé de cette fiche."
+      ],
+      "regressions": [
+        "Tenue très courte puis repos tête au sol.",
+        "Pieds posés et petit crunch devient autre variante, à nommer; dead bug tête posée si cervicales gênées."
+      ],
+      "discomfortAndStop": "Gêne cervicale/dos ou apnée: reposer. Lombaires au sol n’autorisent pas une pression douloureuse; avis si symptômes récurrents. Adaptation grossesse/postpartum ou pathologie relève d’un professionnel.",
+      "mediaSpecification": {
+        "status": "critères de revue proposés; assets non inspectés dans ce lot",
+        "keyframe1": "Genoux groupés en l’air et tête posée; préciser que départ pieds posés du catalogue est installation possible.",
+        "keyframe2": "Omoplates légèrement décollées, genoux toujours groupés, lombaires posées, mains vers cuisses.",
+        "auxiliaryViews": [
+          "Profil pour contact lombaire/omoplates; dessus pour symétrie, ne prouve pas contact bas dos."
+        ],
+        "animation": "Pour un maintien, distinguer installation et maintien: une boucle entrée-sortie ne représente pas le travail isométrique. Pour un mouvement alterné, annoncer et montrer les deux côtés; deux images seules ne prouvent pas le trajet."
+      },
+      "audioCues": {
+        "setup": "Genoux pliés au-dessus des hanches. Bras vers les cuisses.",
+        "effort": "Décolle légèrement les épaules. Garde le bas du dos posé et respire.",
+        "exit": "Repose la tête, puis les pieds."
+      },
+      "catalogAudit": [
+        "Dos au sol, genoux fléchis ne dit pas si pieds posés ou suspendus.",
+        "Étape 2 manque appui lombaire et position bras.",
+        "Animation 1/2 doit être étiquetée placement, pas rythme répétitif du maintien."
+      ],
+      "sources": [
+        "C-ACE-HOLLOW",
+        "C-CROSSFIT-HOLLOW",
+        "C-MAYO-CORE",
+        "C-GMB-HOLLOW"
+      ],
+      "editorialDecisions": "GMB corrobore désormais groupé avec bras vers talons et progression vers leviers longs; ACE/CrossFit recoupent famille groupée. Position tibias horizontaux et ordre de sortie restent choix Tempo; ne pas imposer menton contre poitrine.",
+      "evidenceBoundary": "Synthèse originale. Les appuis et principes attribués sont documentaires; choix de bras, repères visuels, adaptations et cues Tempo restent propositions de coaching. Aucune quantification musculaire ni validation médicale individuelle.",
+      "evidenceCoverage": {
+        "variant": "exacte avec divergence ou détails éditoriaux",
+        "positions": "appuis et principes recoupés; détails définis dans exactVariant",
+        "muscles": "qualitatif, rôle documenté séparé des inférences",
+        "breathing": "proposition de coaching non corroborée phase par phase",
+        "media": "spécification seulement, contrôle visuel non réalisé",
+        "audio": "phrases originales proposées, enregistrement non produit ni testé",
+        "humanTechnicalReview": null
+      },
+      "sourceEvidence": [
+        {
+          "sourceId": "C-GMB-HOLLOW",
+          "match": "exact_progression_static",
+          "confirms": "Groupé bras vers talons, épaules relevées, progression jambes puis bras au-dessus tête sous contrôle lombaire."
+        }
+      ],
+      "followupReview": {
+        "date": "2026-10-12",
+        "decision": "Bras dirigés vers talons/cuisses désormais décrits par GMB; conserver maintien immobile. Tibias horizontaux et sortie progressive restent propositions.",
+        "sourceIds": [
+          "C-ACE-HOLLOW",
+          "C-CROSSFIT-HOLLOW",
+          "C-GMB-HOLLOW"
+        ],
+        "evidenceByDomain": {
+          "positions": "Configuration bras renforcée; ni inclinaison universelle tibias ni sortie exacte corroborées.",
+          "muscles": "Paroi abdominale/obliques et fléchisseurs hanche mentionnés qualitativement; ne pas convertir discours tout le tronc en carte validée.",
+          "advice": "Raccourcir levier si contact lombaire perdu; respirer selon contexte général, pas cycle inventé.",
+          "media": "Brief dérivé des consignes seulement; aucune nouvelle inspection ou validation de média. Trajectoire complète, entrée et sortie à revoir humainement.",
+          "audio": "Brouillon dépendant de la variante; aucune approbation de script, production, écoute ou intégration dans cette passe."
+        },
+        "humanApproval": false
+      }
+    },
+    {
+      "id": "EX36",
+      "name": "Touchers de talons alternés",
+      "exactVariant": "Touchers de talons ipsilatéraux, pieds au sol, petit buste fléchi et alternance latérale",
+      "status": "mécanique exacte corroborée; termes nuque/colonne à arbitrer",
+      "humanReview": null,
+      "startingPosition": "Dos sur tapis, genoux pliés, pieds plats largeur bassin; talons assez proches pour rejoindre confortablement leur direction. Bras tendus le long du corps, doigts vers talons. Décoller doucement épaules et tête, garder bassin et lombaires posés; nuque suit buste.",
+      "movement": {
+        "actionAndEnd": "Incliner légèrement tronc vers droite et rapprocher main droite du talon droit, sans déplacer pieds ni tourner bassin. Contact talon facultatif: la petite flexion latérale est le mouvement, pas allongement du bras seul.",
+        "return": "Revenir au centre en gardant épaules légèrement relevées, puis côté gauche. Un toucher-retour d’un côté vaut une répétition totale Tempo.",
+        "exit": "Revenir au centre, reposer épaules et tête, détendre bras."
+      },
+      "breathing": {
+        "setup": "Inspirer au centre.",
+        "effort": "Expirer pendant chaque approche du talon.",
+        "return": "Inspirer en revenant au centre.",
+        "basis": "SFS et BarBend explicitement, manuel NSCA ne précise pas cycle."
+      },
+      "muscleRoles": {
+        "documented": "NSCA: abdominaux et obliques; SFS: obliques flexion latérale et grand droit maintien épaules.",
+        "inferred": "Stabilisateurs abdominaux contrôlent bassin; pas rotation intentionnelle. Sentir hanche ne prouve pas rôle dominant fléchisseur.",
+        "quantification": "Sans pourcentages ou classement EMG."
+      },
+      "errorsAndCorrections": [
+        "Bassin roule: réduire inclinaison, garder pieds fixes.",
+        "Tête force pour toucher: rapprocher talons ou viser leur direction.",
+        "Seuls bras bougent: petit mouvement cage vers hanche du même côté."
+      ],
+      "regressions": [
+        "Talons rapprochés et trajet court.",
+        "Faire un côté, repos complet tête au sol, puis autre; ne pas maintenir sous gêne cervicale."
+      ],
+      "discomfortAndStop": "Douleur cervicale, lombaire, irradiée ou engourdissement: arrêter, reposer. Pas obligation d’atteindre talon; si gêne revient malgré réduction, choisir une autre variante avec professionnel.",
+      "mediaSpecification": {
+        "status": "critères de revue proposés; assets non inspectés dans ce lot",
+        "keyframe1": "Pieds plats, genoux pliés, épaules légèrement relevées au centre, bassin posé.",
+        "keyframe2": "Main droite vers talon droit par petit mouvement latéral tronc; pieds inchangés. Deuxième côté à ajouter comme panneau/indication.",
+        "auxiliaryViews": [
+          "Dessus prioritaire pour même côté et trajectoire latérale; trois quarts avant pour contact pieds; profil pour nuque et épaules."
+        ],
+        "animation": "Pour un maintien, distinguer installation et maintien: une boucle entrée-sortie ne représente pas le travail isométrique. Pour un mouvement alterné, annoncer et montrer les deux côtés; deux images seules ne prouvent pas le trajet."
+      },
+      "audioCues": {
+        "setup": "Pieds au sol. Décolle légèrement les épaules.",
+        "effort": "Souffle et approche la main du talon du même côté.",
+        "return": "Reviens au centre, puis change de côté."
+      },
+      "catalogAudit": [
+        "Étape 1 oublie bras, pieds plats et épaules relevées avant inclinaison.",
+        "Catalogue obliques seul principal acceptable mais grand droit rôle maintien absent.",
+        "Un média à deux positions ne montre pas alternance gauche/droite ni repos."
+      ],
+      "sources": [
+        "C-NSCA-HEEL",
+        "C-SFS-HEEL",
+        "C-BARBEND-HEEL"
+      ],
+      "editorialDecisions": "Manuel distingue toucher bilatéral et option oblique alternée: seule option alternée retenue. SFS chin neutral, BarBend gently tucked/neutral spine: retenir nuque confortable dans petit buste fléchi; ne pas parler colonne entièrement neutre.",
+      "evidenceBoundary": "Synthèse originale. Les appuis et principes attribués sont documentaires; choix de bras, repères visuels, adaptations et cues Tempo restent propositions de coaching. Aucune quantification musculaire ni validation médicale individuelle.",
+      "evidenceCoverage": {
+        "variant": "exacte corroborée",
+        "positions": "appuis et principes recoupés; détails définis dans exactVariant",
+        "muscles": "qualitatif, rôle documenté séparé des inférences",
+        "breathing": "documenté",
+        "media": "spécification seulement, contrôle visuel non réalisé",
+        "audio": "phrases originales proposées, enregistrement non produit ni testé",
+        "humanTechnicalReview": null
+      }
+    }
+  ]
+}

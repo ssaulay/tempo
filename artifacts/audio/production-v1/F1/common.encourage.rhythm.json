@@ -1,0 +1,81 @@
+{
+  "voice": "F1",
+  "voice_id": "voice_pjrwzzqm559j",
+  "model": "gemini-3.8-flash-tts",
+  "clip": {
+    "id": "common.encourage.rhythm",
+    "text": "Garde ton rythme et respire.",
+    "family": "common",
+    "status": "text_frozen",
+    "review": "editorial_prepared_not_sport_technical",
+    "text_sha256": "73f7ca61e2e28f0560a77737c3da6743467d43c25eb6044e9f9c493218679512"
+  },
+  "duration_seconds": 2.52,
+  "request_seconds": 4.059623791,
+  "usage": {
+    "total_tokens": 72,
+    "total_input_tokens": 9,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 9
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 63,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 63
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0,
+    "raw_prompt_token": 1023,
+    "model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 176
+          }
+        ],
+        "cache_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 176
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 65
+          }
+        ]
+      }
+    ],
+    "non_grounding_model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 176
+          }
+        ],
+        "cache_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 176
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 65
+          }
+        ]
+      }
+    ]
+  },
+  "status": "generated_listening_pending"
+}

@@ -1,0 +1,5527 @@
+{
+  "sheets": 60,
+  "poses": 180,
+  "humanTechnicalReview": "pending",
+  "records": [
+    {
+      "panels": [
+        [
+          7,
+          485
+        ],
+        [
+          496,
+          973
+        ],
+        [
+          982,
+          1468
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 238.0,
+            "width": null
+          },
+          "scale": 1.5968222442899702,
+          "translation": [
+            -206.39523336643492,
+            98.29990069513406
+          ],
+          "projectedReference": [
+            611.1777557100298,
+            478.34359483614696
+          ],
+          "projectedBounds": [
+            478.64150943396226,
+            106.2840119165839,
+            721.3584905660377,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 237.5,
+            "width": null
+          },
+          "scale": 1.5968222442899702,
+          "translation": [
+            -206.39523336643492,
+            99.09831181727901
+          ],
+          "projectedReference": [
+            611.1777557100298,
+            478.34359483614696
+          ],
+          "projectedBounds": [
+            433.93048659384317,
+            108.67924528301883,
+            766.069513406157,
+            851.2015888778549
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 274.5,
+            "width": null
+          },
+          "scale": 1.5968222442899702,
+          "translation": [
+            -206.39523336643492,
+            40.01588877855016
+          ],
+          "projectedReference": [
+            611.1777557100298,
+            478.34359483614696
+          ],
+          "projectedBounds": [
+            438.720953326713,
+            48.000000000000014,
+            738.9235352532274,
+            806.4905660377358
+          ]
+        }
+      ],
+      "referenceKind": "common-camera",
+      "technicalReview": "pending",
+      "exercise": "EX01",
+      "angle": "base",
+      "source": "assets/sources/EX01.png"
+    },
+    {
+      "panels": [
+        [
+          10,
+          505
+        ],
+        [
+          516,
+          1010
+        ],
+        [
+          1026,
+          1520
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 245.0,
+            "width": null
+          },
+          "scale": 1.6441717791411044,
+          "translation": [
+            -233.5950920245399,
+            47.99999999999994
+          ],
+          "projectedReference": [
+            608.2208588957055,
+            450.82208588957053
+          ],
+          "projectedBounds": [
+            463.5337423312883,
+            57.865030674846565,
+            728.2453987730062,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 248.0,
+            "width": null
+          },
+          "scale": 1.6441717791411044,
+          "translation": [
+            -233.5950920245399,
+            43.067484662576646
+          ],
+          "projectedReference": [
+            608.2208588957055,
+            450.82208588957053
+          ],
+          "projectedBounds": [
+            170.87116564417175,
+            52.93251533742327,
+            1029.128834355828,
+            845.4233128834355
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 251.0,
+            "width": null
+          },
+          "scale": 1.6441717791411044,
+          "translation": [
+            -233.5950920245399,
+            38.13496932515335
+          ],
+          "projectedReference": [
+            608.2208588957055,
+            450.82208588957053
+          ],
+          "projectedBounds": [
+            461.88957055214723,
+            47.99999999999997,
+            728.2453987730062,
+            840.4907975460123
+          ]
+        }
+      ],
+      "referenceKind": "common-camera",
+      "technicalReview": "pending",
+      "exercise": "EX02",
+      "angle": "base",
+      "source": "assets/sources/EX02.png"
+    },
+    {
+      "panels": [
+        [
+          12,
+          493
+        ],
+        [
+          509,
+          1011
+        ],
+        [
+          1031,
+          1510
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 238.5,
+            "width": null
+          },
+          "scale": 1.6408163265306122,
+          "translation": [
+            -237.63673469387754,
+            60.306122448979636
+          ],
+          "projectedReference": [
+            602.4612244897959,
+            451.6408163265306
+          ],
+          "projectedBounds": [
+            472.8367346938775,
+            70.1510204081633,
+            723.8816326530612,
+            839.6938775510204
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 252.0,
+            "width": null
+          },
+          "scale": 1.6408163265306122,
+          "translation": [
+            -237.63673469387754,
+            38.15510204081636
+          ],
+          "projectedReference": [
+            602.4612244897959,
+            451.6408163265306
+          ],
+          "projectedBounds": [
+            366.1836734693877,
+            48.00000000000003,
+            833.8163265306123,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 247.5,
+            "width": null
+          },
+          "scale": 1.6408163265306122,
+          "translation": [
+            -237.63673469387754,
+            45.53877551020412
+          ],
+          "projectedReference": [
+            602.4612244897959,
+            451.6408163265306
+          ],
+          "projectedBounds": [
+            471.19591836734696,
+            55.38367346938779,
+            723.8816326530612,
+            821.6448979591837
+          ]
+        }
+      ],
+      "referenceKind": "common-camera",
+      "technicalReview": "pending",
+      "exercise": "EX03",
+      "angle": "base",
+      "source": "assets/sources/EX03.png"
+    },
+    {
+      "panels": [
+        [
+          8,
+          498
+        ],
+        [
+          508,
+          996
+        ],
+        [
+          1000,
+          1502
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 243.5,
+            "width": null
+          },
+          "scale": 1.6031904287138585,
+          "translation": [
+            -209.6111665004986,
+            76.05583250249254
+          ],
+          "projectedReference": [
+            611.222333000997,
+            466.43270189431706
+          ],
+          "projectedBounds": [
+            377.1565304087736,
+            85.67497507477569,
+            753.9062811565303,
+            852.0000000000001
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 242.5,
+            "width": null
+          },
+          "scale": 1.6031904287138585,
+          "translation": [
+            -209.6111665004986,
+            77.65902293120638
+          ],
+          "projectedReference": [
+            611.222333000997,
+            466.43270189431706
+          ],
+          "projectedBounds": [
+            381.9661016949152,
+            85.67497507477567,
+            782.7637088733799,
+            850.3968095712862
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 267.0,
+            "width": null
+          },
+          "scale": 1.6031904287138585,
+          "translation": [
+            -209.6111665004986,
+            38.38085742771682
+          ],
+          "projectedReference": [
+            611.222333000997,
+            466.43270189431706
+          ],
+          "projectedBounds": [
+            380.3629112662013,
+            47.99999999999997,
+            822.8434695912264,
+            833.5633100697906
+          ]
+        }
+      ],
+      "referenceKind": "common-camera",
+      "technicalReview": "pending",
+      "exercise": "EX04",
+      "angle": "base",
+      "source": "assets/sources/EX04.png"
+    },
+    {
+      "panels": [
+        [
+          11,
+          503
+        ],
+        [
+          518,
+          996
+        ],
+        [
+          1014,
+          1498
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 244.0,
+            "width": null
+          },
+          "scale": 1.6324873096446701,
+          "translation": [
+            -242.36345177664975,
+            58.611167512690315
+          ],
+          "projectedReference": [
+            593.4700507614214,
+            456.93807106598985
+          ],
+          "projectedBounds": [
+            484.09340101522844,
+            68.40609137055833,
+            622.8548223350255,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 239.5,
+            "width": null
+          },
+          "scale": 1.6324873096446701,
+          "translation": [
+            -242.36345177664975,
+            65.95736040609137
+          ],
+          "projectedReference": [
+            593.4700507614214,
+            456.93807106598985
+          ],
+          "projectedBounds": [
+            391.0416243654822,
+            75.75228426395938,
+            808.9583756345178,
+            836.4913705583756
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 256.5,
+            "width": null
+          },
+          "scale": 1.6324873096446701,
+          "translation": [
+            -242.36345177664975,
+            38.20507614213193
+          ],
+          "projectedReference": [
+            593.4700507614214,
+            456.93807106598985
+          ],
+          "projectedBounds": [
+            482.46091370558383,
+            47.99999999999995,
+            624.4873096446701,
+            818.5340101522843
+          ]
+        }
+      ],
+      "referenceKind": "common-camera",
+      "technicalReview": "pending",
+      "exercise": "EX05",
+      "angle": "base",
+      "source": "assets/sources/EX05.png"
+    },
+    {
+      "panels": [
+        [
+          10,
+          528
+        ],
+        [
+          541,
+          925
+        ],
+        [
+          941,
+          1482
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 512.0,
+            "y": 512,
+            "width": null
+          },
+          "scale": 1.5198487712665407,
+          "translation": [
+            -237.43667296786396,
+            73.83742911153115
+          ],
+          "projectedReference": [
+            540.7258979206049,
+            852.0
+          ],
+          "projectedBounds": [
+            405.45935727788276,
+            81.43667296786386,
+            660.7939508506616,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 515.5,
+            "y": 379,
+            "width": null
+          },
+          "scale": 1.5198487712665407,
+          "translation": [
+            -242.7561436672969,
+            275.9773156899811
+          ],
+          "projectedReference": [
+            540.7258979206049,
+            852.0
+          ],
+          "projectedBounds": [
+            368.2230623818525,
+            285.0964083175803,
+            831.7769376181474,
+            850.4801512287335
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 510.5,
+            "y": 535,
+            "width": null
+          },
+          "scale": 1.5198487712665407,
+          "translation": [
+            -235.1568998109641,
+            38.88090737240077
+          ],
+          "projectedReference": [
+            540.7258979206049,
+            852.0
+          ],
+          "projectedBounds": [
+            407.7391304347826,
+            48.000000000000014,
+            663.0737240075615,
+            852.0
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX06",
+      "angle": "base",
+      "source": "assets/sources/EX06.png"
+    },
+    {
+      "panels": [
+        [
+          9,
+          507
+        ],
+        [
+          527,
+          959
+        ],
+        [
+          972,
+          1438
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 249.5,
+            "width": null
+          },
+          "scale": 1.5611650485436894,
+          "translation": [
+            -166.53203883495155,
+            83.90679611650484
+          ],
+          "projectedReference": [
+            632.7844660194174,
+            473.41747572815535
+          ],
+          "projectedBounds": [
+            506.3300970873786,
+            91.71262135922328,
+            737.3825242718447,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 214.0,
+            "width": null
+          },
+          "scale": 1.5611650485436894,
+          "translation": [
+            -166.53203883495155,
+            139.3281553398058
+          ],
+          "projectedReference": [
+            632.7844660194174,
+            473.41747572815535
+          ],
+          "projectedBounds": [
+            325.2349514563106,
+            148.69514563106793,
+            874.7650485436892,
+            804.3844660194175
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 278.5,
+            "width": null
+          },
+          "scale": 1.5611650485436894,
+          "translation": [
+            -166.53203883495155,
+            38.63300970873786
+          ],
+          "projectedReference": [
+            632.7844660194174,
+            473.41747572815535
+          ],
+          "projectedBounds": [
+            365.8252427184466,
+            48.0,
+            832.6135922330096,
+            756.768932038835
+          ]
+        }
+      ],
+      "referenceKind": "common-camera",
+      "technicalReview": "pending",
+      "exercise": "EX07",
+      "angle": "base",
+      "source": "assets/sources/EX07.png"
+    },
+    {
+      "panels": [
+        [
+          10,
+          537
+        ],
+        [
+          559,
+          973
+        ],
+        [
+          995,
+          1511
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "front-foot",
+            "x": 591.0,
+            "y": 521,
+            "width": null
+          },
+          "scale": 1.5611650485436894,
+          "translation": [
+            -93.93786407767004,
+            38.63300970873786
+          ],
+          "projectedReference": [
+            828.7106796116504,
+            852.0
+          ],
+          "projectedBounds": [
+            415.0019417475727,
+            48.0,
+            903.6466019417475,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "front-foot",
+            "x": 615.0,
+            "y": 408,
+            "width": null
+          },
+          "scale": 1.5611650485436894,
+          "translation": [
+            -131.4058252427185,
+            215.04466019417475
+          ],
+          "projectedReference": [
+            828.7106796116504,
+            852.0
+          ],
+          "projectedBounds": [
+            293.231067961165,
+            224.4116504854369,
+            906.7689320388349,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "front-foot",
+            "x": 590.0,
+            "y": 510,
+            "width": null
+          },
+          "scale": 1.5611650485436894,
+          "translation": [
+            -92.37669902912626,
+            55.805825242718356
+          ],
+          "projectedReference": [
+            828.7106796116504,
+            852.0
+          ],
+          "projectedBounds": [
+            416.5631067961165,
+            65.1728155339805,
+            905.2077669902912,
+            852.0
+          ]
+        }
+      ],
+      "referenceKind": "front-foot",
+      "technicalReview": "pending",
+      "exercise": "EX08",
+      "angle": "base",
+      "source": "assets/sources/EX08.png"
+    },
+    {
+      "panels": [
+        [
+          159,
+          475
+        ],
+        [
+          610,
+          944
+        ],
+        [
+          1086,
+          1404
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 509.0,
+            "y": 310,
+            "width": 968
+          },
+          "scale": 1.140495867768595,
+          "translation": [
+            19.487603305785115,
+            280.44628099173553
+          ],
+          "projectedReference": [
+            600.0,
+            634.0
+          ],
+          "projectedBounds": [
+            47.999999999999986,
+            287.2892561983471,
+            1152.0,
+            634.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 509.5,
+            "y": 329,
+            "width": 969
+          },
+          "scale": 1.1393188854489162,
+          "translation": [
+            19.51702786377723,
+            259.16408668730656
+          ],
+          "projectedReference": [
+            600.0,
+            634.0
+          ],
+          "projectedBounds": [
+            48.000000000000135,
+            266.00000000000006,
+            1150.860681114551,
+            632.8606811145511
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 509.0,
+            "y": 313,
+            "width": 968
+          },
+          "scale": 1.140495867768595,
+          "translation": [
+            19.487603305785115,
+            277.02479338842977
+          ],
+          "projectedReference": [
+            600.0,
+            634.0
+          ],
+          "projectedBounds": [
+            47.999999999999986,
+            283.86776859504135,
+            1152.0,
+            632.8595041322315
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX09",
+      "angle": "base",
+      "source": "assets/sources/EX09.png"
+    },
+    {
+      "panels": [
+        [
+          9,
+          497
+        ],
+        [
+          511,
+          998
+        ],
+        [
+          1011,
+          1501
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 511.0,
+            "y": 482,
+            "width": null
+          },
+          "scale": 1.6784968684759916,
+          "translation": [
+            -257.71189979123164,
+            42.96450939457202
+          ],
+          "projectedReference": [
+            600.0,
+            852.0
+          ],
+          "projectedBounds": [
+            234.08768267223388,
+            53.03549060542797,
+            965.9123173277662,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 511.0,
+            "y": 481,
+            "width": null
+          },
+          "scale": 1.6784968684759916,
+          "translation": [
+            -257.71189979123164,
+            44.64300626304805
+          ],
+          "projectedReference": [
+            600.0,
+            852.0
+          ],
+          "projectedBounds": [
+            234.08768267223388,
+            54.713987473904,
+            965.9123173277662,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 511.0,
+            "y": 485,
+            "width": null
+          },
+          "scale": 1.6784968684759916,
+          "translation": [
+            -257.71189979123164,
+            37.92901878914415
+          ],
+          "projectedReference": [
+            600.0,
+            852.0
+          ],
+          "projectedBounds": [
+            234.08768267223388,
+            48.0000000000001,
+            965.9123173277662,
+            850.3215031315241
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX10",
+      "angle": "base",
+      "source": "assets/sources/EX10.png"
+    },
+    {
+      "panels": [
+        [
+          11,
+          501
+        ],
+        [
+          578,
+          953
+        ],
+        [
+          989,
+          1487
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "bench",
+            "x": 736.0,
+            "y": 484,
+            "width": 200
+          },
+          "scale": 1.5956580732700134,
+          "translation": [
+            -178.77883310719108,
+            76.61601085481675
+          ],
+          "projectedReference": [
+            995.6255088195387,
+            848.9145183175033
+          ],
+          "projectedBounds": [
+            68.54816824966099,
+            86.18995929443683,
+            1152.0,
+            848.9145183175033
+          ]
+        },
+        {
+          "reference": {
+            "kind": "bench",
+            "x": 736.0,
+            "y": 372,
+            "width": 200
+          },
+          "scale": 1.5956580732700134,
+          "translation": [
+            -178.77883310719108,
+            255.32971506105832
+          ],
+          "projectedReference": [
+            995.6255088195387,
+            848.9145183175033
+          ],
+          "projectedBounds": [
+            78.12211668928109,
+            264.9036635006784,
+            1150.40434192673,
+            844.1275440976933
+          ]
+        },
+        {
+          "reference": {
+            "kind": "bench",
+            "x": 738.0,
+            "y": 496,
+            "width": 196
+          },
+          "scale": 1.6282225237449117,
+          "translation": [
+            -206.00271370420614,
+            41.316146540027034
+          ],
+          "projectedReference": [
+            995.6255088195387,
+            848.9145183175033
+          ],
+          "projectedBounds": [
+            48.000000000000085,
+            51.08548168249651,
+            1151.9348710990503,
+            842.4016282225236
+          ]
+        }
+      ],
+      "referenceKind": "bench",
+      "technicalReview": "pending",
+      "exercise": "EX11",
+      "angle": "base",
+      "source": "assets/sources/EX11.png"
+    },
+    {
+      "panels": [
+        [
+          21,
+          479
+        ],
+        [
+          509,
+          968
+        ],
+        [
+          998,
+          1457
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.0,
+            "y": 452,
+            "width": 842
+          },
+          "scale": 1.3111638954869358,
+          "translation": [
+            -71.31591448931113,
+            150.05142813670227
+          ],
+          "projectedReference": [
+            600.0,
+            742.6975088967972
+          ],
+          "projectedBounds": [
+            48.00000000000003,
+            157.9184115096239,
+            1152.0,
+            742.6975088967972
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 513.5,
+            "y": 453,
+            "width": 843
+          },
+          "scale": 1.309608540925267,
+          "translation": [
+            -72.48398576512454,
+            149.44483985765135
+          ],
+          "projectedReference": [
+            600.0,
+            742.6975088967972
+          ],
+          "projectedBounds": [
+            48.000000000000014,
+            157.30249110320295,
+            1152.0,
+            742.6975088967972
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 513.5,
+            "y": 453,
+            "width": 843
+          },
+          "scale": 1.309608540925267,
+          "translation": [
+            -72.48398576512454,
+            149.44483985765135
+          ],
+          "projectedReference": [
+            600.0,
+            742.6975088967972
+          ],
+          "projectedBounds": [
+            48.000000000000014,
+            157.30249110320295,
+            1150.6903914590748,
+            742.6975088967972
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX11",
+      "angle": "top",
+      "source": "assets/sources/EX11-top.png"
+    },
+    {
+      "panels": [
+        [
+          44,
+          496
+        ],
+        [
+          644,
+          910
+        ],
+        [
+          966,
+          1431
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 446,
+            "width": 961
+          },
+          "scale": 1.1488033298647242,
+          "translation": [
+            11.23829344432886,
+            197.56718681380494
+          ],
+          "projectedReference": [
+            600.0,
+            709.933471933472
+          ],
+          "projectedBounds": [
+            48.000000000000036,
+            203.31120346312855,
+            1150.8511966701353,
+            709.933471933472
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 260,
+            "width": 961
+          },
+          "scale": 1.1488033298647242,
+          "translation": [
+            11.23829344432886,
+            411.2446061686437
+          ],
+          "projectedReference": [
+            600.0,
+            709.933471933472
+          ],
+          "projectedBounds": [
+            48.000000000000036,
+            418.13742614783206,
+            1152.0,
+            709.933471933472
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.0,
+            "y": 459,
+            "width": 962
+          },
+          "scale": 1.1476091476091477,
+          "translation": [
+            12.424116424116391,
+            183.18087318087316
+          ],
+          "projectedReference": [
+            600.0,
+            709.933471933472
+          ],
+          "projectedBounds": [
+            49.14760914760912,
+            190.06652806652804,
+            1152.0,
+            709.933471933472
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX12",
+      "angle": "base",
+      "source": "assets/sources/EX12.png"
+    },
+    {
+      "panels": [
+        [
+          102,
+          482
+        ],
+        [
+          565,
+          956
+        ],
+        [
+          1039,
+          1430
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 513.0,
+            "y": 374,
+            "width": 880
+          },
+          "scale": 1.2545454545454546,
+          "translation": [
+            -43.58181818181822,
+            219.34960091220069
+          ],
+          "projectedReference": [
+            600.0,
+            688.5496009122007
+          ],
+          "projectedBounds": [
+            47.99999999999997,
+            226.87687363947342,
+            1152.0,
+            688.5496009122007
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 385,
+            "width": 877
+          },
+          "scale": 1.2588369441277083,
+          "translation": [
+            -45.15393386545054,
+            203.89737742303305
+          ],
+          "projectedReference": [
+            600.0,
+            688.5496009122007
+          ],
+          "projectedBounds": [
+            49.25883694412758,
+            211.4503990877993,
+            1152.0,
+            688.5496009122007
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 385,
+            "width": 881
+          },
+          "scale": 1.253121452894438,
+          "translation": [
+            -42.22474460839953,
+            206.09784154784205
+          ],
+          "projectedReference": [
+            600.0,
+            688.5496009122007
+          ],
+          "projectedBounds": [
+            48.000000000000014,
+            213.61657026520868,
+            1152.0,
+            688.5496009122007
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX12",
+      "angle": "top",
+      "source": "assets/sources/EX12-top.png"
+    },
+    {
+      "panels": [
+        [
+          93,
+          483
+        ],
+        [
+          670,
+          893
+        ],
+        [
+          988,
+          1402
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 518.5,
+            "y": 384,
+            "width": 913
+          },
+          "scale": 1.1911141067767572,
+          "translation": [
+            -9.336254107338391,
+            231.2420116843224
+          ],
+          "projectedReference": [
+            608.2564102564103,
+            688.6298286865972
+          ],
+          "projectedBounds": [
+            64.51282051282055,
+            238.38869632498293,
+            1152.0,
+            688.6298286865972
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 519.0,
+            "y": 218,
+            "width": 922
+          },
+          "scale": 1.1794871794871793,
+          "translation": [
+            -3.8974358974357983,
+            431.5016235583921
+          ],
+          "projectedReference": [
+            608.2564102564103,
+            688.6298286865972
+          ],
+          "projectedBounds": [
+            48.00000000000009,
+            438.5785466353152,
+            1152.0,
+            687.45034150711
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 518.0,
+            "y": 408,
+            "width": 916
+          },
+          "scale": 1.187213078042772,
+          "translation": [
+            -6.719964169745708,
+            204.2468928451462
+          ],
+          "projectedReference": [
+            608.2564102564103,
+            688.6298286865972
+          ],
+          "projectedBounds": [
+            64.51282051282061,
+            211.37017131340284,
+            1150.812786921957,
+            688.6298286865972
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX13",
+      "angle": "base",
+      "source": "assets/sources/EX13.png"
+    },
+    {
+      "panels": [
+        [
+          128,
+          464
+        ],
+        [
+          568,
+          913
+        ],
+        [
+          1023,
+          1361
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 330,
+            "width": 917
+          },
+          "scale": 1.205240174672489,
+          "translation": [
+            -18.288209606986925,
+            252.943231441048
+          ],
+          "projectedReference": [
+            599.3973799126637,
+            650.6724890829694
+          ],
+          "projectedBounds": [
+            47.99999999999997,
+            260.1746724890829,
+            1152.0,
+            650.6724890829694
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 339,
+            "width": 917
+          },
+          "scale": 1.205240174672489,
+          "translation": [
+            -18.288209606986925,
+            242.09606986899558
+          ],
+          "projectedReference": [
+            599.3973799126637,
+            650.6724890829694
+          ],
+          "projectedBounds": [
+            47.99999999999997,
+            249.3275109170305,
+            1152.0,
+            650.6724890829694
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 333,
+            "width": 917
+          },
+          "scale": 1.205240174672489,
+          "translation": [
+            -18.288209606986925,
+            249.32751091703057
+          ],
+          "projectedReference": [
+            599.3973799126637,
+            650.6724890829694
+          ],
+          "projectedBounds": [
+            47.99999999999997,
+            256.5589519650655,
+            1152.0,
+            649.4672489082969
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX13",
+      "angle": "top",
+      "source": "assets/sources/EX13-top.png"
+    },
+    {
+      "panels": [
+        [
+          21,
+          531
+        ],
+        [
+          664,
+          957
+        ],
+        [
+          983,
+          1497
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 502.0,
+            "y": 504,
+            "width": 888
+          },
+          "scale": 1.2432432432432434,
+          "translation": [
+            -24.10810810810824,
+            135.7293649104672
+          ],
+          "projectedReference": [
+            600.0,
+            762.3239595050619
+          ],
+          "projectedBounds": [
+            49.24324324324313,
+            143.18882436992666,
+            1152.0,
+            762.3239595050619
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 504.0,
+            "y": 287,
+            "width": 894
+          },
+          "scale": 1.2348993288590606,
+          "translation": [
+            -22.389261744966575,
+            407.9078521225115
+          ],
+          "projectedReference": [
+            600.0,
+            762.3239595050619
+          ],
+          "projectedBounds": [
+            49.234899328858944,
+            415.31724809566583,
+            1152.0,
+            762.3239595050619
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 501.5,
+            "y": 508,
+            "width": 889
+          },
+          "scale": 1.2418447694038246,
+          "translation": [
+            -22.785151856018047,
+            131.46681664791902
+          ],
+          "projectedReference": [
+            600.0,
+            762.3239595050619
+          ],
+          "projectedBounds": [
+            47.99999999999996,
+            137.67604049493815,
+            1152.0,
+            762.3239595050619
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX14",
+      "angle": "base",
+      "source": "assets/sources/EX14.png"
+    },
+    {
+      "panels": [
+        [
+          125,
+          482
+        ],
+        [
+          573,
+          928
+        ],
+        [
+          1013,
+          1381
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 351,
+            "width": 867
+          },
+          "scale": 1.273356401384083,
+          "translation": [
+            -52.59515570934252,
+            229.70934256055364
+          ],
+          "projectedReference": [
+            600.0,
+            676.6574394463668
+          ],
+          "projectedBounds": [
+            48.00000000000004,
+            237.34948096885813,
+            1152.0,
+            676.6574394463668
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 349,
+            "width": 867
+          },
+          "scale": 1.273356401384083,
+          "translation": [
+            -52.59515570934252,
+            232.25605536332182
+          ],
+          "projectedReference": [
+            600.0,
+            676.6574394463668
+          ],
+          "projectedBounds": [
+            48.00000000000004,
+            239.89619377162632,
+            1152.0,
+            676.6574394463668
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 362,
+            "width": 867
+          },
+          "scale": 1.273356401384083,
+          "translation": [
+            -52.59515570934252,
+            215.70242214532874
+          ],
+          "projectedReference": [
+            600.0,
+            676.6574394463668
+          ],
+          "projectedBounds": [
+            48.00000000000004,
+            223.34256055363323,
+            1152.0,
+            676.6574394463668
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX14",
+      "angle": "top",
+      "source": "assets/sources/EX14-top.png"
+    },
+    {
+      "panels": [
+        [
+          7,
+          505
+        ],
+        [
+          515,
+          1009
+        ],
+        [
+          1015,
+          1516
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 511.5,
+            "y": 492,
+            "width": null
+          },
+          "scale": 1.6408163265306122,
+          "translation": [
+            -302.8591836734694,
+            44.71836734693886
+          ],
+          "projectedReference": [
+            536.4183673469388,
+            852.0
+          ],
+          "projectedBounds": [
+            376.4387755102041,
+            54.56326530612253,
+            673.4265306122448,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 511.5,
+            "y": 488,
+            "width": null
+          },
+          "scale": 1.6408163265306122,
+          "translation": [
+            -302.8591836734694,
+            51.28163265306125
+          ],
+          "projectedReference": [
+            536.4183673469388,
+            852.0
+          ],
+          "projectedBounds": [
+            397.769387755102,
+            59.48571428571431,
+            824.3816326530613,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 511.0,
+            "y": 496,
+            "width": null
+          },
+          "scale": 1.6408163265306122,
+          "translation": [
+            -302.038775510204,
+            38.15510204081636
+          ],
+          "projectedReference": [
+            536.4183673469388,
+            852.0
+          ],
+          "projectedBounds": [
+            375.61836734693884,
+            48.00000000000003,
+            674.2469387755102,
+            852.0
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX15",
+      "angle": "base",
+      "source": "assets/sources/EX15.png"
+    },
+    {
+      "panels": [
+        [
+          104,
+          431
+        ],
+        [
+          514,
+          964
+        ],
+        [
+          1093,
+          1426
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "head-floor",
+            "x": 140.0,
+            "y": 280,
+            "width": null
+          },
+          "scale": 1.263157894736842,
+          "translation": [
+            -47.99999999999997,
+            336.3157894736842
+          ],
+          "projectedReference": [
+            128.84210526315792,
+            690.0
+          ],
+          "projectedBounds": [
+            48.00000000000003,
+            342.63157894736844,
+            1150.7368421052631,
+            741.7894736842105
+          ]
+        },
+        {
+          "reference": {
+            "kind": "head-floor",
+            "x": 140.0,
+            "y": 430,
+            "width": null
+          },
+          "scale": 1.263157894736842,
+          "translation": [
+            -47.99999999999997,
+            146.84210526315792
+          ],
+          "projectedReference": [
+            128.84210526315792,
+            690.0
+          ],
+          "projectedBounds": [
+            48.00000000000003,
+            154.42105263157896,
+            1152.0,
+            707.6842105263158
+          ]
+        },
+        {
+          "reference": {
+            "kind": "head-floor",
+            "x": 140.0,
+            "y": 283,
+            "width": null
+          },
+          "scale": 1.263157894736842,
+          "translation": [
+            -47.99999999999997,
+            332.5263157894737
+          ],
+          "projectedReference": [
+            128.84210526315792,
+            690.0
+          ],
+          "projectedBounds": [
+            48.00000000000003,
+            340.10526315789474,
+            1150.7368421052631,
+            745.578947368421
+          ]
+        }
+      ],
+      "referenceKind": "head-floor",
+      "technicalReview": "pending",
+      "exercise": "EX16",
+      "angle": "base",
+      "source": "assets/sources/EX16.png"
+    },
+    {
+      "panels": [
+        [
+          15,
+          491
+        ],
+        [
+          503,
+          1044
+        ],
+        [
+          1058,
+          1511
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 504.0,
+            "y": 470,
+            "width": null
+          },
+          "scale": 1.5169811320754718,
+          "translation": [
+            -163.04150943396235,
+            139.0188679245282
+          ],
+          "projectedReference": [
+            601.5169811320754,
+            852.0
+          ],
+          "projectedBounds": [
+            446.78490566037726,
+            146.60377358490555,
+            748.6641509433962,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 505.5,
+            "y": 535,
+            "width": null
+          },
+          "scale": 1.5169811320754718,
+          "translation": [
+            -165.3169811320755,
+            40.415094339622556
+          ],
+          "projectedReference": [
+            601.5169811320754,
+            852.0
+          ],
+          "projectedBounds": [
+            468.78113207547165,
+            47.999999999999915,
+            734.2528301886792,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 504.0,
+            "y": 447,
+            "width": null
+          },
+          "scale": 1.5169811320754718,
+          "translation": [
+            -163.04150943396235,
+            173.90943396226407
+          ],
+          "projectedReference": [
+            601.5169811320754,
+            852.0
+          ],
+          "projectedBounds": [
+            446.78490566037726,
+            181.49433962264143,
+            753.2150943396226,
+            852.0
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX17",
+      "angle": "base",
+      "source": "assets/sources/EX17.png"
+    },
+    {
+      "panels": [
+        [
+          5,
+          511
+        ],
+        [
+          518,
+          1022
+        ],
+        [
+          1026,
+          1527
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 502.5,
+            "y": 501,
+            "width": null
+          },
+          "scale": 1.6275303643724697,
+          "translation": [
+            -218.64777327935224,
+            38.234817813765176
+          ],
+          "projectedReference": [
+            599.1862348178138,
+            853.6275303643724
+          ],
+          "projectedBounds": [
+            451.8947368421053,
+            47.99999999999999,
+            761.1255060728745,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 502.5,
+            "y": 499,
+            "width": null
+          },
+          "scale": 1.6275303643724697,
+          "translation": [
+            -218.64777327935224,
+            41.48987854251004
+          ],
+          "projectedReference": [
+            599.1862348178138,
+            853.6275303643724
+          ],
+          "projectedBounds": [
+            225.66801619433198,
+            51.25506072874486,
+            974.3319838056681,
+            851.9999999999999
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 502.0,
+            "y": 496,
+            "width": null
+          },
+          "scale": 1.6275303643724697,
+          "translation": [
+            -217.83400809716602,
+            46.37246963562745
+          ],
+          "projectedReference": [
+            599.1862348178138,
+            853.6275303643724
+          ],
+          "projectedBounds": [
+            447.8259109311741,
+            56.13765182186227,
+            768.4493927125505,
+            851.9999999999999
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX18",
+      "angle": "base",
+      "source": "assets/sources/EX18.png"
+    },
+    {
+      "panels": [
+        [
+          11,
+          479
+        ],
+        [
+          510,
+          985
+        ],
+        [
+          1006,
+          1471
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 502.0,
+            "y": 462,
+            "width": null
+          },
+          "scale": 1.736501079913607,
+          "translation": [
+            -283.87904967602594,
+            49.73650107991364
+          ],
+          "projectedReference": [
+            587.8444924406048,
+            852.0
+          ],
+          "projectedBounds": [
+            391.6198704103672,
+            60.155507559395275,
+            804.9071274298055,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 502.5,
+            "y": 469,
+            "width": null
+          },
+          "scale": 1.736501079913607,
+          "translation": [
+            -284.7473002159827,
+            37.580993520518405
+          ],
+          "projectedReference": [
+            587.8444924406048,
+            852.0
+          ],
+          "projectedBounds": [
+            390.7516198704104,
+            48.00000000000004,
+            809.2483801295896,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 502.0,
+            "y": 459,
+            "width": null
+          },
+          "scale": 1.736501079913607,
+          "translation": [
+            -283.87904967602594,
+            54.946004319654435
+          ],
+          "projectedReference": [
+            587.8444924406048,
+            852.0
+          ],
+          "projectedBounds": [
+            391.6198704103672,
+            63.62850971922247,
+            804.9071274298055,
+            852.0
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX19",
+      "angle": "base",
+      "source": "assets/sources/EX19.png"
+    },
+    {
+      "panels": [
+        [
+          10,
+          483
+        ],
+        [
+          516,
+          998
+        ],
+        [
+          1013,
+          1488
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 448.5,
+            "y": 467,
+            "width": null
+          },
+          "scale": 1.7070063694267517,
+          "translation": [
+            -204.85350318471342,
+            54.828025477707
+          ],
+          "projectedReference": [
+            560.7388535031847,
+            852.0
+          ],
+          "projectedBounds": [
+            204.828025477707,
+            65.0700636942675,
+            984.9299363057326,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 447.5,
+            "y": 476,
+            "width": null
+          },
+          "scale": 1.7070063694267517,
+          "translation": [
+            -203.1464968152867,
+            39.46496815286616
+          ],
+          "projectedReference": [
+            560.7388535031847,
+            852.0
+          ],
+          "projectedBounds": [
+            203.12101910828022,
+            47.99999999999992,
+            996.8789808917196,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 447.0,
+            "y": 470,
+            "width": null
+          },
+          "scale": 1.7070063694267517,
+          "translation": [
+            -202.29299363057328,
+            49.70700636942672
+          ],
+          "projectedReference": [
+            560.7388535031847,
+            852.0
+          ],
+          "projectedBounds": [
+            203.97452229299364,
+            59.94904458598723,
+            985.7834394904459,
+            850.2929936305733
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX20",
+      "angle": "base",
+      "source": "assets/sources/EX20.png"
+    },
+    {
+      "panels": [
+        [
+          4,
+          501
+        ],
+        [
+          514,
+          1012
+        ],
+        [
+          1026,
+          1523
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 506.5,
+            "y": 491,
+            "width": null
+          },
+          "scale": 1.6509240246406571,
+          "translation": [
+            -244.44763860369608,
+            41.39630390143736
+          ],
+          "projectedReference": [
+            591.7453798767967,
+            852.0
+          ],
+          "projectedBounds": [
+            465.4496919917865,
+            51.301848049281304,
+            726.2956878850104,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 505.0,
+            "y": 493,
+            "width": null
+          },
+          "scale": 1.6509240246406571,
+          "translation": [
+            -241.97125256673507,
+            38.09445585215599
+          ],
+          "projectedReference": [
+            591.7453798767967,
+            852.0
+          ],
+          "projectedBounds": [
+            233.49486652977419,
+            47.99999999999993,
+            966.5051334702259,
+            850.3490759753593
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 505.5,
+            "y": 491,
+            "width": null
+          },
+          "scale": 1.6509240246406571,
+          "translation": [
+            -242.79671457905545,
+            41.39630390143736
+          ],
+          "projectedReference": [
+            591.7453798767967,
+            852.0
+          ],
+          "projectedBounds": [
+            463.79876796714575,
+            51.301848049281304,
+            726.2956878850102,
+            852.0
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX21",
+      "angle": "base",
+      "source": "assets/sources/EX21.png"
+    },
+    {
+      "panels": [
+        [
+          88,
+          475
+        ],
+        [
+          585,
+          986
+        ],
+        [
+          1102,
+          1491
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 502.0,
+            "y": 381,
+            "width": 884
+          },
+          "scale": 1.2145214521452146,
+          "translation": [
+            -24.87128712871288,
+            217.755615296629
+          ],
+          "projectedReference": [
+            584.8184818481849,
+            680.4882885639557
+          ],
+          "projectedBounds": [
+            48.0,
+            225.0427440095003,
+            1152.0,
+            680.4882885639557
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 513.0,
+            "y": 395,
+            "width": 906
+          },
+          "scale": 1.1850297612542713,
+          "translation": [
+            -23.101785675256338,
+            212.4015328685186
+          ],
+          "projectedReference": [
+            584.8184818481849,
+            680.4882885639557
+          ],
+          "projectedBounds": [
+            47.99999999999994,
+            219.5117114360442,
+            1125.1920529801328,
+            680.4882885639557
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 505.5,
+            "y": 384,
+            "width": 893
+          },
+          "scale": 1.2022810343744341,
+          "translation": [
+            -22.934581028091543,
+            218.81237136417303
+          ],
+          "projectedReference": [
+            584.8184818481849,
+            680.4882885639557
+          ],
+          "projectedBounds": [
+            49.20228103437451,
+            226.02605757041962,
+            1142.0757412807352,
+            679.2860075295813
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX22",
+      "angle": "base",
+      "source": "assets/sources/EX22.png"
+    },
+    {
+      "panels": [
+        [
+          16,
+          488
+        ],
+        [
+          500,
+          1020
+        ],
+        [
+          1040,
+          1506
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 512.5,
+            "y": 467,
+            "width": null
+          },
+          "scale": 1.5826771653543308,
+          "translation": [
+            -191.3385826771654,
+            112.88976377952747
+          ],
+          "projectedReference": [
+            619.7834645669292,
+            852.0
+          ],
+          "projectedBounds": [
+            509.7874015748032,
+            122.38582677165346,
+            690.2125984251968,
+            850.4173228346456
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 509.0,
+            "y": 514,
+            "width": null
+          },
+          "scale": 1.5826771653543308,
+          "translation": [
+            -185.79921259842524,
+            38.503937007874015
+          ],
+          "projectedReference": [
+            619.7834645669292,
+            852.0
+          ],
+          "projectedBounds": [
+            554.8937007874016,
+            48.0,
+            687.8385826771654,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 512.0,
+            "y": 461,
+            "width": null
+          },
+          "scale": 1.5826771653543308,
+          "translation": [
+            -190.54724409448818,
+            122.38582677165346
+          ],
+          "projectedReference": [
+            619.7834645669292,
+            852.0
+          ],
+          "projectedBounds": [
+            515.3267716535433,
+            130.2992125984251,
+            689.4212598425197,
+            850.4173228346456
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX23",
+      "angle": "base",
+      "source": "assets/sources/EX23.png"
+    },
+    {
+      "panels": [
+        [
+          14,
+          501
+        ],
+        [
+          501,
+          1040
+        ],
+        [
+          1044,
+          1522
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 504.5,
+            "y": 481,
+            "width": null
+          },
+          "scale": 1.5256166982922201,
+          "translation": [
+            -138.3984819734345,
+            118.17836812144208
+          ],
+          "projectedReference": [
+            631.2751423149905,
+            852.0
+          ],
+          "projectedBounds": [
+            500.83491461100573,
+            127.3320683111954,
+            699.1650853889944,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 505.0,
+            "y": 533,
+            "width": null
+          },
+          "scale": 1.5256166982922201,
+          "translation": [
+            -139.16129032258073,
+            38.846299810246705
+          ],
+          "projectedReference": [
+            631.2751423149905,
+            852.0
+          ],
+          "projectedBounds": [
+            521.4307400379506,
+            48.00000000000003,
+            696.8766603415559,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 505.0,
+            "y": 472,
+            "width": null
+          },
+          "scale": 1.5256166982922201,
+          "translation": [
+            -139.16129032258073,
+            131.90891840607208
+          ],
+          "projectedReference": [
+            631.2751423149905,
+            852.0
+          ],
+          "projectedBounds": [
+            501.5977229601517,
+            141.0626185958254,
+            698.4022770398482,
+            852.0
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX24",
+      "angle": "base",
+      "source": "assets/sources/EX24.png"
+    },
+    {
+      "panels": [
+        [
+          8,
+          511
+        ],
+        [
+          515,
+          1020
+        ],
+        [
+          1024,
+          1528
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 508.0,
+            "y": 498,
+            "width": null
+          },
+          "scale": 1.6275303643724697,
+          "translation": [
+            -233.70242914979758,
+            41.489878542510155
+          ],
+          "projectedReference": [
+            593.082995951417,
+            852.0
+          ],
+          "projectedBounds": [
+            422.19230769230774,
+            51.25506072874497,
+            754.2085020242915,
+            850.3724696356276
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 507.5,
+            "y": 500,
+            "width": null
+          },
+          "scale": 1.6275303643724697,
+          "translation": [
+            -232.88866396761136,
+            38.234817813765176
+          ],
+          "projectedReference": [
+            593.082995951417,
+            852.0
+          ],
+          "projectedBounds": [
+            457.1842105263157,
+            47.99999999999999,
+            777.8076923076923,
+            850.3724696356276
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 507.5,
+            "y": 498,
+            "width": null
+          },
+          "scale": 1.6275303643724697,
+          "translation": [
+            -232.88866396761136,
+            41.489878542510155
+          ],
+          "projectedReference": [
+            593.082995951417,
+            852.0
+          ],
+          "projectedBounds": [
+            423.00607287449395,
+            49.627530364372504,
+            756.6497975708502,
+            852.0
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX25",
+      "angle": "base",
+      "source": "assets/sources/EX25.png"
+    },
+    {
+      "panels": [
+        [
+          6,
+          501
+        ],
+        [
+          515,
+          1012
+        ],
+        [
+          1015,
+          1511
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 506.5,
+            "y": 489,
+            "width": null
+          },
+          "scale": 1.654320987654321,
+          "translation": [
+            -237.91358024691363,
+            43.03703703703707
+          ],
+          "projectedReference": [
+            600.0,
+            852.0
+          ],
+          "projectedBounds": [
+            188.9012345679012,
+            52.96296296296299,
+            1012.7530864197531,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 506.5,
+            "y": 491,
+            "width": null
+          },
+          "scale": 1.654320987654321,
+          "translation": [
+            -237.91358024691363,
+            39.728395061728406
+          ],
+          "projectedReference": [
+            600.0,
+            852.0
+          ],
+          "projectedBounds": [
+            188.9012345679012,
+            48.000000000000014,
+            1012.7530864197531,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 506.5,
+            "y": 490,
+            "width": null
+          },
+          "scale": 1.654320987654321,
+          "translation": [
+            -237.91358024691363,
+            41.38271604938268
+          ],
+          "projectedReference": [
+            600.0,
+            852.0
+          ],
+          "projectedBounds": [
+            187.24691358024688,
+            51.3086419753086,
+            1012.7530864197531,
+            852.0
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX26",
+      "angle": "base",
+      "source": "assets/sources/EX26.png"
+    },
+    {
+      "panels": [
+        [
+          129,
+          442
+        ],
+        [
+          611,
+          911
+        ],
+        [
+          1060,
+          1373
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.0,
+            "y": 307,
+            "width": 958
+          },
+          "scale": 1.1524008350730688,
+          "translation": [
+            9.970772442588782,
+            269.6492693110647
+          ],
+          "projectedReference": [
+            600.0,
+            623.4363256784968
+          ],
+          "projectedBounds": [
+            48.00000000000005,
+            276.56367432150313,
+            1152.0,
+            623.4363256784968
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.0,
+            "y": 294,
+            "width": 958
+          },
+          "scale": 1.1524008350730688,
+          "translation": [
+            9.970772442588782,
+            284.6304801670146
+          ],
+          "projectedReference": [
+            600.0,
+            623.4363256784968
+          ],
+          "projectedBounds": [
+            48.00000000000005,
+            291.544885177453,
+            1152.0,
+            623.4363256784968
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.0,
+            "y": 307,
+            "width": 958
+          },
+          "scale": 1.1524008350730688,
+          "translation": [
+            9.970772442588782,
+            269.6492693110647
+          ],
+          "projectedReference": [
+            600.0,
+            623.4363256784968
+          ],
+          "projectedBounds": [
+            48.00000000000005,
+            276.56367432150313,
+            1152.0,
+            623.4363256784968
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX27",
+      "angle": "base",
+      "source": "assets/sources/EX27.png"
+    },
+    {
+      "panels": [
+        [
+          114,
+          454
+        ],
+        [
+          565,
+          911
+        ],
+        [
+          1031,
+          1378
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.0,
+            "y": 335,
+            "width": 836
+          },
+          "scale": 1.3205741626794258,
+          "translation": [
+            -76.13397129186603,
+            228.78326120163564
+          ],
+          "projectedReference": [
+            600.0,
+            671.1756056992433
+          ],
+          "projectedBounds": [
+            48.0,
+            235.38613201503276,
+            1152.0,
+            669.855031536564
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 513.5,
+            "y": 341,
+            "width": 865
+          },
+          "scale": 1.276300578034682,
+          "translation": [
+            -55.38034682080922,
+            235.9571085894167
+          ],
+          "projectedReference": [
+            600.0,
+            671.1756056992433
+          ],
+          "projectedBounds": [
+            48.00000000000003,
+            243.6149120576248,
+            1150.7236994219652,
+            669.8993051212086
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 514.5,
+            "y": 342,
+            "width": 841
+          },
+          "scale": 1.3127229488703924,
+          "translation": [
+            -75.39595719381691,
+            222.2243571855691
+          ],
+          "projectedReference": [
+            600.0,
+            671.1756056992433
+          ],
+          "projectedBounds": [
+            47.99999999999997,
+            230.10069487879144,
+            1150.6872770511295,
+            669.8628827503729
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX27",
+      "angle": "top",
+      "source": "assets/sources/EX27-top.png"
+    },
+    {
+      "panels": [
+        [
+          60,
+          475
+        ],
+        [
+          549,
+          976
+        ],
+        [
+          1055,
+          1471
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 511.5,
+            "y": 409,
+            "width": 943
+          },
+          "scale": 1.173219978746015,
+          "translation": [
+            -0.10201912858667583,
+            214.769394261424
+          ],
+          "projectedReference": [
+            600.0,
+            694.6163655685441
+          ],
+          "projectedBounds": [
+            47.999999999999936,
+            221.80871413390008,
+            1152.0,
+            694.6163655685441
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 511.5,
+            "y": 422,
+            "width": 943
+          },
+          "scale": 1.173219978746015,
+          "translation": [
+            -0.10201912858667583,
+            199.5175345377258
+          ],
+          "projectedReference": [
+            600.0,
+            694.6163655685441
+          ],
+          "projectedBounds": [
+            47.999999999999936,
+            205.38363443145587,
+            1152.0,
+            693.4431455897981
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 511.5,
+            "y": 410,
+            "width": 943
+          },
+          "scale": 1.173219978746015,
+          "translation": [
+            -0.10201912858667583,
+            213.59617428267796
+          ],
+          "projectedReference": [
+            600.0,
+            694.6163655685441
+          ],
+          "projectedBounds": [
+            47.999999999999936,
+            220.63549415515405,
+            1152.0,
+            694.6163655685441
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX28",
+      "angle": "base",
+      "source": "assets/sources/EX28.png"
+    },
+    {
+      "panels": [
+        [
+          72,
+          449
+        ],
+        [
+          545,
+          929
+        ],
+        [
+          1024,
+          1405
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 514.0,
+            "y": 372,
+            "width": 810
+          },
+          "scale": 1.362962962962963,
+          "translation": [
+            -100.56296296296296,
+            194.6248366013072
+          ],
+          "projectedReference": [
+            600.0,
+            701.6470588235294
+          ],
+          "projectedBounds": [
+            48.0,
+            202.80261437908499,
+            1152.0,
+            700.2840958605665
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 514.0,
+            "y": 378,
+            "width": 816
+          },
+          "scale": 1.3529411764705883,
+          "translation": [
+            -95.41176470588243,
+            190.23529411764702
+          ],
+          "projectedReference": [
+            600.0,
+            701.6470588235294
+          ],
+          "projectedBounds": [
+            47.999999999999915,
+            198.35294117647055,
+            1152.0,
+            701.6470588235294
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 513.5,
+            "y": 375,
+            "width": 817
+          },
+          "scale": 1.3512851897184823,
+          "translation": [
+            -93.88494492044072,
+            194.9151126790985
+          ],
+          "projectedReference": [
+            600.0,
+            701.6470588235294
+          ],
+          "projectedBounds": [
+            47.999999999999915,
+            203.0228238174094,
+            1150.6487148102815,
+            701.6470588235294
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX28",
+      "angle": "top",
+      "source": "assets/sources/EX28-top.png"
+    },
+    {
+      "panels": [
+        [
+          25,
+          477
+        ],
+        [
+          535,
+          946
+        ],
+        [
+          1001,
+          1442
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 511.0,
+            "y": 446,
+            "width": 908
+          },
+          "scale": 1.2107823751758895,
+          "translation": [
+            -16.404992044733376,
+            176.36318321024908
+          ],
+          "projectedReference": [
+            602.3048016701462,
+            716.3721225386957
+          ],
+          "projectedBounds": [
+            53.82038571546822,
+            183.62787746130442,
+            1152.0,
+            716.3721225386957
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.0,
+            "y": 405,
+            "width": 954
+          },
+          "scale": 1.1524008350730688,
+          "translation": [
+            12.275574112734944,
+            249.6497843341029
+          ],
+          "projectedReference": [
+            602.3048016701462,
+            716.3721225386957
+          ],
+          "projectedBounds": [
+            48.00000000000008,
+            255.41178850946824,
+            1150.847599164927,
+            716.3721225386957
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 511.5,
+            "y": 435,
+            "width": 905
+          },
+          "scale": 1.214796018408517,
+          "translation": [
+            -19.063361745810198,
+            187.93585453099092
+          ],
+          "projectedReference": [
+            602.3048016701462,
+            716.3721225386957
+          ],
+          "projectedBounds": [
+            52.609603340292296,
+            195.22463064144202,
+            1150.7852039815916,
+            716.3721225386957
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX29",
+      "angle": "base",
+      "source": "assets/sources/EX29.png"
+    },
+    {
+      "panels": [
+        [
+          21,
+          464
+        ],
+        [
+          499,
+          943
+        ],
+        [
+          980,
+          1433
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 514.5,
+            "y": 437,
+            "width": 819
+          },
+          "scale": 1.3097947872344513,
+          "translation": [
+            -58.250383404633,
+            166.3791745615515
+          ],
+          "projectedReference": [
+            615.6390346274922,
+            738.7594965830067
+          ],
+          "projectedBounds": [
+            79.27806925498439,
+            174.23794328495822,
+            1152.0,
+            738.7594965830067
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 517.0,
+            "y": 438,
+            "width": 926
+          },
+          "scale": 1.1584470094438615,
+          "translation": [
+            16.72193074501581,
+            231.3597064465954
+          ],
+          "projectedReference": [
+            615.6390346274922,
+            738.7594965830067
+          ],
+          "projectedBounds": [
+            48.00000000000007,
+            237.15194149381472,
+            1152.0,
+            738.7594965830067
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 514.5,
+            "y": 448,
+            "width": 821
+          },
+          "scale": 1.3066040569366817,
+          "translation": [
+            -56.60875266643063,
+            153.40087907537327
+          ],
+          "projectedReference": [
+            615.6390346274922,
+            738.7594965830067
+          ],
+          "projectedBounds": [
+            79.27806925498427,
+            161.24050341699336,
+            1152.0,
+            737.45289252607
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX29",
+      "angle": "top",
+      "source": "assets/sources/EX29-top.png"
+    },
+    {
+      "panels": [
+        [
+          66,
+          469
+        ],
+        [
+          563,
+          953
+        ],
+        [
+          1023,
+          1427
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 509.0,
+            "y": 397,
+            "width": 900
+          },
+          "scale": 1.1740585774058578,
+          "translation": [
+            -14.340585774058695,
+            213.75882585133212
+          ],
+          "projectedReference": [
+            583.255230125523,
+            679.8600810814577
+          ],
+          "projectedBounds": [
+            54.92887029288691,
+            220.80317731576727,
+            1111.581589958159,
+            679.8600810814577
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 501.5,
+            "y": 384,
+            "width": 915
+          },
+          "scale": 1.1548117154811717,
+          "translation": [
+            4.117154811715409,
+            236.41238233668776
+          ],
+          "projectedReference": [
+            583.255230125523,
+            679.8600810814577
+          ],
+          "projectedBounds": [
+            47.99999999999993,
+            243.3412526295748,
+            1152.0,
+            679.8600810814577
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 508.5,
+            "y": 398,
+            "width": 901
+          },
+          "scale": 1.1727555157217227,
+          "translation": [
+            -13.090949618973013,
+            213.10338582421207
+          ],
+          "projectedReference": [
+            583.255230125523,
+            679.8600810814577
+          ],
+          "projectedBounds": [
+            56.10162580860862,
+            220.1399189185424,
+            1110.4088344424372,
+            679.8600810814577
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX30",
+      "angle": "base",
+      "source": "assets/sources/EX30.png"
+    },
+    {
+      "panels": [
+        [
+          131,
+          483
+        ],
+        [
+          575,
+          926
+        ],
+        [
+          1023,
+          1378
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 513.0,
+            "y": 346,
+            "width": 736
+          },
+          "scale": 1.195187165775401,
+          "translation": [
+            -9.588770053475969,
+            239.6470588235295
+          ],
+          "projectedReference": [
+            603.5422459893048,
+            653.1818181818182
+          ],
+          "projectedBounds": [
+            163.71336898395717,
+            246.8181818181819,
+            1043.371122994652,
+            653.1818181818182
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 346,
+            "width": 745
+          },
+          "scale": 1.1807486631016042,
+          "translation": [
+            -1.5914438502674102,
+            244.6427807486632
+          ],
+          "projectedReference": [
+            603.5422459893048,
+            653.1818181818182
+          ],
+          "projectedBounds": [
+            47.999999999999964,
+            251.72727272727283,
+            1152.0,
+            652.0010695187166
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 514.5,
+            "y": 350,
+            "width": 747
+          },
+          "scale": 1.1775873547666602,
+          "translation": [
+            -2.326448038141848,
+            241.02624401348714
+          ],
+          "projectedReference": [
+            603.5422459893048,
+            653.1818181818182
+          ],
+          "projectedBounds": [
+            163.71336898395725,
+            248.09176814208712,
+            1043.3711229946525,
+            652.0042308270515
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX30",
+      "angle": "top",
+      "source": "assets/sources/EX30-top.png"
+    },
+    {
+      "panels": [
+        [
+          93,
+          417
+        ],
+        [
+          526,
+          949
+        ],
+        [
+          1088,
+          1417
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 510.5,
+            "y": 318,
+            "width": 979
+          },
+          "scale": 1.1276813074565883,
+          "translation": [
+            24.318692543411657,
+            323.37280435150427
+          ],
+          "projectedReference": [
+            600.0,
+            681.9754601226994
+          ],
+          "projectedBounds": [
+            49.1276813074566,
+            330.1388921962438,
+            1152.0,
+            681.9754601226994
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 511.0,
+            "y": 417,
+            "width": 978
+          },
+          "scale": 1.1288343558282208,
+          "translation": [
+            23.16564417177915,
+            211.25153374233128
+          ],
+          "projectedReference": [
+            600.0,
+            681.9754601226994
+          ],
+          "projectedBounds": [
+            48.00000000000001,
+            218.0245398773006,
+            1152.0,
+            681.9754601226994
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 511.0,
+            "y": 323,
+            "width": 978
+          },
+          "scale": 1.1288343558282208,
+          "translation": [
+            23.16564417177915,
+            317.36196319018404
+          ],
+          "projectedReference": [
+            600.0,
+            681.9754601226994
+          ],
+          "projectedBounds": [
+            48.00000000000001,
+            324.13496932515335,
+            1152.0,
+            681.9754601226994
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX31",
+      "angle": "base",
+      "source": "assets/sources/EX31.png"
+    },
+    {
+      "panels": [
+        [
+          161,
+          480
+        ],
+        [
+          635,
+          956
+        ],
+        [
+          1115,
+          1435
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 513.5,
+            "y": 314,
+            "width": 971
+          },
+          "scale": 1.1381443298969072,
+          "translation": [
+            16.131958762886597,
+            269.0350515463918
+          ],
+          "projectedReference": [
+            600.5690721649485,
+            626.4123711340206
+          ],
+          "projectedBounds": [
+            48.0,
+            275.8639175257732,
+            1152.0,
+            625.2742268041238
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 513.5,
+            "y": 316,
+            "width": 971
+          },
+          "scale": 1.1381443298969072,
+          "translation": [
+            16.131958762886597,
+            266.758762886598
+          ],
+          "projectedReference": [
+            600.5690721649485,
+            626.4123711340206
+          ],
+          "projectedBounds": [
+            48.0,
+            273.5876288659794,
+            1152.0,
+            625.2742268041238
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 513.5,
+            "y": 314,
+            "width": 971
+          },
+          "scale": 1.1381443298969072,
+          "translation": [
+            16.131958762886597,
+            269.0350515463918
+          ],
+          "projectedReference": [
+            600.5690721649485,
+            626.4123711340206
+          ],
+          "projectedBounds": [
+            49.1381443298969,
+            275.8639175257732,
+            1152.0,
+            626.4123711340206
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX32",
+      "angle": "base",
+      "source": "assets/sources/EX32.png"
+    },
+    {
+      "panels": [
+        [
+          33,
+          462
+        ],
+        [
+          527,
+          959
+        ],
+        [
+          1024,
+          1468
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 511.5,
+            "y": 424,
+            "width": 955
+          },
+          "scale": 1.156020942408377,
+          "translation": [
+            8.69528795811516,
+            209.54764397905757
+          ],
+          "projectedReference": [
+            600.0,
+            699.7005235602094
+          ],
+          "projectedBounds": [
+            47.99999999999997,
+            216.48376963350782,
+            1150.8439790575915,
+            698.5445026178011
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 511.5,
+            "y": 426,
+            "width": 955
+          },
+          "scale": 1.156020942408377,
+          "translation": [
+            8.69528795811516,
+            207.2356020942408
+          ],
+          "projectedReference": [
+            600.0,
+            699.7005235602094
+          ],
+          "projectedBounds": [
+            47.99999999999997,
+            214.17172774869104,
+            1152.0,
+            699.7005235602094
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 511.5,
+            "y": 438,
+            "width": 955
+          },
+          "scale": 1.156020942408377,
+          "translation": [
+            8.69528795811516,
+            193.3633507853403
+          ],
+          "projectedReference": [
+            600.0,
+            699.7005235602094
+          ],
+          "projectedBounds": [
+            47.99999999999997,
+            200.29947643979054,
+            1152.0,
+            699.7005235602094
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX33",
+      "angle": "base",
+      "source": "assets/sources/EX33.png"
+    },
+    {
+      "panels": [
+        [
+          105,
+          466
+        ],
+        [
+          564,
+          926
+        ],
+        [
+          1024,
+          1391
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 513.0,
+            "y": 355,
+            "width": 874
+          },
+          "scale": 1.2631578947368423,
+          "translation": [
+            -48.000000000000114,
+            225.53323308270677
+          ],
+          "projectedReference": [
+            600.0,
+            673.9542857142858
+          ],
+          "projectedBounds": [
+            47.9999999999999,
+            233.1121804511278,
+            1152.0,
+            673.9542857142858
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 356,
+            "width": 875
+          },
+          "scale": 1.2617142857142858,
+          "translation": [
+            -46.62857142857149,
+            224.78400000000005
+          ],
+          "projectedReference": [
+            600.0,
+            673.9542857142858
+          ],
+          "projectedBounds": [
+            49.261714285714234,
+            232.35428571428577,
+            1152.0,
+            673.9542857142858
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 361,
+            "width": 875
+          },
+          "scale": 1.2617142857142858,
+          "translation": [
+            -46.62857142857149,
+            218.4754285714286
+          ],
+          "projectedReference": [
+            600.0,
+            673.9542857142858
+          ],
+          "projectedBounds": [
+            47.99999999999994,
+            226.04571428571433,
+            1152.0,
+            673.9542857142858
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX33",
+      "angle": "top",
+      "source": "assets/sources/EX33-top.png"
+    },
+    {
+      "panels": [
+        [
+          13,
+          497
+        ],
+        [
+          580,
+          951
+        ],
+        [
+          977,
+          1472
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 507.0,
+            "y": 478,
+            "width": 846
+          },
+          "scale": 1.304964539007092,
+          "translation": [
+            -61.617021276595665,
+            141.65552178318137
+          ],
+          "projectedReference": [
+            600.0,
+            765.4285714285713
+          ],
+          "projectedBounds": [
+            48.00000000000007,
+            149.48530901722393,
+            1152.0,
+            765.4285714285713
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 365,
+            "width": 887
+          },
+          "scale": 1.2446448703494926,
+          "translation": [
+            -37.88049605411493,
+            311.13319375100656
+          ],
+          "projectedReference": [
+            600.0,
+            765.4285714285713
+          ],
+          "projectedBounds": [
+            48.00000000000006,
+            318.6010629731035,
+            1152.0,
+            765.4285714285713
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 506.5,
+            "y": 490,
+            "width": 847
+          },
+          "scale": 1.3034238488783942,
+          "translation": [
+            -60.18417945690669,
+            126.75088547815812
+          ],
+          "projectedReference": [
+            600.0,
+            765.4285714285713
+          ],
+          "projectedBounds": [
+            49.303423848878424,
+            134.5714285714285,
+            1152.0,
+            764.1251475796929
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX34",
+      "angle": "base",
+      "source": "assets/sources/EX34.png"
+    },
+    {
+      "panels": [
+        [
+          97,
+          434
+        ],
+        [
+          577,
+          911
+        ],
+        [
+          1042,
+          1384
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 514.5,
+            "y": 331,
+            "width": 741
+          },
+          "scale": 1.4898785425101215,
+          "translation": [
+            -166.54251012145755,
+            201.36026954324376
+          ],
+          "projectedReference": [
+            600.0,
+            694.510067114094
+          ],
+          "projectedBounds": [
+            47.99999999999994,
+            210.2995407983045,
+            1152.0,
+            694.510067114094
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 517.0,
+            "y": 329,
+            "width": 854
+          },
+          "scale": 1.2927400468384074,
+          "translation": [
+            -68.34660421545664,
+            269.198591704258
+          ],
+          "projectedReference": [
+            600.0,
+            694.510067114094
+          ],
+          "projectedBounds": [
+            48.00000000000003,
+            276.95503198528843,
+            1152.0,
+            693.2173270672556
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 336,
+            "width": 745
+          },
+          "scale": 1.4818791946308725,
+          "translation": [
+            -159.46308724832215,
+            196.59865771812088
+          ],
+          "projectedReference": [
+            600.0,
+            694.510067114094
+          ],
+          "projectedBounds": [
+            48.0,
+            205.48993288590611,
+            1152.0,
+            694.510067114094
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX34",
+      "angle": "top",
+      "source": "assets/sources/EX34-top.png"
+    },
+    {
+      "panels": [
+        [
+          147,
+          456
+        ],
+        [
+          629,
+          945
+        ],
+        [
+          1103,
+          1412
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 303,
+            "width": 949
+          },
+          "scale": 1.1645556689366323,
+          "translation": [
+            3.7468845804079365,
+            274.5259323468059
+          ],
+          "projectedReference": [
+            600.581664910432,
+            627.3863000346055
+          ],
+          "projectedBounds": [
+            49.1645556689366,
+            281.5132663604257,
+            1151.9987741519276,
+            627.3863000346055
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 310,
+            "width": 947
+          },
+          "scale": 1.1670151318066146,
+          "translation": [
+            2.4864098595419364,
+            265.6116091745549
+          ],
+          "projectedReference": [
+            600.581664910432,
+            627.3863000346055
+          ],
+          "projectedBounds": [
+            47.99999999999991,
+            272.61369996539463,
+            1151.9963146890573,
+            627.3863000346055
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.0,
+            "y": 304,
+            "width": 950
+          },
+          "scale": 1.1633298208640674,
+          "translation": [
+            4.956796628029451,
+            273.734034491929
+          ],
+          "projectedReference": [
+            600.581664910432,
+            627.3863000346055
+          ],
+          "projectedBounds": [
+            47.99999999999994,
+            280.7140134171134,
+            1152.0,
+            626.2229702137414
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX35",
+      "angle": "base",
+      "source": "assets/sources/EX35.png"
+    },
+    {
+      "panels": [
+        [
+          112,
+          457
+        ],
+        [
+          576,
+          922
+        ],
+        [
+          1051,
+          1396
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 516.0,
+            "y": 341,
+            "width": 854
+          },
+          "scale": 1.2927400468384074,
+          "translation": [
+            -67.05386416861825,
+            228.03880192283987
+          ],
+          "projectedReference": [
+            600.0,
+            668.8631578947368
+          ],
+          "projectedBounds": [
+            48.000000000000014,
+            235.79524220387032,
+            1152.0,
+            666.27767780106
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 516.5,
+            "y": 343,
+            "width": 855
+          },
+          "scale": 1.2912280701754386,
+          "translation": [
+            -66.91929824561407,
+            225.97192982456136
+          ],
+          "projectedReference": [
+            600.0,
+            668.8631578947368
+          ],
+          "projectedBounds": [
+            49.29122807017541,
+            233.719298245614,
+            1152.0,
+            664.9894736842105
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 516.5,
+            "y": 341,
+            "width": 855
+          },
+          "scale": 1.2912280701754386,
+          "translation": [
+            -66.91929824561407,
+            228.55438596491223
+          ],
+          "projectedReference": [
+            600.0,
+            668.8631578947368
+          ],
+          "projectedBounds": [
+            47.99999999999996,
+            236.30175438596487,
+            1152.0,
+            666.280701754386
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX35",
+      "angle": "top",
+      "source": "assets/sources/EX35-top.png"
+    },
+    {
+      "panels": [
+        [
+          100,
+          430
+        ],
+        [
+          552,
+          904
+        ],
+        [
+          1003,
+          1384
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 513.0,
+            "y": 325,
+            "width": 968
+          },
+          "scale": 1.142854701000795,
+          "translation": [
+            13.71553838659213,
+            289.21131214371786
+          ],
+          "projectedReference": [
+            600.0,
+            660.6390899689762
+          ],
+          "projectedBounds": [
+            48.00117941661598,
+            296.0684403497226,
+            1151.9988205833838,
+            659.4962352679754
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 513.5,
+            "y": 346,
+            "width": 967
+          },
+          "scale": 1.1440365569480553,
+          "translation": [
+            12.537228007173667,
+            264.8024412649491
+          ],
+          "projectedReference": [
+            600.0,
+            660.6390899689762
+          ],
+          "projectedBounds": [
+            48.002361272563384,
+            271.66666060663744,
+            1151.9976387274369,
+            660.6390899689762
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 513.5,
+            "y": 375,
+            "width": 969
+          },
+          "scale": 1.1416752843846951,
+          "translation": [
+            13.749741468459092,
+            232.51085832471557
+          ],
+          "projectedReference": [
+            600.0,
+            660.6390899689762
+          ],
+          "projectedBounds": [
+            47.99999999999994,
+            239.36091003102374,
+            1152.0,
+            660.6390899689762
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX36",
+      "angle": "base",
+      "source": "assets/sources/EX36.png"
+    },
+    {
+      "panels": [
+        [
+          109,
+          445
+        ],
+        [
+          577,
+          912
+        ],
+        [
+          1048,
+          1387
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 336,
+            "width": 823
+          },
+          "scale": 1.3414337788578372,
+          "translation": [
+            -87.4848116646416,
+            227.74211207990066
+          ],
+          "projectedReference": [
+            600.0,
+            678.463861776134
+          ],
+          "projectedBounds": [
+            49.341433778857805,
+            235.7907147530477,
+            1150.6585662211423,
+            670.415259102987
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 514.5,
+            "y": 335,
+            "width": 819
+          },
+          "scale": 1.347985347985348,
+          "translation": [
+            -93.53846153846155,
+            226.88877020104235
+          ],
+          "projectedReference": [
+            600.0,
+            678.463861776134
+          ],
+          "projectedBounds": [
+            48.0,
+            233.6286969409691,
+            1152.0,
+            670.3759496882219
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 514.5,
+            "y": 339,
+            "width": 819
+          },
+          "scale": 1.347985347985348,
+          "translation": [
+            -93.53846153846155,
+            221.49682880910098
+          ],
+          "projectedReference": [
+            600.0,
+            678.463861776134
+          ],
+          "projectedBounds": [
+            48.0,
+            229.58474089701306,
+            1150.6520146520147,
+            670.3759496882219
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX36",
+      "angle": "top",
+      "source": "assets/sources/EX36-top.png"
+    },
+    {
+      "panels": [
+        [
+          2,
+          519
+        ],
+        [
+          536,
+          936
+        ],
+        [
+          952,
+          1493
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 516.5,
+            "y": 511,
+            "width": null
+          },
+          "scale": 1.5169811320754718,
+          "translation": [
+            -182.00377358490573,
+            76.82264150943388
+          ],
+          "projectedReference": [
+            601.5169811320754,
+            852.0
+          ],
+          "projectedBounds": [
+            479.4,
+            85.92452830188671,
+            725.1509433962265,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 518.5,
+            "y": 394,
+            "width": null
+          },
+          "scale": 1.5169811320754718,
+          "translation": [
+            -185.03773584905673,
+            254.30943396226417
+          ],
+          "projectedReference": [
+            601.5169811320754,
+            852.0
+          ],
+          "projectedBounds": [
+            430.8566037735849,
+            263.411320754717,
+            769.143396226415,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 517.0,
+            "y": 536,
+            "width": null
+          },
+          "scale": 1.5169811320754718,
+          "translation": [
+            -182.76226415094345,
+            38.89811320754711
+          ],
+          "projectedReference": [
+            601.5169811320754,
+            852.0
+          ],
+          "projectedBounds": [
+            471.0566037735849,
+            47.99999999999994,
+            735.011320754717,
+            850.4830188679246
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX37",
+      "angle": "base",
+      "source": "assets/sources/EX37.png"
+    },
+    {
+      "panels": [
+        [
+          6,
+          509
+        ],
+        [
+          531,
+          951
+        ],
+        [
+          964,
+          1492
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 508.5,
+            "y": 497,
+            "width": null
+          },
+          "scale": 1.558139534883721,
+          "translation": [
+            -213.34883720930236,
+            77.60465116279067
+          ],
+          "projectedReference": [
+            578.9651162790698,
+            852.0
+          ],
+          "projectedBounds": [
+            486.2558139534884,
+            86.953488372093,
+            673.232558139535,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 509.5,
+            "y": 414,
+            "width": null
+          },
+          "scale": 1.558139534883721,
+          "translation": [
+            -214.90697674418607,
+            206.93023255813944
+          ],
+          "projectedReference": [
+            578.9651162790698,
+            852.0
+          ],
+          "projectedBounds": [
+            419.2558139534884,
+            216.27906976744177,
+            780.7441860465117,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 509.0,
+            "y": 522,
+            "width": null
+          },
+          "scale": 1.558139534883721,
+          "translation": [
+            -214.12790697674427,
+            38.65116279069764
+          ],
+          "projectedReference": [
+            578.9651162790698,
+            852.0
+          ],
+          "projectedBounds": [
+            488.59302325581393,
+            47.999999999999964,
+            672.453488372093,
+            852.0
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX38",
+      "angle": "base",
+      "source": "assets/sources/EX38.png"
+    },
+    {
+      "panels": [
+        [
+          10,
+          532
+        ],
+        [
+          542,
+          953
+        ],
+        [
+          974,
+          1499
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 258.5,
+            "width": null
+          },
+          "scale": 1.5256166982922201,
+          "translation": [
+            -191.7950664136622,
+            64.78178368121439
+          ],
+          "projectedReference": [
+            589.3206831119545,
+            459.1537001897533
+          ],
+          "projectedBounds": [
+            452.01518026565475,
+            73.93548387096772,
+            718.9981024667932,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 208.0,
+            "width": null
+          },
+          "scale": 1.5256166982922201,
+          "translation": [
+            -191.7950664136622,
+            141.82542694497153
+          ],
+          "projectedReference": [
+            589.3206831119545,
+            459.1537001897533
+          ],
+          "projectedBounds": [
+            304.0303605313093,
+            150.97912713472485,
+            895.9696394686907,
+            759.7001897533207
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 275.5,
+            "width": null
+          },
+          "scale": 1.5256166982922201,
+          "translation": [
+            -191.7950664136622,
+            38.84629981024665
+          ],
+          "projectedReference": [
+            589.3206831119545,
+            459.1537001897533
+          ],
+          "projectedBounds": [
+            455.06641366223914,
+            47.99999999999997,
+            718.9981024667932,
+            830.6413662239088
+          ]
+        }
+      ],
+      "referenceKind": "common-camera",
+      "technicalReview": "pending",
+      "exercise": "EX39",
+      "angle": "base",
+      "source": "assets/sources/EX39.png"
+    },
+    {
+      "panels": [
+        [
+          6,
+          501
+        ],
+        [
+          516,
+          1014
+        ],
+        [
+          1029,
+          1515
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 509.5,
+            "y": 490,
+            "width": null
+          },
+          "scale": 1.654320987654321,
+          "translation": [
+            -242.87654320987656,
+            41.38271604938268
+          ],
+          "projectedReference": [
+            600.0,
+            852.0
+          ],
+          "projectedBounds": [
+            475.09876543209873,
+            51.3086419753086,
+            724.9012345679013,
+            850.3456790123456
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 509.0,
+            "y": 492,
+            "width": null
+          },
+          "scale": 1.654320987654321,
+          "translation": [
+            -242.04938271604942,
+            38.07407407407402
+          ],
+          "projectedReference": [
+            600.0,
+            852.0
+          ],
+          "projectedBounds": [
+            475.92592592592587,
+            47.99999999999994,
+            725.7283950617284,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 506.0,
+            "y": 480,
+            "width": null
+          },
+          "scale": 1.654320987654321,
+          "translation": [
+            -237.08641975308637,
+            57.92592592592587
+          ],
+          "projectedReference": [
+            600.0,
+            852.0
+          ],
+          "projectedBounds": [
+            466.0,
+            67.85185185185179,
+            734.0,
+            852.0
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX40",
+      "angle": "base",
+      "source": "assets/sources/EX40.png"
+    },
+    {
+      "panels": [
+        [
+          11,
+          500
+        ],
+        [
+          516,
+          1006
+        ],
+        [
+          1020,
+          1514
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 507.5,
+            "y": 483,
+            "width": null
+          },
+          "scale": 1.6645962732919255,
+          "translation": [
+            -248.94409937888202,
+            48.0
+          ],
+          "projectedReference": [
+            595.8385093167702,
+            852.0
+          ],
+          "projectedBounds": [
+            470.1614906832298,
+            57.98757763975155,
+            716.5217391304348,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 506.5,
+            "y": 484,
+            "width": null
+          },
+          "scale": 1.6645962732919255,
+          "translation": [
+            -247.27950310559004,
+            46.33540372670802
+          ],
+          "projectedReference": [
+            595.8385093167702,
+            852.0
+          ],
+          "projectedBounds": [
+            471.82608695652175,
+            54.65838509316765,
+            729.8385093167702,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 506.0,
+            "y": 488,
+            "width": null
+          },
+          "scale": 1.6645962732919255,
+          "translation": [
+            -246.4472049689441,
+            39.67701863354034
+          ],
+          "projectedReference": [
+            595.8385093167702,
+            852.0
+          ],
+          "projectedBounds": [
+            474.32298136645966,
+            47.99999999999997,
+            719.0186335403727,
+            852.0
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX41",
+      "angle": "base",
+      "source": "assets/sources/EX41.png"
+    },
+    {
+      "panels": [
+        [
+          12,
+          500
+        ],
+        [
+          527,
+          984
+        ],
+        [
+          1008,
+          1496
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 510.5,
+            "y": 482,
+            "width": null
+          },
+          "scale": 1.6601503759398497,
+          "translation": [
+            -247.50676691729325,
+            44.92330827067667
+          ],
+          "projectedReference": [
+            600.0,
+            845.1157894736842
+          ],
+          "projectedBounds": [
+            48.0,
+            54.88421052631577,
+            1152.0,
+            845.1157894736842
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 510.5,
+            "y": 451,
+            "width": null
+          },
+          "scale": 1.6601503759398497,
+          "translation": [
+            -247.50676691729325,
+            96.38796992481196
+          ],
+          "projectedReference": [
+            600.0,
+            845.1157894736842
+          ],
+          "projectedBounds": [
+            48.0,
+            104.6887218045112,
+            1152.0,
+            845.1157894736842
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 510.5,
+            "y": 482,
+            "width": null
+          },
+          "scale": 1.6601503759398497,
+          "translation": [
+            -247.50676691729325,
+            44.92330827067667
+          ],
+          "projectedReference": [
+            600.0,
+            845.1157894736842
+          ],
+          "projectedBounds": [
+            48.0,
+            54.88421052631577,
+            1152.0,
+            845.1157894736842
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX42",
+      "angle": "base",
+      "source": "assets/sources/EX42.png"
+    },
+    {
+      "panels": [
+        [
+          12,
+          509
+        ],
+        [
+          521,
+          1019
+        ],
+        [
+          1030,
+          1525
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 507.0,
+            "y": 491,
+            "width": null
+          },
+          "scale": 1.654320987654321,
+          "translation": [
+            -223.0246913580247,
+            39.728395061728406
+          ],
+          "projectedReference": [
+            615.716049382716,
+            852.0
+          ],
+          "projectedBounds": [
+            493.2962962962963,
+            48.000000000000014,
+            739.7901234567901,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 506.0,
+            "y": 492,
+            "width": null
+          },
+          "scale": 1.654320987654321,
+          "translation": [
+            -221.37037037037032,
+            38.07407407407402
+          ],
+          "projectedReference": [
+            615.716049382716,
+            852.0
+          ],
+          "projectedBounds": [
+            360.9506172839507,
+            47.99999999999994,
+            839.0493827160495,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "feet",
+            "x": 506.5,
+            "y": 489,
+            "width": null
+          },
+          "scale": 1.654320987654321,
+          "translation": [
+            -222.19753086419757,
+            43.03703703703707
+          ],
+          "projectedReference": [
+            615.716049382716,
+            852.0
+          ],
+          "projectedBounds": [
+            494.12345679012344,
+            52.96296296296299,
+            740.6172839506172,
+            852.0
+          ]
+        }
+      ],
+      "referenceKind": "feet",
+      "technicalReview": "pending",
+      "exercise": "EX43",
+      "angle": "base",
+      "source": "assets/sources/EX43.png"
+    },
+    {
+      "panels": [
+        [
+          23,
+          480
+        ],
+        [
+          658,
+          902
+        ],
+        [
+          992,
+          1453
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.5,
+            "y": 451,
+            "width": 937
+          },
+          "scale": 1.1782283884738527,
+          "translation": [
+            -3.842049092849493,
+            181.75459001863135
+          ],
+          "projectedReference": [
+            600.0,
+            713.1355932203389
+          ],
+          "projectedBounds": [
+            48.00000000000003,
+            188.82396034947448,
+            1150.8217716115262,
+            713.1355932203389
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.0,
+            "y": 238,
+            "width": 948
+          },
+          "scale": 1.1645569620253164,
+          "translation": [
+            3.7468354430379804,
+            435.97103625831363
+          ],
+          "projectedReference": [
+            600.0,
+            713.1355932203389
+          ],
+          "projectedBounds": [
+            48.00000000000001,
+            442.95837803046555,
+            1152.0,
+            713.1355932203389
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.0,
+            "y": 455,
+            "width": 944
+          },
+          "scale": 1.1694915254237288,
+          "translation": [
+            1.2203389830508513,
+            181.01694915254234
+          ],
+          "projectedReference": [
+            600.0,
+            713.1355932203389
+          ],
+          "projectedBounds": [
+            48.0,
+            186.86440677966098,
+            1150.8305084745762,
+            713.1355932203389
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX44",
+      "angle": "base",
+      "source": "assets/sources/EX44.png"
+    },
+    {
+      "panels": [
+        [
+          10,
+          493
+        ],
+        [
+          517,
+          1002
+        ],
+        [
+          1026,
+          1511
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 511.5,
+            "y": 477,
+            "width": 689
+          },
+          "scale": 1.6046310277184073,
+          "translation": [
+            -221.56415972695663,
+            63.283922319863905
+          ],
+          "projectedReference": [
+            599.2046109510087,
+            828.6929225415441
+          ],
+          "projectedBounds": [
+            48.013852929735776,
+            71.30707745845594,
+            1152.0,
+            828.6929225415441
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 511.5,
+            "y": 479,
+            "width": 695
+          },
+          "scale": 1.5907780979827089,
+          "translation": [
+            -214.47838616714682,
+            66.71021360782663
+          ],
+          "projectedReference": [
+            599.2046109510087,
+            828.6929225415441
+          ],
+          "projectedBounds": [
+            48.000000000000114,
+            76.25488219572289,
+            1152.0,
+            828.6929225415441
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 511.0,
+            "y": 479,
+            "width": 692
+          },
+          "scale": 1.5976745348236745,
+          "translation": [
+            -217.20707634388896,
+            63.406820361004065
+          ],
+          "projectedReference": [
+            599.2046109510087,
+            828.6929225415441
+          ],
+          "projectedBounds": [
+            48.00689643684103,
+            72.99286756994611,
+            1152.0,
+            828.6929225415441
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX45",
+      "angle": "base",
+      "source": "assets/sources/EX45.png"
+    },
+    {
+      "panels": [
+        [
+          146,
+          432
+        ],
+        [
+          489,
+          1003
+        ],
+        [
+          1135,
+          1422
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.0,
+            "y": 280,
+            "width": 970
+          },
+          "scale": 1.1381443298969072,
+          "translation": [
+            17.27010309278353,
+            416.99381443298967
+          ],
+          "projectedReference": [
+            600.0,
+            735.6742268041237
+          ],
+          "projectedBounds": [
+            48.00000000000002,
+            423.8226804123711,
+            1152.0,
+            735.6742268041237
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.0,
+            "y": 508,
+            "width": 970
+          },
+          "scale": 1.1381443298969072,
+          "translation": [
+            17.27010309278353,
+            157.49690721649483
+          ],
+          "projectedReference": [
+            600.0,
+            735.6742268041237
+          ],
+          "projectedBounds": [
+            48.00000000000002,
+            164.32577319587628,
+            1152.0,
+            735.6742268041237
+          ]
+        },
+        {
+          "reference": {
+            "kind": "mat",
+            "x": 512.0,
+            "y": 282,
+            "width": 970
+          },
+          "scale": 1.1381443298969072,
+          "translation": [
+            17.27010309278353,
+            414.71752577319586
+          ],
+          "projectedReference": [
+            600.0,
+            735.6742268041237
+          ],
+          "projectedBounds": [
+            48.00000000000002,
+            421.5463917525773,
+            1152.0,
+            734.5360824742268
+          ]
+        }
+      ],
+      "referenceKind": "mat",
+      "technicalReview": "pending",
+      "exercise": "EX46",
+      "angle": "base",
+      "source": "assets/sources/EX46.png"
+    },
+    {
+      "panels": [
+        [
+          19,
+          505
+        ],
+        [
+          528,
+          1005
+        ],
+        [
+          1021,
+          1498
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 239.0,
+            "width": null
+          },
+          "scale": 1.2321428571428572,
+          "translation": [
+            -61.660714285714334,
+            159.5223214285714
+          ],
+          "projectedReference": [
+            569.1964285714286,
+            454.0044642857143
+          ],
+          "projectedBounds": [
+            51.69642857142853,
+            166.91517857142853,
+            1090.3928571428573,
+            750.9508928571429
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 236.5,
+            "width": null
+          },
+          "scale": 1.2321428571428572,
+          "translation": [
+            -61.660714285714334,
+            162.60267857142856
+          ],
+          "projectedReference": [
+            569.1964285714286,
+            454.0044642857143
+          ],
+          "projectedBounds": [
+            47.99999999999996,
+            169.9955357142857,
+            1152.0,
+            742.9419642857143
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 253.5,
+            "width": null
+          },
+          "scale": 1.2321428571428572,
+          "translation": [
+            -61.660714285714334,
+            141.65625
+          ],
+          "projectedReference": [
+            569.1964285714286,
+            454.0044642857143
+          ],
+          "projectedBounds": [
+            52.92857142857139,
+            149.04910714285714,
+            1096.5535714285716,
+            721.9955357142858
+          ]
+        }
+      ],
+      "referenceKind": "common-camera",
+      "technicalReview": "pending",
+      "exercise": "EX47",
+      "angle": "base",
+      "source": "assets/sources/EX47.png"
+    },
+    {
+      "panels": [
+        [
+          14,
+          545
+        ],
+        [
+          559,
+          997
+        ],
+        [
+          1008,
+          1460
+        ]
+      ],
+      "registration": [
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 262.0,
+            "width": null
+          },
+          "scale": 1.5461538461538462,
+          "translation": [
+            -186.9923076923077,
+            40.269230769230774
+          ],
+          "projectedReference": [
+            604.6384615384616,
+            445.3615384615385
+          ],
+          "projectedBounds": [
+            453.11538461538464,
+            48.00000000000001,
+            739.1538461538462,
+            852.0
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 218.0,
+            "width": null
+          },
+          "scale": 1.5461538461538462,
+          "translation": [
+            -186.9923076923077,
+            108.30000000000001
+          ],
+          "projectedReference": [
+            604.6384615384616,
+            445.3615384615385
+          ],
+          "projectedBounds": [
+            366.53076923076924,
+            117.5769230769231,
+            876.7615384615384,
+            776.2384615384615
+          ]
+        },
+        {
+          "reference": {
+            "kind": "common-camera",
+            "x": 512.0,
+            "y": 261.0,
+            "width": null
+          },
+          "scale": 1.5461538461538462,
+          "translation": [
+            -186.9923076923077,
+            41.81538461538463
+          ],
+          "projectedReference": [
+            604.6384615384616,
+            445.3615384615385
+          ],
+          "projectedBounds": [
+            323.23846153846154,
+            49.546153846153864,
+            867.4846153846155,
+            731.4000000000001
+          ]
+        }
+      ],
+      "referenceKind": "common-camera",
+      "technicalReview": "pending",
+      "exercise": "EX48",
+      "angle": "base",
+      "source": "assets/sources/EX48.png"
+    }
+  ]
+}

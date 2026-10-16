@@ -1,0 +1,84 @@
+{
+  "voice": "F1",
+  "voice_id": "voice_pjrwzzqm559j",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni.",
+  "clip": {
+    "id": "EX11.name",
+    "text": "Pompes inclinées.",
+    "family": "exercise_name",
+    "status": "text_frozen",
+    "review": "editorial_prepared_not_sport_technical",
+    "text_sha256": "657513ad52fffdf745994cf8ab995d8ec6c2b56adb5162199d1c5d696f8591bf"
+  },
+  "usage": {
+    "total_tokens": 36,
+    "total_input_tokens": 6,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 6
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 30,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 30
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0,
+    "raw_prompt_token": 1017,
+    "model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 170
+          }
+        ],
+        "cache_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 170
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 32
+          }
+        ]
+      }
+    ],
+    "non_grounding_model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 170
+          }
+        ],
+        "cache_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 170
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 32
+          }
+        ]
+      }
+    ]
+  },
+  "status": "generated_listening_pending",
+  "duration_seconds": 1.2,
+  "sample_rate": 24000,
+  "checksum": "34bea175c5f36843f2cf9253e54765a841d6a7f3aa76af82a25221d7e665f9a1",
+  "cost_standard_usd": 0.000273
+}

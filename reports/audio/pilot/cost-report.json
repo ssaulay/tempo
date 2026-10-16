@@ -1,0 +1,1788 @@
+{
+  "status": "technical_checks_passed_listening_pending",
+  "pricing_date": "2026-10-12",
+  "source": "https://ai.google.dev/gemini-api/docs/pricing",
+  "rate_input_per_million_usd": 0.5,
+  "rate_audio_per_million_usd": 9,
+  "pilot_requests": 24,
+  "pilot_generated_seconds": 45.60000000000001,
+  "pilot_cost_usage_based_usd": 0.010364,
+  "invoice_verified": false,
+  "full_catalog_files": 440,
+  "full_catalog_estimate_usd": 0.17645100000000064,
+  "with_30_percent_regeneration_usd": 0.22938630000000082,
+  "estimated_audio_minutes": 12.931333333333283,
+  "estimated_sequential_generation_minutes": 83.63728329542509,
+  "method": "Moyenne par voix et famille ; familles absentes remplacées par moyenne des clips catalogue de cette voix. Extrapolation indicative, non devis garanti.",
+  "exclusions": [
+    "Création des identités déjà effectuée",
+    "Taxes et éventuels frais du compte",
+    "Écoute humaine et intégration"
+  ],
+  "clips": [
+    {
+      "voice": "F1",
+      "voice_id": "voice_pjrwzzqm559j",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "EX03.name",
+        "text": "Jumping jacks.",
+        "family": "exercise_name",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "e482ab6afe83c4275b1ae8724f322b00ede85c12623d9b273be807b4fbe48190"
+      },
+      "duration_seconds": 1.52,
+      "request_seconds": 4.305820708,
+      "usage": {
+        "total_tokens": 43,
+        "total_input_tokens": 5,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 5
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 38,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 38
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 1014,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 167
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 40
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 167
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 40
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.0003445
+    },
+    {
+      "voice": "F1",
+      "voice_id": "voice_pjrwzzqm559j",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "EX03.prepare",
+        "text": "Jumping jacks. Prépare-toi.",
+        "family": "preparation",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "fbcf458cbeab710d7bf6b6569c97e81b3215cebccedffa3bbcf2008286901d38"
+      },
+      "duration_seconds": 2.4,
+      "request_seconds": 4.9940585,
+      "usage": {
+        "total_tokens": 71,
+        "total_input_tokens": 11,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 11
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 60,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 60
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 1026,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 179
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 62
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 179
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 62
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.0005455
+    },
+    {
+      "voice": "F1",
+      "voice_id": "voice_pjrwzzqm559j",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "EX29.name",
+        "text": "Dead bug.",
+        "family": "exercise_name",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "b5a75c14d6e26a2c03f7b2096cc93727a72c96f100680505e0f1e0f9853d21c7"
+      },
+      "duration_seconds": 1.32,
+      "request_seconds": 5.022145499999999,
+      "usage": {
+        "total_tokens": 37,
+        "total_input_tokens": 4,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 4
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 33,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 33
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 1013,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 166
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 35
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 166
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 35
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.000299
+    },
+    {
+      "voice": "F1",
+      "voice_id": "voice_pjrwzzqm559j",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "set.2.3",
+        "text": "Série deux sur trois.",
+        "family": "set",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "eaad42351930a310f1a931d8ea0ebc1064a6f9f4865c68872c2c414abb106cc8"
+      },
+      "duration_seconds": 1.92,
+      "request_seconds": 3.91170825,
+      "usage": {
+        "total_tokens": 55,
+        "total_input_tokens": 7,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 7
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 48,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 48
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 1018,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 171
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 50
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 171
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 50
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.00043549999999999996
+    },
+    {
+      "voice": "F1",
+      "voice_id": "voice_pjrwzzqm559j",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "reps.12",
+        "text": "Douze répétitions.",
+        "family": "repetitions",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "39a56b3a03c9a682001e2149201d06de9fcd8eb59f250ca90aa19040d16d1128"
+      },
+      "duration_seconds": 1.64,
+      "request_seconds": 4.9333275830000005,
+      "usage": {
+        "total_tokens": 47,
+        "total_input_tokens": 6,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 6
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 41,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 41
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 1017,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 170
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 43
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 170
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 43
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.00037200000000000004
+    },
+    {
+      "voice": "F1",
+      "voice_id": "voice_pjrwzzqm559j",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "rest.30",
+        "text": "Trente secondes de récupération.",
+        "family": "rest_duration",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "aeec10936a5c4baf352dccc771c2dbb08f782664da90a18edaf6aae6e1f35f67"
+      },
+      "duration_seconds": 1.84,
+      "request_seconds": 3.943955167000002,
+      "usage": {
+        "total_tokens": 53,
+        "total_input_tokens": 7,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 7
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 46,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 46
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 1019,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 172
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 48
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 172
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 48
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.00041749999999999996
+    },
+    {
+      "voice": "F1",
+      "voice_id": "voice_pjrwzzqm559j",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "common.per_side",
+        "text": "Par côté.",
+        "family": "common",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "db5bdbdb49ecc0325d4dbd6882104ba17f008f20fb3fc953faf57ff4f062044f"
+      },
+      "duration_seconds": 1.24,
+      "request_seconds": 4.133241292000001,
+      "usage": {
+        "total_tokens": 35,
+        "total_input_tokens": 4,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 4
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 31,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 31
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 1013,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 166
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 166
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 33
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 166
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 166
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 33
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.000281
+    },
+    {
+      "voice": "F1",
+      "voice_id": "voice_pjrwzzqm559j",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "common.next",
+        "text": "Ensuite.",
+        "family": "common",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "e9180e6e2974431f4e33e2ba5092588f5f7eefb39602125dca4f3b244453eb22"
+      },
+      "duration_seconds": 1.12,
+      "request_seconds": 3.7903235829999957,
+      "usage": {
+        "total_tokens": 33,
+        "total_input_tokens": 4,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 4
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 29,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 29
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 1012,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 165
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 165
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 30
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 165
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 165
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 30
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.000263
+    },
+    {
+      "voice": "F1",
+      "voice_id": "voice_pjrwzzqm559j",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "common.ten_remaining",
+        "text": "Dix secondes restantes.",
+        "family": "common",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "a1eb1122ab736e59013c68e4e449514eb1ca5ef23a5180fa0a0f9c96cab87865"
+      },
+      "duration_seconds": 1.6,
+      "request_seconds": 3.9620212499999994,
+      "usage": {
+        "total_tokens": 45,
+        "total_input_tokens": 5,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 5
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 40,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 40
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 1015,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 168
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 42
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 168
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 42
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.00036250000000000003
+    },
+    {
+      "voice": "F1",
+      "voice_id": "voice_pjrwzzqm559j",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "common.encourage.rhythm",
+        "text": "Garde ton rythme et respire.",
+        "family": "common",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "73f7ca61e2e28f0560a77737c3da6743467d43c25eb6044e9f9c493218679512"
+      },
+      "duration_seconds": 2.52,
+      "request_seconds": 4.059623791,
+      "usage": {
+        "total_tokens": 72,
+        "total_input_tokens": 9,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 9
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 63,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 63
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 1023,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 176
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 176
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 65
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 176
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 176
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 65
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.0005715
+    },
+    {
+      "voice": "F1",
+      "voice_id": "voice_pjrwzzqm559j",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "comparison.prepare",
+        "text": "Prépare-toi.",
+        "family": "comparison"
+      },
+      "duration_seconds": 1.24,
+      "request_seconds": 4.487993333999995,
+      "usage": {
+        "total_tokens": 38,
+        "total_input_tokens": 7,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 7
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 31,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 31
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 1019,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 172
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 172
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 33
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 172
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 172
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 33
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.0002825
+    },
+    {
+      "voice": "F1",
+      "voice_id": "voice_pjrwzzqm559j",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "comparison.full",
+        "text": "Dead bug. Série deux sur trois. Douze répétitions. Par côté.",
+        "family": "comparison"
+      },
+      "duration_seconds": 4.96,
+      "request_seconds": 5.560711625,
+      "usage": {
+        "total_tokens": 141,
+        "total_input_tokens": 17,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 17
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 124,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 124
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 1039,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 192
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 126
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 192
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 126
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.0011245
+    },
+    {
+      "voice": "M2-deep-v2",
+      "voice_id": "voice_j1nyh1atfcz8",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "EX03.name",
+        "text": "Jumping jacks.",
+        "family": "exercise_name",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "e482ab6afe83c4275b1ae8724f322b00ede85c12623d9b273be807b4fbe48190"
+      },
+      "duration_seconds": 1.48,
+      "request_seconds": 3.7688133330000007,
+      "usage": {
+        "total_tokens": 42,
+        "total_input_tokens": 5,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 5
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 37,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 37
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 811,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 167
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 39
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 167
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 39
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.0003355
+    },
+    {
+      "voice": "M2-deep-v2",
+      "voice_id": "voice_j1nyh1atfcz8",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "EX03.prepare",
+        "text": "Jumping jacks. Prépare-toi.",
+        "family": "preparation",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "fbcf458cbeab710d7bf6b6569c97e81b3215cebccedffa3bbcf2008286901d38"
+      },
+      "duration_seconds": 1.96,
+      "request_seconds": 4.9929172080000015,
+      "usage": {
+        "total_tokens": 60,
+        "total_input_tokens": 11,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 11
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 49,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 49
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 823,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 179
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 51
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 179
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 51
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.0004465
+    },
+    {
+      "voice": "M2-deep-v2",
+      "voice_id": "voice_j1nyh1atfcz8",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "EX29.name",
+        "text": "Dead bug.",
+        "family": "exercise_name",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "b5a75c14d6e26a2c03f7b2096cc93727a72c96f100680505e0f1e0f9853d21c7"
+      },
+      "duration_seconds": 1.32,
+      "request_seconds": 3.937452666999995,
+      "usage": {
+        "total_tokens": 37,
+        "total_input_tokens": 4,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 4
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 33,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 33
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 810,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 166
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 35
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 166
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 35
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.000299
+    },
+    {
+      "voice": "M2-deep-v2",
+      "voice_id": "voice_j1nyh1atfcz8",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "set.2.3",
+        "text": "Série deux sur trois.",
+        "family": "set",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "eaad42351930a310f1a931d8ea0ebc1064a6f9f4865c68872c2c414abb106cc8"
+      },
+      "duration_seconds": 1.76,
+      "request_seconds": 4.888891917000002,
+      "usage": {
+        "total_tokens": 51,
+        "total_input_tokens": 7,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 7
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 44,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 44
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 815,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 171
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 171
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 46
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 171
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 171
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 46
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.00039949999999999995
+    },
+    {
+      "voice": "M2-deep-v2",
+      "voice_id": "voice_j1nyh1atfcz8",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "reps.12",
+        "text": "Douze répétitions.",
+        "family": "repetitions",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "39a56b3a03c9a682001e2149201d06de9fcd8eb59f250ca90aa19040d16d1128"
+      },
+      "duration_seconds": 1.48,
+      "request_seconds": 3.49073525,
+      "usage": {
+        "total_tokens": 43,
+        "total_input_tokens": 6,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 6
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 37,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 37
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 814,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 170
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 39
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 170
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 39
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.00033600000000000004
+    },
+    {
+      "voice": "M2-deep-v2",
+      "voice_id": "voice_j1nyh1atfcz8",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "rest.30",
+        "text": "Trente secondes de récupération.",
+        "family": "rest_duration",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "aeec10936a5c4baf352dccc771c2dbb08f782664da90a18edaf6aae6e1f35f67"
+      },
+      "duration_seconds": 2.2,
+      "request_seconds": 4.818795042000005,
+      "usage": {
+        "total_tokens": 63,
+        "total_input_tokens": 7,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 7
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 56,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 56
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 816,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 172
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 57
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 172
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 57
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.0005075
+    },
+    {
+      "voice": "M2-deep-v2",
+      "voice_id": "voice_j1nyh1atfcz8",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "common.per_side",
+        "text": "Par côté.",
+        "family": "common",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "db5bdbdb49ecc0325d4dbd6882104ba17f008f20fb3fc953faf57ff4f062044f"
+      },
+      "duration_seconds": 1.2,
+      "request_seconds": 3.650389582999992,
+      "usage": {
+        "total_tokens": 34,
+        "total_input_tokens": 4,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 4
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 30,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 30
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 810,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 166
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 166
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 32
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 166
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 166
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 32
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.000272
+    },
+    {
+      "voice": "M2-deep-v2",
+      "voice_id": "voice_j1nyh1atfcz8",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "common.next",
+        "text": "Ensuite.",
+        "family": "common",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "e9180e6e2974431f4e33e2ba5092588f5f7eefb39602125dca4f3b244453eb22"
+      },
+      "duration_seconds": 0.92,
+      "request_seconds": 2.928688875000006,
+      "usage": {
+        "total_tokens": 27,
+        "total_input_tokens": 4,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 4
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 23,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 23
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 809,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 165
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 25
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 165
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 25
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.00020899999999999998
+    },
+    {
+      "voice": "M2-deep-v2",
+      "voice_id": "voice_j1nyh1atfcz8",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "common.ten_remaining",
+        "text": "Dix secondes restantes.",
+        "family": "common",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "a1eb1122ab736e59013c68e4e449514eb1ca5ef23a5180fa0a0f9c96cab87865"
+      },
+      "duration_seconds": 1.84,
+      "request_seconds": 4.431104375000004,
+      "usage": {
+        "total_tokens": 51,
+        "total_input_tokens": 5,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 5
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 46,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 46
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 812,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 168
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 168
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 48
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 168
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 168
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 48
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.0004165
+    },
+    {
+      "voice": "M2-deep-v2",
+      "voice_id": "voice_j1nyh1atfcz8",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "common.encourage.rhythm",
+        "text": "Garde ton rythme et respire.",
+        "family": "common",
+        "status": "text_frozen",
+        "review": "editorial_prepared_not_sport_technical",
+        "text_sha256": "73f7ca61e2e28f0560a77737c3da6743467d43c25eb6044e9f9c493218679512"
+      },
+      "duration_seconds": 2.4,
+      "request_seconds": 4.662169790999997,
+      "usage": {
+        "total_tokens": 69,
+        "total_input_tokens": 9,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 9
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 60,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 60
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 820,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 176
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 62
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 176
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 62
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.0005445
+    },
+    {
+      "voice": "M2-deep-v2",
+      "voice_id": "voice_j1nyh1atfcz8",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "comparison.prepare",
+        "text": "Prépare-toi.",
+        "family": "comparison"
+      },
+      "duration_seconds": 1.08,
+      "request_seconds": 4.0223557499999885,
+      "usage": {
+        "total_tokens": 34,
+        "total_input_tokens": 7,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 7
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 27,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 27
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 816,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 172
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 29
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 172
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 29
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.0002465
+    },
+    {
+      "voice": "M2-deep-v2",
+      "voice_id": "voice_j1nyh1atfcz8",
+      "model": "gemini-3.8-flash-tts",
+      "clip": {
+        "id": "comparison.full",
+        "text": "Dead bug. Série deux sur trois. Douze répétitions. Par côté.",
+        "family": "comparison"
+      },
+      "duration_seconds": 4.64,
+      "request_seconds": 5.133964249999991,
+      "usage": {
+        "total_tokens": 133,
+        "total_input_tokens": 17,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 17
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 116,
+        "output_tokens_by_modality": [
+          {
+            "modality": "audio",
+            "tokens": 116
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "raw_prompt_token": 836,
+        "model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 192
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 192
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 118
+              }
+            ]
+          }
+        ],
+        "non_grounding_model_invocation_token_counts": [
+          {
+            "prompt_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 192
+              }
+            ],
+            "cache_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 192
+              }
+            ],
+            "candidates_tokens_details": [
+              {
+                "modality": "text",
+                "tokens": 118
+              }
+            ]
+          }
+        ]
+      },
+      "status": "generated_listening_pending",
+      "cost_standard_usd": 0.0010525
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "physicalIPhoneTested": false,
+  "contrasts": [
+    {
+      "name": "body",
+      "fg": "#131a27",
+      "bg": "#ffffff",
+      "ratio": 17.43
+    },
+    {
+      "name": "secondary text",
+      "fg": "#566174",
+      "bg": "#ffffff",
+      "ratio": 6.25
+    },
+    {
+      "name": "primary action",
+      "fg": "#131a27",
+      "bg": "#ff6428",
+      "ratio": 5.9
+    },
+    {
+      "name": "accent text",
+      "fg": "#b83208",
+      "bg": "#ffffff",
+      "ratio": 6
+    },
+    {
+      "name": "player text",
+      "fg": "#c3ccdb",
+      "bg": "#101827",
+      "ratio": 10.98
+    },
+    {
+      "name": "work timer",
+      "fg": "#ff8a58",
+      "bg": "#101827",
+      "ratio": 7.64
+    },
+    {
+      "name": "rest timer",
+      "fg": "#66e1ff",
+      "bg": "#132c40",
+      "ratio": 9.42
+    }
+  ],
+  "results": [
+    {
+      "width": 360,
+      "status": "passed",
+      "captures": [
+        "welcome",
+        "settings",
+        "home",
+        "catalogue",
+        "exercise",
+        "editor",
+        "editor-expanded",
+        "programs",
+        "preparing",
+        "working",
+        "paused",
+        "rest",
+        "confirmation",
+        "summary",
+        "history"
+      ],
+      "metrics": {
+        "timerFont": 104,
+        "cueFont": 17,
+        "buttons": [
+          {
+            "text": "Pause",
+            "height": 68,
+            "font": 17,
+            "reachable": true
+          }
+        ],
+        "repsButtons": [
+          {
+            "text": "Pause",
+            "height": 78.1875,
+            "font": 17,
+            "reachable": true
+          },
+          {
+            "text": "Série terminée",
+            "height": 78.1875,
+            "font": 17,
+            "reachable": true
+          }
+        ],
+        "restButtons": [
+          {
+            "text": "Pause",
+            "height": 68,
+            "font": 17,
+            "reachable": true
+          },
+          {
+            "text": "+15 s",
+            "height": 68,
+            "font": 17,
+            "reachable": true
+          },
+          {
+            "text": "Terminer le repos ",
+            "height": 68,
+            "font": 17,
+            "reachable": true
+          }
+        ]
+      }
+    },
+    {
+      "width": 390,
+      "status": "passed",
+      "captures": [
+        "welcome",
+        "settings",
+        "home",
+        "catalogue",
+        "exercise",
+        "editor",
+        "editor-expanded",
+        "programs",
+        "preparing",
+        "working",
+        "paused",
+        "rest",
+        "confirmation",
+        "summary",
+        "history"
+      ],
+      "metrics": {
+        "timerFont": 104,
+        "cueFont": 17,
+        "buttons": [
+          {
+            "text": "Pause",
+            "height": 68,
+            "font": 17,
+            "reachable": true
+          }
+        ],
+        "repsButtons": [
+          {
+            "text": "Pause",
+            "height": 78.1875,
+            "font": 17,
+            "reachable": true
+          },
+          {
+            "text": "Série terminée",
+            "height": 78.1875,
+            "font": 17,
+            "reachable": true
+          }
+        ],
+        "restButtons": [
+          {
+            "text": "Pause",
+            "height": 68,
+            "font": 17,
+            "reachable": true
+          },
+          {
+            "text": "+15 s",
+            "height": 68,
+            "font": 17,
+            "reachable": true
+          },
+          {
+            "text": "Terminer le repos ",
+            "height": 68,
+            "font": 17,
+            "reachable": true
+          }
+        ]
+      }
+    },
+    {
+      "width": 1440,
+      "status": "passed",
+      "captures": [
+        "welcome",
+        "settings",
+        "home",
+        "catalogue",
+        "exercise",
+        "editor",
+        "editor-expanded",
+        "programs",
+        "preparing",
+        "working",
+        "paused",
+        "rest",
+        "confirmation",
+        "summary",
+        "history"
+      ],
+      "metrics": {
+        "timerFont": 128,
+        "cueFont": 18,
+        "buttons": [
+          {
+            "text": "Pause",
+            "height": 72,
+            "font": 20,
+            "reachable": true
+          }
+        ],
+        "repsButtons": [
+          {
+            "text": "Pause",
+            "height": 72,
+            "font": 20,
+            "reachable": true
+          },
+          {
+            "text": "Série terminée",
+            "height": 72,
+            "font": 20,
+            "reachable": true
+          }
+        ],
+        "restButtons": [
+          {
+            "text": "Pause",
+            "height": 72,
+            "font": 20,
+            "reachable": true
+          },
+          {
+            "text": "+15 s",
+            "height": 72,
+            "font": 20,
+            "reachable": true
+          },
+          {
+            "text": "Terminer le repos ",
+            "height": 72,
+            "font": 20,
+            "reachable": true
+          }
+        ]
+      }
+    }
+  ]
+}

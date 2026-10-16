@@ -1,0 +1,1087 @@
+{
+  "sources": [
+    {
+      "id": "KT01",
+      "publisher": "Thera-Band / The Hygenic Corporation",
+      "title": "Instruction Manual 2012",
+      "url": "https://www.tumbltrak.com/content/pdf/Assembly_Instructions/TheraBand_User_Guide.pdf",
+      "accessed": "2026-10-12",
+      "consultedSection": "bandes et tubes, accessoires, levées/poussées, adduction, tirages, dead lift",
+      "limits": "Texte original consulté. Pas notice Decathlon ; certaines variantes diffèrent. Capture PDF non utilisée comme revue humaine."
+    },
+    {
+      "id": "KT02",
+      "publisher": "ProsourceFit",
+      "title": "Resistance Tubes Instruction Manual & Exercise Guide",
+      "url": "https://images-na.ssl-images-amazon.com/images/I/B1p8Nh6A1ZS.pdf",
+      "accessed": "2026-10-12",
+      "consultedSection": "squat p.6, row p.9, press p.10, fly p.11, élévations p.12, épaules p.13, pushdown p.15",
+      "limits": "Texte original consulté. Deux poignées et tubes décrits ; ancrage press souvent plus haut que variante Tempo. Notice d’une autre marque."
+    },
+    {
+      "id": "KT03",
+      "publisher": "ProsourceFit",
+      "title": "Holly Pinkham, Upper Body Resistance Band Workout",
+      "url": "https://www.prosourcefit.com/blogs/news/resistance-band-travel-workout",
+      "accessed": "2026-10-12",
+      "consultedSection": "poussées, écartés, overhead press, triceps, ancrage",
+      "limits": "Même groupe éditorial que KT02, ne pas compter comme nouvelle équipe indépendante."
+    },
+    {
+      "id": "KT04",
+      "publisher": "Bodylastics",
+      "title": "Guide 136 pages",
+      "url": "https://storage.googleapis.com/msgsndr/XvPdGEgSd8SLZjFiaiaQ/media/678d836801b601124c15cda0.pdf",
+      "accessed": "2026-10-12",
+      "consultedSection": "squat poignées p.109, shoulder press p.119, reverse fly p.121 ; comparer sections barres et unilatérales",
+      "limits": "Texte original consulté. Captures demandées en échec. Sections avec barre et straps exclues comme procédures exactes du kit."
+    },
+    {
+      "id": "KT05",
+      "publisher": "Peak Physio",
+      "title": "Chest Press [Theraband]",
+      "url": "https://www.peak-physio.com.au/exercise/chest-press-theraband/",
+      "accessed": "2026-10-12",
+      "consultedSection": "Instructions : ancrage poitrine, pieds décalés, poussée et retour",
+      "limits": "Type bande/poignées pas complètement précisé, procédure de famille. Vidéo non visionnée."
+    },
+    {
+      "id": "KT06",
+      "publisher": "Peak Physio",
+      "title": "Shoulder Lateral Raise",
+      "url": "https://www.peak-physio.com.au/exercises/strength-shoulder-lateral-raise-with-theraband/",
+      "accessed": "2026-10-12",
+      "consultedSection": "Long arm variation et dumbbell",
+      "limits": "Bande, bras droit/paume bas et protocole clinique distincts des tubes/poignées à léger pli de Tempo. Doses non importées."
+    },
+    {
+      "id": "KT07",
+      "publisher": "Burnlab",
+      "title": "Overhead Triceps Extension",
+      "url": "https://burnlab.co/blogs/blog/resistance-band-tricep-workout",
+      "accessed": "2026-10-12",
+      "consultedSection": "Section 1 : tube sous un pied, poignées et coudes près oreilles",
+      "limits": "Verrouillage forcé et promesses de tête musculaire non retenus. Vidéo non visionnée."
+    },
+    {
+      "id": "KT08",
+      "publisher": "Mirafit",
+      "title": "5 Resistance Band Triceps Exercises",
+      "url": "https://mirafit.co.uk/blog/5-resistance-band-triceps-exercises/",
+      "accessed": "2026-10-12",
+      "consultedSection": "Sections reverse grip pushdown et overhead triceps",
+      "limits": "Prise inversée/unilatérale et long loop distinctes, soutien de famille ; aucune notice Decathlon."
+    },
+    {
+      "id": "KT09",
+      "publisher": "Caliverse",
+      "title": "Band Romanian Deadlift",
+      "url": "https://www.caliverse.app/exercises/band-romanian-deadlift-805",
+      "accessed": "2026-10-12",
+      "consultedSection": "Description : sous pieds, mains extérieures, bras longs, charnière, souffle et retour",
+      "limits": "Type bande plate versus tubes pas établi ; adaptation accessoire éditoriale. Vidéo non visionnée."
+    },
+    {
+      "id": "KT10",
+      "publisher": "aerobis",
+      "title": "Resistance Band Romanian Deadlift",
+      "url": "https://aerobis.com/blogs/fitness/resistance-band-romanian-deadlift",
+      "accessed": "2026-10-12",
+      "consultedSection": "Variation stand on band, prises extérieures",
+      "limits": "Boucle powerband différente ; images explicitement AI, pas démonstration humaine ni preuve tube exact."
+    },
+    {
+      "id": "KT11",
+      "publisher": "MON Fitness",
+      "title": "Resistance Band Exercise Library",
+      "url": "https://monfitness.com/blogs/news/resistance-band-exercise-library",
+      "accessed": "2026-10-12",
+      "consultedSection": "Banded squat, single-arm row, variantes de poussée et triceps",
+      "limits": "Guide commercial sans auteur identifié. Good morning autour du cou exclu, sans transfert de dose ni promesse."
+    },
+    {
+      "id": "KT12",
+      "publisher": "GJELEMENTS",
+      "title": "Guide exercices avec tubes",
+      "url": "https://www.gjelements.com/wp-content/uploads/2020/12/Guide_d_exercice_GJELEMENTS.pdf",
+      "accessed": "2026-10-12",
+      "consultedSection": "Titres tubes p.16-22",
+      "limits": "Texte/titres consultés, captures PDF échouées. Pas traité comme procédure complète ni validation des dessins."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "EX70",
+      "version": 1,
+      "name": "Développé poitrine debout avec kit et ancrage de porte",
+      "minimumLevelProposed": "beginner",
+      "documentaryStatus": "prototype_editorial_with_variant_limits_not_human_validated",
+      "source_ids": [
+        "KT01",
+        "KT02",
+        "KT03",
+        "KT05",
+        "KT12"
+      ],
+      "bandMount": "door_mid",
+      "positions": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Ancrage derrière toi à hauteur de poitrine. Pieds décalés, poignées près de la poitrine et coudes fléchis.",
+          "postureCues": [
+            "Ancrage derrière toi à hauteur de poitrine. Pieds décalés, poignées près de la poitrine et coudes fléchis."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Développé poitrine debout avec kit et ancrage de porte : Ancrage derrière toi à hauteur de poitrine. Pieds décalés, poignées près de la poitrine et coudes fléchis."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Pousse les deux poignées devant la poitrine, sans verrouiller les coudes ni cambrer le dos.",
+          "postureCues": [
+            "Pousse les deux poignées devant la poitrine, sans verrouiller les coudes ni cambrer le dos."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Développé poitrine debout avec kit et ancrage de porte : Pousse les deux poignées devant la poitrine, sans verrouiller les coudes ni cambrer le dos."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Reviens doucement, sans laisser les coudes partir loin derrière le buste. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Reviens doucement, sans laisser les coudes partir loin derrière le buste. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Développé poitrine debout avec kit et ancrage de porte : Reviens doucement, sans laisser les coudes partir loin derrière le buste. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "muscles": {
+        "primary": [
+          "pectorals",
+          "triceps"
+        ],
+        "secondary": [
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "muscleEvidence": "Rôles qualitatifs issus des fiches historiques et des descriptions de familles ; stabilisateurs et carte = synthèse anatomique à relire. Pas pourcentages EMG.",
+      "prerequisites": [
+        "Contrôler le mouvement sans tube avant de charger.",
+        "Montage conforme à la notice du matériel et retour sous tension maîtrisé."
+      ],
+      "errorsAndCorrections": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "audioDraft": {
+        "preparation": "Ancrage derrière toi à hauteur de poitrine. Pieds décalés, poignées près de la poitrine et coudes fléchis.",
+        "status": "system_voice_fallback_not_human_listened"
+      },
+      "media": {
+        "status": "generated_illustrations_unreviewed",
+        "source": "assets/sources/kit-expansion/EX70.png",
+        "continuousMotion": "not_produced_two_still_poses",
+        "technicalHumanReview": null
+      },
+      "evidenceByDomain": {
+        "positions": "Noyau de famille recoupé ; prises, deux appuis, trajectoire et matériel exact distingués dans sources.limits.",
+        "muscles": "Reprise qualitative et inférences, pas mesures propres au kit.",
+        "advice": "Contrôle du retour/ancrage recoupé ; finesse de posture, amplitude et sortie = synthèse éditoriale.",
+        "media": "Prompts issus des consignes ; inspection assistant, aucune revue humaine ni trajectoire continue.",
+        "audio": "Texte issu de la synthèse, voix système, absence de clips F1/M2 et d’écoute humaine."
+      },
+      "remainingUnresolved": [
+        "Notice et porte réelles pas homologuées par cette recherche.",
+        "Allongement admissible et résistance effective non déduits des kg nominaux.",
+        "Programmation, consignes et illustrations sans validation humaine."
+      ],
+      "localPrototypeIntegration": {
+        "status": "integrated_illustrated_prototype",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX71",
+      "version": 1,
+      "name": "Écartés poitrine debout avec kit et ancrage de porte",
+      "minimumLevelProposed": "beginner",
+      "documentaryStatus": "prototype_editorial_with_variant_limits_not_human_validated",
+      "source_ids": [
+        "KT01",
+        "KT02",
+        "KT03",
+        "KT04",
+        "KT12"
+      ],
+      "bandMount": "door_mid",
+      "positions": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Dos à l’ancrage à hauteur d’épaules, pieds décalés, bras ouverts et coudes légèrement fléchis.",
+          "postureCues": [
+            "Dos à l’ancrage à hauteur d’épaules, pieds décalés, bras ouverts et coudes légèrement fléchis."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Écartés poitrine debout avec kit et ancrage de porte : Dos à l’ancrage à hauteur d’épaules, pieds décalés, bras ouverts et coudes légèrement fléchis."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Rapproche les poignées devant la poitrine dans un arc, en conservant le même pli aux coudes.",
+          "postureCues": [
+            "Rapproche les poignées devant la poitrine dans un arc, en conservant le même pli aux coudes."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Écartés poitrine debout avec kit et ancrage de porte : Rapproche les poignées devant la poitrine dans un arc, en conservant le même pli aux coudes."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Ouvre lentement les bras, sans chercher une amplitude douloureuse. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Ouvre lentement les bras, sans chercher une amplitude douloureuse. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Écartés poitrine debout avec kit et ancrage de porte : Ouvre lentement les bras, sans chercher une amplitude douloureuse. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "muscleEvidence": "Rôles qualitatifs issus des fiches historiques et des descriptions de familles ; stabilisateurs et carte = synthèse anatomique à relire. Pas pourcentages EMG.",
+      "prerequisites": [
+        "Contrôler le mouvement sans tube avant de charger.",
+        "Montage conforme à la notice du matériel et retour sous tension maîtrisé."
+      ],
+      "errorsAndCorrections": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "audioDraft": {
+        "preparation": "Dos à l’ancrage à hauteur d’épaules, pieds décalés, bras ouverts et coudes légèrement fléchis.",
+        "status": "system_voice_fallback_not_human_listened"
+      },
+      "media": {
+        "status": "generated_illustrations_unreviewed",
+        "source": "assets/sources/kit-expansion/EX71.png",
+        "continuousMotion": "not_produced_two_still_poses",
+        "technicalHumanReview": null
+      },
+      "evidenceByDomain": {
+        "positions": "Noyau de famille recoupé ; prises, deux appuis, trajectoire et matériel exact distingués dans sources.limits.",
+        "muscles": "Reprise qualitative et inférences, pas mesures propres au kit.",
+        "advice": "Contrôle du retour/ancrage recoupé ; finesse de posture, amplitude et sortie = synthèse éditoriale.",
+        "media": "Prompts issus des consignes ; inspection assistant, aucune revue humaine ni trajectoire continue.",
+        "audio": "Texte issu de la synthèse, voix système, absence de clips F1/M2 et d’écoute humaine."
+      },
+      "remainingUnresolved": [
+        "Notice et porte réelles pas homologuées par cette recherche.",
+        "Allongement admissible et résistance effective non déduits des kg nominaux.",
+        "Programmation, consignes et illustrations sans validation humaine."
+      ],
+      "localPrototypeIntegration": {
+        "status": "integrated_illustrated_prototype",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX72",
+      "version": 1,
+      "name": "Rowing debout avec kit et ancrage de porte",
+      "minimumLevelProposed": "intermediate",
+      "documentaryStatus": "prototype_editorial_with_variant_limits_not_human_validated",
+      "source_ids": [
+        "KT02",
+        "KT03",
+        "KT04",
+        "KT11"
+      ],
+      "bandMount": "door_mid",
+      "positions": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Face à l’ancrage à hauteur du bas de la poitrine, genoux souples, poignées devant toi et bras allongés.",
+          "postureCues": [
+            "Face à l’ancrage à hauteur du bas de la poitrine, genoux souples, poignées devant toi et bras allongés."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Rowing debout avec kit et ancrage de porte : Face à l’ancrage à hauteur du bas de la poitrine, genoux souples, poignées devant toi et bras allongés."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Ramène les poignées vers les côtes basses, coudes près du buste, sans basculer en arrière.",
+          "postureCues": [
+            "Ramène les poignées vers les côtes basses, coudes près du buste, sans basculer en arrière."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Rowing debout avec kit et ancrage de porte : Ramène les poignées vers les côtes basses, coudes près du buste, sans basculer en arrière."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Allonge les bras lentement en gardant le tronc à la même place. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Allonge les bras lentement en gardant le tronc à la même place. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Rowing debout avec kit et ancrage de porte : Allonge les bras lentement en gardant le tronc à la même place. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "muscles": {
+        "primary": [
+          "back",
+          "lats"
+        ],
+        "secondary": [
+          "biceps",
+          "posterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "muscleEvidence": "Rôles qualitatifs issus des fiches historiques et des descriptions de familles ; stabilisateurs et carte = synthèse anatomique à relire. Pas pourcentages EMG.",
+      "prerequisites": [
+        "Contrôler le mouvement sans tube avant de charger.",
+        "Montage conforme à la notice du matériel et retour sous tension maîtrisé."
+      ],
+      "errorsAndCorrections": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "audioDraft": {
+        "preparation": "Face à l’ancrage à hauteur du bas de la poitrine, genoux souples, poignées devant toi et bras allongés.",
+        "status": "system_voice_fallback_not_human_listened"
+      },
+      "media": {
+        "status": "generated_illustrations_unreviewed",
+        "source": "assets/sources/kit-expansion/EX72.png",
+        "continuousMotion": "not_produced_two_still_poses",
+        "technicalHumanReview": null
+      },
+      "evidenceByDomain": {
+        "positions": "Noyau de famille recoupé ; prises, deux appuis, trajectoire et matériel exact distingués dans sources.limits.",
+        "muscles": "Reprise qualitative et inférences, pas mesures propres au kit.",
+        "advice": "Contrôle du retour/ancrage recoupé ; finesse de posture, amplitude et sortie = synthèse éditoriale.",
+        "media": "Prompts issus des consignes ; inspection assistant, aucune revue humaine ni trajectoire continue.",
+        "audio": "Texte issu de la synthèse, voix système, absence de clips F1/M2 et d’écoute humaine."
+      },
+      "remainingUnresolved": [
+        "Notice et porte réelles pas homologuées par cette recherche.",
+        "Allongement admissible et résistance effective non déduits des kg nominaux.",
+        "Programmation, consignes et illustrations sans validation humaine."
+      ],
+      "localPrototypeIntegration": {
+        "status": "integrated_illustrated_prototype",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX73",
+      "version": 1,
+      "name": "Extension triceps vers le bas avec kit et ancrage haut",
+      "minimumLevelProposed": "intermediate",
+      "documentaryStatus": "prototype_editorial_with_variant_limits_not_human_validated",
+      "source_ids": [
+        "KT02",
+        "KT03",
+        "KT08",
+        "KT12"
+      ],
+      "bandMount": "door_high",
+      "positions": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Face à la porte, ancrage en haut. Coudes près des côtes, poignées devant le bas de la poitrine.",
+          "postureCues": [
+            "Face à la porte, ancrage en haut. Coudes près des côtes, poignées devant le bas de la poitrine."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Extension triceps vers le bas avec kit et ancrage haut : Face à la porte, ancrage en haut. Coudes près des côtes, poignées devant le bas de la poitrine."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Allonge les coudes pour descendre les poignées près des cuisses, bras restant au même endroit.",
+          "postureCues": [
+            "Allonge les coudes pour descendre les poignées près des cuisses, bras restant au même endroit."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Extension triceps vers le bas avec kit et ancrage haut : Allonge les coudes pour descendre les poignées près des cuisses, bras restant au même endroit."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Replie les coudes sous contrôle, sans avancer les épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Replie les coudes sous contrôle, sans avancer les épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Extension triceps vers le bas avec kit et ancrage haut : Replie les coudes sous contrôle, sans avancer les épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "muscles": {
+        "primary": [
+          "triceps"
+        ],
+        "secondary": [
+          "shoulders"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "muscleEvidence": "Rôles qualitatifs issus des fiches historiques et des descriptions de familles ; stabilisateurs et carte = synthèse anatomique à relire. Pas pourcentages EMG.",
+      "prerequisites": [
+        "Contrôler le mouvement sans tube avant de charger.",
+        "Montage conforme à la notice du matériel et retour sous tension maîtrisé."
+      ],
+      "errorsAndCorrections": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "audioDraft": {
+        "preparation": "Face à la porte, ancrage en haut. Coudes près des côtes, poignées devant le bas de la poitrine.",
+        "status": "system_voice_fallback_not_human_listened"
+      },
+      "media": {
+        "status": "generated_illustrations_unreviewed",
+        "source": "assets/sources/kit-expansion/EX73.png",
+        "continuousMotion": "not_produced_two_still_poses",
+        "technicalHumanReview": null
+      },
+      "evidenceByDomain": {
+        "positions": "Noyau de famille recoupé ; prises, deux appuis, trajectoire et matériel exact distingués dans sources.limits.",
+        "muscles": "Reprise qualitative et inférences, pas mesures propres au kit.",
+        "advice": "Contrôle du retour/ancrage recoupé ; finesse de posture, amplitude et sortie = synthèse éditoriale.",
+        "media": "Prompts issus des consignes ; inspection assistant, aucune revue humaine ni trajectoire continue.",
+        "audio": "Texte issu de la synthèse, voix système, absence de clips F1/M2 et d’écoute humaine."
+      },
+      "remainingUnresolved": [
+        "Notice et porte réelles pas homologuées par cette recherche.",
+        "Allongement admissible et résistance effective non déduits des kg nominaux.",
+        "Programmation, consignes et illustrations sans validation humaine."
+      ],
+      "localPrototypeIntegration": {
+        "status": "integrated_illustrated_prototype",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX74",
+      "version": 1,
+      "name": "Écartés inversés debout avec kit et ancrage de porte",
+      "minimumLevelProposed": "beginner",
+      "documentaryStatus": "prototype_editorial_with_variant_limits_not_human_validated",
+      "source_ids": [
+        "KT04",
+        "KT01",
+        "KT12"
+      ],
+      "bandMount": "door_mid",
+      "positions": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Face à l’ancrage à hauteur d’épaules, genoux souples, bras devant toi et coudes légèrement fléchis.",
+          "postureCues": [
+            "Face à l’ancrage à hauteur d’épaules, genoux souples, bras devant toi et coudes légèrement fléchis."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Écartés inversés debout avec kit et ancrage de porte : Face à l’ancrage à hauteur d’épaules, genoux souples, bras devant toi et coudes légèrement fléchis."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Ouvre les bras sur les côtés, sans hausser les épaules ni plier davantage les coudes.",
+          "postureCues": [
+            "Ouvre les bras sur les côtés, sans hausser les épaules ni plier davantage les coudes."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Écartés inversés debout avec kit et ancrage de porte : Ouvre les bras sur les côtés, sans hausser les épaules ni plier davantage les coudes."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Ramène les bras devant toi lentement, sans laisser les tubes te tirer. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Ramène les bras devant toi lentement, sans laisser les tubes te tirer. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Écartés inversés debout avec kit et ancrage de porte : Ramène les bras devant toi lentement, sans laisser les tubes te tirer. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "muscles": {
+        "primary": [
+          "posterior_deltoids",
+          "upper_back"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "muscleEvidence": "Rôles qualitatifs issus des fiches historiques et des descriptions de familles ; stabilisateurs et carte = synthèse anatomique à relire. Pas pourcentages EMG.",
+      "prerequisites": [
+        "Contrôler le mouvement sans tube avant de charger.",
+        "Montage conforme à la notice du matériel et retour sous tension maîtrisé."
+      ],
+      "errorsAndCorrections": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "audioDraft": {
+        "preparation": "Face à l’ancrage à hauteur d’épaules, genoux souples, bras devant toi et coudes légèrement fléchis.",
+        "status": "system_voice_fallback_not_human_listened"
+      },
+      "media": {
+        "status": "generated_illustrations_unreviewed",
+        "source": "assets/sources/kit-expansion/EX74.png",
+        "continuousMotion": "not_produced_two_still_poses",
+        "technicalHumanReview": null
+      },
+      "evidenceByDomain": {
+        "positions": "Noyau de famille recoupé ; prises, deux appuis, trajectoire et matériel exact distingués dans sources.limits.",
+        "muscles": "Reprise qualitative et inférences, pas mesures propres au kit.",
+        "advice": "Contrôle du retour/ancrage recoupé ; finesse de posture, amplitude et sortie = synthèse éditoriale.",
+        "media": "Prompts issus des consignes ; inspection assistant, aucune revue humaine ni trajectoire continue.",
+        "audio": "Texte issu de la synthèse, voix système, absence de clips F1/M2 et d’écoute humaine."
+      },
+      "remainingUnresolved": [
+        "Notice et porte réelles pas homologuées par cette recherche.",
+        "Allongement admissible et résistance effective non déduits des kg nominaux.",
+        "Programmation, consignes et illustrations sans validation humaine."
+      ],
+      "localPrototypeIntegration": {
+        "status": "integrated_illustrated_prototype",
+        "humanTechnicalReview": null
+      }
+    }
+  ],
+  "equipmentVariants": [
+    {
+      "id": "EX17",
+      "version": 2,
+      "name": "Développé épaules avec tubes et poignées",
+      "minimumLevelProposed": "intermediate",
+      "documentaryStatus": "prototype_editorial_with_variant_limits_not_human_validated",
+      "source_ids": [
+        "KT01",
+        "KT02",
+        "KT03",
+        "KT04",
+        "KT12"
+      ],
+      "bandMount": "under_feet",
+      "positions": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Poignées à hauteur des épaules, coudes fléchis, pieds stables sur le milieu des tubes.",
+          "postureCues": [
+            "Poignées à hauteur des épaules, coudes fléchis, pieds stables sur le milieu des tubes."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Développé épaules avec tubes et poignées : Poignées à hauteur des épaules, coudes fléchis, pieds stables sur le milieu des tubes."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Pousse les poignées au-dessus des épaules sans creuser le dos.",
+          "postureCues": [
+            "Pousse les poignées au-dessus des épaules sans creuser le dos."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Développé épaules avec tubes et poignées : Pousse les poignées au-dessus des épaules sans creuser le dos."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Ramène les poignées aux épaules en freinant le retour. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Ramène les poignées aux épaules en freinant le retour. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Développé épaules avec tubes et poignées : Ramène les poignées aux épaules en freinant le retour. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "muscles": {
+        "primary": [
+          "shoulders",
+          "triceps"
+        ],
+        "secondary": [
+          "upper_back"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "muscleEvidence": "Rôles qualitatifs issus des fiches historiques et des descriptions de familles ; stabilisateurs et carte = synthèse anatomique à relire. Pas pourcentages EMG.",
+      "prerequisites": [
+        "Contrôler le mouvement sans tube avant de charger.",
+        "Montage conforme à la notice du matériel et retour sous tension maîtrisé."
+      ],
+      "errorsAndCorrections": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "audioDraft": {
+        "preparation": "Poignées à hauteur des épaules, coudes fléchis, pieds stables sur le milieu des tubes.",
+        "status": "system_voice_fallback_not_human_listened"
+      },
+      "media": {
+        "status": "generated_illustrations_unreviewed",
+        "source": "assets/sources/kit-expansion/EX17.png",
+        "continuousMotion": "not_produced_two_still_poses",
+        "technicalHumanReview": null
+      },
+      "evidenceByDomain": {
+        "positions": "Noyau de famille recoupé ; prises, deux appuis, trajectoire et matériel exact distingués dans sources.limits.",
+        "muscles": "Reprise qualitative et inférences, pas mesures propres au kit.",
+        "advice": "Contrôle du retour/ancrage recoupé ; finesse de posture, amplitude et sortie = synthèse éditoriale.",
+        "media": "Prompts issus des consignes ; inspection assistant, aucune revue humaine ni trajectoire continue.",
+        "audio": "Texte issu de la synthèse, voix système, absence de clips F1/M2 et d’écoute humaine."
+      },
+      "remainingUnresolved": [
+        "Notice et porte réelles pas homologuées par cette recherche.",
+        "Allongement admissible et résistance effective non déduits des kg nominaux.",
+        "Programmation, consignes et illustrations sans validation humaine."
+      ],
+      "localPrototypeIntegration": {
+        "status": "integrated_illustrated_prototype",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX18",
+      "version": 2,
+      "name": "Élévations latérales avec tubes et poignées",
+      "minimumLevelProposed": "beginner",
+      "documentaryStatus": "prototype_editorial_with_variant_limits_not_human_validated",
+      "source_ids": [
+        "KT01",
+        "KT02",
+        "KT06",
+        "KT04",
+        "KT12"
+      ],
+      "bandMount": "under_feet",
+      "positions": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Debout sur le milieu des tubes, une poignée de chaque côté des cuisses, coudes légèrement fléchis.",
+          "postureCues": [
+            "Debout sur le milieu des tubes, une poignée de chaque côté des cuisses, coudes légèrement fléchis."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Élévations latérales avec tubes et poignées : Debout sur le milieu des tubes, une poignée de chaque côté des cuisses, coudes légèrement fléchis."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Lève les bras sur les côtés dans une amplitude confortable, jusqu’à hauteur des épaules au maximum.",
+          "postureCues": [
+            "Lève les bras sur les côtés dans une amplitude confortable, jusqu’à hauteur des épaules au maximum."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Élévations latérales avec tubes et poignées : Lève les bras sur les côtés dans une amplitude confortable, jusqu’à hauteur des épaules au maximum."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Abaisse les poignées lentement sans hausser les épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Abaisse les poignées lentement sans hausser les épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Élévations latérales avec tubes et poignées : Abaisse les poignées lentement sans hausser les épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "muscles": {
+        "primary": [
+          "lateral_deltoids"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "muscleEvidence": "Rôles qualitatifs issus des fiches historiques et des descriptions de familles ; stabilisateurs et carte = synthèse anatomique à relire. Pas pourcentages EMG.",
+      "prerequisites": [
+        "Contrôler le mouvement sans tube avant de charger.",
+        "Montage conforme à la notice du matériel et retour sous tension maîtrisé."
+      ],
+      "errorsAndCorrections": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "audioDraft": {
+        "preparation": "Debout sur le milieu des tubes, une poignée de chaque côté des cuisses, coudes légèrement fléchis.",
+        "status": "system_voice_fallback_not_human_listened"
+      },
+      "media": {
+        "status": "generated_illustrations_unreviewed",
+        "source": "assets/sources/kit-expansion/EX18.png",
+        "continuousMotion": "not_produced_two_still_poses",
+        "technicalHumanReview": null
+      },
+      "evidenceByDomain": {
+        "positions": "Noyau de famille recoupé ; prises, deux appuis, trajectoire et matériel exact distingués dans sources.limits.",
+        "muscles": "Reprise qualitative et inférences, pas mesures propres au kit.",
+        "advice": "Contrôle du retour/ancrage recoupé ; finesse de posture, amplitude et sortie = synthèse éditoriale.",
+        "media": "Prompts issus des consignes ; inspection assistant, aucune revue humaine ni trajectoire continue.",
+        "audio": "Texte issu de la synthèse, voix système, absence de clips F1/M2 et d’écoute humaine."
+      },
+      "remainingUnresolved": [
+        "Notice et porte réelles pas homologuées par cette recherche.",
+        "Allongement admissible et résistance effective non déduits des kg nominaux.",
+        "Programmation, consignes et illustrations sans validation humaine."
+      ],
+      "localPrototypeIntegration": {
+        "status": "integrated_illustrated_prototype",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX23",
+      "version": 2,
+      "name": "Extension triceps au-dessus de la tête avec tubes",
+      "minimumLevelProposed": "intermediate",
+      "documentaryStatus": "prototype_editorial_with_variant_limits_not_human_validated",
+      "source_ids": [
+        "KT07",
+        "KT08",
+        "KT12",
+        "KT01"
+      ],
+      "bandMount": "under_feet",
+      "positions": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Pieds décalés, milieu des tubes maintenu sous le pied arrière. Tiens une poignée dans chaque main derrière la tête, bras dirigés vers le haut.",
+          "postureCues": [
+            "Pieds décalés, milieu des tubes maintenu sous le pied arrière. Tiens une poignée dans chaque main derrière la tête, bras dirigés vers le haut."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Extension triceps au-dessus de la tête avec tubes : Pieds décalés, milieu des tubes maintenu sous le pied arrière. Tiens une poignée dans chaque main derrière la tête, bras dirigés vers le haut."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Allonge les coudes pour monter les poignées au-dessus de la tête, sans déplacer le tronc.",
+          "postureCues": [
+            "Allonge les coudes pour monter les poignées au-dessus de la tête, sans déplacer le tronc."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Extension triceps au-dessus de la tête avec tubes : Allonge les coudes pour monter les poignées au-dessus de la tête, sans déplacer le tronc."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Replie les coudes doucement, sans relâcher les poignées. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Replie les coudes doucement, sans relâcher les poignées. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Extension triceps au-dessus de la tête avec tubes : Replie les coudes doucement, sans relâcher les poignées. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "muscles": {
+        "primary": [
+          "triceps"
+        ],
+        "secondary": [
+          "shoulders"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "muscleEvidence": "Rôles qualitatifs issus des fiches historiques et des descriptions de familles ; stabilisateurs et carte = synthèse anatomique à relire. Pas pourcentages EMG.",
+      "prerequisites": [
+        "Contrôler le mouvement sans tube avant de charger.",
+        "Montage conforme à la notice du matériel et retour sous tension maîtrisé."
+      ],
+      "errorsAndCorrections": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "audioDraft": {
+        "preparation": "Pieds décalés, milieu des tubes maintenu sous le pied arrière. Tiens une poignée dans chaque main derrière la tête, bras dirigés vers le haut.",
+        "status": "system_voice_fallback_not_human_listened"
+      },
+      "media": {
+        "status": "generated_illustrations_unreviewed",
+        "source": "assets/sources/kit-expansion/EX23.png",
+        "continuousMotion": "not_produced_two_still_poses",
+        "technicalHumanReview": null
+      },
+      "evidenceByDomain": {
+        "positions": "Noyau de famille recoupé ; prises, deux appuis, trajectoire et matériel exact distingués dans sources.limits.",
+        "muscles": "Reprise qualitative et inférences, pas mesures propres au kit.",
+        "advice": "Contrôle du retour/ancrage recoupé ; finesse de posture, amplitude et sortie = synthèse éditoriale.",
+        "media": "Prompts issus des consignes ; inspection assistant, aucune revue humaine ni trajectoire continue.",
+        "audio": "Texte issu de la synthèse, voix système, absence de clips F1/M2 et d’écoute humaine."
+      },
+      "remainingUnresolved": [
+        "Notice et porte réelles pas homologuées par cette recherche.",
+        "Allongement admissible et résistance effective non déduits des kg nominaux.",
+        "Programmation, consignes et illustrations sans validation humaine."
+      ],
+      "localPrototypeIntegration": {
+        "status": "integrated_illustrated_prototype",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX37",
+      "version": 2,
+      "name": "Squat avec tubes et poignées aux épaules",
+      "minimumLevelProposed": "beginner",
+      "documentaryStatus": "prototype_editorial_with_variant_limits_not_human_validated",
+      "source_ids": [
+        "KT02",
+        "KT04",
+        "KT11",
+        "KT01"
+      ],
+      "bandMount": "under_feet",
+      "positions": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Deux pieds sur le milieu des tubes. Monte une poignée près de chaque épaule, tubes à l’extérieur des jambes.",
+          "postureCues": [
+            "Deux pieds sur le milieu des tubes. Monte une poignée près de chaque épaule, tubes à l’extérieur des jambes."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Squat avec tubes et poignées aux épaules : Deux pieds sur le milieu des tubes. Monte une poignée près de chaque épaule, tubes à l’extérieur des jambes."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Fléchis les genoux et abaisse le bassin dans une amplitude maîtrisée, talons au sol.",
+          "postureCues": [
+            "Fléchis les genoux et abaisse le bassin dans une amplitude maîtrisée, talons au sol."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Squat avec tubes et poignées aux épaules : Fléchis les genoux et abaisse le bassin dans une amplitude maîtrisée, talons au sol."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Redresse les jambes et les hanches, poignées toujours près des épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Redresse les jambes et les hanches, poignées toujours près des épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Squat avec tubes et poignées aux épaules : Redresse les jambes et les hanches, poignées toujours près des épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "muscles": {
+        "primary": [
+          "quadriceps",
+          "glutes"
+        ],
+        "secondary": [
+          "hamstrings"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "muscleEvidence": "Rôles qualitatifs issus des fiches historiques et des descriptions de familles ; stabilisateurs et carte = synthèse anatomique à relire. Pas pourcentages EMG.",
+      "prerequisites": [
+        "Contrôler le mouvement sans tube avant de charger.",
+        "Montage conforme à la notice du matériel et retour sous tension maîtrisé."
+      ],
+      "errorsAndCorrections": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "audioDraft": {
+        "preparation": "Deux pieds sur le milieu des tubes. Monte une poignée près de chaque épaule, tubes à l’extérieur des jambes.",
+        "status": "system_voice_fallback_not_human_listened"
+      },
+      "media": {
+        "status": "generated_illustrations_unreviewed",
+        "source": "assets/sources/kit-expansion/EX37.png",
+        "continuousMotion": "not_produced_two_still_poses",
+        "technicalHumanReview": null
+      },
+      "evidenceByDomain": {
+        "positions": "Noyau de famille recoupé ; prises, deux appuis, trajectoire et matériel exact distingués dans sources.limits.",
+        "muscles": "Reprise qualitative et inférences, pas mesures propres au kit.",
+        "advice": "Contrôle du retour/ancrage recoupé ; finesse de posture, amplitude et sortie = synthèse éditoriale.",
+        "media": "Prompts issus des consignes ; inspection assistant, aucune revue humaine ni trajectoire continue.",
+        "audio": "Texte issu de la synthèse, voix système, absence de clips F1/M2 et d’écoute humaine."
+      },
+      "remainingUnresolved": [
+        "Notice et porte réelles pas homologuées par cette recherche.",
+        "Allongement admissible et résistance effective non déduits des kg nominaux.",
+        "Programmation, consignes et illustrations sans validation humaine."
+      ],
+      "localPrototypeIntegration": {
+        "status": "integrated_illustrated_prototype",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX38",
+      "version": 2,
+      "name": "Charnière de hanches avec tubes et poignées",
+      "minimumLevelProposed": "intermediate",
+      "documentaryStatus": "prototype_editorial_with_variant_limits_not_human_validated",
+      "source_ids": [
+        "KT09",
+        "KT10",
+        "KT01"
+      ],
+      "bandMount": "under_feet",
+      "positions": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Deux pieds sur le milieu des tubes, poignées de chaque côté des cuisses, bras allongés, genoux souples.",
+          "postureCues": [
+            "Deux pieds sur le milieu des tubes, poignées de chaque côté des cuisses, bras allongés, genoux souples."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Charnière de hanches avec tubes et poignées : Deux pieds sur le milieu des tubes, poignées de chaque côté des cuisses, bras allongés, genoux souples."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Recule les hanches et incline le buste sans arrondir le dos. Les poignées descendent près des jambes.",
+          "postureCues": [
+            "Recule les hanches et incline le buste sans arrondir le dos. Les poignées descendent près des jambes."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Charnière de hanches avec tubes et poignées : Recule les hanches et incline le buste sans arrondir le dos. Les poignées descendent près des jambes."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Redresse les hanches sans tirer avec les bras ni te pencher en arrière. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Redresse les hanches sans tirer avec les bras ni te pencher en arrière. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Charnière de hanches avec tubes et poignées : Redresse les hanches sans tirer avec les bras ni te pencher en arrière. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "muscles": {
+        "primary": [
+          "glutes",
+          "hamstrings"
+        ],
+        "secondary": [
+          "back"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "muscleEvidence": "Rôles qualitatifs issus des fiches historiques et des descriptions de familles ; stabilisateurs et carte = synthèse anatomique à relire. Pas pourcentages EMG.",
+      "prerequisites": [
+        "Contrôler le mouvement sans tube avant de charger.",
+        "Montage conforme à la notice du matériel et retour sous tension maîtrisé."
+      ],
+      "errorsAndCorrections": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "audioDraft": {
+        "preparation": "Deux pieds sur le milieu des tubes, poignées de chaque côté des cuisses, bras allongés, genoux souples.",
+        "status": "system_voice_fallback_not_human_listened"
+      },
+      "media": {
+        "status": "generated_illustrations_unreviewed",
+        "source": "assets/sources/kit-expansion/EX38.png",
+        "continuousMotion": "not_produced_two_still_poses",
+        "technicalHumanReview": null
+      },
+      "evidenceByDomain": {
+        "positions": "Noyau de famille recoupé ; prises, deux appuis, trajectoire et matériel exact distingués dans sources.limits.",
+        "muscles": "Reprise qualitative et inférences, pas mesures propres au kit.",
+        "advice": "Contrôle du retour/ancrage recoupé ; finesse de posture, amplitude et sortie = synthèse éditoriale.",
+        "media": "Prompts issus des consignes ; inspection assistant, aucune revue humaine ni trajectoire continue.",
+        "audio": "Texte issu de la synthèse, voix système, absence de clips F1/M2 et d’écoute humaine."
+      },
+      "remainingUnresolved": [
+        "Notice et porte réelles pas homologuées par cette recherche.",
+        "Allongement admissible et résistance effective non déduits des kg nominaux.",
+        "Programmation, consignes et illustrations sans validation humaine."
+      ],
+      "localPrototypeIntegration": {
+        "status": "integrated_illustrated_prototype",
+        "humanTechnicalReview": null
+      }
+    }
+  ],
+  "method": "Documents ouverts et portée enregistrée. Nombre de liens différent du nombre de confirmations indépendantes. KT02/03 même éditeur. Certaines confirmations restent de famille et les modalités exactes restent partielles.",
+  "accessFailures": [
+    "Atemi PDF direct et miroir : lecteur web inaccessible ; téléchargement direct également échoué, donc pas utilisé comme confirmation consultée.",
+    "FitSimplify PDF : accès échoué, non utilisé comme confirmation.",
+    "Captures GJELEMENTS et Bodylastics indisponibles ; aucune revue des images de ces PDF déclarée."
+  ]
+}

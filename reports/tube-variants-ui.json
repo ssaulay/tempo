@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "width": 390,
+      "status": "passed",
+      "checks": [
+        "kit sans combinaison globale, proposition par exercice",
+        "cartes et fiches v2",
+        "génération dos/bras",
+        "démarrage et préchargement",
+        "aucun débordement ou erreur JS"
+      ]
+    },
+    {
+      "width": 1440,
+      "status": "passed",
+      "checks": [
+        "kit sans combinaison globale, proposition par exercice",
+        "cartes et fiches v2",
+        "génération dos/bras",
+        "démarrage et préchargement",
+        "aucun débordement ou erreur JS"
+      ]
+    }
+  ],
+  "physicalIPhoneTested": false,
+  "humanTechnicalReviewPerformed": false
+}

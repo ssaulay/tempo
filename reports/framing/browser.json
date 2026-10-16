@@ -1,0 +1,88 @@
+{
+  "status": "passed",
+  "thumbnails": 48,
+  "cases": [
+    {
+      "name": "Fente statique",
+      "angle": "Profil",
+      "dimensions": [
+        1200,
+        900
+      ],
+      "stableContainer": true
+    },
+    {
+      "name": "Pompes inclinées",
+      "angle": "Profil",
+      "dimensions": [
+        1200,
+        900
+      ],
+      "stableContainer": true
+    },
+    {
+      "name": "Pompes inclinées",
+      "angle": "Vue de dessus",
+      "dimensions": [
+        1200,
+        900
+      ],
+      "stableContainer": true
+    },
+    {
+      "name": "Pompes sur les genoux",
+      "angle": "Profil",
+      "dimensions": [
+        1200,
+        900
+      ],
+      "stableContainer": true
+    },
+    {
+      "name": "Pompes sur les genoux",
+      "angle": "Vue de dessus",
+      "dimensions": [
+        1200,
+        900
+      ],
+      "stableContainer": true
+    },
+    {
+      "name": "Pompes mains rapprochées",
+      "angle": "Profil",
+      "dimensions": [
+        1200,
+        900
+      ],
+      "stableContainer": true
+    },
+    {
+      "name": "Pompes mains rapprochées",
+      "angle": "Vue de dessus",
+      "dimensions": [
+        1200,
+        900
+      ],
+      "stableContainer": true
+    },
+    {
+      "name": "Dead bug",
+      "angle": "Profil",
+      "dimensions": [
+        1200,
+        900
+      ],
+      "stableContainer": true
+    },
+    {
+      "name": "Dead bug",
+      "angle": "Vue de dessus",
+      "dimensions": [
+        1200,
+        900
+      ],
+      "stableContainer": true
+    }
+  ],
+  "physicalIPhoneTested": false
+}

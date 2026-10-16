@@ -1,0 +1,22 @@
+import {describe,it,expect} from 'vitest';
+import {defaultEquipment,defaultProfile,exercises} from '../src/catalog';
+import {blankProgram,createBlock} from '../src/composer';
+import {startSession} from '../src/session-engine';
+import {completedPrescription,getProgressSuggestion,sortedSessions,weeklyPrimaryVolume} from '../src/composer/progression';
+import type {Program,Session,SetAttempt} from '../src/types';
+function plan():Program {const p=blankProgram('progress');p.blocks=[{...createBlock(exercises.find(e=>e.id==='EX08')!,defaultProfile,defaultEquipment,'moderate','training','b'),sets:2,value:8}];p.blocks[0].exercise.category='strength';return p;}
+function success(p=plan(),date='2026-10-10T10:00:00Z'):Session {const s=startSession(p,defaultEquipment,0,date,date).session;s.status='completed';s.endedAt=date;s.feedback={difficulty:'easy',quality:'good'};s.attempts=[];for(let set=1;set<=2;set++)for(let side=1;side<=2;side++){const b=p.blocks[0];s.attempts.push({id:`${set}-${side}`,blockId:b.id,exerciseId:b.exercise.id,exerciseVersion:b.exercise.version,exerciseName:b.exercise.name,category:b.exercise.category,set,side,attempt:1,planned:{mode:'reps',value:8,resistance:b.resistance},declared:8,duration:24,status:'validated',resistance:b.resistance});}return s;}
+describe('Progression fondée sur les séries réellement réalisées',()=>{
+ it('reconnaît une prescription intégralement réussie',()=>{const p=plan();expect(completedPrescription(success(p),p)).toBe(true);expect(getProgressSuggestion([success(p),success(p,'2026-10-11T10:00:00Z')],p)).toContain('palier de répétitions');});
+ it.each(['skipped','interrupted'] as SetAttempt['status'][])('refuse une première tentative %s même refaite',status=>{const p=plan(),s=success(p);s.attempts.push({...s.attempts[0],id:'retry',attempt:2});s.attempts[0].status=status;expect(completedPrescription(s,p)).toBe(false);expect(getProgressSuggestion([success(p),s],p)).toBeNull();});
+ it.each(['missing','undeclared','insufficient','version','block','resistance'])('refuse un résultat %s',kind=>{const p=plan(),s=success(p);if(kind==='missing')s.attempts.pop();if(kind==='undeclared')s.attempts[0].declared=null;if(kind==='insufficient')s.attempts[0].declared=7;if(kind==='version')s.attempts[0].exerciseVersion++;if(kind==='block')s.attempts[0].blockId='wrong';if(kind==='resistance')s.attempts[0].resistance='different';expect(completedPrescription(s,p)).toBe(false);});
+ it('ne propose pas un palier au-delà de douze répétitions',()=>{const p=plan();p.blocks[0].value=12;const a=success(p),b=success(p);for(const s of [a,b])s.attempts.forEach(t=>{t.planned.value=12;t.declared=12;});expect(getProgressSuggestion([a,b],p)).toBeNull();});
+ it('utilise les dates pour le dernier retour difficile',()=>{const p=plan(),early=success(p),late=success(p,'2026-10-12T10:00:00Z');late.feedback.difficulty='hard';expect(sortedSessions([late,early]).map(s=>s.startedAt)).toEqual([early.startedAt,late.startedAt]);expect(getProgressSuggestion([late,early],p)).toContain('difficile');});
+ it('ne propose pas de hausse pour maintien ni tubes',()=>{const p=plan();p.blocks[0].exercise.mode='timed';expect(getProgressSuggestion([success(p),success(p)],p)).toBeNull();p.blocks[0].exercise.mode='reps';p.blocks[0].exercise.equipmentVariant='tube';expect(getProgressSuggestion([success(p),success(p)],p)).toBeNull();});
+});
+
+describe('Volume hebdomadaire connu',()=>{
+ it('compte une série par muscle principal et non par côté ou retry',()=>{const p=plan(),s=success(p);s.attempts.push({...s.attempts[0],id:'again',attempt:2});expect(weeklyPrimaryVolume([s],new Date('2026-10-12T10:00:00Z'))).toEqual(p.blocks[0].exercise.muscles.primary.map(muscle=>({muscle,sets:2})).sort((a,b)=>a.muscle.localeCompare(b.muscle)));});
+ it('exclut les côtés manquants, séries sautées, échauffements et ancien historique',()=>{const p=plan(),s=success(p);s.attempts.pop();s.attempts[0].status='skipped';expect(weeklyPrimaryVolume([s],new Date('2026-10-12T10:00:00Z'))).toEqual([]);expect(weeklyPrimaryVolume([success(p)],new Date('2026-10-20T10:00:00Z'))).toEqual([]);p.blocks[0].section='warmup';expect(weeklyPrimaryVolume([success(p)],new Date('2026-10-12T10:00:00Z'))).toEqual([]);});
+ it('compte le travail validé sans inventer une réussite de répétitions',()=>{const p=plan(),s=success(p);s.attempts.forEach(a=>a.declared=null);expect(weeklyPrimaryVolume([s],new Date('2026-10-12T10:00:00Z')).every(v=>v.sets===2)).toBe(true);});
+});

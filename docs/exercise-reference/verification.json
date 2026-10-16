@@ -1,0 +1,26 @@
+{
+  "edition": "2026-10-12",
+  "existingExerciseCount": 48,
+  "newCandidates": 21,
+  "newChest": 8,
+  "newAbs": 13,
+  "sourceRegistryEntries": 197,
+  "distinctSourceUrls": 191,
+  "sourceCountIsNotIndependentConfirmationCount": true,
+  "minimumDocumentsPerCandidate": 2,
+  "candidateFieldsChecked": [
+    "levelProposal",
+    "sourceEvidence",
+    "positions",
+    "prerequisites",
+    "errors",
+    "regressions",
+    "progressions",
+    "mediaBrief",
+    "audioDraft"
+  ],
+  "technicalHumanApproved": 0,
+  "newAssetsProduced": 0,
+  "appCatalogUnchangedFromBaseline": true,
+  "result": "structural_checks_passed_not_technical_approval"
+}

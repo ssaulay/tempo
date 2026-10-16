@@ -1,0 +1,21 @@
+{
+  "clips": [
+    {
+      "id": "EX19.v2.name",
+      "text": "Rowing avec tubes et poignées"
+    },
+    {
+      "id": "EX19.v2.prepare",
+      "text": "Rowing avec tubes et poignées. Prépare-toi. Tubes sous les deux pieds. Incline le buste et garde le dos stable."
+    },
+    {
+      "id": "EX26.v2.name",
+      "text": "Curl avec tubes et poignées"
+    },
+    {
+      "id": "EX26.v2.prepare",
+      "text": "Curl avec tubes et poignées. Prépare-toi. Tubes sous les deux pieds. Garde les coudes près du buste."
+    }
+  ],
+  "humanReview": "not_performed_user_requested_skip"
+}

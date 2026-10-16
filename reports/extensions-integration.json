@@ -1,0 +1,13 @@
+{
+  "exercises": 69,
+  "historicalExercises": 48,
+  "textualExtensions": 21,
+  "extensionMediaProduced": 0,
+  "humanValidated": 0,
+  "systemVoiceFallback": true,
+  "EX53": "consultable_only_long_flat_band_absent",
+  "testsPassed": 76,
+  "buildPassed": true,
+  "historicalFilesChecked": 420,
+  "historicalFilesChanged": []
+}

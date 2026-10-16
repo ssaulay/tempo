@@ -1,0 +1,144 @@
+{
+  "links": [
+    {
+      "from": "EX17",
+      "to": "EX17",
+      "version": 2,
+      "kind": "accessory_variant",
+      "note": "Même famille de mouvement, avec tubes et poignées."
+    },
+    {
+      "from": "EX18",
+      "to": "EX18",
+      "version": 2,
+      "kind": "accessory_variant",
+      "note": "Même famille de mouvement, avec tubes et poignées."
+    },
+    {
+      "from": "EX19",
+      "to": "EX19",
+      "version": 2,
+      "kind": "accessory_variant",
+      "note": "Même famille de mouvement, avec tubes et poignées."
+    },
+    {
+      "from": "EX23",
+      "to": "EX23",
+      "version": 2,
+      "kind": "accessory_variant",
+      "note": "Même famille de mouvement, avec tubes et poignées."
+    },
+    {
+      "from": "EX26",
+      "to": "EX26",
+      "version": 2,
+      "kind": "accessory_variant",
+      "note": "Même famille de mouvement, avec tubes et poignées."
+    },
+    {
+      "from": "EX37",
+      "to": "EX37",
+      "version": 2,
+      "kind": "accessory_variant",
+      "note": "Même famille de mouvement, avec tubes et poignées."
+    },
+    {
+      "from": "EX38",
+      "to": "EX38",
+      "version": 2,
+      "kind": "accessory_variant",
+      "note": "Même famille de mouvement, avec tubes et poignées."
+    },
+    {
+      "from": "EX25",
+      "to": "EX26",
+      "version": 2,
+      "kind": "nearby_movement",
+      "note": "Curl bilatéral avec tubes plutôt qu’avec haltères."
+    },
+    {
+      "from": "EX20",
+      "to": "EX19",
+      "version": 2,
+      "kind": "nearby_movement",
+      "note": "Tirage proche, réalisé avec deux bras plutôt qu’un seul."
+    },
+    {
+      "from": "EX24",
+      "to": "EX23",
+      "version": 2,
+      "kind": "nearby_movement",
+      "note": "Extension des coudes au-dessus de la tête avec tubes."
+    },
+    {
+      "from": "EX15",
+      "to": "EX70",
+      "version": 1,
+      "kind": "nearby_movement",
+      "note": "Poussée proche avec ancrage derrière toi, au lieu d’une bande au dos."
+    },
+    {
+      "from": "EX16",
+      "to": "EX70",
+      "version": 1,
+      "kind": "nearby_movement",
+      "note": "Poussée debout avec ancrage, plutôt que développé allongé au sol."
+    },
+    {
+      "from": "EX53",
+      "to": "EX70",
+      "version": 1,
+      "kind": "nearby_movement",
+      "note": "Poussée pectorale debout ; ce n’est pas une pompe résistée."
+    },
+    {
+      "from": "EX54",
+      "to": "EX70",
+      "version": 1,
+      "kind": "nearby_movement",
+      "note": "Poussée debout avec deux bras, plutôt que développé unilatéral au sol."
+    },
+    {
+      "from": "EX55",
+      "to": "EX71",
+      "version": 1,
+      "kind": "nearby_movement",
+      "note": "Écartés debout avec ancrage, plutôt qu’avec haltères au sol."
+    },
+    {
+      "from": "EX56",
+      "to": "EX70",
+      "version": 1,
+      "kind": "nearby_movement",
+      "note": "Poussée pectorale proche, sans le contact entre deux haltères."
+    },
+    {
+      "from": "EX21",
+      "to": "EX74",
+      "version": 1,
+      "kind": "nearby_movement",
+      "note": "Ouverture des bras avec ancrage devant toi ; montage différent du pull-apart."
+    },
+    {
+      "from": "EX70",
+      "to": "EX75",
+      "version": 1,
+      "kind": "nearby_movement",
+      "note": "Poussée montante avec ancrage bas."
+    },
+    {
+      "from": "EX70",
+      "to": "EX76",
+      "version": 1,
+      "kind": "nearby_movement",
+      "note": "Poussée descendante avec ancrage haut."
+    },
+    {
+      "from": "EX71",
+      "to": "EX77",
+      "version": 1,
+      "kind": "nearby_movement",
+      "note": "Un bras à la fois, avec ancrage sur le côté."
+    }
+  ]
+}

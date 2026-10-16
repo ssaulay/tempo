@@ -1,0 +1,18 @@
+{
+  "catalogIds": 48,
+  "equipmentVariants": 2,
+  "historicFilesUnchanged": 420,
+  "humanReviewPerformed": false,
+  "audioDedicatedFiles": 0,
+  "audioApiStatus": 429,
+  "unitTestsPassed": 70,
+  "uiReport": "../tube-variants-ui.json",
+  "sourceSha256": {
+    "catalog/equipment-variants.json": "de642d21e998e1a1e0707ca1dee196748e7f9877143476d3ca6cec4739d81b97",
+    "src/catalog/index.ts": "81ee8dd91bbe6338d021fee7bdb2951675ce4bdc98a2302a348ed16286523da1",
+    "src/composer/index.ts": "85e7a4a1323554fdbbbfb7514cb4a5b4e062da3eb808c1f738e2fdba0d573cb5",
+    "src/audio/phrases.ts": "d0d9c09f909c033c5a803c383ed85e872b5c63966b08a47f055969ac8f39c516",
+    "src/audio/index.ts": "93804e5d8c41575efedcceff2e62bfe05903ccb6d9cbdc5d5b61c21358de646f",
+    "src/ui/components.tsx": "209dfbea9f25e023a39e7f241062e1355f88433b96df78e5c0fdf4e3410d4680"
+  }
+}

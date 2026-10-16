@@ -1,0 +1,39 @@
+{
+  "voice": "M2-deep-v2",
+  "voice_id": "voice_j1nyh1atfcz8",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni.",
+  "clip": {
+    "id": "EX44.name",
+    "text": "Posture de repos à genoux.",
+    "family": "exercise_name",
+    "status": "text_frozen",
+    "review": "editorial_prepared_not_sport_technical",
+    "text_sha256": "926f089ff38c0ac42bdc117bce9c81f9640e6cff31896eeb3c239e9e9faf1068"
+  },
+  "usage": {
+    "total_tokens": 51,
+    "total_input_tokens": 8,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 8
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 43,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 43
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0
+  },
+  "status": "generated_listening_pending",
+  "duration_seconds": 1.72,
+  "sample_rate": 24000,
+  "checksum": "02905dcfa2e69148e73876c9ab6a784a51adb8bced3b526eaad942c1477fdb2d",
+  "cost_standard_usd": 0.00039099999999999996
+}

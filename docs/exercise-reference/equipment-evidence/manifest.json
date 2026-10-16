@@ -1,0 +1,20 @@
+[
+  {
+    "path": "kit-user-source-01.png",
+    "sha256": "e804cfca622273dec35048a41f6025b861e14c9680b26e72aef564b2b0d8f747",
+    "provenance": "Image fournie par Simon; provenance fabricant supposée mais URL originale non fournie",
+    "inspection": "Observation visuelle de image jointe, sans revue humaine du geste"
+  },
+  {
+    "path": "kit-user-source-02.png",
+    "sha256": "336cad70cd59259a9fce3d4d9686b88103e5e46762ccc1eab6b3d932cb3190a0",
+    "provenance": "Image fournie par Simon; provenance fabricant supposée mais URL originale non fournie",
+    "inspection": "Observation visuelle de image jointe, sans revue humaine du geste"
+  },
+  {
+    "path": "kit-user-source-03.png",
+    "sha256": "84d4f1e575b71d6e84088e9bbfd54d2b5338c503772ed8cf3ac852eb94df69d2",
+    "provenance": "Image fournie par Simon; provenance fabricant supposée mais URL originale non fournie",
+    "inspection": "Observation visuelle de image jointe, sans revue humaine du geste"
+  }
+]

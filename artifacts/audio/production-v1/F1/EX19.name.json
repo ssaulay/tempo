@@ -1,0 +1,84 @@
+{
+  "voice": "F1",
+  "voice_id": "voice_pjrwzzqm559j",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni.",
+  "clip": {
+    "id": "EX19.name",
+    "text": "Rowing bande sous les pieds.",
+    "family": "exercise_name",
+    "status": "text_frozen",
+    "review": "editorial_prepared_not_sport_technical",
+    "text_sha256": "c069a92335478544c79f152956f79d97eca401eaee3232d38ed8d3910b912c1e"
+  },
+  "usage": {
+    "total_tokens": 58,
+    "total_input_tokens": 8,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 8
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 50,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 50
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0,
+    "raw_prompt_token": 1020,
+    "model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 173
+          }
+        ],
+        "cache_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 173
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 52
+          }
+        ]
+      }
+    ],
+    "non_grounding_model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 173
+          }
+        ],
+        "cache_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 173
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 52
+          }
+        ]
+      }
+    ]
+  },
+  "status": "generated_listening_pending",
+  "duration_seconds": 2.0,
+  "sample_rate": 24000,
+  "checksum": "c6cf0ebff98f7519c6dcf19a036d71fbc13d86b3d01a0daae95b90fe6dac392f",
+  "cost_standard_usd": 0.000454
+}

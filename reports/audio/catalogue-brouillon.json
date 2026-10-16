@@ -1,0 +1,2562 @@
+{
+  "version": 1,
+  "status": "draft_not_approved",
+  "coreCount": 220,
+  "optionalCount": 144,
+  "notes": [
+    "Aucun audio généré.",
+    "Les consignes techniques attendent une revue humaine.",
+    "Les valeurs historiques hors catalogue et repos prolongés utilisent une annonce générique sans durée.",
+    "Les numéros de tentative arbitraires ne sont pas annoncés en V1."
+  ],
+  "clips": [
+    {
+      "id": "EX01.name",
+      "text": "Marche active sur place.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX01.prepare",
+      "text": "Marche active sur place. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX02.name",
+      "text": "Step jacks sans saut.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX02.prepare",
+      "text": "Step jacks sans saut. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX03.name",
+      "text": "Jumping jacks.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX03.prepare",
+      "text": "Jumping jacks. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX04.name",
+      "text": "Corde à sauter, saut simple.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX04.prepare",
+      "text": "Corde à sauter, saut simple. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX05.name",
+      "text": "Montées de genoux sans saut.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX05.prepare",
+      "text": "Montées de genoux sans saut. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX06.name",
+      "text": "Squat au poids du corps.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX06.prepare",
+      "text": "Squat au poids du corps. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX07.name",
+      "text": "Fentes arrière alternées.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX07.prepare",
+      "text": "Fentes arrière alternées. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX08.name",
+      "text": "Fente statique.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX08.prepare",
+      "text": "Fente statique. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX09.name",
+      "text": "Pont fessier.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX09.prepare",
+      "text": "Pont fessier. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX10.name",
+      "text": "Élévations des mollets.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX10.prepare",
+      "text": "Élévations des mollets. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX11.name",
+      "text": "Pompes inclinées.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX11.prepare",
+      "text": "Pompes inclinées. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX12.name",
+      "text": "Pompes sur les genoux.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX12.prepare",
+      "text": "Pompes sur les genoux. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX13.name",
+      "text": "Pompes classiques.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX13.prepare",
+      "text": "Pompes classiques. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX14.name",
+      "text": "Pompes mains rapprochées.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX14.prepare",
+      "text": "Pompes mains rapprochées. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX15.name",
+      "text": "Développé poitrine avec bande derrière le dos.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX15.prepare",
+      "text": "Développé poitrine avec bande derrière le dos. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX16.name",
+      "text": "Développé haltères au sol.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX16.prepare",
+      "text": "Développé haltères au sol. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX17.name",
+      "text": "Développé épaules avec haltères.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX17.prepare",
+      "text": "Développé épaules avec haltères. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX18.name",
+      "text": "Élévations latérales légères.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX18.prepare",
+      "text": "Élévations latérales légères. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX19.name",
+      "text": "Rowing bande sous les pieds.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX19.prepare",
+      "text": "Rowing bande sous les pieds. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX20.name",
+      "text": "Rowing haltère unilatéral sans banc.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX20.prepare",
+      "text": "Rowing haltère unilatéral sans banc. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX21.name",
+      "text": "Écartement de bande devant soi.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX21.prepare",
+      "text": "Écartement de bande devant soi. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX22.name",
+      "text": "Rétraction scapulaire en W au sol.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX22.prepare",
+      "text": "Rétraction scapulaire en W au sol. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX23.name",
+      "text": "Extension triceps avec bande sous un pied.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX23.prepare",
+      "text": "Extension triceps avec bande sous un pied. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX24.name",
+      "text": "Extension triceps haltère au-dessus de la tête.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX24.prepare",
+      "text": "Extension triceps haltère au-dessus de la tête. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX25.name",
+      "text": "Curl haltères.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX25.prepare",
+      "text": "Curl haltères. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX26.name",
+      "text": "Curl avec bande sous les pieds.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX26.prepare",
+      "text": "Curl avec bande sous les pieds. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX27.name",
+      "text": "Planche sur avant-bras.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX27.prepare",
+      "text": "Planche sur avant-bras. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX28.name",
+      "text": "Planche latérale genoux fléchis.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX28.prepare",
+      "text": "Planche latérale genoux fléchis. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX29.name",
+      "text": "Dead bug.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX29.prepare",
+      "text": "Dead bug. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX30.name",
+      "text": "Bird dog.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX30.prepare",
+      "text": "Bird dog. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX31.name",
+      "text": "Crunch inversé.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX31.prepare",
+      "text": "Crunch inversé. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX32.name",
+      "text": "Crunch court.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX32.prepare",
+      "text": "Crunch court. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX33.name",
+      "text": "Mountain climbers lents.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX33.prepare",
+      "text": "Mountain climbers lents. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX34.name",
+      "text": "Roue abdominale à genoux, amplitude courte.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX34.prepare",
+      "text": "Roue abdominale à genoux, amplitude courte. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX35.name",
+      "text": "Hollow hold groupé.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX35.prepare",
+      "text": "Hollow hold groupé. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX36.name",
+      "text": "Touchers de talons alternés.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX36.prepare",
+      "text": "Touchers de talons alternés. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX37.name",
+      "text": "Squat goblet léger.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX37.prepare",
+      "text": "Squat goblet léger. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX38.name",
+      "text": "Charnière de hanches avec bande sous les pieds.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX38.prepare",
+      "text": "Charnière de hanches avec bande sous les pieds. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX39.name",
+      "text": "Fente latérale alternée.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX39.prepare",
+      "text": "Fente latérale alternée. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX40.name",
+      "text": "Rotations thoraciques debout.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX40.prepare",
+      "text": "Rotations thoraciques debout. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX41.name",
+      "text": "Cercles d’épaules.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX41.prepare",
+      "text": "Cercles d’épaules. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX42.name",
+      "text": "Mobilisation de cheville en fente.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX42.prepare",
+      "text": "Mobilisation de cheville en fente. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX43.name",
+      "text": "Ouverture de poitrine debout.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX43.prepare",
+      "text": "Ouverture de poitrine debout. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX44.name",
+      "text": "Posture de repos à genoux.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX44.prepare",
+      "text": "Posture de repos à genoux. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX45.name",
+      "text": "Étirement fléchisseurs de hanche à genoux.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX45.prepare",
+      "text": "Étirement fléchisseurs de hanche à genoux. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX46.name",
+      "text": "Étirement ischio-jambiers allongé.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX46.prepare",
+      "text": "Étirement ischio-jambiers allongé. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX47.name",
+      "text": "Boxe dans le vide sans impact.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX47.prepare",
+      "text": "Boxe dans le vide sans impact. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX48.name",
+      "text": "Pas de patineur sans saut.",
+      "family": "exercise_name",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX48.prepare",
+      "text": "Pas de patineur sans saut. Prépare-toi.",
+      "family": "preparation",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "set.1.1",
+      "text": "Série 1 sur 1.",
+      "family": "set",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "set.1.2",
+      "text": "Série 1 sur 2.",
+      "family": "set",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "set.2.2",
+      "text": "Série 2 sur 2.",
+      "family": "set",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "set.1.3",
+      "text": "Série 1 sur 3.",
+      "family": "set",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "set.2.3",
+      "text": "Série 2 sur 3.",
+      "family": "set",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "set.3.3",
+      "text": "Série 3 sur 3.",
+      "family": "set",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "set.1.4",
+      "text": "Série 1 sur 4.",
+      "family": "set",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "set.2.4",
+      "text": "Série 2 sur 4.",
+      "family": "set",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "set.3.4",
+      "text": "Série 3 sur 4.",
+      "family": "set",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "set.4.4",
+      "text": "Série 4 sur 4.",
+      "family": "set",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "set.1.5",
+      "text": "Série 1 sur 5.",
+      "family": "set",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "set.2.5",
+      "text": "Série 2 sur 5.",
+      "family": "set",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "set.3.5",
+      "text": "Série 3 sur 5.",
+      "family": "set",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "set.4.5",
+      "text": "Série 4 sur 5.",
+      "family": "set",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "set.5.5",
+      "text": "Série 5 sur 5.",
+      "family": "set",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.2",
+      "text": "2 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.3",
+      "text": "3 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.4",
+      "text": "4 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.5",
+      "text": "5 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.6",
+      "text": "6 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.7",
+      "text": "7 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.8",
+      "text": "8 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.9",
+      "text": "9 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.10",
+      "text": "10 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.11",
+      "text": "11 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.12",
+      "text": "12 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.13",
+      "text": "13 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.14",
+      "text": "14 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.15",
+      "text": "15 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.16",
+      "text": "16 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.17",
+      "text": "17 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.18",
+      "text": "18 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.19",
+      "text": "19 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "reps.20",
+      "text": "20 répétitions.",
+      "family": "repetitions",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.10",
+      "text": "10 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.15",
+      "text": "15 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.20",
+      "text": "20 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.25",
+      "text": "25 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.30",
+      "text": "30 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.35",
+      "text": "35 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.40",
+      "text": "40 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.45",
+      "text": "45 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.50",
+      "text": "50 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.55",
+      "text": "55 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.60",
+      "text": "60 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.65",
+      "text": "65 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.70",
+      "text": "70 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.75",
+      "text": "75 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.80",
+      "text": "80 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.85",
+      "text": "85 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.90",
+      "text": "90 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.95",
+      "text": "95 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.100",
+      "text": "100 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.105",
+      "text": "105 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.110",
+      "text": "110 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.115",
+      "text": "115 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.120",
+      "text": "120 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.125",
+      "text": "125 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.130",
+      "text": "130 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.135",
+      "text": "135 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.140",
+      "text": "140 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.145",
+      "text": "145 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.150",
+      "text": "150 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.155",
+      "text": "155 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.160",
+      "text": "160 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.165",
+      "text": "165 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.170",
+      "text": "170 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.175",
+      "text": "175 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "duration.180",
+      "text": "180 secondes.",
+      "family": "work_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.0",
+      "text": "Pas de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.5",
+      "text": "5 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.10",
+      "text": "10 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.15",
+      "text": "15 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.20",
+      "text": "20 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.25",
+      "text": "25 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.30",
+      "text": "30 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.35",
+      "text": "35 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.40",
+      "text": "40 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.45",
+      "text": "45 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.50",
+      "text": "50 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.55",
+      "text": "55 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.60",
+      "text": "60 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.65",
+      "text": "65 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.70",
+      "text": "70 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.75",
+      "text": "75 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.80",
+      "text": "80 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.85",
+      "text": "85 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.90",
+      "text": "90 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.95",
+      "text": "95 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.100",
+      "text": "100 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.105",
+      "text": "105 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.110",
+      "text": "110 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.115",
+      "text": "115 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "rest.120",
+      "text": "120 secondes de récupération.",
+      "family": "rest_duration",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "countdown.1",
+      "text": "Un.",
+      "family": "countdown",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "countdown.2",
+      "text": "Deux.",
+      "family": "countdown",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "countdown.3",
+      "text": "Trois.",
+      "family": "countdown",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "countdown.4",
+      "text": "Quatre.",
+      "family": "countdown",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "countdown.5",
+      "text": "Cinq.",
+      "family": "countdown",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "countdown.6",
+      "text": "Six.",
+      "family": "countdown",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "countdown.7",
+      "text": "Sept.",
+      "family": "countdown",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "countdown.8",
+      "text": "Huit.",
+      "family": "countdown",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "countdown.9",
+      "text": "Neuf.",
+      "family": "countdown",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "countdown.10",
+      "text": "Dix.",
+      "family": "countdown",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.welcome",
+      "text": "Bienvenue chez Tempo. On s’entraîne à ton rythme.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.start",
+      "text": "C’est parti.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.complete",
+      "text": "Séance terminée.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.pause",
+      "text": "Séance en pause.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.resume",
+      "text": "On reprend.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.switch",
+      "text": "Change de côté.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.side.1",
+      "text": "Premier côté.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.side.2",
+      "text": "Deuxième côté.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.per_side",
+      "text": "Par côté.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.next",
+      "text": "Ensuite.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.next_prepare",
+      "text": "Préparation du prochain exercice.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.next_switch",
+      "text": "Changement de côté.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.next_rest",
+      "text": "Récupération.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.next_summary",
+      "text": "Place au bilan.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.rest_generic",
+      "text": "Prends le temps de récupérer.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.rest_extend",
+      "text": "Quinze secondes de récupération en plus.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.ten_remaining",
+      "text": "Dix secondes restantes.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.encourage.rhythm",
+      "text": "Garde ton rythme et respire.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.encourage.control",
+      "text": "Prends ton temps.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "common.encourage.finish",
+      "text": "Bien joué.",
+      "family": "common",
+      "status": "draft",
+      "requiredReview": "editorial"
+    },
+    {
+      "id": "EX01.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX01.tip",
+      "text": "Garde le buste droit et les appuis silencieux.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX01.breathing",
+      "text": "Respire régulièrement, sans bloquer la respiration.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX02.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX02.tip",
+      "text": "Pose un pied après l’autre, sans saut.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX02.breathing",
+      "text": "Respire régulièrement, sans bloquer la respiration.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX03.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX03.tip",
+      "text": "Amortis chaque réception avec les genoux souples.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX03.breathing",
+      "text": "Respire régulièrement, sans bloquer la respiration.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX04.installation",
+      "text": "Corde déclarée disponible, sol dégagé, marge suffisante autour et au-dessus de la tête.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX04.tip",
+      "text": "Tourne avec les poignets et saute juste assez pour passer la corde.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX04.breathing",
+      "text": "Respire régulièrement, sans bloquer la respiration.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX05.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX05.tip",
+      "text": "Monte le genou dans une amplitude confortable.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX05.breathing",
+      "text": "Respire régulièrement, sans bloquer la respiration.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX06.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX06.tip",
+      "text": "Les genoux suivent la direction des pieds, talons posés.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX06.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX07.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX07.tip",
+      "text": "Garde le pied avant posé et une largeur d’appuis stable.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX07.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX08.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX08.tip",
+      "text": "Le talon avant reste au sol, le buste reste stable.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX08.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX09.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX09.tip",
+      "text": "Pousse dans les pieds, arrête-toi avant de cambrer.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX09.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX10.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX10.tip",
+      "text": "Répartis la pression sous les avant-pieds et garde l’équilibre.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX10.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX11.installation",
+      "text": "Support fixe approprié confirmé : plan de travail ou banc stable. Aucun support mobile présumé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX11.tip",
+      "text": "Choisis un support fixe approprié, tête, bassin et talons alignés.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX11.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX12.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX12.tip",
+      "text": "Les coudes sont obliques, le corps reste solidaire.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX12.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX13.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX13.tip",
+      "text": "Aligne tête, tronc, bassin et talons. Garde les mêmes appuis.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX13.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX14.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX14.tip",
+      "text": "Rapproche les mains seulement dans une position confortable pour les poignets.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX14.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX15.installation",
+      "text": "Bande plate compatible et intacte ; aucun ancrage de porte. Installer comme indiqué dans les étapes.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX15.tip",
+      "text": "Bande plate compatible, hors du cou, vérifier son intégrité avant installation.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX15.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX16.installation",
+      "text": "Deux haltères de même masse déclarée, prises sûres et espace dégagé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX16.tip",
+      "text": "Garde les poignets alignés et les coudes obliques.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX16.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX17.installation",
+      "text": "Deux haltères de même masse déclarée, prises sûres et espace dégagé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX17.tip",
+      "text": "Garde les côtes et le bassin stables, choisis une amplitude confortable.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX17.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX18.installation",
+      "text": "Deux haltères de même masse déclarée, prises sûres et espace dégagé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX18.tip",
+      "text": "Utilise une charge légère, sans hausser les épaules.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX18.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX19.installation",
+      "text": "Bande plate compatible et intacte ; aucun ancrage de porte. Installer comme indiqué dans les étapes.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX19.tip",
+      "text": "Les deux pieds maintiennent une bande plate compatible, dos neutre.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX19.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX20.installation",
+      "text": "Un haltère avec prise sûre et charge choisie avant la séance.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX20.tip",
+      "text": "Garde le bassin et les épaules orientés vers le sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX20.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX21.installation",
+      "text": "Bande plate compatible et intacte ; aucun ancrage de porte. Installer comme indiqué dans les étapes.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX21.tip",
+      "text": "Vérifie la bande et choisis une tension permettant un contrôle complet.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX21.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX22.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX22.tip",
+      "text": "Le mouvement reste petit, sans extension excessive du dos.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX22.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX23.installation",
+      "text": "Bande ou tube intact compatible avec le maintien sous le pied. Vérifier la prise et les poignées si présentes.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX23.tip",
+      "text": "Installation compatible sous le pied, bande hors du visage, prise sûre.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX23.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX24.installation",
+      "text": "Un haltère avec prise sûre et charge choisie avant la séance.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX24.tip",
+      "text": "Garde une prise sûre à deux mains et les bras supérieurs stables.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX24.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX25.installation",
+      "text": "Deux haltères de même masse déclarée, prises sûres et espace dégagé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX25.tip",
+      "text": "Les bras supérieurs restent près du corps, poignets neutres.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX25.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX26.installation",
+      "text": "Bande ou tube intact compatible avec le maintien sous le pied. Vérifier la prise et les poignées si présentes.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX26.tip",
+      "text": "Maintiens la bande sous les deux semelles et garde les coudes près du buste.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX26.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX27.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX27.tip",
+      "text": "Garde la tête dans l’axe, le bassin stable et respire régulièrement.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX27.breathing",
+      "text": "Respire régulièrement, sans bloquer la respiration.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX28.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX28.tip",
+      "text": "Aligne l’épaule et le bassin, garde le coude sous l’épaule.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX28.breathing",
+      "text": "Respire régulièrement, sans bloquer la respiration.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX29.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX29.tip",
+      "text": "Choisis une amplitude qui conserve le contrôle du bas du dos.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX29.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX30.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX30.tip",
+      "text": "Le bassin reste horizontal, la jambe ne monte pas au-delà du contrôle.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX30.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX31.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX31.tip",
+      "text": "Privilégie un petit enroulement contrôlé, sans lancer les jambes.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX31.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX32.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX32.tip",
+      "text": "Garde la nuque confortable et une petite amplitude.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX32.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX33.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX33.tip",
+      "text": "Déplace une jambe à la fois sans modifier les appuis des mains.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX33.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX34.installation",
+      "text": "Roue abdominale vérifiée, surface non glissante, appuis genoux confortables.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX34.tip",
+      "text": "Réserve cet exercice à une maîtrise déclarée et une fiche consultée.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX34.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX35.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX35.tip",
+      "text": "Conserve le contrôle du dos et une respiration régulière.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX35.breathing",
+      "text": "Respire régulièrement, sans bloquer la respiration.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX36.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX36.tip",
+      "text": "Une petite inclinaison suffit, sans forcer la nuque.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX36.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX37.installation",
+      "text": "Un haltère avec prise sûre et charge choisie avant la séance.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX37.tip",
+      "text": "Les genoux suivent les pieds, la charge reste près du thorax.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX37.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX38.installation",
+      "text": "Bande plate compatible et intacte ; aucun ancrage de porte. Installer comme indiqué dans les étapes.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX38.tip",
+      "text": "La flexion vient des hanches, bande plate maintenue par les deux pieds.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX38.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX39.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX39.tip",
+      "text": "Le pied de la jambe fléchie reste posé, genou dans son axe.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX39.breathing",
+      "text": "Expire pendant l’effort, inspire pendant le retour contrôlé.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX40.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX40.tip",
+      "text": "Les appuis restent stables et la rotation reste confortable.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX40.breathing",
+      "text": "Respire naturellement pendant le mouvement doux.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX41.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX41.tip",
+      "text": "Fais des cercles lents dans une amplitude confortable.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX41.breathing",
+      "text": "Respire régulièrement, sans bloquer la respiration.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX42.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX42.tip",
+      "text": "Garde le talon avant posé, réduis l’amplitude si nécessaire.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX42.breathing",
+      "text": "Respire naturellement pendant le mouvement doux.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX43.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX43.tip",
+      "text": "L’ouverture reste douce, sans pousser les côtes vers l’avant.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX43.breathing",
+      "text": "Respire régulièrement, sans bloquer la respiration.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX44.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX44.tip",
+      "text": "Adapte l’écartement des genoux et les bras à ton confort.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX44.breathing",
+      "text": "Respire régulièrement, sans bloquer la respiration.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX45.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX45.tip",
+      "text": "Garde le bassin contrôlé et protège le genou avec une surface confortable.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX45.breathing",
+      "text": "Respire régulièrement, sans bloquer la respiration.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX46.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX46.tip",
+      "text": "Soutiens la cuisse, garde une flexion du genou si nécessaire.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX46.breathing",
+      "text": "Respire régulièrement, sans bloquer la respiration.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX47.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX47.tip",
+      "text": "Les gestes restent contrôlés, sans poids dans les mains.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX47.breathing",
+      "text": "Respire régulièrement, sans bloquer la respiration.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX48.installation",
+      "text": "Surface dégagée, non glissante ; tapis ou surface confortable pour les appuis au sol.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX48.tip",
+      "text": "Garde une amplitude contrôlée et pose chaque pied.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    },
+    {
+      "id": "EX48.breathing",
+      "text": "Respire régulièrement, sans bloquer la respiration.",
+      "family": "technique",
+      "status": "draft",
+      "requiredReview": "human_technical"
+    }
+  ]
+}

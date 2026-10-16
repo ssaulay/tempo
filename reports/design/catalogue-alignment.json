@@ -1,0 +1,35 @@
+[
+  {
+    "width": 360,
+    "positions": {
+      "filter": 56,
+      "notice": 56,
+      "title": 56,
+      "card": 39,
+      "noticeBox": 39
+    },
+    "status": "passed"
+  },
+  {
+    "width": 390,
+    "positions": {
+      "filter": 56,
+      "notice": 56,
+      "title": 56,
+      "card": 39,
+      "noticeBox": 39
+    },
+    "status": "passed"
+  },
+  {
+    "width": 1440,
+    "positions": {
+      "filter": 998,
+      "notice": 288,
+      "title": 288,
+      "card": 269,
+      "noticeBox": 269
+    },
+    "status": "passed"
+  }
+]

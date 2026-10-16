@@ -1,0 +1,72 @@
+{
+  "voice": "F1",
+  "voice_id": "voice_pjrwzzqm559j",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni.",
+  "clip": {
+    "id": "EX06.prepare",
+    "text": "Squat au poids du corps. Prépare-toi.",
+    "family": "preparation",
+    "status": "text_frozen",
+    "review": "editorial_prepared_not_sport_technical",
+    "text_sha256": "bb6469ee99c9fec76c2eaeda8c4e2aae7cbe827302a0c8514697bd63b7db22b7"
+  },
+  "usage": {
+    "total_tokens": 82,
+    "total_input_tokens": 14,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 14
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 68,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 68
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0,
+    "raw_prompt_token": 1033,
+    "model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 186
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 70
+          }
+        ]
+      }
+    ],
+    "non_grounding_model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 186
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 70
+          }
+        ]
+      }
+    ]
+  },
+  "status": "generated_listening_pending",
+  "duration_seconds": 2.72,
+  "sample_rate": 24000,
+  "checksum": "726c9ca8e6d41a8d10a8f6d5b5ce192ad67afeb46a313b0a6a767d834d4db242",
+  "cost_standard_usd": 0.000619
+}

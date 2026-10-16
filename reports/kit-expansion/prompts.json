@@ -1,0 +1,138 @@
+{
+  "tool": "built-in image_gen",
+  "reference": "assets/sources/reference-character.png",
+  "prompts": [
+    {
+      "id": "EX17",
+      "version": 2,
+      "prompt": "Scientific educational photorealistic two-panel exercise illustration for Tempo: Développé épaules avec tubes et poignées. Reference image identity/clothes ONLY: same adult man navy shirt, navy shorts, gray sneakers. TWO equal side-by-side panels, one full person each, fixed three-quarter camera and SAME scale, offwhite studio floor/background, no text numbers arrows logo border. Generous margins around feet hands and tubes in EACH half. Equipment MUST be small diameter ROUND GRAY TUBULAR resistance elastic, black webbing handles with carabiners, NOT flat rubber bands or mini-loop. Exact setup: standing on middle of thin gray resistance tube UNDER BOTH SHOES, feet shoulder-width, one black carabiner handle per hand, two tube segments run along OUTSIDE legs and arms without winding around body. LEFT: elbows bent, handles at shoulder height, forearms upright, palms forward. RIGHT: both arms pressed upward overhead, elbows comfortably extended, handles above shoulders, torso remains upright without arching. Same foot positions and camera, physically coherent connected tube path, no disappearing tube or extra limbs. Clear equipment and shoe contacts. No other equipment."
+    },
+    {
+      "id": "EX18",
+      "version": 2,
+      "prompt": "Scientific educational photorealistic two-panel exercise illustration for Tempo: Élévations latérales avec tubes et poignées. Reference image identity/clothes ONLY: same adult man navy shirt, navy shorts, gray sneakers. TWO equal side-by-side panels, one full person each, fixed three-quarter camera and SAME scale, offwhite studio floor/background, no text numbers arrows logo border. Generous margins around feet hands and tubes in EACH half. Equipment MUST be small diameter ROUND GRAY TUBULAR resistance elastic, black webbing handles with carabiners, NOT flat rubber bands or mini-loop. Exact setup: standing upright with middle of thin gray tube held UNDER BOTH SHOES, one black handle in each hand, no crossed tube, no anchor or weights. LEFT: arms down beside thighs, elbows softly bent. RIGHT: arms raised OUT TO THE SIDES to roughly shoulder level or slightly below, same slight elbow bend, shoulders not shrugged, tubes diagonal from shoes to hands. Same foot positions and camera, physically coherent connected tube path, no disappearing tube or extra limbs. Clear equipment and shoe contacts. No other equipment."
+    },
+    {
+      "id": "EX23",
+      "version": 2,
+      "prompt": "Scientific educational photorealistic two-panel exercise illustration for Tempo: Extension triceps au-dessus de la tête avec tubes. Reference image identity/clothes ONLY: same adult man navy shirt, navy shorts, gray sneakers. TWO equal side-by-side panels, one full person each, fixed three-quarter camera and SAME scale, offwhite studio floor/background, no text numbers arrows logo border. Generous margins around feet hands and tubes in EACH half. Equipment MUST be small diameter ROUND GRAY TUBULAR resistance elastic, black webbing handles with carabiners, NOT flat rubber bands or mini-loop. Exact setup: standing with staggered feet, middle of one long thin gray resistance TUBE held under REAR SHOE, two tube ends attach to two black handles, one in each hand. Tubes run behind trunk upward to handles, never wrapped around torso or neck. LEFT: upper arms point upward near ears, elbows bent, both handles held just behind head, straight upright torso. RIGHT: extend BOTH ELBOWS so handles rise overhead, upper arms remain nearly fixed by ears, do not convert to shoulder press. Same foot positions and camera, physically coherent connected tube path, no disappearing tube or extra limbs. Clear equipment and shoe contacts. No other equipment."
+    },
+    {
+      "id": "EX37",
+      "version": 2,
+      "prompt": "Scientific educational photorealistic two-panel exercise illustration for Tempo: Squat avec tubes et poignées aux épaules. Reference image identity/clothes ONLY: same adult man navy shirt, navy shorts, gray sneakers. TWO equal side-by-side panels, one full person each, fixed three-quarter camera and SAME scale, offwhite studio floor/background, no text numbers arrows logo border. Generous margins around feet hands and tubes in EACH half. Equipment MUST be small diameter ROUND GRAY TUBULAR resistance elastic, black webbing handles with carabiners, NOT flat rubber bands or mini-loop. Exact setup: middle of thin gray tube UNDER BOTH SHOES, feet comfortable squat width, one black handle at each shoulder, tubes outside legs, no band around neck, no dumbbell. LEFT: standing tall, handles held at shoulders, elbows bent. RIGHT: controlled squat with hips lowering between knees, heels stay down, comfortable depth, same handles at shoulders, torso remains controlled. Same foot positions and camera, physically coherent connected tube path, no disappearing tube or extra limbs. Clear equipment and shoe contacts. No other equipment."
+    },
+    {
+      "id": "EX38",
+      "version": 2,
+      "prompt": "Scientific educational photorealistic two-panel exercise illustration for Tempo: Charnière de hanches avec tubes et poignées. Reference image identity/clothes ONLY: same adult man navy shirt, navy shorts, gray sneakers. TWO equal side-by-side panels, one full person each, fixed three-quarter camera and SAME scale, offwhite studio floor/background, no text numbers arrows logo border. Generous margins around feet hands and tubes in EACH half. Equipment MUST be small diameter ROUND GRAY TUBULAR resistance elastic, black webbing handles with carabiners, NOT flat rubber bands or mini-loop. Exact setup: thin gray tube centered UNDER BOTH SHOES, feet hip-width, one black handle in each hand beside outer legs, both arms remain LONG, no barbell or door. LEFT: hip hinge with hips back, knees softly bent, chest inclined forward, neutral spine, handles near outside knees. RIGHT: standing upright by extending hips, arms still down beside thighs, no leaning back and no curling handles. Same foot positions and camera, physically coherent connected tube path, no disappearing tube or extra limbs. Clear equipment and shoe contacts. No other equipment."
+    },
+    {
+      "id": "EX70",
+      "version": 1,
+      "prompt": "Scientific educational photorealistic TWO-PANEL exercise sheet for Tempo: Développé poitrine debout avec kit et ancrage de porte. Reference identity/clothes ONLY: same adult man dark hair navy T-shirt navy shorts gray trainers. Two equal SIDE-BY-SIDE panels, exactly one complete man and one complete CLOSED DOOR per panel, identical three-quarter camera showing whole man, BOTH HANDLES, full tube paths and anchor. Pale studio wall/floor, no extra furnishings, no text arrows numbers logos borders. ROUND THIN GRAY TUBES, black handles/carabiners, black short door-anchor strap, NOT flat bands, NOT a pulley machine. Setup: closed light-gray door with black door-anchor strap at CHEST HEIGHT in hinge-side gap, gray tube centered through anchor loop, tube ends to two black handles, man standing with BACK TOWARD door in staggered stance facing away. One anchor only, not door handle. LEFT: both elbows bent, hands by sides of chest, wrists aligned, tubing behind him connected visibly to anchor. RIGHT: both arms press forward in front of chest, elbows comfortably extended, same feet and torso, tubes connect handles back to door. Keep exact same body orientation and door location between panels. Entire door and person with generous margins in each half. No clipped feet/hands and no duplicated limbs."
+    },
+    {
+      "id": "EX71",
+      "version": 1,
+      "prompt": "Scientific educational photorealistic TWO-PANEL exercise sheet for Tempo: Écartés poitrine debout avec kit et ancrage de porte. Reference identity/clothes ONLY: same adult man dark hair navy T-shirt navy shorts gray trainers. Two equal SIDE-BY-SIDE panels, exactly one complete man and one complete CLOSED DOOR per panel, identical three-quarter camera showing whole man, BOTH HANDLES, full tube paths and anchor. Pale studio wall/floor, no extra furnishings, no text arrows numbers logos borders. ROUND THIN GRAY TUBES, black handles/carabiners, black short door-anchor strap, NOT flat bands, NOT a pulley machine. Setup: closed gray door behind man, black door-anchor at SHOULDER HEIGHT in hinge-side gap, middle of thin gray tube through anchor loop, two ends to two black handles, man faces AWAY from door, staggered feet. LEFT: arms opened sideways near shoulder height, elbows lightly bent and kept fixed, palms face forward/inward. RIGHT: both handles brought together in front of chest in a hugging arc, SAME slight elbow bend not a press, torso still, tube paths from behind anchor. Keep exact same body orientation and door location between panels. Entire door and person with generous margins in each half. No clipped feet/hands and no duplicated limbs."
+    },
+    {
+      "id": "EX72",
+      "version": 1,
+      "prompt": "Scientific educational photorealistic TWO-PANEL exercise sheet for Tempo: Rowing debout avec kit et ancrage de porte. Reference identity/clothes ONLY: same adult man dark hair navy T-shirt navy shorts gray trainers. Two equal SIDE-BY-SIDE panels, exactly one complete man and one complete CLOSED DOOR per panel, identical three-quarter camera showing whole man, BOTH HANDLES, full tube paths and anchor. Pale studio wall/floor, no extra furnishings, no text arrows numbers logos borders. ROUND THIN GRAY TUBES, black handles/carabiners, black short door-anchor strap, NOT flat bands, NOT a pulley machine. Setup: closed gray door IN FRONT of man, black anchor strap at lower chest height in hinge-side gap, thin gray tube middle attached to anchor loop, one black handle in each hand, man FACES door with soft knees. LEFT: arms reach forward toward door, shoulders relaxed, body upright. RIGHT: elbows bend and travel back near ribs, handles pulled toward lower chest, body upright with no leaning back. Keep exact same body orientation and door location between panels. Entire door and person with generous margins in each half. No clipped feet/hands and no duplicated limbs."
+    },
+    {
+      "id": "EX73",
+      "version": 1,
+      "prompt": "Scientific educational photorealistic TWO-PANEL exercise sheet for Tempo: Extension triceps vers le bas avec kit et ancrage haut. Reference identity/clothes ONLY: same adult man dark hair navy T-shirt navy shorts gray trainers. Two equal SIDE-BY-SIDE panels, exactly one complete man and one complete CLOSED DOOR per panel, identical three-quarter camera showing whole man, BOTH HANDLES, full tube paths and anchor. Pale studio wall/floor, no extra furnishings, no text arrows numbers logos borders. ROUND THIN GRAY TUBES, black handles/carabiners, black short door-anchor strap, NOT flat bands, NOT a pulley machine. Setup: closed gray door in FRONT of man, black door anchor secured in TOP gap, thin gray tube centered through anchor loop, two ends to black handles, man FACES door slightly away, elbows close to sides. LEFT: elbows bent, handles near lower chest, upper arms at sides, gray tubes descend from HIGH door anchor. RIGHT: straighten both elbows so handles move DOWN beside thighs, upper arms remain against ribs, do not pull whole arm backward, torso stays still. Keep exact same body orientation and door location between panels. Entire door and person with generous margins in each half. No clipped feet/hands and no duplicated limbs."
+    },
+    {
+      "id": "EX74",
+      "version": 1,
+      "prompt": "Scientific educational photorealistic TWO-PANEL exercise sheet for Tempo: Écartés inversés debout avec kit et ancrage de porte. Reference identity/clothes ONLY: same adult man dark hair navy T-shirt navy shorts gray trainers. Two equal SIDE-BY-SIDE panels, exactly one complete man and one complete CLOSED DOOR per panel, identical three-quarter camera showing whole man, BOTH HANDLES, full tube paths and anchor. Pale studio wall/floor, no extra furnishings, no text arrows numbers logos borders. ROUND THIN GRAY TUBES, black handles/carabiners, black short door-anchor strap, NOT flat bands, NOT a pulley machine. Setup: closed gray door in FRONT of man, black anchor strap at SHOULDER HEIGHT in hinge-side gap, thin gray tube middle through loop, two ends to black handles, man FACES door, body upright. LEFT: both arms reach forward toward door around shoulder height, elbows softly bent. RIGHT: open BOTH arms wide OUT TO SIDES near shoulder height, same slight elbow bend maintained, torso still, gray tubes extend from door anchor to each handle, no rowing elbow bend. Keep exact same body orientation and door location between panels. Entire door and person with generous margins in each half. No clipped feet/hands and no duplicated limbs."
+    }
+  ],
+  "definitions": [
+    {
+      "id": "EX17",
+      "version": 2,
+      "name": "Développé épaules avec tubes et poignées",
+      "setup": "standing on middle of thin gray resistance tube UNDER BOTH SHOES, feet shoulder-width, one black carabiner handle per hand, two tube segments run along OUTSIDE legs and arms without winding around body",
+      "left": "elbows bent, handles at shoulder height, forearms upright, palms forward",
+      "right": "both arms pressed upward overhead, elbows comfortably extended, handles above shoulders, torso remains upright without arching"
+    },
+    {
+      "id": "EX18",
+      "version": 2,
+      "name": "Élévations latérales avec tubes et poignées",
+      "setup": "standing upright with middle of thin gray tube held UNDER BOTH SHOES, one black handle in each hand, no crossed tube, no anchor or weights",
+      "left": "arms down beside thighs, elbows softly bent",
+      "right": "arms raised OUT TO THE SIDES to roughly shoulder level or slightly below, same slight elbow bend, shoulders not shrugged, tubes diagonal from shoes to hands"
+    },
+    {
+      "id": "EX23",
+      "version": 2,
+      "name": "Extension triceps au-dessus de la tête avec tubes",
+      "setup": "standing with staggered feet, middle of one long thin gray resistance TUBE held under REAR SHOE, two tube ends attach to two black handles, one in each hand. Tubes run behind trunk upward to handles, never wrapped around torso or neck",
+      "left": "upper arms point upward near ears, elbows bent, both handles held just behind head, straight upright torso",
+      "right": "extend BOTH ELBOWS so handles rise overhead, upper arms remain nearly fixed by ears, do not convert to shoulder press"
+    },
+    {
+      "id": "EX37",
+      "version": 2,
+      "name": "Squat avec tubes et poignées aux épaules",
+      "setup": "middle of thin gray tube UNDER BOTH SHOES, feet comfortable squat width, one black handle at each shoulder, tubes outside legs, no band around neck, no dumbbell",
+      "left": "standing tall, handles held at shoulders, elbows bent",
+      "right": "controlled squat with hips lowering between knees, heels stay down, comfortable depth, same handles at shoulders, torso remains controlled"
+    },
+    {
+      "id": "EX38",
+      "version": 2,
+      "name": "Charnière de hanches avec tubes et poignées",
+      "setup": "thin gray tube centered UNDER BOTH SHOES, feet hip-width, one black handle in each hand beside outer legs, both arms remain LONG, no barbell or door",
+      "left": "hip hinge with hips back, knees softly bent, chest inclined forward, neutral spine, handles near outside knees",
+      "right": "standing upright by extending hips, arms still down beside thighs, no leaning back and no curling handles"
+    },
+    {
+      "id": "EX70",
+      "version": 1,
+      "name": "Développé poitrine debout avec kit et ancrage de porte",
+      "setup": "closed light-gray door with black door-anchor strap at CHEST HEIGHT in hinge-side gap, gray tube centered through anchor loop, tube ends to two black handles, man standing with BACK TOWARD door in staggered stance facing away. One anchor only, not door handle",
+      "left": "both elbows bent, hands by sides of chest, wrists aligned, tubing behind him connected visibly to anchor",
+      "right": "both arms press forward in front of chest, elbows comfortably extended, same feet and torso, tubes connect handles back to door"
+    },
+    {
+      "id": "EX71",
+      "version": 1,
+      "name": "Écartés poitrine debout avec kit et ancrage de porte",
+      "setup": "closed gray door behind man, black door-anchor at SHOULDER HEIGHT in hinge-side gap, middle of thin gray tube through anchor loop, two ends to two black handles, man faces AWAY from door, staggered feet",
+      "left": "arms opened sideways near shoulder height, elbows lightly bent and kept fixed, palms face forward/inward",
+      "right": "both handles brought together in front of chest in a hugging arc, SAME slight elbow bend not a press, torso still, tube paths from behind anchor"
+    },
+    {
+      "id": "EX72",
+      "version": 1,
+      "name": "Rowing debout avec kit et ancrage de porte",
+      "setup": "closed gray door IN FRONT of man, black anchor strap at lower chest height in hinge-side gap, thin gray tube middle attached to anchor loop, one black handle in each hand, man FACES door with soft knees",
+      "left": "arms reach forward toward door, shoulders relaxed, body upright",
+      "right": "elbows bend and travel back near ribs, handles pulled toward lower chest, body upright with no leaning back"
+    },
+    {
+      "id": "EX73",
+      "version": 1,
+      "name": "Extension triceps vers le bas avec kit et ancrage haut",
+      "setup": "closed gray door in FRONT of man, black door anchor secured in TOP gap, thin gray tube centered through anchor loop, two ends to black handles, man FACES door slightly away, elbows close to sides",
+      "left": "elbows bent, handles near lower chest, upper arms at sides, gray tubes descend from HIGH door anchor",
+      "right": "straighten both elbows so handles move DOWN beside thighs, upper arms remain against ribs, do not pull whole arm backward, torso stays still"
+    },
+    {
+      "id": "EX74",
+      "version": 1,
+      "name": "Écartés inversés debout avec kit et ancrage de porte",
+      "setup": "closed gray door in FRONT of man, black anchor strap at SHOULDER HEIGHT in hinge-side gap, thin gray tube middle through loop, two ends to black handles, man FACES door, body upright",
+      "left": "both arms reach forward toward door around shoulder height, elbows softly bent",
+      "right": "open BOTH arms wide OUT TO SIDES near shoulder height, same slight elbow bend maintained, torso still, gray tubes extend from door anchor to each handle, no rowing elbow bend"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "width": 390,
+      "catalogueCards": 84,
+      "kitCards": 15,
+      "newIllustrations": 3,
+      "originalDumbbellChoicePreserved": true,
+      "doorSessionStarted": true,
+      "combinations": 31,
+      "errors": [],
+      "missing": []
+    },
+    {
+      "width": 1440,
+      "catalogueCards": 84,
+      "kitCards": 15,
+      "newIllustrations": 3,
+      "originalDumbbellChoicePreserved": true,
+      "doorSessionStarted": true,
+      "combinations": 31,
+      "errors": [],
+      "missing": []
+    }
+  ],
+  "humanTechnicalReviewPerformed": false,
+  "physicalIPhoneTested": false
+}

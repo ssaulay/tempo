@@ -14,9 +14,11 @@ with sync_playwright() as p:
    context=browser.new_context(viewport={'width':width,'height':900},is_mobile=width<500,has_touch=width<500,locale='fr-FR')
    page=context.new_page();errors=[];page.on('pageerror',lambda e:errors.append(str(e)))
    page.goto(BASE);page.get_by_role('heading',name='Bienvenue chez Tempo.').wait_for()
+   page.get_by_role('button',name='Découvrir Tempo',exact=True).click()
+   page.locator('.top-actions').get_by_role('button',name='Réglages',exact=True).click()
    page.get_by_label('Votre niveau').select_option('intermediate')
    page.get_by_label('Activer le prototype avec les démonstrations provisoires').check()
-   page.get_by_role('button',name='C’est parti',exact=True).click()
+   page.get_by_role('button',name='Enregistrer mes réglages',exact=True).click()
    page.get_by_role('button',name='Pectoraux',exact=True).click();page.get_by_role('button',name='Abdominaux',exact=True).click()
    page.screenshot(path=str(reports/f'home-{name}-{width}.png'),full_page=True)
    assert page.evaluate('document.documentElement.scrollWidth<=innerWidth+1'), 'Débordement horizontal accueil'

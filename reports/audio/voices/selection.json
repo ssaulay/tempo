@@ -1,0 +1,21 @@
+{
+  "status": "selected_by_simon",
+  "date": "2026-10-12",
+  "voices": [
+    {
+      "id": "F1",
+      "voice_id": "voice_pjrwzzqm559j",
+      "model": "gemini-3.8-flash-tts",
+      "display_name": "Coach féminine solaire",
+      "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni."
+    },
+    {
+      "id": "M2-deep-v2",
+      "voice_id": "voice_j1nyh1atfcz8",
+      "model": "gemini-3.8-flash-tts",
+      "display_name": "Coach masculin complice - plus grave",
+      "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni."
+    }
+  ],
+  "production_status": "not_started"
+}

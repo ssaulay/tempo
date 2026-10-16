@@ -1,0 +1,39 @@
+{
+  "voice": "M2-deep-v2",
+  "voice_id": "voice_j1nyh1atfcz8",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni.",
+  "clip": {
+    "id": "reps.18",
+    "text": "Dix-huit répétitions.",
+    "family": "repetitions",
+    "status": "text_frozen",
+    "review": "editorial_prepared_not_sport_technical",
+    "text_sha256": "44d05247b86ed2023d9de7492645f5a9f2c53577ee0597bb36726adfe77016e1"
+  },
+  "usage": {
+    "total_tokens": 50,
+    "total_input_tokens": 8,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 8
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 42,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 42
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0
+  },
+  "status": "generated_listening_pending",
+  "duration_seconds": 1.68,
+  "sample_rate": 24000,
+  "checksum": "f599441d4554954b45b1b0ca7ff11f46003b01d8dd1e9ff0535e2a1a010ac5b6",
+  "cost_standard_usd": 0.000382
+}

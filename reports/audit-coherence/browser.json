@@ -1,0 +1,1736 @@
+[
+  {
+    "width": 320,
+    "views": [
+      {
+        "name": "onboarding",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<input type=\"checkbox\" style=\"\">",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "calibration",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<h3 tabindex=\"-1\">Votre point de départ</h3>",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "home",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app\"><aside class=\"sidebar\"><a class=\"brand\" href=\"#\"><span class=\"brand-icon\"><span></span><span></span><span></span></span>tempo<span class=\"brand-dot\">.</span></a><",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "settings",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<button class=\"icon-button\" aria-label=\"Fermer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"ro",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "catalog-empty",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<input aria-label=\"Chercher un exercice\" placeholder=\"Un mouvement, une zone…\" value=\"zzzzzzzz\" style=\"\">",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "exercise",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<button class=\"icon-button\" aria-label=\"Fermer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"ro",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "editor",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app\"><aside class=\"sidebar\"><a class=\"brand\" href=\"#\"><span class=\"brand-icon\"><span></span><span></span><span></span></span>tempo<span class=\"brand-dot\">.</span></a><",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "editor-expanded",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<input min=\"1\" max=\"2\" step=\"1\" type=\"number\" value=\"1\" style=\"\">",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "programs",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<button class=\"active\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"21\" height=\"21\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"rou",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "programs-empty",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<input aria-label=\"Rechercher un programme\" placeholder=\"Retrouver un programme…\" value=\"zzzzzzz\" style=\"\">",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "preparing",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number",
+            "rect": {
+              "x": 50.515625,
+              "y": 279.375,
+              "width": 218.96875,
+              "height": 104,
+              "top": 279.375,
+              "right": 269.484375,
+              "bottom": 383.375,
+              "left": 50.515625
+            }
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom",
+            "rect": {
+              "x": 16,
+              "y": 627.8125,
+              "width": 288,
+              "height": 216.1875,
+              "top": 627.8125,
+              "right": 304,
+              "bottom": 844,
+              "left": 16
+            }
+          }
+        ],
+        "playerControls": [
+          {
+            "text": "Pause",
+            "top": 768,
+            "bottom": 836,
+            "visibleAtTop": true
+          },
+          {
+            "text": "Continuer",
+            "top": 768,
+            "bottom": 836,
+            "visibleAtTop": true
+          }
+        ],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app player-app\" data-phase=\"preparing\"><main><div class=\"player\"><div class=\"player-top\"><button class=\"icon-button\" aria-label=\"Consulter la technique et mettre en pa",
+        "smallTargets": []
+      },
+      {
+        "name": "working",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number",
+            "rect": {
+              "x": 50.515625,
+              "y": 279.375,
+              "width": 218.96875,
+              "height": 104,
+              "top": 279.375,
+              "right": 269.484375,
+              "bottom": 383.375,
+              "left": 50.515625
+            }
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom",
+            "rect": {
+              "x": 16,
+              "y": 601.21875,
+              "width": 288,
+              "height": 242.78125,
+              "top": 601.21875,
+              "right": 304,
+              "bottom": 844,
+              "left": 16
+            }
+          }
+        ],
+        "playerControls": [
+          {
+            "text": "Pause",
+            "top": 768,
+            "bottom": 836,
+            "visibleAtTop": true
+          }
+        ],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app player-app\" data-phase=\"working_timed\"><main><div class=\"player\"><div class=\"player-top\"><button class=\"icon-button\" aria-label=\"Consulter la technique et mettre e",
+        "smallTargets": []
+      },
+      {
+        "name": "reps",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number",
+            "rect": {
+              "x": 127.234375,
+              "y": 279.375,
+              "width": 65.53125,
+              "height": 104,
+              "top": 279.375,
+              "right": 192.765625,
+              "bottom": 383.375,
+              "left": 127.234375
+            }
+          },
+          {
+            "selector": ".quick-result",
+            "rect": {
+              "x": 16,
+              "y": 676.421875,
+              "width": 288,
+              "height": 96.640625,
+              "top": 676.421875,
+              "right": 304,
+              "bottom": 773.0625,
+              "left": 16
+            }
+          },
+          {
+            "selector": ".player-bottom",
+            "rect": {
+              "x": 16,
+              "y": 644.21875,
+              "width": 288,
+              "height": 199.78125,
+              "top": 644.21875,
+              "right": 304,
+              "bottom": 844,
+              "left": 16
+            }
+          }
+        ],
+        "playerControls": [
+          {
+            "text": "Pause",
+            "top": 757.8125,
+            "bottom": 836,
+            "visibleAtTop": true
+          },
+          {
+            "text": "Série terminée",
+            "top": 757.8125,
+            "bottom": 836,
+            "visibleAtTop": true
+          }
+        ],
+        "overflow": false,
+        "focus": "<button class=\"button primary\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"26\" height=\"26\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linej",
+        "smallTargets": []
+      },
+      {
+        "name": "rest",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number",
+            "rect": {
+              "x": 50.515625,
+              "y": 279.375,
+              "width": 218.96875,
+              "height": 104,
+              "top": 279.375,
+              "right": 269.484375,
+              "bottom": 383.375,
+              "left": 50.515625
+            }
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom",
+            "rect": {
+              "x": 16,
+              "y": 549.8125,
+              "width": 288,
+              "height": 294.1875,
+              "top": 549.8125,
+              "right": 304,
+              "bottom": 844,
+              "left": 16
+            }
+          }
+        ],
+        "playerControls": [
+          {
+            "text": "Pause",
+            "top": 690,
+            "bottom": 758,
+            "visibleAtTop": true
+          },
+          {
+            "text": "+15 s",
+            "top": 690,
+            "bottom": 758,
+            "visibleAtTop": true
+          },
+          {
+            "text": "Terminer le repos",
+            "top": 768,
+            "bottom": 836,
+            "visibleAtTop": true
+          }
+        ],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app player-app\" data-phase=\"resting\"><main><div class=\"player\"><div class=\"player-top\"><button class=\"icon-button\" aria-label=\"Consulter la technique et mettre en paus",
+        "smallTargets": []
+      },
+      {
+        "name": "paused",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number",
+            "rect": {
+              "x": 132,
+              "y": 279.375,
+              "width": 56,
+              "height": 104,
+              "top": 279.375,
+              "right": 188,
+              "bottom": 383.375,
+              "left": 132
+            }
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom",
+            "rect": {
+              "x": 16,
+              "y": 627.8125,
+              "width": 288,
+              "height": 216.1875,
+              "top": 627.8125,
+              "right": 304,
+              "bottom": 844,
+              "left": 16
+            }
+          }
+        ],
+        "playerControls": [
+          {
+            "text": "Reprendre",
+            "top": 768,
+            "bottom": 836,
+            "visibleAtTop": true
+          }
+        ],
+        "overflow": false,
+        "focus": "<button class=\"button primary\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linej",
+        "smallTargets": []
+      },
+      {
+        "name": "summary",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app\"><aside class=\"sidebar\"><a class=\"brand\" href=\"#\"><span class=\"brand-icon\"><span></span><span></span><span></span></span>tempo<span class=\"brand-dot\">.</span></a><",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "history",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<button class=\"active\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"21\" height=\"21\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"rou",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      }
+    ],
+    "checks": {
+      "unsavedNoImpactLost": true,
+      "emptyCatalogText": "Explorer les exercices\nToutes les zones\nPectoraux\nAbdominaux\nDos\nÉpaules\nBras\nJambes\nFessiers\n\n84 fiches · 77 mouvements et leurs variantes · Revue technique en attente.",
+      "setsInitial": "1",
+      "setsAfterClear": "1",
+      "savedAlsoDraft": true,
+      "activeDeletedWithoutConfirmation": true
+    },
+    "errors": []
+  },
+  {
+    "width": 390,
+    "views": [
+      {
+        "name": "onboarding",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<input type=\"checkbox\" style=\"\">",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "calibration",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<h3 tabindex=\"-1\">Votre point de départ</h3>",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "home",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app\"><aside class=\"sidebar\"><a class=\"brand\" href=\"#\"><span class=\"brand-icon\"><span></span><span></span><span></span></span>tempo<span class=\"brand-dot\">.</span></a><",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "settings",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<button class=\"icon-button\" aria-label=\"Fermer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"ro",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "catalog-empty",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<input aria-label=\"Chercher un exercice\" placeholder=\"Un mouvement, une zone…\" value=\"zzzzzzzz\" style=\"\">",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "exercise",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<button class=\"icon-button\" aria-label=\"Fermer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"ro",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "editor",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app\"><aside class=\"sidebar\"><a class=\"brand\" href=\"#\"><span class=\"brand-icon\"><span></span><span></span><span></span></span>tempo<span class=\"brand-dot\">.</span></a><",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "editor-expanded",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<input min=\"1\" max=\"2\" step=\"1\" type=\"number\" value=\"1\" style=\"\">",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "programs",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<button class=\"active\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"21\" height=\"21\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"rou",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "programs-empty",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<input aria-label=\"Rechercher un programme\" placeholder=\"Retrouver un programme…\" value=\"zzzzzzz\" style=\"\">",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "preparing",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number",
+            "rect": {
+              "x": 85.515625,
+              "y": 247.1875,
+              "width": 218.96875,
+              "height": 104,
+              "top": 247.1875,
+              "right": 304.484375,
+              "bottom": 351.1875,
+              "left": 85.515625
+            }
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom",
+            "rect": {
+              "x": 16,
+              "y": 627.8125,
+              "width": 358,
+              "height": 216.1875,
+              "top": 627.8125,
+              "right": 374,
+              "bottom": 844,
+              "left": 16
+            }
+          }
+        ],
+        "playerControls": [
+          {
+            "text": "Pause",
+            "top": 768,
+            "bottom": 836,
+            "visibleAtTop": true
+          },
+          {
+            "text": "Continuer",
+            "top": 768,
+            "bottom": 836,
+            "visibleAtTop": true
+          }
+        ],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app player-app\" data-phase=\"preparing\"><main><div class=\"player\"><div class=\"player-top\"><button class=\"icon-button\" aria-label=\"Consulter la technique et mettre en pa",
+        "smallTargets": []
+      },
+      {
+        "name": "working",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number",
+            "rect": {
+              "x": 85.515625,
+              "y": 247.1875,
+              "width": 218.96875,
+              "height": 104,
+              "top": 247.1875,
+              "right": 304.484375,
+              "bottom": 351.1875,
+              "left": 85.515625
+            }
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom",
+            "rect": {
+              "x": 16,
+              "y": 627.8125,
+              "width": 358,
+              "height": 216.1875,
+              "top": 627.8125,
+              "right": 374,
+              "bottom": 844,
+              "left": 16
+            }
+          }
+        ],
+        "playerControls": [
+          {
+            "text": "Pause",
+            "top": 768,
+            "bottom": 836,
+            "visibleAtTop": true
+          }
+        ],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app player-app\" data-phase=\"working_timed\"><main><div class=\"player\"><div class=\"player-top\"><button class=\"icon-button\" aria-label=\"Consulter la technique et mettre e",
+        "smallTargets": []
+      },
+      {
+        "name": "reps",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number",
+            "rect": {
+              "x": 162.234375,
+              "y": 247.1875,
+              "width": 65.53125,
+              "height": 104,
+              "top": 247.1875,
+              "right": 227.765625,
+              "bottom": 351.1875,
+              "left": 162.234375
+            }
+          },
+          {
+            "selector": ".quick-result",
+            "rect": {
+              "x": 16,
+              "y": 672.28125,
+              "width": 358,
+              "height": 60,
+              "top": 672.28125,
+              "right": 374,
+              "bottom": 732.28125,
+              "left": 16
+            }
+          },
+          {
+            "selector": ".player-bottom",
+            "rect": {
+              "x": 16,
+              "y": 644.21875,
+              "width": 358,
+              "height": 199.78125,
+              "top": 644.21875,
+              "right": 374,
+              "bottom": 844,
+              "left": 16
+            }
+          }
+        ],
+        "playerControls": [
+          {
+            "text": "Pause",
+            "top": 757.8125,
+            "bottom": 836,
+            "visibleAtTop": true
+          },
+          {
+            "text": "Série terminée",
+            "top": 757.8125,
+            "bottom": 836,
+            "visibleAtTop": true
+          }
+        ],
+        "overflow": false,
+        "focus": "<button class=\"button primary\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"26\" height=\"26\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linej",
+        "smallTargets": []
+      },
+      {
+        "name": "rest",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number",
+            "rect": {
+              "x": 85.515625,
+              "y": 247.1875,
+              "width": 218.96875,
+              "height": 104,
+              "top": 247.1875,
+              "right": 304.484375,
+              "bottom": 351.1875,
+              "left": 85.515625
+            }
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom",
+            "rect": {
+              "x": 16,
+              "y": 549.8125,
+              "width": 358,
+              "height": 294.1875,
+              "top": 549.8125,
+              "right": 374,
+              "bottom": 844,
+              "left": 16
+            }
+          }
+        ],
+        "playerControls": [
+          {
+            "text": "Pause",
+            "top": 690,
+            "bottom": 758,
+            "visibleAtTop": true
+          },
+          {
+            "text": "+15 s",
+            "top": 690,
+            "bottom": 758,
+            "visibleAtTop": true
+          },
+          {
+            "text": "Terminer le repos",
+            "top": 768,
+            "bottom": 836,
+            "visibleAtTop": true
+          }
+        ],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app player-app\" data-phase=\"resting\"><main><div class=\"player\"><div class=\"player-top\"><button class=\"icon-button\" aria-label=\"Consulter la technique et mettre en paus",
+        "smallTargets": []
+      },
+      {
+        "name": "paused",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number",
+            "rect": {
+              "x": 167,
+              "y": 247.1875,
+              "width": 56,
+              "height": 104,
+              "top": 247.1875,
+              "right": 223,
+              "bottom": 351.1875,
+              "left": 167
+            }
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom",
+            "rect": {
+              "x": 16,
+              "y": 627.8125,
+              "width": 358,
+              "height": 216.1875,
+              "top": 627.8125,
+              "right": 374,
+              "bottom": 844,
+              "left": 16
+            }
+          }
+        ],
+        "playerControls": [
+          {
+            "text": "Reprendre",
+            "top": 768,
+            "bottom": 836,
+            "visibleAtTop": true
+          }
+        ],
+        "overflow": false,
+        "focus": "<button class=\"button primary\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linej",
+        "smallTargets": []
+      },
+      {
+        "name": "summary",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app\"><aside class=\"sidebar\"><a class=\"brand\" href=\"#\"><span class=\"brand-icon\"><span></span><span></span><span></span></span>tempo<span class=\"brand-dot\">.</span></a><",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "history",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<button class=\"active\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"21\" height=\"21\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"rou",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      }
+    ],
+    "checks": {
+      "unsavedNoImpactLost": true,
+      "emptyCatalogText": "Explorer les exercices\nToutes les zones\nPectoraux\nAbdominaux\nDos\nÉpaules\nBras\nJambes\nFessiers\n\n84 fiches · 77 mouvements et leurs variantes · Revue technique en attente.",
+      "setsInitial": "1",
+      "setsAfterClear": "1",
+      "savedAlsoDraft": true,
+      "activeDeletedWithoutConfirmation": true
+    },
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "views": [
+      {
+        "name": "onboarding",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<input type=\"checkbox\" style=\"\">",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "calibration",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<h3 tabindex=\"-1\">Votre point de départ</h3>",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "home",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app\"><aside class=\"sidebar\"><a class=\"brand\" href=\"#\"><span class=\"brand-icon\"><span></span><span></span><span></span></span>tempo<span class=\"brand-dot\">.</span></a><",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "settings",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<button class=\"icon-button\" aria-label=\"Fermer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"ro",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "catalog-empty",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<input aria-label=\"Chercher un exercice\" placeholder=\"Un mouvement, une zone…\" value=\"zzzzzzzz\" style=\"\">",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "exercise",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<button class=\"icon-button\" aria-label=\"Fermer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"ro",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "editor",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app\"><aside class=\"sidebar\"><a class=\"brand\" href=\"#\"><span class=\"brand-icon\"><span></span><span></span><span></span></span>tempo<span class=\"brand-dot\">.</span></a><",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "editor-expanded",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<input min=\"1\" max=\"2\" step=\"1\" type=\"number\" value=\"1\" style=\"\">",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "programs",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<button class=\"nav-item active\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-line",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "programs-empty",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<input aria-label=\"Rechercher un programme\" placeholder=\"Retrouver un programme…\" value=\"zzzzzzz\" style=\"\">",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "preparing",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number",
+            "rect": {
+              "x": 363.40625,
+              "y": 333.140625,
+              "width": 269.1875,
+              "height": 128,
+              "top": 333.140625,
+              "right": 632.59375,
+              "bottom": 461.140625,
+              "left": 363.40625
+            }
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom",
+            "rect": {
+              "x": 292,
+              "y": 631.6875,
+              "width": 856,
+              "height": 178,
+              "top": 631.6875,
+              "right": 1148,
+              "bottom": 809.6875,
+              "left": 292
+            }
+          }
+        ],
+        "playerControls": [
+          {
+            "text": "Pause",
+            "top": 729.6875,
+            "bottom": 801.6875,
+            "visibleAtTop": true
+          },
+          {
+            "text": "Continuer",
+            "top": 729.6875,
+            "bottom": 801.6875,
+            "visibleAtTop": true
+          }
+        ],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app player-app\" data-phase=\"preparing\"><main><div class=\"player\"><div class=\"player-top\"><button class=\"icon-button\" aria-label=\"Consulter la technique et mettre en pa",
+        "smallTargets": []
+      },
+      {
+        "name": "working",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number",
+            "rect": {
+              "x": 363.40625,
+              "y": 333.140625,
+              "width": 269.1875,
+              "height": 128,
+              "top": 333.140625,
+              "right": 632.59375,
+              "bottom": 461.140625,
+              "left": 363.40625
+            }
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom",
+            "rect": {
+              "x": 292,
+              "y": 631.6875,
+              "width": 856,
+              "height": 178,
+              "top": 631.6875,
+              "right": 1148,
+              "bottom": 809.6875,
+              "left": 292
+            }
+          }
+        ],
+        "playerControls": [
+          {
+            "text": "Pause",
+            "top": 729.6875,
+            "bottom": 801.6875,
+            "visibleAtTop": true
+          }
+        ],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app player-app\" data-phase=\"working_timed\"><main><div class=\"player\"><div class=\"player-top\"><button class=\"icon-button\" aria-label=\"Consulter la technique et mettre e",
+        "smallTargets": []
+      },
+      {
+        "name": "reps",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number",
+            "rect": {
+              "x": 457.71875,
+              "y": 333.140625,
+              "width": 80.5625,
+              "height": 128,
+              "top": 333.140625,
+              "right": 538.28125,
+              "bottom": 461.140625,
+              "left": 457.71875
+            }
+          },
+          {
+            "selector": ".quick-result",
+            "rect": {
+              "x": 292,
+              "y": 599.6875,
+              "width": 856,
+              "height": 60,
+              "top": 599.6875,
+              "right": 1148,
+              "bottom": 659.6875,
+              "left": 292
+            }
+          },
+          {
+            "selector": ".player-bottom",
+            "rect": {
+              "x": 292,
+              "y": 666,
+              "width": 856,
+              "height": 178,
+              "top": 666,
+              "right": 1148,
+              "bottom": 844,
+              "left": 292
+            }
+          }
+        ],
+        "playerControls": [
+          {
+            "text": "Pause",
+            "top": 764,
+            "bottom": 836,
+            "visibleAtTop": true
+          },
+          {
+            "text": "Série terminée",
+            "top": 764,
+            "bottom": 836,
+            "visibleAtTop": true
+          }
+        ],
+        "overflow": false,
+        "focus": "<button class=\"button primary\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"26\" height=\"26\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linej",
+        "smallTargets": []
+      },
+      {
+        "name": "rest",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number",
+            "rect": {
+              "x": 363.40625,
+              "y": 333.140625,
+              "width": 269.1875,
+              "height": 128,
+              "top": 333.140625,
+              "right": 632.59375,
+              "bottom": 461.140625,
+              "left": 363.40625
+            }
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom",
+            "rect": {
+              "x": 292,
+              "y": 631.6875,
+              "width": 856,
+              "height": 178,
+              "top": 631.6875,
+              "right": 1148,
+              "bottom": 809.6875,
+              "left": 292
+            }
+          }
+        ],
+        "playerControls": [
+          {
+            "text": "Pause",
+            "top": 729.6875,
+            "bottom": 801.6875,
+            "visibleAtTop": true
+          },
+          {
+            "text": "+15 s",
+            "top": 729.6875,
+            "bottom": 801.6875,
+            "visibleAtTop": true
+          },
+          {
+            "text": "Terminer le repos",
+            "top": 729.6875,
+            "bottom": 801.6875,
+            "visibleAtTop": true
+          }
+        ],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app player-app\" data-phase=\"resting\"><main><div class=\"player\"><div class=\"player-top\"><button class=\"icon-button\" aria-label=\"Consulter la technique et mettre en paus",
+        "smallTargets": []
+      },
+      {
+        "name": "paused",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number",
+            "rect": {
+              "x": 470,
+              "y": 333.140625,
+              "width": 56,
+              "height": 128,
+              "top": 333.140625,
+              "right": 526,
+              "bottom": 461.140625,
+              "left": 470
+            }
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom",
+            "rect": {
+              "x": 292,
+              "y": 631.6875,
+              "width": 856,
+              "height": 178,
+              "top": 631.6875,
+              "right": 1148,
+              "bottom": 809.6875,
+              "left": 292
+            }
+          }
+        ],
+        "playerControls": [
+          {
+            "text": "Reprendre",
+            "top": 729.6875,
+            "bottom": 801.6875,
+            "visibleAtTop": true
+          }
+        ],
+        "overflow": false,
+        "focus": "<button class=\"button primary\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linej",
+        "smallTargets": []
+      },
+      {
+        "name": "summary",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<body><div id=\"root\"><div class=\"app\"><aside class=\"sidebar\"><a class=\"brand\" href=\"#\"><span class=\"brand-icon\"><span></span><span></span><span></span></span>tempo<span class=\"brand-dot\">.</span></a><",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "name": "history",
+        "viewportHeight": 844,
+        "playerLayout": [
+          {
+            "selector": ".player-number"
+          },
+          {
+            "selector": ".quick-result"
+          },
+          {
+            "selector": ".player-bottom"
+          }
+        ],
+        "playerControls": [],
+        "overflow": false,
+        "focus": "<button class=\"nav-item active\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-line",
+        "smallTargets": [
+          {
+            "text": "Démonstrations provisoires",
+            "w": 196,
+            "h": 44
+          }
+        ]
+      }
+    ],
+    "checks": {
+      "unsavedNoImpactLost": true,
+      "emptyCatalogText": "Explorer les exercices\nToutes les zones\nPectoraux\nAbdominaux\nDos\nÉpaules\nBras\nJambes\nFessiers\n\n84 fiches · 77 mouvements et leurs variantes · Revue technique en attente.",
+      "setsInitial": "1",
+      "setsAfterClear": "1",
+      "savedAlsoDraft": true,
+      "activeDeletedWithoutConfirmation": true
+    },
+    "errors": []
+  }
+]

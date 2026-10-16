@@ -1,0 +1,39 @@
+{
+  "voice": "M2-deep-v2",
+  "voice_id": "voice_j1nyh1atfcz8",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni.",
+  "clip": {
+    "id": "EX08.prepare",
+    "text": "Fente statique. Prépare-toi.",
+    "family": "preparation",
+    "status": "text_frozen",
+    "review": "editorial_prepared_not_sport_technical",
+    "text_sha256": "fc446ae1c879e91a569f3f883872f2f863e34f8a0946dac4d89f479f2f7e698a"
+  },
+  "usage": {
+    "total_tokens": 69,
+    "total_input_tokens": 12,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 12
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 57,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 57
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0
+  },
+  "status": "generated_listening_pending",
+  "duration_seconds": 2.24,
+  "sample_rate": 24000,
+  "checksum": "92f62c2f1efe023387e5c8e100703cd420476ba038817a602078f13ec736a9c1",
+  "cost_standard_usd": 0.000519
+}

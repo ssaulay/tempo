@@ -1,0 +1,2403 @@
+{
+  "version": 1,
+  "status": "local_text_prototype_not_human_validated",
+  "exercises": [
+    {
+      "id": "EX49",
+      "version": 1,
+      "name": "Pompes déclinées sur support fixe",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [
+        {
+          "kind": "support"
+        }
+      ],
+      "installation": "poids du corps support bas stable. Deux pieds sur un support fixe assez large; partir d’une faible élévation et vérifier que les appuis restent en place. Jambes allongées sans forcer les genoux en arrière. Tronc et bassin avancent ensemble; abdominaux et fessiers actifs pour limiter affaissement lombaire. Nuque dans la continuité du tronc, regard vers la zone du sol entre et devant les mains. Contrôler leur mouvement contre la cage thoracique; ne pas les pincer et immobiliser pendant toute la poussée. Mains au sol un peu plus larges que les épaules; espace devant tête et poitrine dégagé.",
+      "equipmentKey": "support",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "triceps",
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Haut: paumes et deux pieds visibles, support entier et ligne du corps.",
+          "postureCues": [
+            "Haut: paumes et deux pieds visibles, support entier et ligne du corps."
+          ],
+          "breathing": "Proposition: inspirer pendant descente, souffler pendant poussée, continuer à respirer sans blocage prolongé.",
+          "asset": "step-01.webp",
+          "alt": "Pompes déclinées sur support fixe : Haut: paumes et deux pieds visibles, support entier et ligne du corps."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Bas: poitrine descendue, bassin solidaire et support immobile.",
+          "postureCues": [
+            "Bas: poitrine descendue, bassin solidaire et support immobile."
+          ],
+          "breathing": "Proposition: inspirer pendant descente, souffler pendant poussée, continuer à respirer sans blocage prolongé.",
+          "asset": "step-02.webp",
+          "alt": "Pompes déclinées sur support fixe : Bas: poitrine descendue, bassin solidaire et support immobile."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Après le retour haut, poser les genoux ou redescendre les pieds un par un selon hauteur et contrôle; tester la sortie avant une série.",
+          "postureCues": [
+            "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Après le retour haut, poser les genoux ou redescendre les pieds un par un selon hauteur et contrôle; tester la sortie avant une série."
+          ],
+          "breathing": "Proposition: inspirer pendant descente, souffler pendant poussée, continuer à respirer sans blocage prolongé.",
+          "asset": "step-03.webp",
+          "alt": "Pompes déclinées sur support fixe : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Hanches tombent: baisser hauteur ou reprendre pompe au sol.",
+        "Nuque avance seule: réduire amplitude et déplacer le corps comme un ensemble.",
+        "Support glisse: changer de support avant reprise."
+      ],
+      "tip": "Descends ensemble.",
+      "breathing": "Proposition: inspirer pendant descente, souffler pendant poussée, continuer à respirer sans blocage prolongé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Pompes au sol répétables avec tronc solidaire.",
+        "Pouvoir monter et redescendre chaque pied sans basculer le support.",
+        "Hauteur individuelle, amplitude et support réel à examiner; respiration proposée non explicitée dans ces deux extraits.",
+        "La consigne NASM épaules back/down n’est pas transformée en fixation scapulaire permanente."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Deux pieds bien posés.",
+      "sourceReference": "docs/exercise-reference/extension-pectorals.json",
+      "muscleEvidence": {
+        "documented": "Grand pectoral, triceps et deltoïde antérieur dans NASM.",
+        "inferred": "Stabilisation du tronc et contrôle scapulaire liés aux appuis. Aucune isolation upper chest ni pourcentage accepté."
+      },
+      "adaptations": {
+        "regressions": [
+          "Pompe au sol, ou mains sur support fixe."
+        ],
+        "progressions": [
+          "Augmenter progressivement élévation ou contrôle de descente, un facteur à la fois."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX50",
+      "version": 1,
+      "name": "Pompes avec prise modérément large",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [],
+      "installation": "poids du corps. Appuis sur avant-pieds, largeur confortable donnant une base stable. Jambes allongées sans forcer les genoux en arrière. Tronc et bassin avancent ensemble; abdominaux et fessiers actifs pour limiter affaissement lombaire. Nuque dans la continuité du tronc, regard vers la zone du sol entre et devant les mains. Contrôler leur mouvement contre la cage thoracique; ne pas les pincer et immobiliser pendant toute la poussée. Écarter les mains un peu au-delà de sa prise standard, sans atteindre une ouverture extrême; doigts avant ou légèrement dehors, paumes restant à plat.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "triceps",
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Haut: largeur relative aux épaules clairement visible de face.",
+          "postureCues": [
+            "Haut: largeur relative aux épaules clairement visible de face."
+          ],
+          "breathing": "Inspirer à la descente, souffler à la remontée, conformément au guide PureGym.",
+          "asset": "step-01.webp",
+          "alt": "Pompes avec prise modérément large : Haut: largeur relative aux épaules clairement visible de face."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Bas: trajectoire des coudes et symétrie visibles sans angle imposé.",
+          "postureCues": [
+            "Bas: trajectoire des coudes et symétrie visibles sans angle imposé."
+          ],
+          "breathing": "Inspirer à la descente, souffler à la remontée, conformément au guide PureGym.",
+          "asset": "step-02.webp",
+          "alt": "Pompes avec prise modérément large : Bas: trajectoire des coudes et symétrie visibles sans angle imposé."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Poser les genoux, décharger les mains puis se redresser.",
+          "postureCues": [
+            "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Poser les genoux, décharger les mains puis se redresser."
+          ],
+          "breathing": "Inspirer à la descente, souffler à la remontée, conformément au guide PureGym.",
+          "asset": "step-03.webp",
+          "alt": "Pompes avec prise modérément large : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Mains trop éloignées ou gêne: rapprocher et réduire amplitude.",
+        "Coudes partent au maximum latéralement: essayer une direction plus diagonale adaptée à soi.",
+        "Bassin s’affaisse: revenir au levier plus facile."
+      ],
+      "tip": "Descends sous contrôle.",
+      "breathing": "Inspirer à la descente, souffler à la remontée, conformément au guide PureGym.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Pompes standard maîtrisées.",
+        "Largeur permettant contrôle des poignets et épaules sans inconfort.",
+        "Une étude originale supplémentaire recoupe la limite musculaire, pas la largeur modérée. Deux procédures détaillées indépendantes correspondant exactement à ce réglage restent absentes.",
+        "Le conseil PureGym coudes directement latéraux et les promesses de supériorité musculaire ne sont pas repris.",
+        "Définition relative de largeur et contrôle scapulaire à vérifier humainement."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Écarte un peu les mains.",
+      "sourceReference": "docs/exercise-reference/extension-pectorals.json",
+      "muscleEvidence": {
+        "documented": "PureGym cite grand pectoral, deltoïde antérieur et triceps.",
+        "evidenceLimit": "Cogley observe plus d’EMG pectoral/triceps en prise étroite qu’en large sur une répétition; aucune croissance musculaire mesurée.",
+        "inferred": "Tronc et ceinture scapulaire stabilisent les appuis."
+      },
+      "adaptations": {
+        "regressions": [
+          "Prise standard; mains sur surface fixe élevée."
+        ],
+        "progressions": [
+          "Conserver largeur définie puis augmenter répétitions maîtrisées ou ralentir descente."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX51",
+      "version": 1,
+      "name": "Pompes archer avec deux mains au sol",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "advanced",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [],
+      "installation": "poids du corps. Pieds un peu écartés pour stabiliser le transfert, avant-pieds en appui. Jambes allongées sans forcer les genoux en arrière. Tronc et bassin avancent ensemble; abdominaux et fessiers actifs pour limiter affaissement lombaire. Nuque dans la continuité du tronc, regard vers la zone du sol entre et devant les mains. Contrôler leur mouvement contre la cage thoracique; ne pas les pincer et immobiliser pendant toute la poussée. Deux mains à même hauteur, écartées assez pour allonger le bras opposé; ajuster largeur progressivement, paumes sans glissement.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": true,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "triceps",
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Centre haut: deux mains et pieds, largeur lisible.",
+          "postureCues": [
+            "Centre haut: deux mains et pieds, largeur lisible."
+          ],
+          "breathing": "Proposition: inspirer pendant transfert-descente, souffler pendant retour central. Une respiration confortable prime sur un comptage imposé.",
+          "asset": "step-01.webp",
+          "alt": "Pompes archer avec deux mains au sol : Centre haut: deux mains et pieds, largeur lisible."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Bas décentré: coude chargé fléchi, autre bras allongé et main maintenue. Montrer les deux côtés sur mouvement continu.",
+          "postureCues": [
+            "Bas décentré: coude chargé fléchi, autre bras allongé et main maintenue. Montrer les deux côtés sur mouvement continu."
+          ],
+          "breathing": "Proposition: inspirer pendant transfert-descente, souffler pendant retour central. Une respiration confortable prime sur un comptage imposé.",
+          "asset": "step-02.webp",
+          "alt": "Pompes archer avec deux mains au sol : Bas décentré: coude chargé fléchi, autre bras allongé et main maintenue. Montrer les deux côtés sur mouvement continu."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Revenir au centre puis poser les genoux; ne pas quitter l’appui d’une main en restant décentré.",
+          "postureCues": [
+            "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Revenir au centre puis poser les genoux; ne pas quitter l’appui d’une main en restant décentré."
+          ],
+          "breathing": "Proposition: inspirer pendant transfert-descente, souffler pendant retour central. Une respiration confortable prime sur un comptage imposé.",
+          "asset": "step-03.webp",
+          "alt": "Pompes archer avec deux mains au sol : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Tête va seule vers main: déplacer poitrine/bassin ensemble.",
+        "Hanche se tourne: réduire transfert ou passer en inclinaison.",
+        "Bras assistant se décolle: rétablir les deux appuis.",
+        "Coude opposé forcé: garder une extension confortable."
+      ],
+      "tip": "Va vers une main.",
+      "breathing": "Proposition: inspirer pendant transfert-descente, souffler pendant retour central. Une respiration confortable prime sur un comptage imposé.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Pompes contrôlées avec profondeur répétable.",
+        "Savoir déplacer poitrine et bassin ensemble vers chaque main, sans rotation.",
+        "FAQ PureGym met l’accent pectoral côté bras tendu, contrairement à la mécanique décrite; pas de dominance EMG affirmée.",
+        "Niveau avancé Tempo proposé malgré classement intermédiaire du second guide.",
+        "Répartition réelle de charge, respiration et amplitude individuelles non établies."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Garde les deux mains.",
+      "sourceReference": "docs/exercise-reference/extension-pectorals.json",
+      "muscleEvidence": {
+        "documented": "Sources citent pectoraux, triceps et épaules.",
+        "inferred": "Le bras fléchi fournit davantage de poussée mécanique; l’autre reste assistant. Tronc résiste à la rotation; contribution musculaire de chaque côté non mesurée ici."
+      },
+      "adaptations": {
+        "regressions": [
+          "Déplacement latéral réduit; archer mains sur support fixe élevé."
+        ],
+        "progressions": [
+          "Réduire assistance progressivement sans perdre profondeur; transition vers une autre variante exige une nouvelle fiche."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX52",
+      "version": 1,
+      "name": "Pompes pliométriques sans claquement",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "advanced",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [],
+      "installation": "poids du corps sol ferme non glissant. Appuis sur avant-pieds, largeur confortable donnant une base stable. Jambes allongées sans forcer les genoux en arrière. Tronc et bassin avancent ensemble; abdominaux et fessiers actifs pour limiter affaissement lombaire. Nuque dans la continuité du tronc, regard vers la zone du sol entre et devant les mains. Contrôler leur mouvement contre la cage thoracique; ne pas les pincer et immobiliser pendant toute la poussée. Paumes entières en appui, doigts répartis; poignets et coudes orientés selon confort et contrôle plutôt qu’un angle obligatoire.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": true,
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "triceps",
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Bas: préparation de propulsion alignée.",
+          "postureCues": [
+            "Bas: préparation de propulsion alignée."
+          ],
+          "breathing": "Proposition: inspirer en préparation-descente et expiration brève pendant propulsion; reprendre le souffle en stabilisation. Ne pas donner de phrase longue pendant vol/réception.",
+          "asset": "step-01.webp",
+          "alt": "Pompes pliométriques sans claquement : Bas: préparation de propulsion alignée."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Vol: séparation nette mains-sol sans clap. Une vidéo continue doit obligatoirement montrer aussi la réception, que ces deux images ne montrent pas.",
+          "postureCues": [
+            "Vol: séparation nette mains-sol sans clap. Une vidéo continue doit obligatoirement montrer aussi la réception, que ces deux images ne montrent pas."
+          ],
+          "breathing": "Proposition: inspirer en préparation-descente et expiration brève pendant propulsion; reprendre le souffle en stabilisation. Ne pas donner de phrase longue pendant vol/réception.",
+          "asset": "step-02.webp",
+          "alt": "Pompes pliométriques sans claquement : Vol: séparation nette mains-sol sans clap. Une vidéo continue doit obligatoirement montrer aussi la réception, que ces deux images ne montrent pas."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Après une réception stable, poser les genoux. Ne pas viser une répétition supplémentaire si bruit, instabilité ou ligne corporelle se dégradent.",
+          "postureCues": [
+            "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Après une réception stable, poser les genoux. Ne pas viser une répétition supplémentaire si bruit, instabilité ou ligne corporelle se dégradent."
+          ],
+          "breathing": "Proposition: inspirer en préparation-descente et expiration brève pendant propulsion; reprendre le souffle en stabilisation. Ne pas donner de phrase longue pendant vol/réception.",
+          "asset": "step-03.webp",
+          "alt": "Pompes pliométriques sans claquement : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Réception raide/bruyante: arrêter, diminuer hauteur recherchée.",
+        "Une main part ou arrive avant l’autre: revenir à poussée rapide sans vol.",
+        "Hanches cassent: réduire difficulté et rétablir pompe contrôlée."
+      ],
+      "tip": "Pousse vite, souffle.",
+      "breathing": "Proposition: inspirer en préparation-descente et expiration brève pendant propulsion; reprendre le souffle en stabilisation. Ne pas donner de phrase longue pendant vol/réception.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Pompes au sol maîtrisées, capacité à accélérer sans perdre ligne corporelle.",
+        "Réception bilatérale contrôlée à faible hauteur; arrêt avant fatigue technique.",
+        "NASM et Lee Boyce recoupent maintenant vol sans clap et amortissement. Réception chiffrée, surface, contre-mouvement précis et cadence Tempo restent à examiner.",
+        "NSCA ancien décrit bras étendus à la réception; fiche privilégie absorption NASM mais garde divergence pour revue.",
+        "NASM contient une coquille de template barbell deadlift: ne pas traiter page comme infaillible.",
+        "Durée du vol, cadence, surface et volume exigent revue humaine."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Prépare ton appui.",
+      "sourceReference": "docs/exercise-reference/extension-pectorals.json",
+      "muscleEvidence": {
+        "documented": "NASM cite pectoraux, triceps, deltoïde antérieur et stabilisateurs du tronc.",
+        "inferred": "Demande de vitesse et absorption; aucun gain garanti de force, muscle ou performance sportive individuel."
+      },
+      "adaptations": {
+        "regressions": [
+          "Pompe avec montée rapide sans quitter le sol; répétitions isolées avec repos complet de contrôle."
+        ],
+        "progressions": [
+          "Enchaîner seulement après réception répétable; ne pas ajouter clap, boîte ou gilet sans autre validation."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX53",
+      "version": 1,
+      "name": "Pompes résistées avec bande plate au haut du dos",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "flat"
+          ]
+        }
+      ],
+      "installation": "poids du corps bande plate longue compatible avec usage. Appuis sur avant-pieds, largeur confortable donnant une base stable. Jambes allongées sans forcer les genoux en arrière. Tronc et bassin avancent ensemble; abdominaux et fessiers actifs pour limiter affaissement lombaire. Nuque dans la continuité du tronc, regard vers la zone du sol entre et devant les mains. Bande suit haut du dos sans imposer de pincer les omoplates; maintien sous paumes doit rester visible. Bande plate derrière haut du dos, loin du cou, extrémités maintenues dans les mains et sous paumes au sol. Vérifier symétrie et absence de glissement en essai léger.",
+      "equipmentKey": "band",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "triceps",
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Haut: bande entière, trajet dos et maintien sous chaque paume visibles.",
+          "postureCues": [
+            "Haut: bande entière, trajet dos et maintien sous chaque paume visibles."
+          ],
+          "breathing": "Proposition: inspirer à la descente, souffler pendant poussée, sans retenir le souffle pour vaincre une bande trop forte.",
+          "asset": "step-01.webp",
+          "alt": "Pompes résistées avec bande plate au haut du dos : Haut: bande entière, trajet dos et maintien sous chaque paume visibles."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Bas: même chemin sans déplacement vers nuque. Ajouter vue oblique arrière, paumes restant visibles, et séquence installation/retrait.",
+          "postureCues": [
+            "Bas: même chemin sans déplacement vers nuque. Ajouter vue oblique arrière, paumes restant visibles, et séquence installation/retrait."
+          ],
+          "breathing": "Proposition: inspirer à la descente, souffler pendant poussée, sans retenir le souffle pour vaincre une bande trop forte.",
+          "asset": "step-02.webp",
+          "alt": "Pompes résistées avec bande plate au haut du dos : Bas: même chemin sans déplacement vers nuque. Ajouter vue oblique arrière, paumes restant visibles, et séquence installation/retrait."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Poser genoux pour réduire charge, revenir avec tension réduite puis retirer bande contrôlée. Ne pas relâcher une extrémité en position haute tendue.",
+          "postureCues": [
+            "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Poser genoux pour réduire charge, revenir avec tension réduite puis retirer bande contrôlée. Ne pas relâcher une extrémité en position haute tendue."
+          ],
+          "breathing": "Proposition: inspirer à la descente, souffler pendant poussée, sans retenir le souffle pour vaincre une bande trop forte.",
+          "asset": "step-03.webp",
+          "alt": "Pompes résistées avec bande plate au haut du dos : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Bande glisse/roule: arrêter et revoir montage avec notice.",
+        "Résistance entraîne compensation: prendre bande plus faible ou enlever bande.",
+        "Mains pas symétriques: réinstaller avant reprise."
+      ],
+      "tip": "Descends avec contrôle.",
+      "breathing": "Proposition: inspirer à la descente, souffler pendant poussée, sans retenir le souffle pour vaincre une bande trop forte.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Pompe standard contrôlée.",
+        "Pouvoir installer et retirer bande sans la lâcher sous tension.",
+        "Vérifier usage autorisé et allongement maximal dans notice du modèle.",
+        "Deux descriptions recoupent ancrage et troisième explicite strip; aucun document seul ne valide le montage du modèle réel.",
+        "Notice fabricant bande plate et longueur utile à obtenir; aucun transfert au kit Decathlon tubes ref8975309.",
+        "Sac lesté de séance Welsh exclu de cette candidate."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "documentaryOnly": true,
+      "preparationCue": "Bande tenue sous les paumes.",
+      "sourceReference": "docs/exercise-reference/extension-pectorals.json",
+      "muscleEvidence": {
+        "documented": "Documents confirment ajout de résistance à la pompe; pas cartographie musculaire propre à bande plate.",
+        "inferred": "Grand pectoral, triceps et deltoïde antérieur par mécanique de poussée; tronc/contrôle scapulaire stabilisent. Aucun pourcentage supplémentaire attribué à bande."
+      },
+      "adaptations": {
+        "regressions": [
+          "Pompe sans bande; bande plus faible avec montage autorisé."
+        ],
+        "progressions": [
+          "Augmenter résistance uniquement si notice, tension et sortie restent compatibles."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX54",
+      "version": 1,
+      "name": "Développé haltère unilatéral au sol",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [
+        {
+          "kind": "dumbbells",
+          "count": 1
+        }
+      ],
+      "installation": "un haltère sol ou tapis fin. Pieds à plat, suffisamment écartés pour empêcher bascule. Fléchis à distance confortable, sans angle obligatoire. Bassin et haut du dos au sol, courbure lombaire confortable sans accentuer l’arche ni forcer dos entièrement plat. Tête posée, regard vers plafond, nuque relâchée. Haut du dos en appui; épaules ne basculent pas brusquement vers avant. Un haltère en prise pronation ou orientation confortable choisie; main libre au sol. Poignet au-dessus avant-bras, coude orienté en diagonale du tronc plutôt que plaqué ou écarté au maximum.",
+      "equipmentKey": "dumbbells",
+      "position": "floor",
+      "counting": "per_side",
+      "sides": 2,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "triceps",
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Haut: un seul haltère, main libre/pieds au sol, bassin stable.",
+          "postureCues": [
+            "Haut: un seul haltère, main libre/pieds au sol, bassin stable."
+          ],
+          "breathing": "Inspirer en abaissant; souffler pendant poussée selon Muscle & Fitness. Respirer régulièrement pendant installation/sortie.",
+          "asset": "step-01.webp",
+          "alt": "Développé haltère unilatéral au sol : Haut: un seul haltère, main libre/pieds au sol, bassin stable."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Bas: arrière bras au sol et avant-bras contrôlé. Vidéo entrée/sortie et vue face anti-rotation requises.",
+          "postureCues": [
+            "Bas: arrière bras au sol et avant-bras contrôlé. Vidéo entrée/sortie et vue face anti-rotation requises."
+          ],
+          "breathing": "Inspirer en abaissant; souffler pendant poussée selon Muscle & Fitness. Respirer régulièrement pendant installation/sortie.",
+          "asset": "step-02.webp",
+          "alt": "Développé haltère unilatéral au sol : Bas: arrière bras au sol et avant-bras contrôlé. Vidéo entrée/sortie et vue face anti-rotation requises."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Ramener charge près du corps avec assistance de main libre, tourner sur côté sous contrôle puis déposer. Tester avec charge légère; ne pas laisser tomber l’haltère loin du corps.",
+          "postureCues": [
+            "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Ramener charge près du corps avec assistance de main libre, tourner sur côté sous contrôle puis déposer. Tester avec charge légère; ne pas laisser tomber l’haltère loin du corps."
+          ],
+          "breathing": "Inspirer en abaissant; souffler pendant poussée selon Muscle & Fitness. Respirer régulièrement pendant installation/sortie.",
+          "asset": "step-03.webp",
+          "alt": "Développé haltère unilatéral au sol : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Tronc roule: diminuer charge et stabiliser pieds/main libre.",
+        "Bras rebondit au sol: ralentir descente.",
+        "Poignet plie: réaligner avec charge plus faible.",
+        "Sortie incontrôlée: réduire charge et revoir installation."
+      ],
+      "tip": "Abaisse doucement.",
+      "breathing": "Inspirer en abaissant; souffler pendant poussée selon Muscle & Fitness. Respirer régulièrement pendant installation/sortie.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Développé bilatéral au sol connu.",
+        "Installer haltère aidé des deux mains et le déposer sans bascule ni lâcher.",
+        "Dos aplati [P]rehab versus courbure confortable éditoriale: pas règle universelle.",
+        "SUBSTR8 préfère jambes tendues, M&F genoux fléchis; candidat retient genoux fléchis.",
+        "Orientation précise prise, mise en place réelle et carte musculaire restent à examiner humainement."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Pieds posés, bassin stable.",
+      "sourceReference": "docs/exercise-reference/extension-pectorals.json",
+      "muscleEvidence": {
+        "documented": "[P]rehab et M&F citent pectoraux, triceps, épaules et contrôle de stabilité.",
+        "inferred": "Anti-rotation du tronc; aucune division temporelle poitrine seulement au départ puis triceps seulement retenue."
+      },
+      "adaptations": {
+        "regressions": [
+          "Haltère plus léger; développé bilatéral au sol comme autre exercice."
+        ],
+        "progressions": [
+          "Ajouter charge contrôlée ou pause basse sans rebond; pieds restent posés dans cette variante."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX55",
+      "version": 1,
+      "name": "Écartés haltères au sol",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [
+        {
+          "kind": "dumbbells",
+          "count": 2
+        }
+      ],
+      "installation": "deux haltères légers sol ou tapis fin. Pieds à plat, suffisamment écartés pour empêcher bascule. Fléchis à distance confortable, sans angle obligatoire. Bassin et haut du dos au sol, courbure lombaire confortable sans accentuer l’arche ni forcer dos entièrement plat. Tête posée, regard vers plafond, nuque relâchée. Haut du dos en appui; épaules ne basculent pas brusquement vers avant. Deux haltères au-dessus poitrine, paumes face à face. Coudes légèrement fléchis et angle conservé; poids tenus sans casser les poignets.",
+      "equipmentKey": "dumbbells",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Haut: paumes face à face et coudes légèrement fléchis.",
+          "postureCues": [
+            "Haut: paumes face à face et coudes légèrement fléchis."
+          ],
+          "breathing": "Inspirer en ouvrant, souffler en refermant; recoupé PureGym sol et ACE banc sur le geste d’arc.",
+          "asset": "step-01.webp",
+          "alt": "Écartés haltères au sol : Haut: paumes face à face et coudes légèrement fléchis."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Ouvert bas: arcs et proximité du sol visibles sans écraser coude. Vidéo doit montrer angle du coude constant.",
+          "postureCues": [
+            "Ouvert bas: arcs et proximité du sol visibles sans écraser coude. Vidéo doit montrer angle du coude constant."
+          ],
+          "breathing": "Inspirer en ouvrant, souffler en refermant; recoupé PureGym sol et ACE banc sur le geste d’arc.",
+          "asset": "step-02.webp",
+          "alt": "Écartés haltères au sol : Ouvert bas: arcs et proximité du sol visibles sans écraser coude. Vidéo doit montrer angle du coude constant."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Au retour haut, fléchir davantage coudes pour rapprocher haltères du corps puis déposer sous contrôle; installation/sortie à tester légère et revue humaine nécessaire.",
+          "postureCues": [
+            "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Au retour haut, fléchir davantage coudes pour rapprocher haltères du corps puis déposer sous contrôle; installation/sortie à tester légère et revue humaine nécessaire."
+          ],
+          "breathing": "Inspirer en ouvrant, souffler en refermant; recoupé PureGym sol et ACE banc sur le geste d’arc.",
+          "asset": "step-03.webp",
+          "alt": "Écartés haltères au sol : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Coude se plie beaucoup: charge trop élevée pour garder arc, alléger.",
+        "Charges descendent brutalement: diminuer amplitude/charge.",
+        "Coude tape sol: arrêt anticipé contrôlé, sans chercher davantage d’étirement."
+      ],
+      "tip": "Ouvre doucement.",
+      "breathing": "Inspirer en ouvrant, souffler en refermant; recoupé PureGym sol et ACE banc sur le geste d’arc.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Savoir contrôler deux haltères au-dessus poitrine.",
+        "Maintenir légère flexion constante des coudes avec charge modeste.",
+        "Seconde procédure exacte au sol obtenue: Fit2Go. Installation/sortie avec haltères réels, respiration indépendante et rôles anatomiques secondaires restent à renforcer.",
+        "PureGym et Fit2Go convergent sur proximité du sol sans contact imposé. Le repère Poston ne justifie pas de poser une autre partie du bras ni de forcer une profondeur.",
+        "Allégations amélioration douleur, rééducation et réduction blessure non adoptées."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Garde un léger pli aux coudes.",
+      "sourceReference": "docs/exercise-reference/extension-pectorals.json",
+      "muscleEvidence": {
+        "documented": "PureGym nomme pectoraux, deltoïdes et triceps. ACE décrit adduction avec coude fléchi conservé.",
+        "inferred": "Grand pectoral moteur du rapprochement; triceps stabilisateur potentiel du coude plutôt que moteur d’extension dans cette exécution. Pas isolement pectoral mineur, intérieur/extérieur."
+      },
+      "adaptations": {
+        "regressions": [
+          "Amplitude d’ouverture réduite; charge plus légère; développé au sol comme autre geste."
+        ],
+        "progressions": [
+          "Élargir amplitude contrôlée dans limite du sol ou progresser charge par petites étapes, sans étirement forcé."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX56",
+      "version": 1,
+      "name": "Développé haltères serrés au sol",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "horizontal_push",
+      "equipmentRequirements": [
+        {
+          "kind": "dumbbells",
+          "count": 2
+        }
+      ],
+      "installation": "deux haltères compatibles avec contact stable sol ou tapis fin. Pieds à plat, suffisamment écartés pour empêcher bascule. Fléchis à distance confortable, sans angle obligatoire. Bassin et haut du dos au sol, courbure lombaire confortable sans accentuer l’arche ni forcer dos entièrement plat. Tête posée, regard vers plafond, nuque relâchée. Haut du dos en appui; épaules ne basculent pas brusquement vers avant. Prise neutre paumes face à face. Deux haltères en contact au-dessus poitrine, coudes proches du tronc sans compression forcée. Adapter contact à forme réelle, ne pas inventer appui stable pour poids ronds.",
+      "equipmentKey": "dumbbells",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "triceps",
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "pectorals"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Haut: deux haltères au contact, paumes face à face.",
+          "postureCues": [
+            "Haut: deux haltères au contact, paumes face à face."
+          ],
+          "breathing": "Inspirer à la descente, souffler pendant poussée selon FitCraft; pression entre poids ne doit pas faire bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Développé haltères serrés au sol : Haut: deux haltères au contact, paumes face à face."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Bas: contact conservé, coudes près tronc et sol visibles. Ajouter gros plan prise/contact puis vue oblique complète.",
+          "postureCues": [
+            "Bas: contact conservé, coudes près tronc et sol visibles. Ajouter gros plan prise/contact puis vue oblique complète."
+          ],
+          "breathing": "Inspirer à la descente, souffler pendant poussée selon FitCraft; pression entre poids ne doit pas faire bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Développé haltères serrés au sol : Bas: contact conservé, coudes près tronc et sol visibles. Ajouter gros plan prise/contact puis vue oblique complète."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Descendre vers position basse contrôlée, rapprocher charges du corps puis séparer et déposer sans tension forcée; procédure à revoir sur forme réelle des haltères.",
+          "postureCues": [
+            "Revenir avec la même trajectoire maîtrisée; le début de chaque répétition doit être identifiable. Descendre vers position basse contrôlée, rapprocher charges du corps puis séparer et déposer sans tension forcée; procédure à revoir sur forme réelle des haltères."
+          ],
+          "breathing": "Inspirer à la descente, souffler pendant poussée selon FitCraft; pression entre poids ne doit pas faire bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Développé haltères serrés au sol : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Charges se séparent: réduire charge/pression excessive.",
+        "Une charge tourne: égaliser pression et vérifier surfaces de contact.",
+        "Coudes tapent sol ou dos arque: ralentir et alléger."
+      ],
+      "tip": "Descends doucement.",
+      "breathing": "Inspirer à la descente, souffler pendant poussée selon FitCraft; pression entre poids ne doit pas faire bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Développé au sol maîtrisé.",
+        "Charges assez légères et forme permettant contact stable sans glissement ni doigts pincés.",
+        "Trainwell et FED Fitness ajoutent des procédures exactes au sol, sans auteur individuel identifié. Noyau contact/prise/limite sol renforcé; qualité de provenance, installation/sortie et matériel réel restent ouverts.",
+        "Niveau avancé FitCraft versus intermédiaire proposé: charge/contact contrôlé et prérequis priment.",
+        "Notice ou essai réel des haltères ronds et sortie reste requis; aucune preuve comparative directe de gains dans corpus."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Garde les haltères ensemble.",
+      "sourceReference": "docs/exercise-reference/extension-pectorals.json",
+      "muscleEvidence": {
+        "documented": "FitCraft et Xcelerate citent grand pectoral, triceps et deltoïde antérieur.",
+        "inferred": "Pression vers l’intérieur sollicite adduction isométrique; magnitude et avantage par rapport à développé standard non mesurés pour variante sol dans corpus.",
+        "rejected": "Régions inner/outer isolées et plus de tension donc automatiquement plus de croissance non établis."
+      },
+      "adaptations": {
+        "regressions": [
+          "Charges plus faibles; développé au sol habituel si contact des haltères incompatible."
+        ],
+        "progressions": [
+          "Augmenter charge seulement avec contact et sortie répétables; banc n’appartient pas à cette fiche."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX57",
+      "version": 1,
+      "name": "Planche latérale jambes tendues",
+      "category": "strength",
+      "mode": "timed",
+      "minimumLevel": "intermediate",
+      "movementPattern": "lateral_stability",
+      "equipmentRequirements": [],
+      "installation": "sol non glissant tapis facultatif. Allongé sur le côté droit, jambes allongées, genoux en extension confortable. Empiler le pied gauche sur le droit; bord externe du pied droit au sol. Poser le coude droit sous l’épaule, avant-bras au sol vers l’avant, main détendue. Placer la main gauche sur la hanche. Superposer hanches et épaules; tête dans le prolongement du thorax, regard vers l’avant, sans incliner le cou.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "per_side",
+      "sides": 2,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "obliques"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "shoulders",
+          "glutes"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Position 1: coude placé, jambes tendues et pieds empilés, bassin posé.",
+          "postureCues": [
+            "Position 1: coude placé, jambes tendues et pieds empilés, bassin posé."
+          ],
+          "breathing": "Expirer lors de la montée peut faciliter l’installation. Pendant le maintien, alterner inspirations et expirations sans bloquer le souffle; continuer à respirer pendant la descente. La synchronisation montée/expiration est un repère, pas une obligation physiologique.",
+          "asset": "step-01.webp",
+          "alt": "Planche latérale jambes tendues : Position 1: coude placé, jambes tendues et pieds empilés, bassin posé."
+        },
+        {
+          "id": 2,
+          "title": "Maintien",
+          "description": "Position 2: bassin et genoux décollés, ligne épaule-hanche-cheville, main libre sur hanche.",
+          "postureCues": [
+            "Position 2: bassin et genoux décollés, ligne épaule-hanche-cheville, main libre sur hanche."
+          ],
+          "breathing": "Expirer lors de la montée peut faciliter l’installation. Pendant le maintien, alterner inspirations et expirations sans bloquer le souffle; continuer à respirer pendant la descente. La synchronisation montée/expiration est un repère, pas une obligation physiologique.",
+          "asset": "step-02.webp",
+          "alt": "Planche latérale jambes tendues : Position 2: bassin et genoux décollés, ligne épaule-hanche-cheville, main libre sur hanche."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Abaisser le bassin de façon contrôlée vers le tapis en gardant l’appui du bras; les jambes restent rassemblées. Ce retour termine le maintien, il ne faut pas rebondir. Poser complètement la hanche, détendre le bras, puis changer de côté au sol. Recomposer les mêmes appuis à gauche.",
+          "postureCues": [
+            "Abaisser le bassin de façon contrôlée vers le tapis en gardant l’appui du bras; les jambes restent rassemblées. Ce retour termine le maintien, il ne faut pas rebondir. Poser complètement la hanche, détendre le bras, puis changer de côté au sol. Recomposer les mêmes appuis à gauche."
+          ],
+          "breathing": "Expirer lors de la montée peut faciliter l’installation. Pendant le maintien, alterner inspirations et expirations sans bloquer le souffle; continuer à respirer pendant la descente. La synchronisation montée/expiration est un repère, pas une obligation physiologique.",
+          "asset": "step-03.webp",
+          "alt": "Planche latérale jambes tendues : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Bassin qui descend: écourter et revenir à la version sur genoux.",
+        "Thorax qui roule: replacer la main sur la hanche et superposer les épaules.",
+        "Épaule écrasée vers l’oreille: repousser le tapis avec l’avant-bras sans hausser le cou.",
+        "Recherche d’une grande hauteur: revenir à une ligne confortable, sans plier le tronc."
+      ],
+      "tip": "Soulève le bassin et garde les hanches superposées.",
+      "breathing": "Expirer lors de la montée peut faciliter l’installation. Pendant le maintien, alterner inspirations et expirations sans bloquer le souffle; continuer à respirer pendant la descente. La synchronisation montée/expiration est un repère, pas une obligation physiologique.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Tenir la version genoux fléchis de chaque côté avec bassin et épaules superposés et respiration régulière.",
+        "Tolérer l’appui du coude et de l’épaule sans douleur; savoir redescendre le bassin avec contrôle.",
+        "Respiration détaillée et corrections sont une synthèse de coaching à relire, pas toutes formulées identiquement par les deux guides."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Coude sous l’épaule. Jambes allongées.",
+      "sourceReference": "docs/exercise-reference/extension-abs-stability.json",
+      "muscleEvidence": {
+        "documented": "Les guides décrivent un travail des obliques et de soutien des épaules/hanches (ABS-S-01/02).",
+        "inferred": "Résistance à la flexion latérale du tronc; stabilisation du bassin par les muscles de hanche et de l’épaule d’appui. Pas de part chiffrée par muscle."
+      },
+      "adaptations": {
+        "regressions": [
+          "Planche latérale genoux fléchis EX28.",
+          "Pieds décalés au sol pour élargir l’appui, variante intermédiaire à identifier comme telle."
+        ],
+        "progressions": [
+          "Augmenter progressivement le temps de posture propre.",
+          "La levée de jambe supérieure change la variante et demande un autre brief."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": true
+    },
+    {
+      "id": "EX58",
+      "version": 1,
+      "name": "Planche sur avant-bras à levier long",
+      "category": "strength",
+      "mode": "timed",
+      "minimumLevel": "advanced",
+      "movementPattern": "anti_extension",
+      "equipmentRequirements": [],
+      "installation": "sol non glissant tapis facultatif. À genoux, poser les avant-bras parallèles, paumes au sol, coudes écartés approximativement comme les épaules. Avancer les coudes par rapport à leur placement sous les épaules; retenir seulement un déplacement permettant le contrôle. Étendre une jambe puis l’autre, genoux confortablement tendus, orteils retournés en appui et pieds environ largeur du bassin. Tête alignée, regard vers le tapis; épaules donc derrière la verticale des coudes.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "rectus_abdominis"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "shoulders"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Position 1: genoux au sol, avant-bras déjà avancés, repère vertical épaules/coudes visible.",
+          "postureCues": [
+            "Position 1: genoux au sol, avant-bras déjà avancés, repère vertical épaules/coudes visible."
+          ],
+          "breathing": "Respirer calmement dès l’installation et tout au long du maintien. Si la tension empêche une inspiration normale, raccourcir le levier ou terminer. La respiration continue repose sur le coaching général NASM, pas sur une étude de la variante exacte.",
+          "asset": "step-01.webp",
+          "alt": "Planche sur avant-bras à levier long : Position 1: genoux au sol, avant-bras déjà avancés, repère vertical épaules/coudes visible."
+        },
+        {
+          "id": 2,
+          "title": "Maintien",
+          "description": "Position 2: jambes tendues, orteils en appui, même emplacement des coudes, bassin maîtrisé.",
+          "postureCues": [
+            "Position 2: jambes tendues, orteils en appui, même emplacement des coudes, bassin maîtrisé."
+          ],
+          "breathing": "Respirer calmement dès l’installation et tout au long du maintien. Si la tension empêche une inspiration normale, raccourcir le levier ou terminer. La respiration continue repose sur le coaching général NASM, pas sur une étude de la variante exacte.",
+          "asset": "step-02.webp",
+          "alt": "Planche sur avant-bras à levier long : Position 2: jambes tendues, orteils en appui, même emplacement des coudes, bassin maîtrisé."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Poser les genoux avant de relâcher le tronc; ramener les coudes vers une position ordinaire si une nouvelle installation est prévue. Reposer bassin puis thorax ou revenir à quatre pattes; ne pas laisser le ventre tomber depuis la suspension.",
+          "postureCues": [
+            "Poser les genoux avant de relâcher le tronc; ramener les coudes vers une position ordinaire si une nouvelle installation est prévue. Reposer bassin puis thorax ou revenir à quatre pattes; ne pas laisser le ventre tomber depuis la suspension."
+          ],
+          "breathing": "Respirer calmement dès l’installation et tout au long du maintien. Si la tension empêche une inspiration normale, raccourcir le levier ou terminer. La respiration continue repose sur le coaching général NASM, pas sur une étude de la variante exacte.",
+          "asset": "step-03.webp",
+          "alt": "Planche sur avant-bras à levier long : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Cambrure qui augmente: rapprocher les coudes ou poser les genoux.",
+        "Bassin très haut pour tenir: réduire le levier et recomposer une ligne contrôlée.",
+        "Coudes qui glissent: vérifier le tapis; interrompre plutôt que poursuivre en glissant.",
+        "Apnée et tension maximale: relâcher assez pour respirer ou terminer."
+      ],
+      "tip": "Garde le bassin dans l’axe et continue à respirer.",
+      "breathing": "Respirer calmement dès l’installation et tout au long du maintien. Si la tension empêche une inspiration normale, raccourcir le levier ou terminer. La respiration continue repose sur le coaching général NASM, pas sur une étude de la variante exacte.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Planche EX27 stable avec respiration continue et sortie aux genoux contrôlée.",
+        "Capacité à avancer légèrement les coudes sans creuser le dos ni provoquer de gêne à l’épaule.",
+        "Deux rédactions indépendantes décrivent le déplacement des coudes, mais le protocole NSCA ajoute des caractéristiques non imposées ici. Choix de bassin contrôlé et largeur confortable à relire.",
+        "Ne pas présenter comme RKC, LLPTP intégral ou exercice de sécurité supérieure démontrée."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Avance un peu les coudes.",
+      "sourceReference": "docs/exercise-reference/extension-abs-stability.json",
+      "muscleEvidence": {
+        "documented": "L’étude ABS-S-05 mesure une modification de l’activité abdominale avec le levier; les guides décrivent le maintien par les abdominaux.",
+        "inferred": "Travail contre l’extension du tronc, avec stabilisation des épaules et du bassin. L’EMG aigu ne prouve pas une meilleure croissance musculaire."
+      },
+      "adaptations": {
+        "regressions": [
+          "Planche ordinaire EX27.",
+          "Même placement légèrement avancé avec les genoux posés, en conservant l’axe tête-tronc-genoux."
+        ],
+        "progressions": [
+          "Avancer très progressivement les coudes lors d’une nouvelle installation.",
+          "Allonger le maintien seulement si le placement ne change pas."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": true
+    },
+    {
+      "id": "EX59",
+      "version": 1,
+      "name": "Planche sur avant-bras avec levée alternée d’une jambe",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "advanced",
+      "movementPattern": "anti_extension",
+      "equipmentRequirements": [],
+      "installation": "sol non glissant tapis facultatif. Installer la planche sur les avant-bras: coudes sous épaules, avant-bras parallèles, mains posées ou détendues. Étendre les jambes avec les orteils au sol, pieds environ largeur du bassin. Garder nuque alignée, épaules actives, bassin dans le prolongement du tronc; genoux décollés.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": true,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "rectus_abdominis"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "shoulders"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Position 1: planche avant-bras, deux pieds en appui.",
+          "postureCues": [
+            "Position 1: planche avant-bras, deux pieds en appui."
+          ],
+          "breathing": "Inspirer et expirer continuellement pendant les appuis et la suspension. Une expiration au décollage est un repère possible; ne pas bloquer la respiration pour maintenir le pied.",
+          "asset": "step-01.webp",
+          "alt": "Planche sur avant-bras avec levée alternée d’une jambe : Position 1: planche avant-bras, deux pieds en appui."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Position 2: un pied faiblement décollé, bassin et thorax orientés comme en position 1.",
+          "postureCues": [
+            "Position 2: un pied faiblement décollé, bassin et thorax orientés comme en position 1."
+          ],
+          "breathing": "Inspirer et expirer continuellement pendant les appuis et la suspension. Une expiration au décollage est un repère possible; ne pas bloquer la respiration pour maintenir le pied.",
+          "asset": "step-02.webp",
+          "alt": "Planche sur avant-bras avec levée alternée d’une jambe : Position 2: un pied faiblement décollé, bassin et thorax orientés comme en position 1."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Reposer les orteils droits au même emplacement avec contrôle. Retrouver les quatre appuis avant de lever la jambe gauche. Alterner sans accélérer. Reposer le pied en suspension puis les deux genoux. Revenir à quatre pattes avant de détendre le tronc.",
+          "postureCues": [
+            "Reposer les orteils droits au même emplacement avec contrôle. Retrouver les quatre appuis avant de lever la jambe gauche. Alterner sans accélérer. Reposer le pied en suspension puis les deux genoux. Revenir à quatre pattes avant de détendre le tronc."
+          ],
+          "breathing": "Inspirer et expirer continuellement pendant les appuis et la suspension. Une expiration au décollage est un repère possible; ne pas bloquer la respiration pour maintenir le pied.",
+          "asset": "step-03.webp",
+          "alt": "Planche sur avant-bras avec levée alternée d’une jambe : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Jambe trop haute, dos creusé: réduire la hauteur au simple décollage.",
+        "Bassin qui tourne: poser le pied, élargir légèrement les pieds ou revenir à EX27.",
+        "Bassin qui monte en tente: arrêter la série et réinstaller la planche.",
+        "Pied reposé brutalement: ralentir et rétablir complètement l’appui avant alternance."
+      ],
+      "tip": "Décolle légèrement un pied, sans tourner le bassin.",
+      "breathing": "Inspirer et expirer continuellement pendant les appuis et la suspension. Une expiration au décollage est un repère possible; ne pas bloquer la respiration pour maintenir le pied.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Planche avant-bras à deux pieds stable en respirant.",
+        "Pouvoir alléger un pied sans rotation visible du bassin avant de chercher à le lever.",
+        "Caliverse impose davantage de rétroversion/protraction et classe la variante facile; ces choix ne sont pas des exigences universelles.",
+        "Les muscles cités n’établissent pas une croissance abdominale supérieure à EX27."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Garde les deux avant-bras au sol.",
+      "sourceReference": "docs/exercise-reference/extension-abs-stability.json",
+      "muscleEvidence": {
+        "documented": "FitKit et Nemours demandent engagement abdominal et absence de cambrure/rotation; Caliverse mentionne abdominaux, fessiers et ischio-jambiers.",
+        "inferred": "Abdominaux stabilisateurs contre extension et rotation; fessiers et autres extenseurs de hanche soulèvent la jambe. Rôle quantitatif non mesuré dans ces guides."
+      },
+      "adaptations": {
+        "regressions": [
+          "Planche avant-bras à deux pieds EX27.",
+          "Transfert léger du poids sans lever le pied.",
+          "Bird dog EX30 pour travailler un contrôle différent sur genoux, sans prétendre que c’est le même geste."
+        ],
+        "progressions": [
+          "Suspendre un peu plus longtemps une jambe à posture égale.",
+          "Rapprocher modestement les pieds après maîtrise; ne pas cumuler immédiatement avec levier long."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX60",
+      "version": 1,
+      "name": "Planche haute avec touchers d’épaules alternés",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "anti_rotation",
+      "equipmentRequirements": [],
+      "installation": "sol non glissant tapis facultatif. Depuis quatre pattes, poser les paumes sous les épaules, doigts écartés orientés vers l’avant ou légèrement ouverts selon confort. Étendre les jambes et prendre appui sur les orteils, pieds assez écartés pour contrôler le bassin. Coudes tendus sans forcer leur verrouillage; tête dans l’axe, regard au tapis, thorax et bassin face au sol.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": true,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "rectus_abdominis",
+          "obliques"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "shoulders"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Position 1: deux paumes sous épaules, jambes allongées, pieds fixes.",
+          "postureCues": [
+            "Position 1: deux paumes sous épaules, jambes allongées, pieds fixes."
+          ],
+          "breathing": "Respirer continuellement. Expirer au toucher et inspirer au retour est une option de rythme, pas une phase obligatoire issue des deux guides. Si l’alternance oblige à bloquer le souffle, ralentir ou régresser.",
+          "asset": "step-01.webp",
+          "alt": "Planche haute avec touchers d’épaules alternés : Position 1: deux paumes sous épaules, jambes allongées, pieds fixes."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Position 2: une main à l’épaule opposée, trois appuis et bassin orienté au sol.",
+          "postureCues": [
+            "Position 2: une main à l’épaule opposée, trois appuis et bassin orienté au sol."
+          ],
+          "breathing": "Respirer continuellement. Expirer au toucher et inspirer au retour est une option de rythme, pas une phase obligatoire issue des deux guides. Si l’alternance oblige à bloquer le souffle, ralentir ou régresser.",
+          "asset": "step-02.webp",
+          "alt": "Planche haute avec touchers d’épaules alternés : Position 2: une main à l’épaule opposée, trois appuis et bassin orienté au sol."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Replacer complètement la paume droite sous son épaule, puis seulement décoller la gauche pour toucher l’épaule droite. Alterner avec un contact léger. Reposer les deux mains avant les genoux; revenir à quatre pattes et retirer progressivement la charge des poignets.",
+          "postureCues": [
+            "Replacer complètement la paume droite sous son épaule, puis seulement décoller la gauche pour toucher l’épaule droite. Alterner avec un contact léger. Reposer les deux mains avant les genoux; revenir à quatre pattes et retirer progressivement la charge des poignets."
+          ],
+          "breathing": "Respirer continuellement. Expirer au toucher et inspirer au retour est une option de rythme, pas une phase obligatoire issue des deux guides. Si l’alternance oblige à bloquer le souffle, ralentir ou régresser.",
+          "asset": "step-03.webp",
+          "alt": "Planche haute avec touchers d’épaules alternés : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Bassin qui oscille fortement: élargir les pieds et ralentir; si insuffisant, passer sur genoux.",
+        "Main remise loin devant: revenir sous l’épaule avant le toucher suivant.",
+        "Coude d’appui qui s’effondre: terminer et réduire la charge.",
+        "Toucher rapide en lançant le corps: lever la main lentement et effleurer l’épaule."
+      ],
+      "tip": "Touche doucement l’épaule opposée.",
+      "breathing": "Respirer continuellement. Expirer au toucher et inspirer au retour est une option de rythme, pas une phase obligatoire issue des deux guides. Si l’alternance oblige à bloquer le souffle, ralentir ou régresser.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Tolérer la planche sur mains sans douleur au poignet ni à l’épaule.",
+        "Pouvoir alléger une main en maintenant le bassin presque immobile; contrôler son retour au sol.",
+        "L’écartement des pieds adapté et les rythmes respiratoires sont des choix de coaching; aucun seuil universel de rotation admissible n’est établi ici."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Écarte assez les pieds pour rester stable.",
+      "sourceReference": "docs/exercise-reference/extension-abs-stability.json",
+      "muscleEvidence": {
+        "documented": "StrengthLog et Fitbod décrivent un travail de stabilité abdominale; Fitbod cite poitrine et épaules en soutien. Nemours demande l’absence de rotation.",
+        "inferred": "Anti-rotation du tronc avec stabilisation scapulaire et de hanche; triceps maintiennent le coude d’appui. Pas de pourcentage de recrutement."
+      },
+      "adaptations": {
+        "regressions": [
+          "Touchers avec genoux au sol, corps aligné tête-tronc-genoux.",
+          "Planche haute à deux mains, ou simple allègement d’une main sans toucher."
+        ],
+        "progressions": [
+          "Rapprocher progressivement les pieds.",
+          "Prolonger brièvement la suspension de la main à stabilité égale."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX61",
+      "version": 1,
+      "name": "Planche montée-descente sur avant-bras et mains",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "advanced",
+      "movementPattern": "anti_extension",
+      "equipmentRequirements": [],
+      "installation": "sol non glissant tapis facultatif. Installer une planche sur avant-bras: coudes sous épaules, avant-bras au sol, paumes prêtes à être posées. Étendre jambes et appuyer les orteils; pieds assez écartés pour limiter le roulis. Garder tête et bassin dans le prolongement du tronc, regard vers le tapis.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": true,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "rectus_abdominis"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "shoulders"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Position 1: deux avant-bras au sol et jambes tendues.",
+          "postureCues": [
+            "Position 1: deux avant-bras au sol et jambes tendues."
+          ],
+          "breathing": "Respirer régulièrement sur l’ensemble du cycle. On peut expirer pendant la poussée pour remonter puis inspirer à la descente, sans imposer une longue apnée lorsque les appuis changent.",
+          "asset": "step-01.webp",
+          "alt": "Planche montée-descente sur avant-bras et mains : Position 1: deux avant-bras au sol et jambes tendues."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Position 2: deux paumes sous épaules et bras tendus, pieds inchangés.",
+          "postureCues": [
+            "Position 2: deux paumes sous épaules et bras tendus, pieds inchangés."
+          ],
+          "breathing": "Respirer régulièrement sur l’ensemble du cycle. On peut expirer pendant la poussée pour remonter puis inspirer à la descente, sans imposer une longue apnée lorsque les appuis changent.",
+          "asset": "step-02.webp",
+          "alt": "Planche montée-descente sur avant-bras et mains : Position 2: deux paumes sous épaules et bras tendus, pieds inchangés."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Poser l’avant-bras droit au sol, puis le gauche, un à la fois. Retrouver la planche basse. Au cycle suivant, commencer de l’autre bras pour répartir les transitions. Finir avec deux mains ou deux avant-bras solidement posés; placer les genoux au sol avant de relâcher le tronc.",
+          "postureCues": [
+            "Poser l’avant-bras droit au sol, puis le gauche, un à la fois. Retrouver la planche basse. Au cycle suivant, commencer de l’autre bras pour répartir les transitions. Finir avec deux mains ou deux avant-bras solidement posés; placer les genoux au sol avant de relâcher le tronc."
+          ],
+          "breathing": "Respirer régulièrement sur l’ensemble du cycle. On peut expirer pendant la poussée pour remonter puis inspirer à la descente, sans imposer une longue apnée lorsque les appuis changent.",
+          "asset": "step-03.webp",
+          "alt": "Planche montée-descente sur avant-bras et mains : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Bassin qui roule à chaque appui: élargir les pieds, ralentir ou revenir sur genoux.",
+        "Deux appuis déplacés simultanément: poser chaque paume/avant-bras avant de déplacer l’autre.",
+        "Paume trop en avant: replacer sous l’épaule au sommet.",
+        "Ajout spontané d’une pompe ou coude qui frappe: séparer le geste et descendre avec contrôle."
+      ],
+      "tip": "Reviens sur un avant-bras, puis l’autre.",
+      "breathing": "Respirer régulièrement sur l’ensemble du cycle. On peut expirer pendant la poussée pour remonter puis inspirer à la descente, sans imposer une longue apnée lorsque les appuis changent.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Tenir planche avant-bras et planche haute en respirant et sans gêne aux poignets/épaules.",
+        "Réussir la transition sur genoux avec un appui posé avant de déplacer l’autre.",
+        "Les positions initiales ACE et PureGym sont inversées mais décrivent le même cycle. Choix de départ bas éditorial.",
+        "PureGym UK Plank to Press Ups ajoute une pompe: cette version différente n’est pas une corroboration exacte comptée ici."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Pose une main, puis l’autre, et monte en planche haute.",
+      "sourceReference": "docs/exercise-reference/extension-abs-stability.json",
+      "muscleEvidence": {
+        "documented": "ACE/PureGym décrivent un exercice de tronc avec tension des cuisses et fessiers; les guides insistent sur stabilité des hanches et appuis.",
+        "inferred": "Abdominaux contre extension et rotation; triceps participent à la poussée, épaules et muscles de la ceinture scapulaire assurent le soutien. Ne pas présenter comme isolation abdominale."
+      },
+      "adaptations": {
+        "regressions": [
+          "Même transition sur genoux, tronc et cuisses dans le même axe.",
+          "Maintiens séparés haut et bas, avec repos entre les installations."
+        ],
+        "progressions": [
+          "Réduire progressivement la largeur des pieds.",
+          "Augmenter les cycles contrôlés avant de chercher une vitesse supérieure; pas d’accessoire instable dans cette fiche."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX62",
+      "version": 1,
+      "name": "Hollow hold jambes tendues et bras au-dessus de la tête",
+      "category": "strength",
+      "mode": "timed",
+      "minimumLevel": "advanced",
+      "movementPattern": "anti_extension",
+      "equipmentRequirements": [],
+      "installation": "sol non glissant tapis facultatif. Sur le dos, commencer genoux fléchis, pieds au sol et bras vers les cuisses. Expirer tranquillement pour réduire l’espace sous le bas du dos par une rétroversion contrôlée. Décoller légèrement tête et omoplates en gardant la nuque dans le prolongement du haut du dos. Allonger ensuite les jambes dans l’air, genoux en extension confortable; les garder assez haut pour conserver le contact lombaire. Allonger les bras au-dessus de la tête près des oreilles, sans accroître la cambrure.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "rectus_abdominis"
+        ],
+        "secondary": [
+          "hip_flexors"
+        ],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Position 1: installation groupée, contact lombaire et omoplates légèrement décollées.",
+          "postureCues": [
+            "Position 1: installation groupée, contact lombaire et omoplates légèrement décollées."
+          ],
+          "breathing": "Après l’installation sur une expiration, continuer des inspirations et expirations régulières. Le maintien ne consiste pas à vider les poumons puis retenir le souffle. Si chaque inspiration soulève le bas du dos, raccourcir les leviers ou terminer.",
+          "asset": "step-01.webp",
+          "alt": "Hollow hold jambes tendues et bras au-dessus de la tête : Position 1: installation groupée, contact lombaire et omoplates légèrement décollées."
+        },
+        {
+          "id": 2,
+          "title": "Maintien",
+          "description": "Position 2: jambes tendues en suspension et bras près des oreilles, même contact lombaire.",
+          "postureCues": [
+            "Position 2: jambes tendues en suspension et bras près des oreilles, même contact lombaire."
+          ],
+          "breathing": "Après l’installation sur une expiration, continuer des inspirations et expirations régulières. Le maintien ne consiste pas à vider les poumons puis retenir le souffle. Si chaque inspiration soulève le bas du dos, raccourcir les leviers ou terminer.",
+          "asset": "step-02.webp",
+          "alt": "Hollow hold jambes tendues et bras au-dessus de la tête : Position 2: jambes tendues en suspension et bras près des oreilles, même contact lombaire."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Ramener d’abord les bras vers les cuisses si nécessaire et fléchir les genoux vers le tronc. Poser ensuite les pieds, puis les omoplates et la tête avec contrôle. Revenir sur le dos en relâchant progressivement le ventre. Rouler sur le côté pour se relever si cela est plus confortable; ne pas jeter les jambes au sol.",
+          "postureCues": [
+            "Ramener d’abord les bras vers les cuisses si nécessaire et fléchir les genoux vers le tronc. Poser ensuite les pieds, puis les omoplates et la tête avec contrôle. Revenir sur le dos en relâchant progressivement le ventre. Rouler sur le côté pour se relever si cela est plus confortable; ne pas jeter les jambes au sol."
+          ],
+          "breathing": "Après l’installation sur une expiration, continuer des inspirations et expirations régulières. Le maintien ne consiste pas à vider les poumons puis retenir le souffle. Si chaque inspiration soulève le bas du dos, raccourcir les leviers ou terminer.",
+          "asset": "step-03.webp",
+          "alt": "Hollow hold jambes tendues et bras au-dessus de la tête : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Espace qui apparaît sous les lombaires: remonter les jambes, ramener les bras ou fléchir les genoux.",
+        "Tête projetée vers l’avant: réduire la hauteur du haut du corps, arrêter si gêne cervicale.",
+        "Cambrure quand les bras montent: raccourcir leur levier au lieu de forcer l’amplitude de l’épaule.",
+        "Balancement: revenir à un maintien immobile; ce n’est pas un hollow rock."
+      ],
+      "tip": "Allonge les jambes seulement aussi bas que tu peux les contrôler.",
+      "breathing": "Après l’installation sur une expiration, continuer des inspirations et expirations régulières. Le maintien ne consiste pas à vider les poumons puis retenir le souffle. Si chaque inspiration soulève le bas du dos, raccourcir les leviers ou terminer.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Hollow groupé EX35 avec contact lombaire maintenu et respiration régulière.",
+        "Pouvoir allonger les jambes à une hauteur adaptée puis lever les bras sans décoller le bas du dos.",
+        "Tolérer les bras au-dessus de la tête et le maintien de la tête sans douleur cervicale.",
+        "BarBend juge les jambes trop hautes comme une erreur de la forme complète; ici elles sont une adaptation de charge, explicitement nommée transition si les bras sont raccourcis.",
+        "La hauteur adaptée et les étapes de sortie sont une synthèse de coaching; aucune démonstration humaine ou média produit n’est validé."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Garde le bas du dos au tapis.",
+      "sourceReference": "docs/exercise-reference/extension-abs-stability.json",
+      "muscleEvidence": {
+        "documented": "Le manuel CrossFit et la coach BarBend décrivent le contact lombaire et le contrôle abdominal de la position.",
+        "inferred": "Abdominaux maintiennent la forme du tronc contre l’extension; fléchisseurs de hanche soutiennent les jambes en suspension, épaules maintiennent les bras. Pas d’isolation du « bas des abdos » ni de proportion de travail démontrée."
+      },
+      "adaptations": {
+        "regressions": [
+          "Hollow groupé EX35.",
+          "Jambes tendues plus hautes et bras vers les cuisses: variante de transition explicitement distincte de la version complète.",
+          "Allonger une seule jambe pour tester le maintien du contact, sans l’appeler version complète."
+        ],
+        "progressions": [
+          "Abaisser très progressivement les jambes sans perdre l’appui lombaire.",
+          "Augmenter la durée de posture maîtrisée; ne pas cumuler immédiatement avec balancement."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": true
+    },
+    {
+      "id": "EX63",
+      "version": 1,
+      "name": "Crunch bicyclette alterné",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "trunk_rotation",
+      "equipmentRequirements": [],
+      "installation": "Sol stable Tapis de confort facultatif. Pieds décollés une fois installé ; extension jambe libre ajustée, pas hauteur imposée. Fléchis au départ, un genou vient vers tronc tandis autre s’allonge. Reste soutenu, ne balance pas violemment droite/gauche. Bas du dos sans cambrure qui augmente ; haut tronc s’enroule puis tourne. Accompagne sternum, pas menton tiré poitrine. Se décollent avec crunch, pas épaules aux oreilles. Doigts derrière oreilles ou tête soutenue légèrement ; coudes ouverts sans traction. Sacrum et bas du dos soutenus, pieds non au sol pendant reps.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": true,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "rectus_abdominis",
+          "obliques"
+        ],
+        "secondary": [
+          "hip_flexors"
+        ],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Épaule gauche vers genou droit, jambe gauche allongée dans amplitude contrôlée.",
+          "postureCues": [
+            "Épaule gauche vers genou droit, jambe gauche allongée dans amplitude contrôlée."
+          ],
+          "breathing": "Respiration continue confirmée ACE. Expirer sur chaque enroulement/rotation et inspirer transition peut guider le rythme ; ne pas imposer si cadence crée apnée.",
+          "asset": "step-01.webp",
+          "alt": "Crunch bicyclette alterné : Épaule gauche vers genou droit, jambe gauche allongée dans amplitude contrôlée."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "État symétrique : épaule droite/genou gauche, jambe droite allongée.",
+          "postureCues": [
+            "État symétrique : épaule droite/genou gauche, jambe droite allongée."
+          ],
+          "breathing": "Respiration continue confirmée ACE. Expirer sur chaque enroulement/rotation et inspirer transition peut guider le rythme ; ne pas imposer si cadence crée apnée.",
+          "asset": "step-02.webp",
+          "alt": "Crunch bicyclette alterné : État symétrique : épaule droite/genou gauche, jambe droite allongée."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Revenir vers milieu, inverser jambes et rotation lentement. Revenir milieu, replier les deux genoux, poser pieds puis tête/épaules sans chute.",
+          "postureCues": [
+            "Revenir vers milieu, inverser jambes et rotation lentement. Revenir milieu, replier les deux genoux, poser pieds puis tête/épaules sans chute."
+          ],
+          "breathing": "Respiration continue confirmée ACE. Expirer sur chaque enroulement/rotation et inspirer transition peut guider le rythme ; ne pas imposer si cadence crée apnée.",
+          "asset": "step-03.webp",
+          "alt": "Crunch bicyclette alterné : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Traction tête : alléger mains et raccourcir crunch.",
+        "Bas du dos se creuse : garder jambe allongée plus haute ou genou plus fléchi.",
+        "Coude seul bouge : tourner haut buste, ralentir."
+      ],
+      "tip": "Tourne une épaule vers le genou opposé.",
+      "breathing": "Respiration continue confirmée ACE. Expirer sur chaque enroulement/rotation et inspirer transition peut guider le rythme ; ne pas imposer si cadence crée apnée.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Faire un crunch court sans tirer sur la tête.",
+        "Alterner flexion/extension jambes en gardant bassin contrôlé.",
+        "Maintenir respiration pendant coordination croisée.",
+        "Niveau intermediate proposé malgré beginner chez PureGym.",
+        "Détails contacts/nuque et scripts restent synthèse à faire relire."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Soutiens légèrement la tête.",
+      "sourceReference": "docs/exercise-reference/extension-abs-dynamic.json",
+      "muscleEvidence": {
+        "documented": [
+          "Grand droit et obliques selon PureGym/ACE ; recrutement qualitatif."
+        ],
+        "inferred": [
+          "Fléchisseurs hanche déplacent genoux, quadriceps maintient extension ; pas isolation abdos."
+        ],
+        "notEstablished": [
+          "Pas de priorité universelle upper/lower abs ou classement de rendement."
+        ]
+      },
+      "adaptations": {
+        "regressions": [
+          "Crunch croisé pieds posés, amplitude courte, ou dead bug pour contrôle jambes, variante distincte."
+        ],
+        "progressions": [
+          "Allonger progressivement jambe libre si contrôle identique, ralentir transitions ; pas vitesse comme premier levier."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX64",
+      "version": 1,
+      "name": "Relevé de jambes allongé, deux jambes tendues",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "hip_flexion",
+      "equipmentRequirements": [],
+      "installation": "Sol stable Tapis facultatif. Deux jambes ensemble, pieds relâchés ou position confortable. Allongés sans verrouillage forcé ; flexion si nécessaire devient régression. Sacrum posé, pas d’enroulement volontaire bassin en haut. Bas dos soutenu dans position confortable, pas écrasement forcé ; haut dos posé. Posée, nuque détendue. Au sol, bras ne poussent pas brutalement pour donner élan. Au côté, paumes posées pour soutien léger. Dos, tête et bassin au tapis ; jambes décollées pendant cycle.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "rectus_abdominis"
+        ],
+        "secondary": [
+          "hip_flexors"
+        ],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Jambes basses mais assez hautes pour dos maîtrisé, genoux allongés.",
+          "postureCues": [
+            "Jambes basses mais assez hautes pour dos maîtrisé, genoux allongés."
+          ],
+          "breathing": "Expirer montée et inspirer descente peut guider le rythme (Gravitus) ; garder respiration libre si besoin. Pas protocole respiratoire validé dans étude.",
+          "asset": "step-01.webp",
+          "alt": "Relevé de jambes allongé, deux jambes tendues : Jambes basses mais assez hautes pour dos maîtrisé, genoux allongés."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Jambes relevées, sacrum toujours posé, tête posée.",
+          "postureCues": [
+            "Jambes relevées, sacrum toujours posé, tête posée."
+          ],
+          "breathing": "Expirer montée et inspirer descente peut guider le rythme (Gravitus) ; garder respiration libre si besoin. Pas protocole respiratoire validé dans étude.",
+          "asset": "step-02.webp",
+          "alt": "Relevé de jambes allongé, deux jambes tendues : Jambes relevées, sacrum toujours posé, tête posée."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Descendre lentement et arrêter plus haut dès que dos se creuse ; repartir sans rebond. Replier genoux puis poser pieds au sol.",
+          "postureCues": [
+            "Descendre lentement et arrêter plus haut dès que dos se creuse ; repartir sans rebond. Replier genoux puis poser pieds au sol."
+          ],
+          "breathing": "Expirer montée et inspirer descente peut guider le rythme (Gravitus) ; garder respiration libre si besoin. Pas protocole respiratoire validé dans étude.",
+          "asset": "step-03.webp",
+          "alt": "Relevé de jambes allongé, deux jambes tendues : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Jambes lâchées : réduire descente et ralentir.",
+        "Bassin s’enroule au sommet : limiter hauteur pour rester variante.",
+        "Creux lombaire augmente : flexion genoux ou une jambe, pas obligation pieds près sol."
+      ],
+      "tip": "Lève les deux jambes doucement.",
+      "breathing": "Expirer montée et inspirer descente peut guider le rythme (Gravitus) ; garder respiration libre si besoin. Pas protocole respiratoire validé dans étude.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Abaisser puis relever deux jambes avec genoux fléchis sans cambrure accrue.",
+        "Arrêter descente volontairement avant perte contrôle, tête posée.",
+        "Rôle précis de chaque muscle non mesuré exhaustivement.",
+        "Amplitude personnelle et capacité à distinguer contrôle bassin restent revue humaine."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Allonge-toi et garde le bassin posé.",
+      "sourceReference": "docs/exercise-reference/extension-abs-dynamic.json",
+      "muscleEvidence": {
+        "documented": [
+          "StrengthLog : abdos et fléchisseurs hanche associés. Étude mesure grand droit et droit fémoral dans protocole bilatéral."
+        ],
+        "inferred": [
+          "Iliopsoas produit flexion hanche, abdos résistent à bascule pelvis/extension ; quadriceps maintient genou allongé."
+        ],
+        "notEstablished": [
+          "Pas exercice isolant abdos inférieurs. Étude de douze femmes ne fixe hiérarchie ni gains chez tout utilisateur."
+        ]
+      },
+      "adaptations": {
+        "regressions": [
+          "Genoux fléchis, amplitude réduite ; version une jambe avec autre pied posé."
+        ],
+        "progressions": [
+          "Abaisser un peu plus uniquement si contrôle conservé, puis tempo plus lent ; aucune charge entre pieds proposée."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX65",
+      "version": 1,
+      "name": "Planche latérale avec relevés de bassin, jambes tendues",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "lateral_stability",
+      "equipmentRequirements": [],
+      "installation": "Sol stable Tapis de confort facultatif. Empilés pour base ; décalés peut élargir appui et constitue variante explicite. Jambes allongées sans verrouillage forcé. Superposé, hanches sans rotation vers sol/plafond. Alignement latéral tête-tronc-jambes au sommet. Dans prolongement, regard devant. Épaule d’appui active, éloignée oreille sans crispation. Avant-bras au sol, coude sous épaule ; main libre hanche ou poitrine. Avant-bras et bord pied inférieur stables ; bassin suspendu pendant reps.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "per_side",
+      "sides": 2,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "obliques"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "shoulders",
+          "glutes"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Bassin légèrement bas suspendu, mêmes appuis avant-bras/pied.",
+          "postureCues": [
+            "Bassin légèrement bas suspendu, mêmes appuis avant-bras/pied."
+          ],
+          "breathing": "Respiration lente et continue selon Spotebi/BODi ; expirer remontée est proposition éditoriale, pas impératif.",
+          "asset": "step-01.webp",
+          "alt": "Planche latérale avec relevés de bassin, jambes tendues : Bassin légèrement bas suspendu, mêmes appuis avant-bras/pied."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Bassin remonté en ligne tête-chevilles, épaule stable.",
+          "postureCues": [
+            "Bassin remonté en ligne tête-chevilles, épaule stable."
+          ],
+          "breathing": "Respiration lente et continue selon Spotebi/BODi ; expirer remontée est proposition éditoriale, pas impératif.",
+          "asset": "step-02.webp",
+          "alt": "Planche latérale avec relevés de bassin, jambes tendues : Bassin remonté en ligne tête-chevilles, épaule stable."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Redescendre dans faible amplitude sans toucher sol pour base ; pas chute. Finir bassin posé doucement, plier genoux et quitter appui avant de changer côté.",
+          "postureCues": [
+            "Redescendre dans faible amplitude sans toucher sol pour base ; pas chute. Finir bassin posé doucement, plier genoux et quitter appui avant de changer côté."
+          ],
+          "breathing": "Respiration lente et continue selon Spotebi/BODi ; expirer remontée est proposition éditoriale, pas impératif.",
+          "asset": "step-03.webp",
+          "alt": "Planche latérale avec relevés de bassin, jambes tendues : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Épaule s’effondre : reposer bassin et reprendre appui moins difficile.",
+        "Poitrine tourne : réduire course et superposer épaules.",
+        "Bassin part derrière : revenir ligne latérale en haut."
+      ],
+      "tip": "Remonte le bassin en gardant le corps de côté.",
+      "breathing": "Respiration lente et continue selon Spotebi/BODi ; expirer remontée est proposition éditoriale, pas impératif.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Tenir planche latérale jambes allongées avec épaule stable et respiration.",
+        "Faire petite descente/remontée sans tourner poitrine ni glisser pieds.",
+        "Deuxième guide exact pieds empilés sans charge à renforcer ; deux guides indépendants exacts sur mouvement jambes allongées mais placement pieds diffère.",
+        "Muscles précis appui épaule et amplitude restent inférences."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Place le coude sous l’épaule.",
+      "sourceReference": "docs/exercise-reference/extension-abs-dynamic.json",
+      "muscleEvidence": {
+        "documented": [
+          "Obliques et abdos selon Spotebi/StrengthLog. BODi variante chargée cite fessiers et stabilisateurs scapulaires."
+        ],
+        "inferred": [
+          "Muscles latéraux tronc et hanche inférieure contrôlent descente ; dentelé/coiffe participent appui, classement individuel non mesuré."
+        ],
+        "notEstablished": [
+          "Pas promesse taille affinée ni isolation obliques."
+        ]
+      },
+      "adaptations": {
+        "regressions": [
+          "Planche latérale statique ; genoux fléchis au sol version dynamique courte.",
+          "Pieds décalés pour base plus large, montrer distinctement."
+        ],
+        "progressions": [
+          "Course un peu plus grande sans contact sol, tempo ralenti ; pas haltère dans base."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX66",
+      "version": 1,
+      "name": "V-up, montée simultanée du tronc et des jambes",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "advanced",
+      "movementPattern": "trunk_flexion",
+      "equipmentRequirements": [],
+      "installation": "Sol stable Tapis de confort facultatif. Jambes rapprochées, talons posés pour installation puis décollés. Allongés sans verrouillage forcé, flexion volontaire = tuck-up régression. Appui bassin au sommet, pas balancement sur sacrum à vitesse. S’enroule activement dans montée ; ne reste pas rigide comme plank. Suit buste sans coup de menton. Se décollent avec tronc ; éviter haussement forcé épaules. Allongés derrière tête au départ selon mobilité, reviennent vers jambes. Départ dos et talons au tapis ; sommet équilibre bassin, pas mains en appui.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "rectus_abdominis"
+        ],
+        "secondary": [
+          "hip_flexors"
+        ],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Allongé bras overhead et jambes longues, contacts au sol base reset.",
+          "postureCues": [
+            "Allongé bras overhead et jambes longues, contacts au sol base reset."
+          ],
+          "breathing": "Expirer montée, inspirer retour est consigne pédagogique adaptée ; sources exactes ne fixent pas un cycle unique. Continuer à respirer pendant brève pause.",
+          "asset": "step-01.webp",
+          "alt": "V-up, montée simultanée du tronc et des jambes : Allongé bras overhead et jambes longues, contacts au sol base reset."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "V, tronc et deux jambes levés simultanément, mains vers pieds.",
+          "postureCues": [
+            "V, tronc et deux jambes levés simultanément, mains vers pieds."
+          ],
+          "breathing": "Expirer montée, inspirer retour est consigne pédagogique adaptée ; sources exactes ne fixent pas un cycle unique. Continuer à respirer pendant brève pause.",
+          "asset": "step-02.webp",
+          "alt": "V-up, montée simultanée du tronc et des jambes : V, tronc et deux jambes levés simultanément, mains vers pieds."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Redescendre ensemble, sans claquer dos/talons. Base pédagogique permet reset doux au sol entre reps. Reposer tronc, plier genoux et poser pieds, relâcher.",
+          "postureCues": [
+            "Redescendre ensemble, sans claquer dos/talons. Base pédagogique permet reset doux au sol entre reps. Reposer tronc, plier genoux et poser pieds, relâcher."
+          ],
+          "breathing": "Expirer montée, inspirer retour est consigne pédagogique adaptée ; sources exactes ne fixent pas un cycle unique. Continuer à respirer pendant brève pause.",
+          "asset": "step-03.webp",
+          "alt": "V-up, montée simultanée du tronc et des jambes : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Élan bras ou tête : revenir tuck-up et ralentir.",
+        "Buste puis jambes décalés : pratiquer simultanéité à amplitude réduite.",
+        "Retour en chute : moins de hauteur, reset contrôlé."
+      ],
+      "tip": "Monte le tronc et les jambes ensemble.",
+      "breathing": "Expirer montée, inspirer retour est consigne pédagogique adaptée ; sources exactes ne fixent pas un cycle unique. Continuer à respirer pendant brève pause.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Faire relevé jambes et enroulement tronc séparés sans élan ni douleur.",
+        "Réussir tuck-up contrôlé, équilibre haut et descente lente.",
+        "Pouvoir lever bras overhead et jambes sans chercher contact au prix du cou.",
+        "Niveau advanced éditorial ; readiness observables non test certifiant.",
+        "Deux guides ne prouvent pas bénéfice clinique individuel."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Allonge les jambes et les bras.",
+      "sourceReference": "docs/exercise-reference/extension-abs-dynamic.json",
+      "muscleEvidence": {
+        "documented": [
+          "Catalyst : abdos et fléchisseurs hanche, force/endurance."
+        ],
+        "inferred": [
+          "Grand droit contribue flexion tronc ; iliopsoas/droit fémoral flexion hanche ; obliques contrôle bilatéral."
+        ],
+        "notEstablished": [
+          "Aucune isolation upper/lower abs, pas « abdos tirent jambes » exclusif."
+        ]
+      },
+      "adaptations": {
+        "regressions": [
+          "Tuck-up genoux fléchis ; crunch et leg raise adaptés séparément."
+        ],
+        "progressions": [
+          "Pause sommet si équilibré puis descente plus lente ; talons suspendus seulement après contrôle."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX67",
+      "version": 1,
+      "name": "Rotation russe sans charge, talons posés",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "trunk_rotation",
+      "equipmentRequirements": [],
+      "installation": "Sol stable Tapis facultatif. Talons au sol pour variante documentée ; avant-pieds peuvent rester posés ou relevés confortablement. Fléchis, orientation stable sans serrage forcé. Bassin assis posé, pas soulèvement alterné fesses. Buste redressé puis légèrement reculé, sans effondrement lombaire. Suit épaules, pas rotation nuque seule. Relâchées, épaules ne montent pas. Mains ensemble devant poitrine, coudes souples ; sans haltère. Bassin et talons gardent contact ; aucune fixation pieds par partenaire.",
+      "equipmentKey": "none",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": true,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "rectus_abdominis",
+          "obliques"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Haut tronc tourné gauche, talons et genoux stables.",
+          "postureCues": [
+            "Haut tronc tourné gauche, talons et genoux stables."
+          ],
+          "breathing": "Respiration régulière ; expirer rotation et inspirer centre peut servir de rythme éditorial, sans bloquer ni forcer longue expiration.",
+          "asset": "step-01.webp",
+          "alt": "Rotation russe sans charge, talons posés : Haut tronc tourné gauche, talons et genoux stables."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Haut tronc tourné droite, mêmes appuis et inclinaison.",
+          "postureCues": [
+            "Haut tronc tourné droite, mêmes appuis et inclinaison."
+          ],
+          "breathing": "Respiration régulière ; expirer rotation et inspirer centre peut servir de rythme éditorial, sans bloquer ni forcer longue expiration.",
+          "asset": "step-02.webp",
+          "alt": "Rotation russe sans charge, talons posés : Haut tronc tourné droite, mêmes appuis et inclinaison."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Revenir centre puis autre côté avec même inclinaison buste. Revenir centre, redresser buste, poser mains si besoin pour sortir.",
+          "postureCues": [
+            "Revenir centre puis autre côté avec même inclinaison buste. Revenir centre, redresser buste, poser mains si besoin pour sortir."
+          ],
+          "breathing": "Respiration régulière ; expirer rotation et inspirer centre peut servir de rythme éditorial, sans bloquer ni forcer longue expiration.",
+          "asset": "step-03.webp",
+          "alt": "Rotation russe sans charge, talons posés : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Bras seuls bougent : ralentir et orienter sternum avec eux.",
+        "Genoux oscillent : moins de rotation/recul.",
+        "Dos s’effondre : se redresser, petite amplitude."
+      ],
+      "tip": "Tourne doucement le buste, les mains suivent.",
+      "breathing": "Respiration régulière ; expirer rotation et inspirer centre peut servir de rythme éditorial, sans bloquer ni forcer longue expiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Tenir léger recul buste en respirant, talons posés.",
+        "Tourner haut tronc lentement sans entraîner genoux/bassin ni douleur.",
+        "Inclinaison personnelle, tolérance rotation et rôle exact muscles restent à relire.",
+        "Niveau intermediate proposé même si versions plus simples parfois beginner."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Garde les talons au sol.",
+      "sourceReference": "docs/exercise-reference/extension-abs-dynamic.json",
+      "muscleEvidence": {
+        "documented": [
+          "Runna : obliques, transverse et fléchisseurs hanche ; StrengthLog : abs et obliques qualitatifs. NASM cite grand droit/transverse variante pondérée."
+        ],
+        "inferred": [
+          "Abdos et fléchisseurs maintiennent recul, obliques participent rotation ; pieds posés ne rendent pas hip flexors inactifs."
+        ],
+        "notEstablished": [
+          "Pas pourcentage activation ou perte graisse locale."
+        ]
+      },
+      "adaptations": {
+        "regressions": [
+          "Buste plus vertical et rotation moindre ; mobilité assise reste variante distincte."
+        ],
+        "progressions": [
+          "Recul léger supplémentaire si contrôle ; faible résistance éventuelle à traiter séparément, aucune charge lourde ni pieds levés obligatoires."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX68",
+      "version": 1,
+      "name": "Roue abdominale à genoux, course étendue maîtrisée",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "advanced",
+      "movementPattern": "anti_extension",
+      "equipmentRequirements": [
+        {
+          "kind": "wheel"
+        }
+      ],
+      "installation": "Roue abdominale adaptée, poignées/axe intacts Sol plane avec adhérence adaptée roue Protection confortable genoux. Position confortable derrière genoux ; pas de règle imposant pieds levés. Posés sur protection stable, écartement adapté. Au départ au-dessus ou légèrement devant genoux, contrôlé avec côtes. Tronc stabilisé, sans cambrure qui augmente pendant extension course. Suit tronc, regard sol devant roue, nuque sans projection. Accompagnent mouvement bras ; pas blocage forcé en rétraction. Deux mains serrent poignées, poignets alignés, coudes allongés sans verrouillage forcé. Genoux fixes et roue au sol ; mains restent sur poignées.",
+      "equipmentKey": "wheel",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "rectus_abdominis"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "shoulders"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "À genoux, roue proche sous/avant épaules, tronc préparé.",
+          "postureCues": [
+            "À genoux, roue proche sous/avant épaules, tronc préparé."
+          ],
+          "breathing": "Respiration continue, inspirer doucement sortie et expirer retour peut guider rythme. Si impossible sans apnée, réduire course ; phases proposées éditorialement, pas démontrées comme règle universelle.",
+          "asset": "step-01.webp",
+          "alt": "Roue abdominale à genoux, course étendue maîtrisée : À genoux, roue proche sous/avant épaules, tronc préparé."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Roue davantage devant, bras longs, corps déployé sans ventre qui pend ; angle personnalisé.",
+          "postureCues": [
+            "Roue davantage devant, bras longs, corps déployé sans ventre qui pend ; angle personnalisé."
+          ],
+          "breathing": "Respiration continue, inspirer doucement sortie et expirer retour peut guider rythme. Si impossible sans apnée, réduire course ; phases proposées éditorialement, pas démontrées comme règle universelle.",
+          "asset": "step-02.webp",
+          "alt": "Roue abdominale à genoux, course étendue maîtrisée : Roue davantage devant, bras longs, corps déployé sans ventre qui pend ; angle personnalisé."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Ramener roue en coordination bras/tronc, sans lancer bassin vers talons pour esquiver effort. Une fois roue revenue et poids stable, poser fesses ou mains au sol sans lâcher en extension.",
+          "postureCues": [
+            "Ramener roue en coordination bras/tronc, sans lancer bassin vers talons pour esquiver effort. Une fois roue revenue et poids stable, poser fesses ou mains au sol sans lâcher en extension."
+          ],
+          "breathing": "Respiration continue, inspirer doucement sortie et expirer retour peut guider rythme. Si impossible sans apnée, réduire course ; phases proposées éditorialement, pas démontrées comme règle universelle.",
+          "asset": "step-03.webp",
+          "alt": "Roue abdominale à genoux, course étendue maîtrisée : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Bassin chute/creux augmente : raccourcir course immédiatement.",
+        "Roue dévie : arrêter, retrouver axe et symétrie prise.",
+        "Bassin recule brusquement avant roue : revenir course courte coordonnée.",
+        "Coudes plient pour sauver retour : réduire amplitude, pas forcer butée."
+      ],
+      "tip": "Avance seulement jusqu’où tu peux garder le dos contrôlé.",
+      "breathing": "Respiration continue, inspirer doucement sortie et expirer retour peut guider rythme. Si impossible sans apnée, réduire course ; phases proposées éditorialement, pas démontrées comme règle universelle.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "EX34 course courte : avancer/revenir sans bassin qui chute ni creux lombaire augmenté.",
+        "Support mains/poignets et flexion épaules overhead tolérés.",
+        "Pouvoir arrêter roue volontairement puis revenir sans à-coup.",
+        "Différence EX34/EX68 repose sur distance personnelle maîtrisée, pas seuil cm standard.",
+        "Readiness, matériel exact et médias restent revue technique humaine."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "À genoux, tiens les poignées et prépare le tronc.",
+      "sourceReference": "docs/exercise-reference/extension-abs-dynamic.json",
+      "muscleEvidence": {
+        "documented": [
+          "PureGym : anti-extension, abdos/obliques et contrôle tronc. M&F : dorsaux participent retour, fessiers et abdos maintiennent position."
+        ],
+        "inferred": [
+          "Dentelé/coiffe contrôlent épaule, triceps stabilisent coude ; classement précis selon course non établi."
+        ],
+        "notEstablished": [
+          "Pas « abdos seuls ramènent roue », ni allongement maximal nécessaire, ni résultat clinique garanti."
+        ]
+      },
+      "adaptations": {
+        "regressions": [
+          "EX34 courte course ; repère fixe de distance ou butée mur seulement si roue/mur permettent arrêt contrôlé, proposition à vérifier.",
+          "Dead bug ou planche adaptés si appui roue non toléré."
+        ],
+        "progressions": [
+          "Augmenter distance par petits incréments après retour identique, puis tempo ; pas version debout incluse."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    },
+    {
+      "id": "EX69",
+      "version": 1,
+      "name": "Crunch avec charge tenue contre la poitrine",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "trunk_flexion",
+      "equipmentRequirements": [
+        {
+          "kind": "dumbbells",
+          "count": 1
+        }
+      ],
+      "installation": "Disque ou haltère compact, prise sûre avec deux mains Sol stable et tapis de confort facultatif. Pieds entiers posés, écartement confortable ; pas fixation sous banc dans base. Fléchis dans position tolérée, aucun angle imposé. Reste au tapis pendant répétition, pas décollage pour donner élan. Haut tronc s’enroule, bas dos reste soutenu sans creux accru ni aplatissement forcé. Suit tronc ; garder espace confortable sous menton, pas coup de tête. Se décollent avec haut du tronc ; retour au tapis contrôlé. Deux mains sécurisent disque/haltère contre poitrine, coudes fléchis ; charge reste proche, pas derrière tête ni bras tendus. Pieds et bassin posés ; charge soutenue par mains contre poitrine sans comprimer respiration.",
+      "equipmentKey": "dumbbells",
+      "position": "floor",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "rectus_abdominis"
+        ],
+        "secondary": [],
+        "stabilizers": []
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "abs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Position 1",
+          "description": "Dos posé genoux fléchis, deux mains maintiennent charge contre poitrine, pieds au sol.",
+          "postureCues": [
+            "Dos posé genoux fléchis, deux mains maintiennent charge contre poitrine, pieds au sol."
+          ],
+          "breathing": "Expirer montée et inspirer retour est un rythme pédagogique ; respiration continue prime et charge ne doit pas nécessiter apnée. Les trois guides exacts ne fixent pas phase obligatoire.",
+          "asset": "step-01.webp",
+          "alt": "Crunch avec charge tenue contre la poitrine : Dos posé genoux fléchis, deux mains maintiennent charge contre poitrine, pieds au sol."
+        },
+        {
+          "id": 2,
+          "title": "Position 2",
+          "description": "Omoplates décollées, charge toujours même place contre poitrine, bassin/pieds constants.",
+          "postureCues": [
+            "Omoplates décollées, charge toujours même place contre poitrine, bassin/pieds constants."
+          ],
+          "breathing": "Expirer montée et inspirer retour est un rythme pédagogique ; respiration continue prime et charge ne doit pas nécessiter apnée. Les trois guides exacts ne fixent pas phase obligatoire.",
+          "asset": "step-02.webp",
+          "alt": "Crunch avec charge tenue contre la poitrine : Omoplates décollées, charge toujours même place contre poitrine, bassin/pieds constants."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Redescendre lentement jusqu’au contact confortable, sans lâcher la charge ni faire rebondir dos. Poser haut du dos, conserver prise deux mains, se tourner sur côté et déposer charge près du corps en contrôle. Sortie proposée à vérifier avec matériel réel.",
+          "postureCues": [
+            "Redescendre lentement jusqu’au contact confortable, sans lâcher la charge ni faire rebondir dos. Poser haut du dos, conserver prise deux mains, se tourner sur côté et déposer charge près du corps en contrôle. Sortie proposée à vérifier avec matériel réel."
+          ],
+          "breathing": "Expirer montée et inspirer retour est un rythme pédagogique ; respiration continue prime et charge ne doit pas nécessiter apnée. Les trois guides exacts ne fixent pas phase obligatoire.",
+          "asset": "step-03.webp",
+          "alt": "Crunch avec charge tenue contre la poitrine : Retour et sortie"
+        }
+      ],
+      "errors": [
+        "Poids éloigné poitrine : réduire charge et conserver prise.",
+        "Élan tête/bras : alléger, retourner crunch sans charge.",
+        "Mouvement devient sit-up : garder flexion courte et pelvis soutenu.",
+        "Respiration comprimée ou prise incertaine : déposer charge et modifier matériel."
+      ],
+      "tip": "Enroule doucement le haut du buste.",
+      "breathing": "Expirer montée et inspirer retour est un rythme pédagogique ; respiration continue prime et charge ne doit pas nécessiter apnée. Les trois guides exacts ne fixent pas phase obligatoire.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "Faire crunch sans charge, montée et retour sans élan ni traction de la tête.",
+        "Tenir une charge légère contre poitrine tout en respirant librement.",
+        "Préparer et retirer charge sans la faire passer au-dessus du visage.",
+        "Prise exacte selon forme haltère/disque et sortie du sol doivent être relues humainement.",
+        "Programme de résistance progressif à individualiser, aucun kg par niveau validé."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "textOnlyPrototype": false,
+      "preparationCue": "Tiens la charge contre la poitrine avec les deux mains.",
+      "sourceReference": "docs/exercise-reference/extension-abs-dynamic.json",
+      "muscleEvidence": {
+        "documented": [
+          "Les guides ciblent les abdominaux qualitativement et décrivent résistance au crunch."
+        ],
+        "inferred": [
+          "Grand droit produit flexion tronc, obliques participent au contrôle ; bras maintiennent charge sans être moteurs du crunch."
+        ],
+        "notEstablished": [
+          "Pas chiffre activation ni hypertrophie garantie. Charge rend progression de résistance possible, ne prouve pas supériorité universelle sur autres exercices."
+        ]
+      },
+      "adaptations": {
+        "regressions": [
+          "Crunch sans charge, flexion moins ample ; aucune charge derrière tête pour faciliter."
+        ],
+        "progressions": [
+          "Augmenter modestement résistance seulement si trajectoire, prise et respiration restent identiques ; pas kilométrage reps ou kg universel.",
+          "Tempo contrôlé ou brève pause peuvent progresser indépendamment de charge, sans cumuler variables."
+        ]
+      },
+      "documentaryExtension": true,
+      "staticHold": false
+    }
+  ]
+}

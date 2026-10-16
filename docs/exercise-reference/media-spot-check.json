@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-12",
+  "scope": "six images only, not GIF or muscle maps",
+  "humanApproval": null,
+  "files": [
+    {
+      "exerciseId": "EX23",
+      "file": "public/assets/exercises/v1/EX23/step-01.webp",
+      "sha256": "75d578a7fd9c182a5ff53fcfde95472661e2a173e825b8706c4d84071e74e90d",
+      "observation": "AI visual spot-check only; not technical human approval"
+    },
+    {
+      "exerciseId": "EX23",
+      "file": "public/assets/exercises/v1/EX23/step-02.webp",
+      "sha256": "fff40ef1c612a9aea7b3c190ab2d45b1d90926da87de62db2eae3edf685c92b5",
+      "observation": "AI visual spot-check only; not technical human approval"
+    },
+    {
+      "exerciseId": "EX34",
+      "file": "public/assets/exercises/v1/EX34/step-01.webp",
+      "sha256": "27be5129f1baf3e084cbe595571c8f30912193390cb35e29a096c316ade558f4",
+      "observation": "AI visual spot-check only; not technical human approval"
+    },
+    {
+      "exerciseId": "EX34",
+      "file": "public/assets/exercises/v1/EX34/step-02.webp",
+      "sha256": "f923af5ab3891c1ac212424c85a2f1e40adb90eafb4822e0aff01e91f35b836a",
+      "observation": "AI visual spot-check only; not technical human approval"
+    },
+    {
+      "exerciseId": "EX48",
+      "file": "public/assets/exercises/v1/EX48/step-01.webp",
+      "sha256": "4edb01eff87238e4c0808042f93530ba1bfcfb5f66e044eabe4e7da5f37252db",
+      "observation": "AI visual spot-check only; not technical human approval"
+    },
+    {
+      "exerciseId": "EX48",
+      "file": "public/assets/exercises/v1/EX48/step-02.webp",
+      "sha256": "98e49ba5315780b952eef39fa71155810c9b6edb90d292bf43cf28075a965be4",
+      "observation": "AI visual spot-check only; not technical human approval"
+    }
+  ]
+}

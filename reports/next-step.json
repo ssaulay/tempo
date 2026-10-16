@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "physicalIPhoneTested": false,
+  "audio": "texte vocal capturé, son physique non testé",
+  "observations": [
+    {
+      "afterSet": 1,
+      "visual": "Dead bug · série 2 sur 3",
+      "voice": "45 secondes de récupération. Ensuite, Dead bug · série 2 sur 3."
+    },
+    {
+      "afterSet": 2,
+      "visual": "Dead bug · série 3 sur 3",
+      "voice": "45 secondes de récupération. Ensuite, Dead bug · série 3 sur 3."
+    },
+    {
+      "afterSet": 3,
+      "next": "Préparation de Crunch court"
+    }
+  ]
+}

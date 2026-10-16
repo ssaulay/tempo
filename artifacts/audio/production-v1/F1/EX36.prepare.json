@@ -1,0 +1,72 @@
+{
+  "voice": "F1",
+  "voice_id": "voice_pjrwzzqm559j",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni.",
+  "clip": {
+    "id": "EX36.prepare",
+    "text": "Touchers de talons alternés. Prépare-toi.",
+    "family": "preparation",
+    "status": "text_frozen",
+    "review": "editorial_prepared_not_sport_technical",
+    "text_sha256": "d596c733774fb260f55a28c6bbc2eff25c14fb3fa3485cd6c9423831f9fb0a53"
+  },
+  "usage": {
+    "total_tokens": 90,
+    "total_input_tokens": 15,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 15
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 75,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 75
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0,
+    "raw_prompt_token": 1035,
+    "model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 188
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 77
+          }
+        ]
+      }
+    ],
+    "non_grounding_model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 188
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 77
+          }
+        ]
+      }
+    ]
+  },
+  "status": "generated_listening_pending",
+  "duration_seconds": 3.0,
+  "sample_rate": 24000,
+  "checksum": "3f1404efe01cdc29f9c184b35850428ba6fe02a89a472fcbd432503aa569024c",
+  "cost_standard_usd": 0.0006825000000000001
+}

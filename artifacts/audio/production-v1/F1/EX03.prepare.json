@@ -1,0 +1,72 @@
+{
+  "voice": "F1",
+  "voice_id": "voice_pjrwzzqm559j",
+  "model": "gemini-3.8-flash-tts",
+  "clip": {
+    "id": "EX03.prepare",
+    "text": "Jumping jacks. Prépare-toi.",
+    "family": "preparation",
+    "status": "text_frozen",
+    "review": "editorial_prepared_not_sport_technical",
+    "text_sha256": "fbcf458cbeab710d7bf6b6569c97e81b3215cebccedffa3bbcf2008286901d38"
+  },
+  "duration_seconds": 2.4,
+  "request_seconds": 4.9940585,
+  "usage": {
+    "total_tokens": 71,
+    "total_input_tokens": 11,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 11
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 60,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 60
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0,
+    "raw_prompt_token": 1026,
+    "model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 179
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 62
+          }
+        ]
+      }
+    ],
+    "non_grounding_model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 179
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 62
+          }
+        ]
+      }
+    ]
+  },
+  "status": "generated_listening_pending",
+  "sample_rate": 24000,
+  "checksum": "47294655493a146b8ad67f66e34d395dc8b200a5955b98f88dceaff641953d3c",
+  "cost_standard_usd": 0.0005455
+}

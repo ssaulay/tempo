@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "viewport": 390,
+  "recordings": {
+    "total": 93,
+    "cached": 93
+  },
+  "twoVoicePlaybackStarted": true,
+  "offlinePlaybackStarted": true,
+  "physicalIPhoneTested": false,
+  "physicalAudioListened": false
+}

@@ -1,8 +1,8 @@
 {
-  "version": 1,
-  "status": "draft",
+  "version": 2,
+  "status": "documented",
   "review": null,
-  "description": "Hypothèses produit initiales, à relire par une personne compétente. Aucune norme médicale.",
+  "description": "Règles documentées, choix d’application dans docs/training-rules/RECHERCHE.md. Les valeurs historiques restent bornes d’édition, pas doses automatiques.",
   "preparationSeconds": 5,
   "transitionSeconds": 10,
   "switchSeconds": 5,
@@ -1843,5 +1843,6 @@
         "intense": 1.15
       }
     }
-  }
+  },
+  "sourceRegister": "docs/training-rules/RECHERCHE.md"
 }

@@ -1,0 +1,33 @@
+{
+  "url": "https://tempo.ssaulay.workers.dev",
+  "rows": [
+    {
+      "width": 390,
+      "initialFocus": {
+        "tag": "H2",
+        "text": "Bienvenue chez Tempo.",
+        "type": null
+      },
+      "keyboardOutline": {
+        "style": "solid",
+        "width": 3,
+        "color": "rgb(184, 50, 8)"
+      },
+      "status": "passed"
+    },
+    {
+      "width": 1440,
+      "initialFocus": {
+        "tag": "H2",
+        "text": "Bienvenue chez Tempo.",
+        "type": null
+      },
+      "keyboardOutline": {
+        "style": "solid",
+        "width": 3,
+        "color": "rgb(184, 50, 8)"
+      },
+      "status": "passed"
+    }
+  ]
+}

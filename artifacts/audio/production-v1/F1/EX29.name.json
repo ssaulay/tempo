@@ -1,0 +1,72 @@
+{
+  "voice": "F1",
+  "voice_id": "voice_pjrwzzqm559j",
+  "model": "gemini-3.8-flash-tts",
+  "clip": {
+    "id": "EX29.name",
+    "text": "Dead bug.",
+    "family": "exercise_name",
+    "status": "text_frozen",
+    "review": "editorial_prepared_not_sport_technical",
+    "text_sha256": "b5a75c14d6e26a2c03f7b2096cc93727a72c96f100680505e0f1e0f9853d21c7"
+  },
+  "duration_seconds": 1.32,
+  "request_seconds": 5.022145499999999,
+  "usage": {
+    "total_tokens": 37,
+    "total_input_tokens": 4,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 4
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 33,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 33
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0,
+    "raw_prompt_token": 1013,
+    "model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 166
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 35
+          }
+        ]
+      }
+    ],
+    "non_grounding_model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 166
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 35
+          }
+        ]
+      }
+    ]
+  },
+  "status": "generated_listening_pending",
+  "sample_rate": 24000,
+  "checksum": "e530b51ba04a09801dda35e664eda1699c48517ab01069dbcdce33b6ad12d5ae",
+  "cost_standard_usd": 0.000299
+}

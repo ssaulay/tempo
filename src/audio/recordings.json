@@ -1,0 +1,2067 @@
+{
+  "voices": [
+    {
+      "id": "tempo:F1",
+      "pack": "F1",
+      "name": "F1 - Dynamique et chaleureuse"
+    },
+    {
+      "id": "tempo:M2-deep-v2",
+      "pack": "M2-deep-v2",
+      "name": "M2 - Grave et chaleureux"
+    }
+  ],
+  "entries": [
+    {
+      "voice": "F1",
+      "id": "EX03.name",
+      "text": "Jumping jacks.",
+      "url": "/assets/audio/v1/F1/EX03.name-1388ec405b8e.wav",
+      "checksum": "1388ec405b8ed4fa731fcfc023f533b72b56349a03a363a6ce99e797bc4eb539"
+    },
+    {
+      "voice": "F1",
+      "id": "common.next",
+      "text": "Ensuite.",
+      "url": "/assets/audio/v1/F1/common.next-cabc827aed04.wav",
+      "checksum": "cabc827aed04ffee798934ab37c3a5be47669a10ab964e447690dc96edf92ff0"
+    },
+    {
+      "voice": "F1",
+      "id": "EX29.name",
+      "text": "Dead bug.",
+      "url": "/assets/audio/v1/F1/EX29.name-e530b51ba04a.wav",
+      "checksum": "e530b51ba04a09801dda35e664eda1699c48517ab01069dbcdce33b6ad12d5ae"
+    },
+    {
+      "voice": "F1",
+      "id": "set.2.3",
+      "text": "Série deux sur trois.",
+      "url": "/assets/audio/v1/F1/set.2.3-da6b53d11ec7.wav",
+      "checksum": "da6b53d11ec7e3ca1292377e599666ee3c65d0262b8d292dda79529b9b06888a"
+    },
+    {
+      "voice": "F1",
+      "id": "EX03.prepare",
+      "text": "Jumping jacks. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX03.prepare-47294655493a.wav",
+      "checksum": "47294655493a146b8ad67f66e34d395dc8b200a5955b98f88dceaff641953d3c"
+    },
+    {
+      "voice": "F1",
+      "id": "rest.30",
+      "text": "Trente secondes de récupération.",
+      "url": "/assets/audio/v1/F1/rest.30-ba72adbd871c.wav",
+      "checksum": "ba72adbd871cc5531b185e04c2bbb9c7c5930288a446010dd460f49d118a2a90"
+    },
+    {
+      "voice": "F1",
+      "id": "reps.12",
+      "text": "Douze répétitions.",
+      "url": "/assets/audio/v1/F1/reps.12-9942433294e9.wav",
+      "checksum": "9942433294e96617c25438a293580f04ae12929547ad3b5c689cb06c04d72ff7"
+    },
+    {
+      "voice": "F1",
+      "id": "common.encourage.rhythm",
+      "text": "Garde ton rythme et respire.",
+      "url": "/assets/audio/v1/F1/common.encourage.rhythm-0f4cc4f20e73.wav",
+      "checksum": "0f4cc4f20e738c69fbe8fcf56437dc82e46af8bb429e07701ab75c2c317e0a08"
+    },
+    {
+      "voice": "F1",
+      "id": "common.ten_remaining",
+      "text": "Dix secondes restantes.",
+      "url": "/assets/audio/v1/F1/common.ten_remaining-5859752b8695.wav",
+      "checksum": "5859752b86953bbde295dded0cb83fc096cdeb2422e9748dd93e3d5172240939"
+    },
+    {
+      "voice": "F1",
+      "id": "common.per_side",
+      "text": "Par côté.",
+      "url": "/assets/audio/v1/F1/common.per_side-4e9fbad227f4.wav",
+      "checksum": "4e9fbad227f44aa5ccf7136ba57353965e90177277db64cf1d22676fb823025e"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX03.name",
+      "text": "Jumping jacks.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX03.name-3e8c826dc4bf.wav",
+      "checksum": "3e8c826dc4bfd721b0f179a3dba9a78f5dd07268dbee38ac64ca09f901cb9a82"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.next",
+      "text": "Ensuite.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.next-d97efe802769.wav",
+      "checksum": "d97efe8027695a5861245d3f6460fffc2ba52f89dc345aa5cd0d9f80235f6259"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX29.name",
+      "text": "Dead bug.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX29.name-7fb2db5f9763.wav",
+      "checksum": "7fb2db5f9763185fc53e8c520afbe83b0bfec7cf6f5c4d1592fe011ceb3607d2"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "set.2.3",
+      "text": "Série deux sur trois.",
+      "url": "/assets/audio/v1/M2-deep-v2/set.2.3-644466af68df.wav",
+      "checksum": "644466af68df7bc198957f724954dc2314bf9cbf2325a51b34a3a96ca3f5d695"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX03.prepare",
+      "text": "Jumping jacks. Prépare-toi.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX03.prepare-73a5198fc1d3.wav",
+      "checksum": "73a5198fc1d3903927420353a1bf9f57027f8e3852c305cc83027677de9a4723"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.30",
+      "text": "Trente secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.30-95e8a75564e2.wav",
+      "checksum": "95e8a75564e28071f7cd7510f68f408378252ebff6077d278f2604bff718a366"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.12",
+      "text": "Douze répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.12-fc4fdd53f4cb.wav",
+      "checksum": "fc4fdd53f4cbdffe38dd9a1089f6bbcd74c928333c8607ab6391fd84155f8245"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.encourage.rhythm",
+      "text": "Garde ton rythme et respire.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.encourage.rhythm-3d21d42dc6ba.wav",
+      "checksum": "3d21d42dc6baac4163f0e95fadd559eccda3cfe74e992d25adea7c4f4bac6b80"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.ten_remaining",
+      "text": "Dix secondes restantes.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.ten_remaining-b78a67df0859.wav",
+      "checksum": "b78a67df0859ab1591c39ddc5c03b703d77a70755d33774beffc0ab487a7840b"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.per_side",
+      "text": "Par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.per_side-7cfe07c85194.wav",
+      "checksum": "7cfe07c8519490c0d3e2ea35e040d3f339f319b23491a7776544e2c4a0914aaf"
+    },
+    {
+      "voice": "F1",
+      "id": "reps.12.per_side",
+      "text": "Douze répétitions par côté.",
+      "url": "/assets/audio/v1/F1/reps.12.per_side-98efa5e0f0b1.wav",
+      "checksum": "98efa5e0f0b1e2288bea4eb7a12570c24fd84ff2c6de193b869498385478bf79"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.12.per_side",
+      "text": "Douze répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.12.per_side-19f8c3861e1b.wav",
+      "checksum": "19f8c3861e1b5c5f2b94a6e035c9e137a3497d078d08a35a2bff8fa5f801cbaa"
+    },
+    {
+      "voice": "F1",
+      "id": "EX17.name",
+      "text": "Développé épaules avec haltères.",
+      "url": "/assets/audio/v1/F1/EX17.name-9e0fc4025ef1.wav",
+      "checksum": "9e0fc4025ef1aaaf4c59c7d0435b33e8c2f43c346bec446a537f2689ea075f4d"
+    },
+    {
+      "voice": "F1",
+      "id": "EX22.name",
+      "text": "Rétraction scapulaire en W au sol.",
+      "url": "/assets/audio/v1/F1/EX22.name-416384d7fe69.wav",
+      "checksum": "416384d7fe69757d20fb0de4b415e256c8d115e47a30fc633243099eac18874c"
+    },
+    {
+      "voice": "F1",
+      "id": "EX36.name",
+      "text": "Touchers de talons alternés.",
+      "url": "/assets/audio/v1/F1/EX36.name-7d80470b2d66.wav",
+      "checksum": "7d80470b2d66a16153866cdc74df9b047de52df5b37205314b011dbb7c65c21c"
+    },
+    {
+      "voice": "F1",
+      "id": "EX09.prepare",
+      "text": "Pont fessier. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX09.prepare-c028fad89480.wav",
+      "checksum": "c028fad894808e3967aef017bcb45c29f83284d65862654a3a1c389430fa1ef1"
+    },
+    {
+      "voice": "F1",
+      "id": "EX24.name",
+      "text": "Extension triceps haltère au-dessus de la tête.",
+      "url": "/assets/audio/v1/F1/EX24.name-d93b5cadb6b6.wav",
+      "checksum": "d93b5cadb6b6bf8570f7f01e342333d36c3cb69befa0eaa07ae8027fc5401228"
+    },
+    {
+      "voice": "F1",
+      "id": "EX30.name",
+      "text": "Bird dog.",
+      "url": "/assets/audio/v1/F1/EX30.name-fe65719befc9.wav",
+      "checksum": "fe65719befc9f2aaad4587c3d9f6bf185155c4a65bb6987a73c99f693c726bd7"
+    },
+    {
+      "voice": "F1",
+      "id": "EX11.name",
+      "text": "Pompes inclinées.",
+      "url": "/assets/audio/v1/F1/EX11.name-34bea175c5f3.wav",
+      "checksum": "34bea175c5f36843f2cf9253e54765a841d6a7f3aa76af82a25221d7e665f9a1"
+    },
+    {
+      "voice": "F1",
+      "id": "EX05.name",
+      "text": "Montées de genoux sans saut.",
+      "url": "/assets/audio/v1/F1/EX05.name-a3e2e50af7e6.wav",
+      "checksum": "a3e2e50af7e69fc4d07907a7ac4aa952d53953dbd3addb5dbf361dabb93da83c"
+    },
+    {
+      "voice": "F1",
+      "id": "EX08.prepare",
+      "text": "Fente statique. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX08.prepare-4407a0fdae2e.wav",
+      "checksum": "4407a0fdae2eba7418e17da0956c8b062527d099f326b1068e11adf2a72a63e1"
+    },
+    {
+      "voice": "F1",
+      "id": "EX08.name",
+      "text": "Fente statique.",
+      "url": "/assets/audio/v1/F1/EX08.name-59eb748324f1.wav",
+      "checksum": "59eb748324f154acb2ff7e3046fcb92f838d446c2e7e0a1c3aae5acb4cc9e349"
+    },
+    {
+      "voice": "F1",
+      "id": "EX02.name",
+      "text": "Step jacks sans saut.",
+      "url": "/assets/audio/v1/F1/EX02.name-4f14b8c213ce.wav",
+      "checksum": "4f14b8c213ce4ae10590b925c5026046e6d9d2e7e3dd0f0546ba285cf3aa6352"
+    },
+    {
+      "voice": "F1",
+      "id": "EX10.prepare",
+      "text": "Élévations des mollets. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX10.prepare-8a9ac7bda596.wav",
+      "checksum": "8a9ac7bda59645b01a9bc6e67ff0107df51158be46dc4fd08044731c6e9520d1"
+    },
+    {
+      "voice": "F1",
+      "id": "EX16.name",
+      "text": "Développé haltères au sol.",
+      "url": "/assets/audio/v1/F1/EX16.name-5b87ea7fd3d4.wav",
+      "checksum": "5b87ea7fd3d452eab454769c6e1e1d5a25a22dd82319a733e37834d273b402bb"
+    },
+    {
+      "voice": "F1",
+      "id": "EX17.prepare",
+      "text": "Développé épaules avec haltères. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX17.prepare-b5777acf3e29.wav",
+      "checksum": "b5777acf3e29781ce26b6bdc3f54b42b51bfc3b6912e11d5b8b25043a0435d5e"
+    },
+    {
+      "voice": "F1",
+      "id": "EX37.name",
+      "text": "Squat goblet léger.",
+      "url": "/assets/audio/v1/F1/EX37.name-a7774d868d89.wav",
+      "checksum": "a7774d868d89df67f6504911abca889ca784ee14e2886add07cc1a9101eb8108"
+    },
+    {
+      "voice": "F1",
+      "id": "EX02.prepare",
+      "text": "Step jacks sans saut. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX02.prepare-8920216f1ed9.wav",
+      "checksum": "8920216f1ed952675214e97bd799f7df73041ba67144c1e130f0b7e47a88818f"
+    },
+    {
+      "voice": "F1",
+      "id": "EX05.prepare",
+      "text": "Montées de genoux sans saut. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX05.prepare-1ba76bb82f6c.wav",
+      "checksum": "1ba76bb82f6cbe4c57efe9819adba6a50ff2ebcba6a2fe12f934ba3086302425"
+    },
+    {
+      "voice": "F1",
+      "id": "EX23.name",
+      "text": "Extension triceps avec bande sous un pied.",
+      "url": "/assets/audio/v1/F1/EX23.name-3b90298e912e.wav",
+      "checksum": "3b90298e912e60ee863060f308e82756ee1f47e44403859c1007bc1be7be05a1"
+    },
+    {
+      "voice": "F1",
+      "id": "EX33.prepare",
+      "text": "Mountain climbers lents. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX33.prepare-776af20dec5e.wav",
+      "checksum": "776af20dec5ef826f1caef7ff3552f16048df9d99087cbfbf2deadb39422a1c5"
+    },
+    {
+      "voice": "F1",
+      "id": "EX34.prepare",
+      "text": "Roue abdominale à genoux, amplitude courte. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX34.prepare-99ec21fe2025.wav",
+      "checksum": "99ec21fe2025a486f38b3da1b81dc1f332e44ddb0aa2b609d9d497aca73c687a"
+    },
+    {
+      "voice": "F1",
+      "id": "EX21.prepare",
+      "text": "Écartement de bande devant soi. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX21.prepare-a192c34617c3.wav",
+      "checksum": "a192c34617c317d03612a91d11cc4a992eaddb3a7c1011d6ca0868a518ffb5ab"
+    },
+    {
+      "voice": "F1",
+      "id": "EX26.prepare",
+      "text": "Curl avec bande sous les pieds. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX26.prepare-36b95ddf9c7d.wav",
+      "checksum": "36b95ddf9c7d03e5dddb24973254311cca200d6cb34fa6de5558794aefe46ed0"
+    },
+    {
+      "voice": "F1",
+      "id": "EX31.name",
+      "text": "Crunch inversé.",
+      "url": "/assets/audio/v1/F1/EX31.name-6675eaa1e15b.wav",
+      "checksum": "6675eaa1e15b6afcc59859a99e1e4e994cf167131085d8cbb4973045b2027534"
+    },
+    {
+      "voice": "F1",
+      "id": "EX04.prepare",
+      "text": "Corde à sauter, saut simple. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX04.prepare-f1d6c64e2521.wav",
+      "checksum": "f1d6c64e2521da6a256d346510dd7fdcd657dd891d2972b46b399c2e4d34c9d4"
+    },
+    {
+      "voice": "F1",
+      "id": "EX25.name",
+      "text": "Curl haltères.",
+      "url": "/assets/audio/v1/F1/EX25.name-767394e8d85a.wav",
+      "checksum": "767394e8d85a45876cd7dddbb11843b95cddb1132bb3243c1f37b8596cc588a4"
+    },
+    {
+      "voice": "F1",
+      "id": "EX04.name",
+      "text": "Corde à sauter, saut simple.",
+      "url": "/assets/audio/v1/F1/EX04.name-003e107ae462.wav",
+      "checksum": "003e107ae46219925e8fd311ff274eb011da2e6ea38c6119e68e5a5bcaf6dda3"
+    },
+    {
+      "voice": "F1",
+      "id": "EX16.prepare",
+      "text": "Développé haltères au sol. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX16.prepare-b63699269520.wav",
+      "checksum": "b6369926952058cbc57aeb7513cad5b99c39a1191edb536ae1f577bc167a2c88"
+    },
+    {
+      "voice": "F1",
+      "id": "EX10.name",
+      "text": "Élévations des mollets.",
+      "url": "/assets/audio/v1/F1/EX10.name-5530137b8b5e.wav",
+      "checksum": "5530137b8b5ef2b14d6afda2002342131786e578ddeeeaa9c47e9a96ef42e143"
+    },
+    {
+      "voice": "F1",
+      "id": "EX11.prepare",
+      "text": "Pompes inclinées. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX11.prepare-4bf0a471b3e9.wav",
+      "checksum": "4bf0a471b3e9d71a5af8d2ea81027feb5a58950352aec3eefb2a8461f1ca2dad"
+    },
+    {
+      "voice": "F1",
+      "id": "EX28.name",
+      "text": "Planche latérale genoux fléchis.",
+      "url": "/assets/audio/v1/F1/EX28.name-c922d95de262.wav",
+      "checksum": "c922d95de262bd6ea12e9faffa084e4e77da8b9d3b7f543c26f4ef99ef5ffa6c"
+    },
+    {
+      "voice": "F1",
+      "id": "EX27.prepare",
+      "text": "Planche sur avant-bras. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX27.prepare-fd798c16c7ed.wav",
+      "checksum": "fd798c16c7eddec75499744e43329979004213a946cc06cab04dd8cb936e9970"
+    },
+    {
+      "voice": "F1",
+      "id": "EX20.prepare",
+      "text": "Rowing haltère unilatéral sans banc. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX20.prepare-b9f9bd0b959b.wav",
+      "checksum": "b9f9bd0b959b346c4b572afbf9d9fa413451ed3ebca6bb3e36d6b09949d4fb73"
+    },
+    {
+      "voice": "F1",
+      "id": "EX09.name",
+      "text": "Pont fessier.",
+      "url": "/assets/audio/v1/F1/EX09.name-6de90d31e48c.wav",
+      "checksum": "6de90d31e48cf9b49d924f6f44caea75b03fbf96598743a0cabe5808ff7b9ae8"
+    },
+    {
+      "voice": "F1",
+      "id": "EX35.prepare",
+      "text": "Hollow hold groupé. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX35.prepare-bdc35b6a6088.wav",
+      "checksum": "bdc35b6a6088a477fcd5448cfd375edcc16d3c6b938291453a78afb328f89088"
+    },
+    {
+      "voice": "F1",
+      "id": "EX32.prepare",
+      "text": "Crunch court. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX32.prepare-872d7a0d0b98.wav",
+      "checksum": "872d7a0d0b985d22e321eab0756c56f39b424eeaa77120d970ad3acdb4b286cd"
+    },
+    {
+      "voice": "F1",
+      "id": "EX01.prepare",
+      "text": "Marche active sur place. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX01.prepare-c454ba2e2cde.wav",
+      "checksum": "c454ba2e2cdedb0088d905210d7110669862403a7eaf8eb8d7b2e0331d9bf41b"
+    },
+    {
+      "voice": "F1",
+      "id": "EX20.name",
+      "text": "Rowing haltère unilatéral sans banc.",
+      "url": "/assets/audio/v1/F1/EX20.name-ead35da262c1.wav",
+      "checksum": "ead35da262c1ae0771665be73f62881ff629a4409ade4b059c2017be4ad58759"
+    },
+    {
+      "voice": "F1",
+      "id": "EX06.prepare",
+      "text": "Squat au poids du corps. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX06.prepare-726c9ca8e6d4.wav",
+      "checksum": "726c9ca8e6d41a8d10a8f6d5b5ce192ad67afeb46a313b0a6a767d834d4db242"
+    },
+    {
+      "voice": "F1",
+      "id": "EX34.name",
+      "text": "Roue abdominale à genoux, amplitude courte.",
+      "url": "/assets/audio/v1/F1/EX34.name-207e59f62ab5.wav",
+      "checksum": "207e59f62ab59dcf01d5a7a99a7bafeaae1f78b28e9814521832790d536f0609"
+    },
+    {
+      "voice": "F1",
+      "id": "EX13.prepare",
+      "text": "Pompes classiques. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX13.prepare-e33c6084bb8c.wav",
+      "checksum": "e33c6084bb8c035d70d8fc824aac3cb1f3d3fcb9a9af9f60ee04950e6ce46bf7"
+    },
+    {
+      "voice": "F1",
+      "id": "EX15.name",
+      "text": "Développé poitrine avec bande derrière le dos.",
+      "url": "/assets/audio/v1/F1/EX15.name-0041808fd6a0.wav",
+      "checksum": "0041808fd6a018a0b1baf9d3e5a00e0a70693df41baa7486d5ac446d09b58f63"
+    },
+    {
+      "voice": "F1",
+      "id": "EX14.prepare",
+      "text": "Pompes mains rapprochées. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX14.prepare-38d1e77c6a4b.wav",
+      "checksum": "38d1e77c6a4bc640fbf257c2d1fd31b0251960478702756e6cceac4282942efc"
+    },
+    {
+      "voice": "F1",
+      "id": "EX01.name",
+      "text": "Marche active sur place.",
+      "url": "/assets/audio/v1/F1/EX01.name-6097f1b48bd3.wav",
+      "checksum": "6097f1b48bd3e17c9da9d419f61ca3a468bfb4f9f7ca9b1ab1710780787ef1f7"
+    },
+    {
+      "voice": "F1",
+      "id": "EX22.prepare",
+      "text": "Rétraction scapulaire en W au sol. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX22.prepare-da0120f5a605.wav",
+      "checksum": "da0120f5a60590ea976b23251d82cfb0daf253fbba7814d1eb15bbbd440a1543"
+    },
+    {
+      "voice": "F1",
+      "id": "EX25.prepare",
+      "text": "Curl haltères. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX25.prepare-0ab0c2ef50a3.wav",
+      "checksum": "0ab0c2ef50a38ce97af3e5d6a42f0dbf3a6e04d577d1ac795b7d905f4285d251"
+    },
+    {
+      "voice": "F1",
+      "id": "EX18.name",
+      "text": "Élévations latérales légères.",
+      "url": "/assets/audio/v1/F1/EX18.name-24aedcf70942.wav",
+      "checksum": "24aedcf70942062edd903270707b6b411aa5c427cb2170237550d2da8618c2ff"
+    },
+    {
+      "voice": "F1",
+      "id": "EX30.prepare",
+      "text": "Bird dog. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX30.prepare-bea3f4b0a347.wav",
+      "checksum": "bea3f4b0a34784f2ecbadeb25a51381611630607b1d22c8dbd2fa67b3896f23f"
+    },
+    {
+      "voice": "F1",
+      "id": "EX37.prepare",
+      "text": "Squat goblet léger. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX37.prepare-f77ae5863b33.wav",
+      "checksum": "f77ae5863b331d1c3fdec540c2bc0fd381cad7e20ae422a70346e0bbe15cc53f"
+    },
+    {
+      "voice": "F1",
+      "id": "EX15.prepare",
+      "text": "Développé poitrine avec bande derrière le dos. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX15.prepare-0c414f954cc8.wav",
+      "checksum": "0c414f954cc84ed6de2c56cd0f91897c57dc6d387cb440670bce03f5e0ebe369"
+    },
+    {
+      "voice": "F1",
+      "id": "EX12.prepare",
+      "text": "Pompes sur les genoux. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX12.prepare-96591593b2e1.wav",
+      "checksum": "96591593b2e1eeb537528724f1f7f73bd88bbf02a2acf7a61b4d33e6cd2cc477"
+    },
+    {
+      "voice": "F1",
+      "id": "EX13.name",
+      "text": "Pompes classiques.",
+      "url": "/assets/audio/v1/F1/EX13.name-b9a77e5bb64c.wav",
+      "checksum": "b9a77e5bb64c34f912e4e1a988e8f86ff0170ab4376e98281c0f18cd7a52189b"
+    },
+    {
+      "voice": "F1",
+      "id": "EX07.name",
+      "text": "Fentes arrière alternées.",
+      "url": "/assets/audio/v1/F1/EX07.name-01b8718baa35.wav",
+      "checksum": "01b8718baa355469862f4eaac898588f2002c90592522e6241fcffdd71934d9a"
+    },
+    {
+      "voice": "F1",
+      "id": "EX07.prepare",
+      "text": "Fentes arrière alternées. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX07.prepare-0b1bff3ba40b.wav",
+      "checksum": "0b1bff3ba40b02c3fc547d87830d5cabe84ed910bc644886df5d8ea3076de8f2"
+    },
+    {
+      "voice": "F1",
+      "id": "EX26.name",
+      "text": "Curl avec bande sous les pieds.",
+      "url": "/assets/audio/v1/F1/EX26.name-56f64d9fa835.wav",
+      "checksum": "56f64d9fa835ba58ea11b182436b0b8034a9feef047676a09ee59f44766995a0"
+    },
+    {
+      "voice": "F1",
+      "id": "EX32.name",
+      "text": "Crunch court.",
+      "url": "/assets/audio/v1/F1/EX32.name-6c1380969c8e.wav",
+      "checksum": "6c1380969c8e44f3b8271d7cf43324f68bf8ad17a6207a8a3abea5eea5292fc7"
+    },
+    {
+      "voice": "F1",
+      "id": "EX36.prepare",
+      "text": "Touchers de talons alternés. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX36.prepare-3f1404efe01c.wav",
+      "checksum": "3f1404efe01cdc29f9c184b35850428ba6fe02a89a472fcbd432503aa569024c"
+    },
+    {
+      "voice": "F1",
+      "id": "EX31.prepare",
+      "text": "Crunch inversé. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX31.prepare-9a35df319157.wav",
+      "checksum": "9a35df319157a2fb3b75165739208c6d5ef0c1ccca0c57616f107551742e899a"
+    },
+    {
+      "voice": "F1",
+      "id": "EX24.prepare",
+      "text": "Extension triceps haltère au-dessus de la tête. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX24.prepare-7e3826f07dab.wav",
+      "checksum": "7e3826f07dabe69c662e9a80cf2c283facfb1c75d5b1bd12766b72cee9ed0680"
+    },
+    {
+      "voice": "F1",
+      "id": "EX23.prepare",
+      "text": "Extension triceps avec bande sous un pied. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX23.prepare-3bf8a28c29a9.wav",
+      "checksum": "3bf8a28c29a9fb56a25c7a30b24f22d0f8ad4ea82b536f0386300f333dbdac8b"
+    },
+    {
+      "voice": "F1",
+      "id": "EX29.prepare",
+      "text": "Dead bug. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX29.prepare-76757224366d.wav",
+      "checksum": "76757224366d68b9acb6318390f7cd4100c99888999e16bec3b2e39cd2403653"
+    },
+    {
+      "voice": "F1",
+      "id": "EX35.name",
+      "text": "Hollow hold groupé.",
+      "url": "/assets/audio/v1/F1/EX35.name-97acc675bd83.wav",
+      "checksum": "97acc675bd831c2ad4df0003b3e33e703761b0e044cc7162004beb2662684616"
+    },
+    {
+      "voice": "F1",
+      "id": "EX21.name",
+      "text": "Écartement de bande devant soi.",
+      "url": "/assets/audio/v1/F1/EX21.name-7a40fa7433dc.wav",
+      "checksum": "7a40fa7433dc4b51b0f7c0df97081030c9d0a1e7210424404f1fa8bbb99bedf6"
+    },
+    {
+      "voice": "F1",
+      "id": "EX14.name",
+      "text": "Pompes mains rapprochées.",
+      "url": "/assets/audio/v1/F1/EX14.name-a36563baaab7.wav",
+      "checksum": "a36563baaab79ffd101030e0279faf5d7d1d257b97b70d7da174e8fbdbe8da9e"
+    },
+    {
+      "voice": "F1",
+      "id": "EX18.prepare",
+      "text": "Élévations latérales légères. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX18.prepare-d55fa068c12d.wav",
+      "checksum": "d55fa068c12d363219a120e3a84a67651a31d52fef3cf90c73b732b704085c5e"
+    },
+    {
+      "voice": "F1",
+      "id": "EX19.name",
+      "text": "Rowing bande sous les pieds.",
+      "url": "/assets/audio/v1/F1/EX19.name-c6cf0ebff98f.wav",
+      "checksum": "c6cf0ebff98f7519c6dcf19a036d71fbc13d86b3d01a0daae95b90fe6dac392f"
+    },
+    {
+      "voice": "F1",
+      "id": "EX06.name",
+      "text": "Squat au poids du corps.",
+      "url": "/assets/audio/v1/F1/EX06.name-383fe517a9e2.wav",
+      "checksum": "383fe517a9e26827715bfe1e32807f28d5891b62acbdf53ac082155e46494645"
+    },
+    {
+      "voice": "F1",
+      "id": "EX12.name",
+      "text": "Pompes sur les genoux.",
+      "url": "/assets/audio/v1/F1/EX12.name-c049e09effe6.wav",
+      "checksum": "c049e09effe641d718519b7a209be5bda5b3c16fa72529e69f3f588ac1dfe6d3"
+    },
+    {
+      "voice": "F1",
+      "id": "EX33.name",
+      "text": "Mountain climbers lents.",
+      "url": "/assets/audio/v1/F1/EX33.name-7ac75fd2dfc1.wav",
+      "checksum": "7ac75fd2dfc1025c8f08cc19a4b49af974b23337630951bbb8e5da96d83ade22"
+    },
+    {
+      "voice": "F1",
+      "id": "EX28.prepare",
+      "text": "Planche latérale genoux fléchis. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX28.prepare-323b6fd1b367.wav",
+      "checksum": "323b6fd1b3679c094d1f22799d012668045db9e67a77087936e59215c4f6513f"
+    },
+    {
+      "voice": "F1",
+      "id": "EX27.name",
+      "text": "Planche sur avant-bras.",
+      "url": "/assets/audio/v1/F1/EX27.name-6e3cba17bcb5.wav",
+      "checksum": "6e3cba17bcb5a8ec1bc7dcf86de848cdebb48a236cc364bfccd1dea645f40176"
+    },
+    {
+      "voice": "F1",
+      "id": "EX19.prepare",
+      "text": "Rowing bande sous les pieds. Prépare-toi.",
+      "url": "/assets/audio/v1/F1/EX19.prepare-6d4a79972eab.wav",
+      "checksum": "6d4a79972eaba891148048c587a2ef65b58cfc40fc40b78b1f5bff8f2b2421d8"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX17.name",
+      "text": "Développé épaules avec haltères.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX17.name-04472b84b5b4.wav",
+      "checksum": "04472b84b5b4fee5129901d4e46ed5d2852b9a39a1960cd588be2e1ad70e1617"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.20",
+      "text": "Vingt répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.20-d7b88cd7db08.wav",
+      "checksum": "d7b88cd7db086ab456fc885fcd9dea72faac18989a2ff2222f368aed8de7719e"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.95",
+      "text": "Quatre-vingt-quinze secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.95-aedfd8ccfa55.wav",
+      "checksum": "aedfd8ccfa55b9dcba9cda7762c3c9a285e8b27dc6bf6a9b61846444eb821438"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.15.per_side",
+      "text": "Quinze répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.15.per_side-fde09787be96.wav",
+      "checksum": "fde09787be968efff2836bde4becc5108c0a08d3100639d1bde43de124ced290"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.115",
+      "text": "Cent quinze secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.115-8f778cfc9529.wav",
+      "checksum": "8f778cfc952903612bbc40c7ee0ed593defc0cd88542c181014c6cbfe20ce75e"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.150",
+      "text": "Cent cinquante secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.150-db21da111a9c.wav",
+      "checksum": "db21da111a9ca1437a211b1142b482b158b7e064f42ced0b7251f4fa15b160d5"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX58.name",
+      "text": "Planche sur avant-bras à levier long.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX58.name-4030a1d36777.wav",
+      "checksum": "4030a1d367772f26c9eabfc7a8682e3af158d5a8981d283ecb4c32e2b32c717b"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.40",
+      "text": "Quarante secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.40-66cfe44fad6b.wav",
+      "checksum": "66cfe44fad6bce39b46323a080f85f80d8d4919e7b3f1fcdb28c93f7a8c26307"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX22.name",
+      "text": "Rétraction scapulaire en W au sol.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX22.name-f0732460182d.wav",
+      "checksum": "f0732460182df3c98b5c9cd5b2e3169f797cc035bb23f07368b310e4cba7a13a"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX36.name",
+      "text": "Touchers de talons alternés.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX36.name-35882db0d7ec.wav",
+      "checksum": "35882db0d7ec90608978df094398c3cda945199d430a56980bd8b0d063d0e682"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.11.per_side",
+      "text": "Onze répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.11.per_side-7563e8a4a68b.wav",
+      "checksum": "7563e8a4a68b8385896649ae6870f17ad017973e210791e6e9a6cace452950d6"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.35",
+      "text": "Trente-cinq secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.35-b6a5d092c344.wav",
+      "checksum": "b6a5d092c344169c06267843c86df2aa67278208ca9d1547201fdafe38c80650"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.2.per_side",
+      "text": "Deux répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.2.per_side-f44a2e0e6ad1.wav",
+      "checksum": "f44a2e0e6ad159413147b8cbdb1fc11aa06e055a9e25bd966f0c29921efe67c1"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.15",
+      "text": "Quinze secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.15-86c82a19b4ec.wav",
+      "checksum": "86c82a19b4ecb912c12e57f8f303fafa24c63925ef871f2d6ae9eb4892c51d94"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.60",
+      "text": "Soixante secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.60-a2077e50da7a.wav",
+      "checksum": "a2077e50da7a7a122fba55fdc6fecb98939d23afb98c317479a55e65de804f17"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX74.name",
+      "text": "Écartés inversés debout avec kit et ancrage de porte.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX74.name-8ca761d37f46.wav",
+      "checksum": "8ca761d37f46fcea16c256492b498a1e9afca87747535663ba364a10cb251056"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "set.2.5",
+      "text": "Série deux sur cinq.",
+      "url": "/assets/audio/v1/M2-deep-v2/set.2.5-c9bf7c0790c9.wav",
+      "checksum": "c9bf7c0790c99c8d887552115e87c370b27fcf7db5fec435661b4602ba680ac7"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX55.name",
+      "text": "Écartés haltères au sol.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX55.name-26aefacf277d.wav",
+      "checksum": "26aefacf277d97f64e94697b451247f69b6ff12c96d24b8e69ae51801d60d7cb"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.16",
+      "text": "Seize répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.16-d07ed5e4f247.wav",
+      "checksum": "d07ed5e4f247221438875aa1fea6d9663bd05cfa6b100b3b07f5593a11d88903"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.170",
+      "text": "Cent soixante-dix secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.170-da06db9c7daf.wav",
+      "checksum": "da06db9c7daf9efd1c8c20578843158c42a061d917287f80f089e9e6f1971ec1"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.6.per_side",
+      "text": "Six répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.6.per_side-9e848ca78977.wav",
+      "checksum": "9e848ca7897788691af6e71d0cd18cc06ce11838d6987c96d46a807e875993d2"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.6",
+      "text": "Six répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.6-e17a3f488614.wav",
+      "checksum": "e17a3f488614ab4034fd574a521e72655095495a5dc4a9740414a8a98da3a7b7"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX41.name",
+      "text": "Cercles d’épaules.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX41.name-4a2befc202b4.wav",
+      "checksum": "4a2befc202b4af68b765b92db51eb2b8e1b2bebccda22356c04df3c35447a46f"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX24.name",
+      "text": "Extension triceps haltère au-dessus de la tête.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX24.name-a98a96ebf2b7.wav",
+      "checksum": "a98a96ebf2b72b547e887eff6e7e7da44767deee69026a73caf21c28fa92309b"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.130",
+      "text": "Cent trente secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.130-114c3532c291.wav",
+      "checksum": "114c3532c2917ff105f7638492b8ab9c8d70ab564bac149f2e44a9c96864785e"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.7",
+      "text": "Sept répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.7-8cdfa97539a3.wav",
+      "checksum": "8cdfa97539a3fd6ba73938688f3c388aef95d370cf89ee11519e8e638ca058f5"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.80",
+      "text": "Quatre-vingts secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.80-6c50fda24f85.wav",
+      "checksum": "6c50fda24f8574bb187af6d4d8689df1949e32e50d53ed7147cb4d2c5b3386b0"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "set.1.1",
+      "text": "Série un sur un.",
+      "url": "/assets/audio/v1/M2-deep-v2/set.1.1-9dea1f66e39c.wav",
+      "checksum": "9dea1f66e39cf0a45ca1c95a876fd16babe15e713efe92177a60522e5743f5ed"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.next_rest",
+      "text": "Récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.next_rest-bbd4bb5419ad.wav",
+      "checksum": "bbd4bb5419add1f8c0a1964e90f4012989477ad410165d0ff13e2b26422bf584"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.17",
+      "text": "Dix-sept répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.17-c58ef37bc080.wav",
+      "checksum": "c58ef37bc08024b57c3828a6d1bce22ce50418e37ae30757b74d36a7db090ac8"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX30.name",
+      "text": "Bird dog.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX30.name-28ed6bdd886d.wav",
+      "checksum": "28ed6bdd886d6f994ee8e58ae6fd936d26b3ae3fa8aced90a053e7a0af09a1fa"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "set.2.4",
+      "text": "Série deux sur quatre.",
+      "url": "/assets/audio/v1/M2-deep-v2/set.2.4-fc4366615e7d.wav",
+      "checksum": "fc4366615e7d2b8532af3b53ac75b1c1b91a23d6b79c13c5e816e8bf438d12e1"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.55",
+      "text": "Cinquante-cinq secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.55-c8e116cf3821.wav",
+      "checksum": "c8e116cf3821ab7922bb6b516580d1e43e89814c9df92d5b4be1a4e3717ed42f"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.5.per_side",
+      "text": "Cinq répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.5.per_side-1561251adea2.wav",
+      "checksum": "1561251adea271ad7ae14fb82c4cc97341f7b55644fadffbd98e11bf36d80f08"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX11.name",
+      "text": "Pompes inclinées.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX11.name-0e5b9cd25345.wav",
+      "checksum": "0e5b9cd25345304bebaeb79fccb22f1c6d7475e954d039710bed63d096a9ed1f"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX05.name",
+      "text": "Montées de genoux sans saut.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX05.name-5f036fd77631.wav",
+      "checksum": "5f036fd776315a9cd42cf6ff33c6d0c9d770b950667f3bc7fe1885556719fb8a"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.20",
+      "text": "Vingt secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.20-f8f97c28a9f7.wav",
+      "checksum": "f8f97c28a9f78fcff9d2b1d7ce8e086dbe5fbfc4e8b39a7ae595cdf5440fca15"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX53.name",
+      "text": "Pompes résistées avec bande plate au haut du dos.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX53.name-fd4bb6c8751a.wav",
+      "checksum": "fd4bb6c8751aaa33392ae6fa1429f93b0d9154b1defe5128db438fc9ad24611b"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.75",
+      "text": "Soixante-quinze secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.75-804b29320b4b.wav",
+      "checksum": "804b29320b4b79efba4d4960d919f61436c3521ad7ef7c8ba0aa644979c1c3ac"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.encourage.control",
+      "text": "Prends ton temps.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.encourage.control-bef7ddc8b3a9.wav",
+      "checksum": "bef7ddc8b3a984418eb697fa277f4780eb0d5fa65bef9da842625b1b75babf64"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX47.name",
+      "text": "Boxe dans le vide sans impact.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX47.name-bad66cd5e58d.wav",
+      "checksum": "bad66cd5e58d640a1eddd35a5ffac9c1ab466a22c8f22b7044830ae388ed2833"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.16.per_side",
+      "text": "Seize répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.16.per_side-5d6690471708.wav",
+      "checksum": "5d66904717086f32c052da6777b907179c8a5633bf61808e94888fa5a781ccef"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX08.prepare",
+      "text": "Fente statique. Prépare-toi.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX08.prepare-92f62c2f1efe.wav",
+      "checksum": "92f62c2f1efe023387e5c8e100703cd420476ba038817a602078f13ec736a9c1"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.110",
+      "text": "Cent dix secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.110-13bf7071940a.wav",
+      "checksum": "13bf7071940a3774b06a6fdd785bb314c82077b0d18a2e61b703418e90a20a1f"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX08.name",
+      "text": "Fente statique.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX08.name-ebda3019f85d.wav",
+      "checksum": "ebda3019f85d5bd155818960626765bf0df8a9c27580024d23b528bfa0e63831"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.resume",
+      "text": "On reprend.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.resume-ed741912e9e5.wav",
+      "checksum": "ed741912e9e56e9ff03b2642c58d9c22d306f8fdbc97ed3573f2cf7fda94b064"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX72.name",
+      "text": "Rowing debout avec kit et ancrage de porte.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX72.name-a334c7fe486a.wav",
+      "checksum": "a334c7fe486a6e763614a4cd5172caf2e2074c957475437d4452bb670aa261f3"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.start",
+      "text": "C’est parti.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.start-825cee9caece.wav",
+      "checksum": "825cee9caece92a4681737df74211a6ac04d2661e92db10c4f81ea397387617d"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.welcome",
+      "text": "Bienvenue chez Tempo. On s’entraîne à ton rythme.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.welcome-8070d3a1118d.wav",
+      "checksum": "8070d3a1118de5f601ade0faea3e98950b39ba50e527cb7b39c6f334d27ef6f1"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.70",
+      "text": "Soixante-dix secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.70-8c398f447557.wav",
+      "checksum": "8c398f447557fe26178fe3534391cb06f3d89da22f48ffc087c765a3c3286730"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX02.name",
+      "text": "Step jacks sans saut.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX02.name-d5a92a674705.wav",
+      "checksum": "d5a92a674705240e66668836cc523082f89c9ec4a66a1cd5f5264c2e2c1c0d24"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX16.name",
+      "text": "Développé haltères au sol.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX16.name-0329d803658b.wav",
+      "checksum": "0329d803658be522a3b6508588ba898181c073a9eab962012f477005112f7df9"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.pause",
+      "text": "Séance en pause.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.pause-d23d5c7c2fd0.wav",
+      "checksum": "d23d5c7c2fd09126a9851fb058607647fb5cb0df20fc76a22caea9da51c81090"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.18.per_side",
+      "text": "Dix-huit répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.18.per_side-614ab05fb25d.wav",
+      "checksum": "614ab05fb25d7d40a951ab3944a440b1f40c2f29c7b443d5b3ba0e9fad2ab053"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX37.name",
+      "text": "Squat goblet léger.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX37.name-28cd94f5e9a6.wav",
+      "checksum": "28cd94f5e9a605e640673f931ca5bf732d57d1142fecd334795cb58d4be17901"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.10",
+      "text": "Dix répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.10-1b15a8faad4b.wav",
+      "checksum": "1b15a8faad4b06e672b3cce4858ab5a425ff2823e69c97a09532c82132b6df68"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "set.4.5",
+      "text": "Série quatre sur cinq.",
+      "url": "/assets/audio/v1/M2-deep-v2/set.4.5-65e1fa513904.wav",
+      "checksum": "65e1fa51390411bd6f4ad3c6ff560ce675d69f1e4da26227aad2b34ea7ea75f8"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.160",
+      "text": "Cent soixante secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.160-f76917677af8.wav",
+      "checksum": "f76917677af8cbd6f52c7ad844f1a0d044c302626a4e6e6fa7eef64cb378e857"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX26.v2.name",
+      "text": "Curl avec tubes et poignées.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX26.v2.name-41e14a2b342b.wav",
+      "checksum": "41e14a2b342b4d4a3597c9aeda35b73524f373bd973babee36a2f3e3e1f32405"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.next_summary",
+      "text": "Place au bilan.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.next_summary-bde19545ba5c.wav",
+      "checksum": "bde19545ba5cee3a5d0f43f9a84ace0253fcac3161b5db563d71be498191d7f2"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX23.name",
+      "text": "Extension triceps avec bande sous un pied.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX23.name-b01671883379.wav",
+      "checksum": "b0167188337902bba1da43cd804ce35b11ff109e7c101f2cccb04fd1c4644582"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.105",
+      "text": "Cent cinq secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.105-74e22bb0c118.wav",
+      "checksum": "74e22bb0c11825daad4943db60da9d5071b50fbea44fa2f4d095e15fcf1b74cb"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.140",
+      "text": "Cent quarante secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.140-06505ab43fb5.wav",
+      "checksum": "06505ab43fb5e5895b2f24e5de4e757b49fbbfe44768e92dfa824c51039d554f"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX19.v2.prepare",
+      "text": "Rowing avec tubes et poignées. Prépare-toi. Tubes sous les deux pieds. Incline le buste et garde le dos stable.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX19.v2.prepare-62321628c897.wav",
+      "checksum": "62321628c8974a534eb2df3d76493e474e60e9eda8a22dd706c53d02a17f84fe"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.85",
+      "text": "Quatre-vingt-cinq secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.85-c049c3824932.wav",
+      "checksum": "c049c38249320a9352a9172e49b522595274bba8275700242493823199ba4394"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.25",
+      "text": "Vingt-cinq secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.25-849d8a257f87.wav",
+      "checksum": "849d8a257f875393ed7c266005c40bdb25897da4c342085ebf960cc3b24ddd2e"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX40.name",
+      "text": "Rotations thoraciques debout.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX40.name-d21f6db9088e.wav",
+      "checksum": "d21f6db9088e937cc6c68facc860454f2c384bdc51c15000b5295656dad5f7cd"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX54.name",
+      "text": "Développé haltère unilatéral au sol.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX54.name-a60ff44f1e0d.wav",
+      "checksum": "a60ff44f1e0dbdaeff9fc2b7681b4aa5f586689aaf0e145fa6a88c489a90af01"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX74.prepare",
+      "text": "Écartés inversés debout avec kit et ancrage de porte. Prépare-toi. Face à l’ancrage à hauteur d’épaules, genoux souples, bras devant toi et coudes légèrement fléchis.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX74.prepare-37d30874da4c.wav",
+      "checksum": "37d30874da4c6e8c5a32af55e39d5fc23cb89446c6c105d7fda4b8909fdc385e"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX73.prepare",
+      "text": "Extension triceps vers le bas avec kit et ancrage haut. Prépare-toi. Face à la porte, ancrage en haut. Coudes près des côtes, poignées devant le bas de la poitrine.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX73.prepare-7aa19304c648.wav",
+      "checksum": "7aa19304c648518215e4b593ed556681e39f431b3209d95420a528b45b50019c"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.50",
+      "text": "Cinquante secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.50-de594a8f32ce.wav",
+      "checksum": "de594a8f32ce1f10c5eb1f3a691104241036e034ab62fc4d2f78e39d966e5f6e"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX31.name",
+      "text": "Crunch inversé.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX31.name-92a64ef5da7a.wav",
+      "checksum": "92a64ef5da7a7e67d373cb996cccf539f7d626a8f7fddb2beeb90a393b9ee249"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.65",
+      "text": "Soixante-cinq secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.65-e89c80e2b80e.wav",
+      "checksum": "e89c80e2b80e0b57d2b732543f3b7d56d6e1e124e0873eed787f98d44cfc23b6"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.10",
+      "text": "Dix secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.10-48bce1e27944.wav",
+      "checksum": "48bce1e279441391e9233dcef7620b7643e95df6acb56ad87247abacd23bfb43"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX25.name",
+      "text": "Curl haltères.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX25.name-42449ae7abe6.wav",
+      "checksum": "42449ae7abe6f5f9cf04b82f984b77c5641a9f9ac25f5c32f9c1af8b5edfb97a"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX04.name",
+      "text": "Corde à sauter, saut simple.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX04.name-6c6c2e62e4a1.wav",
+      "checksum": "6c6c2e62e4a1680f3cf57d2aecaa3096418d10e493c2af8d6044c46b78063278"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.100",
+      "text": "Cent secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.100-6e5cd5e8f31b.wav",
+      "checksum": "6e5cd5e8f31bfd231069ebf558c0d993ff405a2e1785c0a8a11a70267185176c"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.8.per_side",
+      "text": "Huit répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.8.per_side-4aa83ae0428c.wav",
+      "checksum": "4aa83ae0428ccfc1a1e2e8ffab8c0f8e3c714a5f5ad7eb651927a0fe650326ef"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX10.name",
+      "text": "Élévations des mollets.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX10.name-f39f583c8594.wav",
+      "checksum": "f39f583c8594a8419622a04a269278ddbf860b4865f250b9a9874d8c3be9576a"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.side.2",
+      "text": "Deuxième côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.side.2-5180450d3473.wav",
+      "checksum": "5180450d347348f6978114fe1fe5a5785af0d631e6437f93742e0c5afeb3f98f"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX46.name",
+      "text": "Étirement ischio-jambiers allongé.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX46.name-ce660d2c1389.wav",
+      "checksum": "ce660d2c1389c8e2641186b410ef938d0dfe0cc01fcc61f7ae1b07cbcc94088e"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "set.4.4",
+      "text": "Série quatre sur quatre.",
+      "url": "/assets/audio/v1/M2-deep-v2/set.4.4-753312fe71ab.wav",
+      "checksum": "753312fe71ab056d064d240ddf49913612ea0b57dc3edb422afbf7f6de5a5f48"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX28.name",
+      "text": "Planche latérale genoux fléchis.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX28.name-ace94506befd.wav",
+      "checksum": "ace94506befd2e8419facb93370ffd95578b682ee249b55748d70c2517626f3e"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX72.prepare",
+      "text": "Rowing debout avec kit et ancrage de porte. Prépare-toi. Face à l’ancrage à hauteur du bas de la poitrine, genoux souples, poignées devant toi et bras allongés.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX72.prepare-5f7c8100b6cd.wav",
+      "checksum": "5f7c8100b6cd0f3ee821ac35f027f43fa194c6f794041078ecb5161f92d642d6"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.90",
+      "text": "Quatre-vingt-dix secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.90-47fae660f18a.wav",
+      "checksum": "47fae660f18aac0ee93b4fdbb62d370f208b9b07a49cc42b5e4b3ebb98f2bb24"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.11",
+      "text": "Onze répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.11-fb2c52f44eae.wav",
+      "checksum": "fb2c52f44eae0c116e0f1aa935b1db11b7c23af857796cf24f35eb746fe01c5c"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX52.name",
+      "text": "Pompes pliométriques sans claquement.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX52.name-67a156bf15af.wav",
+      "checksum": "67a156bf15afd936304b16bfb31939e86e803c59df82a9adddb03e451213a7c3"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.120",
+      "text": "Cent vingt secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.120-19c17ff83c52.wav",
+      "checksum": "19c17ff83c52c5da2eeb3cf04c7e892b050e29511c375a68ef5ed5ad2bb5ddfe"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX09.name",
+      "text": "Pont fessier.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX09.name-e12781a7c07f.wav",
+      "checksum": "e12781a7c07fc5fa15f5b05c3ab1505fd08c348bd5ba3f7038c9c3b2025efaa8"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "set.2.2",
+      "text": "Série deux sur deux.",
+      "url": "/assets/audio/v1/M2-deep-v2/set.2.2-98d23725e3ed.wav",
+      "checksum": "98d23725e3edfdb1ee226d89e6c28a9afd3190720c6edc932ed7e2e41c2f1bc2"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.5",
+      "text": "Cinq secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.5-7d129b45779c.wav",
+      "checksum": "7d129b45779c5f902d195ec6ab55849b6a7952d07c10656a3590eb2a96190330"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX73.name",
+      "text": "Extension triceps vers le bas avec kit et ancrage haut.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX73.name-d1bb3cf8a0ba.wav",
+      "checksum": "d1bb3cf8a0ba59619d0f5c1e4da20706c84ea27c017913d155d0dbcb9adb1902"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.rest_extend",
+      "text": "Quinze secondes de récupération en plus.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.rest_extend-bb09f5b76ea1.wav",
+      "checksum": "bb09f5b76ea16a34b3b775b1c8e8e442e2921a0d823f7019abdc790d367a981b"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX32.prepare",
+      "text": "Crunch court. Prépare-toi.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX32.prepare-55f8dc359b23.wav",
+      "checksum": "55f8dc359b236d9caa210c20c1ce0c8617825479a2c96d42946e91d696e05545"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.45",
+      "text": "Quarante-cinq secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.45-53333cd135bb.wav",
+      "checksum": "53333cd135bbb9604e2016ff8ed9b9b981d32e86acbbc0a1999d77c5e79114d0"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.135",
+      "text": "Cent trente-cinq secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.135-0a9fda48110c.wav",
+      "checksum": "0a9fda48110cb5e39eb2b3500a52f009e67f7484ee31d81a7096ef95f8069405"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX01.prepare",
+      "text": "Marche active sur place. Prépare-toi.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX01.prepare-34d4eccb1b7c.wav",
+      "checksum": "34d4eccb1b7cc3205f7411ef820be555470bbe5888d31ae483333c3420109d0d"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.2",
+      "text": "Deux répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.2-11096b6f5624.wav",
+      "checksum": "11096b6f56245adbaab2cdb57d9f3c79c15ad66ae388d0f2f9af3ea7b3ab6c96"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX20.name",
+      "text": "Rowing haltère unilatéral sans banc.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX20.name-7e0d599cc2d8.wav",
+      "checksum": "7e0d599cc2d8328e71e19d141d6272976dceac2c0f639a864acc327e1034668f"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.85",
+      "text": "Quatre-vingt-cinq secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.85-6bbf015da53b.wav",
+      "checksum": "6bbf015da53ba9e8670715c364030d67d78c87739484d6ff4c9ff2039c7267bf"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.9.per_side",
+      "text": "Neuf répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.9.per_side-a4cc8b2cdad3.wav",
+      "checksum": "a4cc8b2cdad377fca5baaea65de0f8b01de4668d9fae75529537b3a95db5fa82"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX34.name",
+      "text": "Roue abdominale à genoux, amplitude courte.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX34.name-436e44b2234d.wav",
+      "checksum": "436e44b2234d0e55d1f4317eead048574c8a39003c5f0db4d22fa307d09142d5"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "set.1.4",
+      "text": "Série un sur quatre.",
+      "url": "/assets/audio/v1/M2-deep-v2/set.1.4-d28e8197b862.wav",
+      "checksum": "d28e8197b862027226b99242edc04cdb729a112d4b2e7b866f5369b9a734f0c5"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX13.prepare",
+      "text": "Pompes classiques. Prépare-toi.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX13.prepare-8e550eb05b41.wav",
+      "checksum": "8e550eb05b41fe13ec070cb64b7a58a28d4f8454a05de6f619420a6832bdee05"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX15.name",
+      "text": "Développé poitrine avec bande derrière le dos.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX15.name-1e453593278b.wav",
+      "checksum": "1e453593278bd8f600742ce71debfc7356142c449dc6dfbdf492e3c7ca536ed5"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.50",
+      "text": "Cinquante secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.50-69ba2cfe000b.wav",
+      "checksum": "69ba2cfe000b5bcb71b892192a7fdc5c38a18dc8398fb5bbe32a0ab4af510725"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "set.3.5",
+      "text": "Série trois sur cinq.",
+      "url": "/assets/audio/v1/M2-deep-v2/set.3.5-a254b51da5d7.wav",
+      "checksum": "a254b51da5d7ef1c0b54d3741f55303a9bac18dd460f08e9a95934d74ccbfd38"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX01.name",
+      "text": "Marche active sur place.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX01.name-f8b8d876612d.wav",
+      "checksum": "f8b8d876612d5c3459981853be106c573c10460094e9468f197938cd71c9e20c"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.25",
+      "text": "Vingt-cinq secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.25-34d0c150d62e.wav",
+      "checksum": "34d0c150d62e6413b28e4d39f798259fa056c7617136abbc997d406c1714598b"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX57.name",
+      "text": "Planche latérale jambes tendues.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX57.name-b5e6a4131731.wav",
+      "checksum": "b5e6a41317319bae961f4bde1b6fbd38c27d9d555f27de33dfccf7671ff2da7b"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX70.prepare",
+      "text": "Développé poitrine debout avec kit et ancrage de porte. Prépare-toi. Ancrage derrière toi à hauteur de poitrine. Pieds décalés, poignées près de la poitrine et coudes fléchis.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX70.prepare-4571c2990464.wav",
+      "checksum": "4571c29904641fc1466e6dd82b07eb728ae9a1087e1d2f20a1db436f2abed17b"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.70",
+      "text": "Soixante-dix secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.70-f909b2b86ee1.wav",
+      "checksum": "f909b2b86ee1551874ee71809f68d78025aa72cd7bdbc755b54378070b5d1baf"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX39.name",
+      "text": "Fente latérale alternée.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX39.name-fbb01061acef.wav",
+      "checksum": "fbb01061acef5025a89ea430c9bf5c5aeae8dd8c53e0458ed755ec01210d451a"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX43.name",
+      "text": "Ouverture de poitrine debout.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX43.name-297d707cdc00.wav",
+      "checksum": "297d707cdc00038162b104da49f80aa062bff0ea102f46a739c0a33b42ba211e"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX18.name",
+      "text": "Élévations latérales légères.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX18.name-e75aee79b248.wav",
+      "checksum": "e75aee79b2489beae40fb4e4e429c8d689c28516035149a45603cd9aa56b78e7"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.115",
+      "text": "Cent quinze secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.115-719e465e531d.wav",
+      "checksum": "719e465e531dc935fc9d36e6dbb7f759bf2d0397dbcfe7b154021d974881f350"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX26.v2.prepare",
+      "text": "Curl avec tubes et poignées. Prépare-toi. Tubes sous les deux pieds. Garde les coudes près du buste.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX26.v2.prepare-e85ae50f5e93.wav",
+      "checksum": "e85ae50f5e930a6c29ed6d0985f3de643c5250a6aab43749a878796d355503fd"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.side.1",
+      "text": "Premier côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.side.1-e14da40775d6.wav",
+      "checksum": "e14da40775d6ba649e62225226f1d6645035e2714417b31d2f9be2ca2d29e483"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.90",
+      "text": "Quatre-vingt-dix secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.90-dcfa901bedbc.wav",
+      "checksum": "dcfa901bedbc8a33bbd5f423f845530366d81c6587eb5125da3b065c470b6bb4"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX13.name",
+      "text": "Pompes classiques.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX13.name-a9b9d37962c2.wav",
+      "checksum": "a9b9d37962c2e31e93e83c85142bc33c5ab86f99012d2ecb9acc5511d0c18c82"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX07.name",
+      "text": "Fentes arrière alternées.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX07.name-dec15e561996.wav",
+      "checksum": "dec15e56199621b7204c106b6f59c91cd9c0e6f9d2c4a1dd051a724c37e3b8fa"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.110",
+      "text": "Cent dix secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.110-a20ff66db58a.wav",
+      "checksum": "a20ff66db58aaf3030e69b28e29b99813423f0efac0428a92acce340c79fb4ef"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.155",
+      "text": "Cent cinquante-cinq secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.155-964c6732c911.wav",
+      "checksum": "964c6732c911a30e51f07ad8a24a8f2e11ca4cca7621604fb2e0d830ea7c4f55"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.19.per_side",
+      "text": "Dix-neuf répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.19.per_side-5f89f70f6e6b.wav",
+      "checksum": "5f89f70f6e6b0a7adfc7038d6d01585c14cb0d32c87feb6ff353b3c70c174f6c"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX26.name",
+      "text": "Curl avec bande sous les pieds.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX26.name-7425a8231ea9.wav",
+      "checksum": "7425a8231ea9b4a1fc889b399edd6780c9154832f1cbf40088fa4b3b3e394090"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.45",
+      "text": "Quarante-cinq secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.45-e75444349105.wav",
+      "checksum": "e75444349105f9d7048c09f68286b3f161e04b9296abf44c318c78ab89a3066d"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.20.per_side",
+      "text": "Vingt répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.20.per_side-2d37dc266f75.wav",
+      "checksum": "2d37dc266f757a4c10a65ab1c446219798c33a1d073bb66e7a0fdd5292f1acfe"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX48.name",
+      "text": "Pas de patineur sans saut.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX48.name-39de853bef35.wav",
+      "checksum": "39de853bef3580bda2367ffbd4bb810e227b41ec24617bf073ac7b5a68d81449"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.rest_generic",
+      "text": "Prends le temps de récupérer.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.rest_generic-bac9ecdd39a3.wav",
+      "checksum": "bac9ecdd39a300f176f66ee9daa7fde8bee1acd4785942d2e5f5f43082ced85b"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.180",
+      "text": "Cent quatre-vingts secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.180-ad0385382a71.wav",
+      "checksum": "ad0385382a717474dd33e5f80304efabd26e2a2bd398cb7bb4a1924a7175a823"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.complete",
+      "text": "Séance terminée.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.complete-7f005879be99.wav",
+      "checksum": "7f005879be991ed176a54e3fce8da0ee7d2da00e1a40c4f890a15859f8aa5b26"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.30",
+      "text": "Trente secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.30-b7a8199e3f49.wav",
+      "checksum": "b7a8199e3f494aebda6af181ccff8460612f872c007fbc3b699291703794178f"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX32.name",
+      "text": "Crunch court.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX32.name-8cc78bd75153.wav",
+      "checksum": "8cc78bd75153c509d1142d625501c0e9995902726c3e7dbb37997d33b349955c"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.10",
+      "text": "Dix secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.10-c2fb92012b9d.wav",
+      "checksum": "c2fb92012b9dcefadfd7ea9e70f72877fa58fe66848e51dfe02692d6cb18d4eb"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "set.3.4",
+      "text": "Série trois sur quatre.",
+      "url": "/assets/audio/v1/M2-deep-v2/set.3.4-e1e490c537a2.wav",
+      "checksum": "e1e490c537a269c21d5acdfe70627cc35455e9547b2493e1adc0757b80ddc08d"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.65",
+      "text": "Soixante-cinq secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.65-9a1890843fe4.wav",
+      "checksum": "9a1890843fe4122d954820936f36e7be7fb4e1fc7fff73821d24fdfb5228a6e1"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.next_switch",
+      "text": "Changement de côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.next_switch-c79760ddb0d9.wav",
+      "checksum": "c79760ddb0d9de9792e9f44cfdd5a6e09a450320e09c62906a03449f5bb2250b"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX70.name",
+      "text": "Développé poitrine debout avec kit et ancrage de porte.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX70.name-60361b039221.wav",
+      "checksum": "60361b039221b47ce11f80a350fab182762fad4df57dfc2ab12ecccfdea67f1b"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX71.prepare",
+      "text": "Écartés poitrine debout avec kit et ancrage de porte. Prépare-toi. Dos à l’ancrage à hauteur d’épaules, pieds décalés, bras ouverts et coudes légèrement fléchis.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX71.prepare-429f3c71e3a4.wav",
+      "checksum": "429f3c71e3a4a8a452f76a98bc476aa8383ce4aa54b256b75960d33e31589bb1"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.13",
+      "text": "Treize répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.13-ad1d27c3045a.wav",
+      "checksum": "ad1d27c3045af7764e9b21e07edbf2b82e85e20950f03ca53fafe8174873be29"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "set.1.5",
+      "text": "Série un sur cinq.",
+      "url": "/assets/audio/v1/M2-deep-v2/set.1.5-648a6cee709f.wav",
+      "checksum": "648a6cee709f684f4239d3d9e85e1721ca21928de92211e04bf0f702523065b0"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.175",
+      "text": "Cent soixante-quinze secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.175-db32f4afcc63.wav",
+      "checksum": "db32f4afcc6341bc083511a20aecf33834f8bfa40520069b067541b908dd6fb3"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX51.name",
+      "text": "Pompes archer avec deux mains au sol.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX51.name-ee475eeb0892.wav",
+      "checksum": "ee475eeb089267e89d82ea39ebdaec4579ec76e976320b638b025d21c26ac6a9"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX45.name",
+      "text": "Étirement fléchisseurs de hanche à genoux.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX45.name-ae5d0cabb723.wav",
+      "checksum": "ae5d0cabb723260724c300e3a42fd5a61511020636db17e21d219a0a2f0e0969"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.3",
+      "text": "Trois répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.3-d6b44da87fef.wav",
+      "checksum": "d6b44da87fefc1e603bcc367a1af1dbdab8706b2ed083247dbec2378534c705b"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX29.prepare",
+      "text": "Dead bug. Prépare-toi.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX29.prepare-4221af58dfc0.wav",
+      "checksum": "4221af58dfc06003199affffcc9de643cc7a5ec76cf04844c03099accd7131bd"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX35.name",
+      "text": "Hollow hold groupé.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX35.name-644c240b69bf.wav",
+      "checksum": "644c240b69bf3bdbaa27411e551b6ec936aa8522f0e33d11a2056324dfc0bc95"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.60",
+      "text": "Soixante secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.60-5846a9a39ab7.wav",
+      "checksum": "5846a9a39ab75d89a574e1d5ff68d1933e743146888cc4b54bc7b144e5c4236f"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.8",
+      "text": "Huit répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.8-7453e20c03b2.wav",
+      "checksum": "7453e20c03b2bb6254674f1dd4732e1908aafc46985e2b7d4dba40c250b98e46"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.15",
+      "text": "Quinze secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.15-39a7f995c310.wav",
+      "checksum": "39a7f995c3100391c69d1833c9945e1fb3c8fdbd469bfb9c212fcef7fa5e03e8"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX21.name",
+      "text": "Écartement de bande devant soi.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX21.name-12ebc6978549.wav",
+      "checksum": "12ebc697854976c91888746eecf93e2aed5588292bfbfedf4c21ede971081813"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.18",
+      "text": "Dix-huit répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.18-f599441d4554.wav",
+      "checksum": "f599441d4554954b45b1b0ca7ff11f46003b01d8dd1e9ff0535e2a1a010ac5b6"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.4.per_side",
+      "text": "Quatre répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.4.per_side-1d42d2d47cde.wav",
+      "checksum": "1d42d2d47cde1cccd86f6620b8cb37778ab9704d99849bfd40a4b9cc8451226d"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.105",
+      "text": "Cent cinq secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.105-5c1f289cd76f.wav",
+      "checksum": "5c1f289cd76f150d754bd2a16d1ce7d49712811b3b174abaf7529a8b9b54e20b"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX14.name",
+      "text": "Pompes mains rapprochées.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX14.name-af32bd3d3550.wav",
+      "checksum": "af32bd3d355092f6775eeb326a5af85d0f75f8470d58f2ca3dcf329f4ca186fe"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX38.name",
+      "text": "Charnière de hanches avec bande sous les pieds.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX38.name-a7e168c01022.wav",
+      "checksum": "a7e168c01022360c2ff86586db2cee7c4648fd66d5a0114dd85b28d67444714f"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.4",
+      "text": "Quatre répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.4-4fe680608d9c.wav",
+      "checksum": "4fe680608d9ca82a557f0cb5275e2ed65d3c5ab94d201e4a77125f9c803131bf"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX42.name",
+      "text": "Mobilisation de cheville en fente.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX42.name-148685c9a34d.wav",
+      "checksum": "148685c9a34d1094ce4526ba558a18fcf79b179124fd3ec7be871523ae7a9d13"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.13.per_side",
+      "text": "Treize répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.13.per_side-8b13b35a0c05.wav",
+      "checksum": "8b13b35a0c05db89d6eade06fc1fbc7c4fc3c157db2c28dbb466349e7853ef99"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX56.name",
+      "text": "Développé haltères serrés au sol.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX56.name-7954f9d3a108.wav",
+      "checksum": "7954f9d3a10807d7b0e78a3fb4d53943f147c103e1ddf529a6eb8e61f1624f92"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "set.1.2",
+      "text": "Série un sur deux.",
+      "url": "/assets/audio/v1/M2-deep-v2/set.1.2-f7ca396d15d2.wav",
+      "checksum": "f7ca396d15d256edb3cd6608854dd998337b00a7538f2fe1d6a0064ec3043318"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.95",
+      "text": "Quatre-vingt-quinze secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.95-8bb706da291e.wav",
+      "checksum": "8bb706da291e1df698a0bd2267019063eb0670ff772a291a654a95c819fcab18"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.14",
+      "text": "Quatorze répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.14-67bdbd05a3a0.wav",
+      "checksum": "67bdbd05a3a07a86a729500c9ca157067ad839e793fc38293dfcbd58b4efa94d"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.125",
+      "text": "Cent vingt-cinq secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.125-e94e40232baa.wav",
+      "checksum": "e94e40232baaf80f06dce1f95a6afa4662abc5e7f37029c9607210365ff60d5e"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "set.5.5",
+      "text": "Série cinq sur cinq.",
+      "url": "/assets/audio/v1/M2-deep-v2/set.5.5-e2107bb6e803.wav",
+      "checksum": "e2107bb6e80387b60ed632ef70a94076e52a4636880e2e0746a4460b5f0554f9"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.17.per_side",
+      "text": "Dix-sept répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.17.per_side-e072bdc6a2c9.wav",
+      "checksum": "e072bdc6a2c99f47df8a5bfdaf615c779ef7b42883dc49b3744f356e774083bf"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.35",
+      "text": "Trente-cinq secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.35-6670dba0049e.wav",
+      "checksum": "6670dba0049eb7c5926dfc322e6be98b4653de952606c1e4a9765cf26cee65e7"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.0",
+      "text": "Pas de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.0-c391cd7fc49b.wav",
+      "checksum": "c391cd7fc49bd38cc93a8f155a0c2574b0151908931716511007365642b207dc"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX19.name",
+      "text": "Rowing bande sous les pieds.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX19.name-756713f77d61.wav",
+      "checksum": "756713f77d616f593217a4462b8becf4f9a18f3ef31e9731b21c5c2909b3f829"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "set.3.3",
+      "text": "Série trois sur trois.",
+      "url": "/assets/audio/v1/M2-deep-v2/set.3.3-cca5589800e5.wav",
+      "checksum": "cca5589800e5c5169aa480993c760b4aa397554f539351244a7b067b44d548cc"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.switch",
+      "text": "Change de côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.switch-8eecef7981ee.wav",
+      "checksum": "8eecef7981ee8c8dbe519230cff307cc0e7b89cfbf01965e294e622d99d49996"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.40",
+      "text": "Quarante secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.40-be8635f3c32f.wav",
+      "checksum": "be8635f3c32f51de35b24b7029cd0c8f9d562f6a3b7fb86e612f948709497693"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX19.v2.name",
+      "text": "Rowing avec tubes et poignées.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX19.v2.name-e2e0be392f0b.wav",
+      "checksum": "e2e0be392f0b2fb3c87ba2d230dd4190cd90c22a3920862bd308f20049553bef"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.10.per_side",
+      "text": "Dix répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.10.per_side-c79822a69b99.wav",
+      "checksum": "c79822a69b996433ce7635e55c5dc325481e78b7ef17f348df2e1014ac72b7fe"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX06.name",
+      "text": "Squat au poids du corps.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX06.name-ca07290db9d4.wav",
+      "checksum": "ca07290db9d474c6a717561775fa4eb8ff113cd6c5ba36550246a639a1a3c883"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.75",
+      "text": "Soixante-quinze secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.75-3c2871ead2da.wav",
+      "checksum": "3c2871ead2dabae063b48a5f9e3d7cc6b78d097f80612ae38da72116d234a9af"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX12.name",
+      "text": "Pompes sur les genoux.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX12.name-b95ed80da5d3.wav",
+      "checksum": "b95ed80da5d37489a8a70b99481d23ca945d009e12f9712d795b2b5aca647db8"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.15",
+      "text": "Quinze répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.15-7820a06854ff.wav",
+      "checksum": "7820a06854ff8012491a4e2166319e6f2c63a03f0a97fe7ad0276a6179694317"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX49.name",
+      "text": "Pompes déclinées sur support fixe.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX49.name-fb0dad4012d8.wav",
+      "checksum": "fb0dad4012d860958740313469badee9ac7330bfbac22b2024c75e83a51517cb"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "set.1.3",
+      "text": "Série un sur trois.",
+      "url": "/assets/audio/v1/M2-deep-v2/set.1.3-b6caf8293f6d.wav",
+      "checksum": "b6caf8293f6da46fcaeba9fbf01349449a583957e0662b703f6d6a311daf91fe"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX33.name",
+      "text": "Mountain climbers lents.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX33.name-93b08486a4ab.wav",
+      "checksum": "93b08486a4abe966837a6af1c4543a3a0e5d2e4e16e5899ca5f77a3c2b2bd044"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.14.per_side",
+      "text": "Quatorze répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.14.per_side-b0dc2a56df9a.wav",
+      "checksum": "b0dc2a56df9a94721b6d7588f5bc5b04a1c3bbea6a93d01665f10360ee43f72b"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.165",
+      "text": "Cent soixante-cinq secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.165-da5fd747b8f8.wav",
+      "checksum": "da5fd747b8f8cf691479528182a05ebb655fe65ff328314fec49ac8178514054"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX27.name",
+      "text": "Planche sur avant-bras.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX27.name-7bc3a03ef572.wav",
+      "checksum": "7bc3a03ef5729fc0e6a380584794ed22b0f1fd6a4d72829131f090596e4fc264"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.120",
+      "text": "Cent vingt secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.120-b7fa4602abbd.wav",
+      "checksum": "b7fa4602abbd9406d6964489de92d7252acd0c2c48536c59abf9da015195813f"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.5",
+      "text": "Cinq répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.5-7ba7c3abf8ae.wav",
+      "checksum": "7ba7c3abf8ae900b5b4f9b851cef4ae3a1c552d51d32aabc838d42b7098a3892"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.encourage.finish",
+      "text": "Bien joué.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.encourage.finish-e1cd526b6fb0.wav",
+      "checksum": "e1cd526b6fb0fb6a76ba49cd143624483dca721c62c4dc257428fd5e23bc7cb9"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.100",
+      "text": "Cent secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.100-389c5b058cd2.wav",
+      "checksum": "389c5b058cd2901d8d29c9181e2a38e950333b9c6b8e286b9e7bc18191538ed6"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.145",
+      "text": "Cent quarante-cinq secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.145-fd65ae300f87.wav",
+      "checksum": "fd65ae300f87048d6d00c40d2e0b71543b7eab5dbda310c232b556da8736b78f"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX71.name",
+      "text": "Écartés poitrine debout avec kit et ancrage de porte.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX71.name-38fa2db67534.wav",
+      "checksum": "38fa2db67534f30451c30c5286f91d0b174491c345dcf1104dfcadc66b415ce0"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.7.per_side",
+      "text": "Sept répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.7.per_side-361d6b8db74e.wav",
+      "checksum": "361d6b8db74e48f3e68d5f14187c661aa47ce6b586defae4dd5ceb78562816b0"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "common.next_prepare",
+      "text": "Préparation du prochain exercice.",
+      "url": "/assets/audio/v1/M2-deep-v2/common.next_prepare-e20869c7c1cf.wav",
+      "checksum": "e20869c7c1cf740fae39e0ac195841699615eca488725099e91b1fcbd729a082"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.80",
+      "text": "Quatre-vingts secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.80-1b37965efc8e.wav",
+      "checksum": "1b37965efc8e6ace8fb292694ce4996485dec98f6f644fcd81c1ac92e8d64776"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX44.name",
+      "text": "Posture de repos à genoux.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX44.name-02905dcfa2e6.wav",
+      "checksum": "02905dcfa2e69148e73876c9ab6a784a51adb8bced3b526eaad942c1477fdb2d"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.19",
+      "text": "Dix-neuf répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.19-54a649107d3d.wav",
+      "checksum": "54a649107d3dca37d2a56fc57f7fbe5a807e8d726bca8b8d7c5f6572f4c3231d"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "duration.20",
+      "text": "Vingt secondes.",
+      "url": "/assets/audio/v1/M2-deep-v2/duration.20-fb1b36dc002e.wav",
+      "checksum": "fb1b36dc002eacaceb05b2f37af6fd4dacc74ef6c322f5a3681a2ff48e0c52f0"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.9",
+      "text": "Neuf répétitions.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.9-d0eb3aba816e.wav",
+      "checksum": "d0eb3aba816e1a032193061ca69b7043913d6ed2a90c8c09ac6b35ab0757a8fc"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "rest.55",
+      "text": "Cinquante-cinq secondes de récupération.",
+      "url": "/assets/audio/v1/M2-deep-v2/rest.55-59157ca8f509.wav",
+      "checksum": "59157ca8f509710ab5628e067f69fc64102b842862360ff491fe09e2f80b4a3b"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "EX50.name",
+      "text": "Pompes avec prise modérément large.",
+      "url": "/assets/audio/v1/M2-deep-v2/EX50.name-c8b3f1a97258.wav",
+      "checksum": "c8b3f1a97258d999a53bc82a574ba9d3d8d248c7e6654af981d276a760e078e0"
+    },
+    {
+      "voice": "M2-deep-v2",
+      "id": "reps.3.per_side",
+      "text": "Trois répétitions par côté.",
+      "url": "/assets/audio/v1/M2-deep-v2/reps.3.per_side-153e02da18e2.wav",
+      "checksum": "153e02da18e29a1d1d768f4cb976dff99736b58e0e0f6030fea142930bfb4c73"
+    }
+  ]
+}

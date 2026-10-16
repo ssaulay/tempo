@@ -1,0 +1,131 @@
+{
+  "id": "M1",
+  "gender": "male",
+  "display_name": "Coach masculin solaire",
+  "identity_prompt": "Français de France métropolitain, accent contemporain neutre. Prononciation, rythme et intonation de France, sans accent québécois, canadien, belge ou suisse. Voix adulte jeune, environ 25 à 35 ans, naturelle, dynamique et sympathique. Articulation claire des nombres et du vocabulaire sportif. Timbre masculin médium, clair et chaleureux, sourire audible discret, énergie vive et proximité conversationnelle. Texture humaine légère, cadence souple et respirations discrètes. Éviter voix enfantine, aigu forcé, grave forcé, ton robotique, militaire ou publicitaire.",
+  "voice_id": "voice_r5xchrkg92dd",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni.",
+  "phrase": "Allez, on y va ! Prépare-toi pour les squats. Garde ton rythme et respire. Encore dix secondes, puis tu récupères.",
+  "status": "generated_awaiting_listening",
+  "creation_usage": {
+    "total_tokens": 1052,
+    "total_input_tokens": 296,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 146
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 756,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 756
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 253,
+    "raw_prompt_token": 459,
+    "model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 309
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 761
+          }
+        ],
+        "thoughts_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 253
+          }
+        ]
+      }
+    ],
+    "non_grounding_model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 309
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 761
+          }
+        ],
+        "thoughts_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 253
+          }
+        ]
+      }
+    ]
+  },
+  "synthesis_usage": {
+    "total_tokens": 251,
+    "total_input_tokens": 34,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 34
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 217,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 217
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0,
+    "raw_prompt_token": 982,
+    "model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 226
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 219
+          }
+        ]
+      }
+    ],
+    "non_grounding_model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 226
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 219
+          }
+        ]
+      }
+    ]
+  },
+  "duration_seconds": 8.68,
+  "sample_rate": 24000
+}

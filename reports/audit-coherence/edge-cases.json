@@ -1,0 +1,22 @@
+{
+  "audioChangeLostOnOtherSave": true,
+  "reducedMotion": {
+    "button": "Pause",
+    "ariaLabel": "Étapes",
+    "notice": 1
+  },
+  "removedAllBlocks": {
+    "removed": [
+      "Marche active sur place",
+      "Pont fessier",
+      "Pompes avec prise modérément large",
+      "Planche sur avant-bras",
+      "Rétraction scapulaire en W au sol",
+      "Rotations thoraciques debout"
+    ],
+    "labelBefore": "Jambes\nPectoraux\nDos\nAbdominaux",
+    "labelAfter": "Jambes\nPectoraux\nDos\nAbdominaux"
+  },
+  "navigationAriaCurrent": null,
+  "url": "http://localhost:5174/"
+}

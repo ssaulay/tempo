@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "width": 390,
+      "illustratedExtensions": 21,
+      "staticHolds": true,
+      "sessionStarted": true,
+      "errors": [],
+      "missing": []
+    },
+    {
+      "width": 1440,
+      "illustratedExtensions": 21,
+      "staticHolds": true,
+      "sessionStarted": true,
+      "errors": [],
+      "missing": []
+    }
+  ],
+  "humanTechnicalReviewPerformed": false,
+  "physicalIPhoneTested": false
+}

@@ -1,0 +1,21 @@
+{
+  "edition": "2026-10-12",
+  "exerciseCount": 69,
+  "sourceEntries": 216,
+  "distinctSourceUrls": 208,
+  "draftVariants": [
+    "EX19",
+    "EX26"
+  ],
+  "sourceReferencesChecked": true,
+  "humanApproval": false,
+  "integration": false,
+  "sourceCountIsNotValidationCount": true,
+  "versionSha256": {
+    "strength.json": "05227e0c24ad98fff981d53ef425027fca92004543d98149fbfd4037c5ee676d",
+    "strength.md": "0c2689a9762b4df805613fbeadd0dea2def1e52423a0ea2eb916b6a2b5ee12a7",
+    "reference.json": "a6e74381e6e14466388015e428ae6395b141631361fd6ffad69ac6a228eecfed",
+    "REFERENCE.md": "2a619b5434e526cecbdf97b929e1540cc8011cf1d1bfafed363057d134a94ab9",
+    "tube-variants-draft.md": "9724777a33889276316bd0999e070d9d46cbb15f130386c778c0ff6081838c70"
+  }
+}

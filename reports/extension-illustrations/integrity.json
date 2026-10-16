@@ -1,0 +1,16 @@
+{
+  "illustratedExercises": 21,
+  "sourceSheets": 21,
+  "generatedRasterFiles": 105,
+  "generatedMuscleMaps": 21,
+  "historicalFilesChecked": 326,
+  "historicalFilesChanged": [],
+  "staticHoldGifFrames": {
+    "EX57": 1,
+    "EX58": 1,
+    "EX62": 1
+  },
+  "humanTechnicalReviewPerformed": false,
+  "testsPassed": 76,
+  "buildPassed": true
+}

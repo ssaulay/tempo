@@ -1,0 +1,752 @@
+{
+  "version": 1,
+  "status": "prototype_without_human_review",
+  "variants": [
+    {
+      "id": "EX19",
+      "version": 2,
+      "name": "Rowing avec tubes et poignées",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "horizontal_pull",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        }
+      ],
+      "installation": "Un ou plusieurs tubes reliés aux deux poignées, longueurs symétriques. Maintenir le milieu sous les deux semelles, connecteurs dégagés des appuis. Régler la combinaison avant la série.",
+      "equipmentKey": "tube_handles",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "back",
+          "lats"
+        ],
+        "secondary": [
+          "biceps",
+          "posterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "back"
+      ],
+      "angle": "trois quarts latéral",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Tubes sous les deux pieds, bras allongés",
+          "description": "Tubes sous les deux pieds, bras allongés",
+          "postureCues": [
+            "Garde le buste incliné stable et tire les coudes vers les flancs.",
+            "Les deux semelles restent en appui et les poignées restent prises."
+          ],
+          "breathing": "Expire pendant le tirage, inspire au retour contrôlé.",
+          "asset": "step-01.webp",
+          "alt": "Rowing avec tubes et poignées, position 1 : tubes sous les deux pieds, bras allongés, tubes ronds et poignées visibles."
+        },
+        {
+          "id": 2,
+          "title": "Tirer les poignées vers les flancs",
+          "description": "Tirer les poignées vers les flancs",
+          "postureCues": [
+            "Garde le buste incliné stable et tire les coudes vers les flancs.",
+            "Les deux semelles restent en appui et les poignées restent prises."
+          ],
+          "breathing": "Expire pendant le tirage, inspire au retour contrôlé.",
+          "asset": "step-02.webp",
+          "alt": "Rowing avec tubes et poignées, position 2 : tirer les poignées vers les flancs, tubes ronds et poignées visibles."
+        },
+        {
+          "id": 3,
+          "title": "Allonger les bras en contrôle",
+          "description": "Allonger les bras en contrôle",
+          "postureCues": [
+            "Garde le buste incliné stable et tire les coudes vers les flancs.",
+            "Les deux semelles restent en appui et les poignées restent prises."
+          ],
+          "breathing": "Expire pendant le tirage, inspire au retour contrôlé.",
+          "asset": "step-03.webp",
+          "alt": "Rowing avec tubes et poignées, position 3 : allonger les bras en contrôle, tubes ronds et poignées visibles."
+        }
+      ],
+      "errors": [
+        "Modifier l’inclinaison du tronc pendant le tirage",
+        "Laisser glisser le tube ou tirer de façon asymétrique"
+      ],
+      "tip": "Garde le buste incliné stable et tire les coudes vers les flancs.",
+      "breathing": "Expire pendant le tirage, inspire au retour contrôlé.",
+      "variants": [
+        "EX20"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "equipmentVariant": "tube",
+      "requiresBandHandles": true,
+      "audioKey": "EX19.v2",
+      "preparationCue": "Tubes sous les deux pieds. Incline le buste et garde le dos stable."
+    },
+    {
+      "id": "EX26",
+      "version": 2,
+      "name": "Curl avec tubes et poignées",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "elbow_flexion",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        }
+      ],
+      "installation": "Un ou plusieurs tubes reliés aux deux poignées, longueurs symétriques. Maintenir le milieu sous les deux semelles, connecteurs dégagés des appuis. Régler la combinaison avant la série.",
+      "equipmentKey": "tube_handles",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "biceps"
+        ],
+        "secondary": [
+          "forearms"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "arms"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Tubes sous les deux pieds, mains basses",
+          "description": "Tubes sous les deux pieds, mains basses",
+          "postureCues": [
+            "Garde les coudes près du buste, sans te balancer.",
+            "Les deux semelles restent en appui et les poignées restent prises."
+          ],
+          "breathing": "Expire en pliant les coudes, inspire en redescendant.",
+          "asset": "step-01.webp",
+          "alt": "Curl avec tubes et poignées, position 1 : tubes sous les deux pieds, mains basses, tubes ronds et poignées visibles."
+        },
+        {
+          "id": 2,
+          "title": "Fléchir les coudes sans déplacer le buste",
+          "description": "Fléchir les coudes sans déplacer le buste",
+          "postureCues": [
+            "Garde les coudes près du buste, sans te balancer.",
+            "Les deux semelles restent en appui et les poignées restent prises."
+          ],
+          "breathing": "Expire en pliant les coudes, inspire en redescendant.",
+          "asset": "step-02.webp",
+          "alt": "Curl avec tubes et poignées, position 2 : fléchir les coudes sans déplacer le buste, tubes ronds et poignées visibles."
+        },
+        {
+          "id": 3,
+          "title": "Redescendre les poignées en contrôle",
+          "description": "Redescendre les poignées en contrôle",
+          "postureCues": [
+            "Garde les coudes près du buste, sans te balancer.",
+            "Les deux semelles restent en appui et les poignées restent prises."
+          ],
+          "breathing": "Expire en pliant les coudes, inspire en redescendant.",
+          "asset": "step-03.webp",
+          "alt": "Curl avec tubes et poignées, position 3 : redescendre les poignées en contrôle, tubes ronds et poignées visibles."
+        }
+      ],
+      "errors": [
+        "Balancer le buste pour remonter les poignées",
+        "Avancer les coudes ou laisser glisser le tube"
+      ],
+      "tip": "Garde les coudes près du buste, sans te balancer.",
+      "breathing": "Expire en pliant les coudes, inspire en redescendant.",
+      "variants": [
+        "EX25"
+      ],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "equipmentVariant": "tube",
+      "requiresBandHandles": true,
+      "audioKey": "EX26.v2",
+      "preparationCue": "Tubes sous les deux pieds. Garde les coudes près du buste."
+    },
+    {
+      "id": "EX17",
+      "version": 2,
+      "name": "Développé épaules avec tubes et poignées",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "vertical_push",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        }
+      ],
+      "installation": "Kit de tubes avec deux poignées à mousquetons. Maintien sous les chaussures adapté au matériel, semelles et surface non abrasives. Vérifie tubes, poignées et connexions avant chaque série. Poignées à hauteur des épaules, coudes fléchis, pieds stables sur le milieu des tubes.",
+      "equipmentKey": "tube_handles",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "shoulders",
+          "triceps"
+        ],
+        "secondary": [
+          "upper_back"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "shoulders",
+        "arms"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Poignées à hauteur des épaules, coudes fléchis, pieds stables sur le milieu des tubes.",
+          "postureCues": [
+            "Poignées à hauteur des épaules, coudes fléchis, pieds stables sur le milieu des tubes."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Développé épaules avec tubes et poignées : Poignées à hauteur des épaules, coudes fléchis, pieds stables sur le milieu des tubes."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Pousse les poignées au-dessus des épaules sans creuser le dos.",
+          "postureCues": [
+            "Pousse les poignées au-dessus des épaules sans creuser le dos."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Développé épaules avec tubes et poignées : Pousse les poignées au-dessus des épaules sans creuser le dos."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Ramène les poignées aux épaules en freinant le retour. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Ramène les poignées aux épaules en freinant le retour. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Développé épaules avec tubes et poignées : Ramène les poignées aux épaules en freinant le retour. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "errors": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "tip": "Garde le tronc stable pendant la poussée.",
+      "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "equipmentVariant": "tube",
+      "requiresBandHandles": true,
+      "bandMount": "under_feet",
+      "audioKey": "EX17.v2",
+      "preparationCue": "Poignées à hauteur des épaules, coudes fléchis, pieds stables sur le milieu des tubes.",
+      "relatedExercises": [
+        "EX17"
+      ],
+      "documentaryExtension": true
+    },
+    {
+      "id": "EX18",
+      "version": 2,
+      "name": "Élévations latérales avec tubes et poignées",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "shoulder_abduction",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        }
+      ],
+      "installation": "Kit de tubes avec deux poignées à mousquetons. Maintien sous les chaussures adapté au matériel, semelles et surface non abrasives. Vérifie tubes, poignées et connexions avant chaque série. Debout sur le milieu des tubes, une poignée de chaque côté des cuisses, coudes légèrement fléchis.",
+      "equipmentKey": "tube_handles",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "lateral_deltoids"
+        ],
+        "secondary": [],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "shoulders"
+      ],
+      "angle": "face",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Debout sur le milieu des tubes, une poignée de chaque côté des cuisses, coudes légèrement fléchis.",
+          "postureCues": [
+            "Debout sur le milieu des tubes, une poignée de chaque côté des cuisses, coudes légèrement fléchis."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Élévations latérales avec tubes et poignées : Debout sur le milieu des tubes, une poignée de chaque côté des cuisses, coudes légèrement fléchis."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Lève les bras sur les côtés dans une amplitude confortable, jusqu’à hauteur des épaules au maximum.",
+          "postureCues": [
+            "Lève les bras sur les côtés dans une amplitude confortable, jusqu’à hauteur des épaules au maximum."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Élévations latérales avec tubes et poignées : Lève les bras sur les côtés dans une amplitude confortable, jusqu’à hauteur des épaules au maximum."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Abaisse les poignées lentement sans hausser les épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Abaisse les poignées lentement sans hausser les épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Élévations latérales avec tubes et poignées : Abaisse les poignées lentement sans hausser les épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "errors": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "tip": "Garde le même léger pli aux coudes.",
+      "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "equipmentVariant": "tube",
+      "requiresBandHandles": true,
+      "bandMount": "under_feet",
+      "audioKey": "EX18.v2",
+      "preparationCue": "Debout sur le milieu des tubes, une poignée de chaque côté des cuisses, coudes légèrement fléchis.",
+      "relatedExercises": [
+        "EX18"
+      ],
+      "documentaryExtension": true
+    },
+    {
+      "id": "EX23",
+      "version": 2,
+      "name": "Extension triceps au-dessus de la tête avec tubes",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "elbow_extension",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        }
+      ],
+      "installation": "Kit de tubes avec deux poignées à mousquetons. Maintien sous les chaussures adapté au matériel, semelles et surface non abrasives. Vérifie tubes, poignées et connexions avant chaque série. Pieds décalés, milieu des tubes maintenu sous le pied arrière. Tiens une poignée dans chaque main derrière la tête, bras dirigés vers le haut.",
+      "equipmentKey": "tube_handles",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "triceps"
+        ],
+        "secondary": [
+          "shoulders"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "arms"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Pieds décalés, milieu des tubes maintenu sous le pied arrière. Tiens une poignée dans chaque main derrière la tête, bras dirigés vers le haut.",
+          "postureCues": [
+            "Pieds décalés, milieu des tubes maintenu sous le pied arrière. Tiens une poignée dans chaque main derrière la tête, bras dirigés vers le haut."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Extension triceps au-dessus de la tête avec tubes : Pieds décalés, milieu des tubes maintenu sous le pied arrière. Tiens une poignée dans chaque main derrière la tête, bras dirigés vers le haut."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Allonge les coudes pour monter les poignées au-dessus de la tête, sans déplacer le tronc.",
+          "postureCues": [
+            "Allonge les coudes pour monter les poignées au-dessus de la tête, sans déplacer le tronc."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Extension triceps au-dessus de la tête avec tubes : Allonge les coudes pour monter les poignées au-dessus de la tête, sans déplacer le tronc."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Replie les coudes doucement, sans relâcher les poignées. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Replie les coudes doucement, sans relâcher les poignées. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Extension triceps au-dessus de la tête avec tubes : Replie les coudes doucement, sans relâcher les poignées. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "errors": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "tip": "Bouge les avant-bras et garde les bras près de la tête.",
+      "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis.",
+        "Bande plate et tubes distincts. Noyau du mouvement recoupé, montage Decathlon spécifique, distance tête/tubes et sortie sans revue humaine."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "equipmentVariant": "tube",
+      "requiresBandHandles": true,
+      "bandMount": "under_feet",
+      "audioKey": "EX23.v2",
+      "preparationCue": "Pieds décalés, milieu des tubes maintenu sous le pied arrière. Tiens une poignée dans chaque main derrière la tête, bras dirigés vers le haut.",
+      "relatedExercises": [
+        "EX23"
+      ],
+      "documentaryExtension": true
+    },
+    {
+      "id": "EX37",
+      "version": 2,
+      "name": "Squat avec tubes et poignées aux épaules",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "beginner",
+      "movementPattern": "squat",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        }
+      ],
+      "installation": "Kit de tubes avec deux poignées à mousquetons. Maintien sous les chaussures adapté au matériel, semelles et surface non abrasives. Vérifie tubes, poignées et connexions avant chaque série. Deux pieds sur le milieu des tubes. Monte une poignée près de chaque épaule, tubes à l’extérieur des jambes.",
+      "equipmentKey": "tube_handles",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "quadriceps",
+          "glutes"
+        ],
+        "secondary": [
+          "hamstrings"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "legs",
+        "glutes"
+      ],
+      "angle": "trois quarts avant",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Deux pieds sur le milieu des tubes. Monte une poignée près de chaque épaule, tubes à l’extérieur des jambes.",
+          "postureCues": [
+            "Deux pieds sur le milieu des tubes. Monte une poignée près de chaque épaule, tubes à l’extérieur des jambes."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Squat avec tubes et poignées aux épaules : Deux pieds sur le milieu des tubes. Monte une poignée près de chaque épaule, tubes à l’extérieur des jambes."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Fléchis les genoux et abaisse le bassin dans une amplitude maîtrisée, talons au sol.",
+          "postureCues": [
+            "Fléchis les genoux et abaisse le bassin dans une amplitude maîtrisée, talons au sol."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Squat avec tubes et poignées aux épaules : Fléchis les genoux et abaisse le bassin dans une amplitude maîtrisée, talons au sol."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Redresse les jambes et les hanches, poignées toujours près des épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Redresse les jambes et les hanches, poignées toujours près des épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Squat avec tubes et poignées aux épaules : Redresse les jambes et les hanches, poignées toujours près des épaules. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "errors": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "tip": "Les genoux suivent la direction des pieds.",
+      "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "equipmentVariant": "tube",
+      "requiresBandHandles": true,
+      "bandMount": "under_feet",
+      "audioKey": "EX37.v2",
+      "preparationCue": "Deux pieds sur le milieu des tubes. Monte une poignée près de chaque épaule, tubes à l’extérieur des jambes.",
+      "relatedExercises": [
+        "EX37"
+      ],
+      "documentaryExtension": true
+    },
+    {
+      "id": "EX38",
+      "version": 2,
+      "name": "Charnière de hanches avec tubes et poignées",
+      "category": "strength",
+      "mode": "reps",
+      "minimumLevel": "intermediate",
+      "movementPattern": "hip_hinge",
+      "equipmentRequirements": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        }
+      ],
+      "installation": "Kit de tubes avec deux poignées à mousquetons. Maintien sous les chaussures adapté au matériel, semelles et surface non abrasives. Vérifie tubes, poignées et connexions avant chaque série. Deux pieds sur le milieu des tubes, poignées de chaque côté des cuisses, bras allongés, genoux souples.",
+      "equipmentKey": "tube_handles",
+      "position": "standing",
+      "counting": "total",
+      "sides": 1,
+      "alternating": false,
+      "impact": false,
+      "muscles": {
+        "primary": [
+          "glutes",
+          "hamstrings"
+        ],
+        "secondary": [
+          "back"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "rolesNotApplicable": [],
+      "mapKind": "strength",
+      "zones": [
+        "glutes",
+        "legs"
+      ],
+      "angle": "profil",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Deux pieds sur le milieu des tubes, poignées de chaque côté des cuisses, bras allongés, genoux souples.",
+          "postureCues": [
+            "Deux pieds sur le milieu des tubes, poignées de chaque côté des cuisses, bras allongés, genoux souples."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Charnière de hanches avec tubes et poignées : Deux pieds sur le milieu des tubes, poignées de chaque côté des cuisses, bras allongés, genoux souples."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Recule les hanches et incline le buste sans arrondir le dos. Les poignées descendent près des jambes.",
+          "postureCues": [
+            "Recule les hanches et incline le buste sans arrondir le dos. Les poignées descendent près des jambes."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Charnière de hanches avec tubes et poignées : Recule les hanches et incline le buste sans arrondir le dos. Les poignées descendent près des jambes."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Redresse les hanches sans tirer avec les bras ni te pencher en arrière. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras.",
+          "postureCues": [
+            "Redresse les hanches sans tirer avec les bras ni te pencher en arrière. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Charnière de hanches avec tubes et poignées : Redresse les hanches sans tirer avec les bras ni te pencher en arrière. Avant de lâcher les poignées, réduis la tension en revenant près de l’ancrage ou en abaissant les bras."
+        }
+      ],
+      "errors": [
+        "Laisser les tubes revenir brutalement : ralentis et réduis la résistance.",
+        "Perdre les appuis ou bouger le tronc : arrête la série et réinstalle-toi.",
+        "Tube, poignée ou fixation qui glisse : cesse l’effort et vérifie le montage."
+      ],
+      "tip": "Recule les hanches, puis redresse-toi sans à-coup.",
+      "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+      "variants": [],
+      "contentStatus": "draft",
+      "assetStatus": "generated",
+      "prototypeReady": true,
+      "review": {
+        "technical": null,
+        "visual": null
+      },
+      "constraints": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis."
+      ],
+      "topViewRecommended": false,
+      "extraAngles": [],
+      "equipmentVariant": "tube",
+      "requiresBandHandles": true,
+      "bandMount": "under_feet",
+      "audioKey": "EX38.v2",
+      "preparationCue": "Deux pieds sur le milieu des tubes, poignées de chaque côté des cuisses, bras allongés, genoux souples.",
+      "relatedExercises": [
+        "EX38"
+      ],
+      "documentaryExtension": true
+    }
+  ]
+}

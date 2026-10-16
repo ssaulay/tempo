@@ -1,0 +1,384 @@
+{
+  "sources": [
+    {
+      "id": "KP01",
+      "publisher": "Bodylastics",
+      "title": "Guide exercices avec tubes",
+      "url": "https://storage.googleapis.com/msgsndr/XvPdGEgSd8SLZjFiaiaQ/media/678d836801b601124c15cda0.pdf",
+      "accessed": "2026-10-12",
+      "consultedSection": "Chest Press p.71 et Standing One Arm Chest Fly p.77",
+      "limits": "Ancrage bas à hauteur des genoux dans la poussée ; montage unilatéral deux extrémités sur une poignée. Pas notice Decathlon."
+    },
+    {
+      "id": "KP02",
+      "publisher": "Tribe Fitness",
+      "title": "Workout Guide 2018",
+      "url": "https://v.fastcdn.co/u/82010628/33435656-0-TRIBE-WORKOUT-GUIDE-.pdf",
+      "accessed": "2026-10-12",
+      "consultedSection": "Standing single sided chest fly p.6, Standing chest press p.7",
+      "limits": "Ancrages bas/milieu/haut et montage deux extrémités sur une poignée lus. Bras droit versus léger pli Tempo ; doses et squeeze maximal non importés. Capture PDF échouée."
+    },
+    {
+      "id": "KP03",
+      "publisher": "Jim Stoppani",
+      "title": "Build Your Chest With Resistance Bands",
+      "url": "https://www.jimstoppani.com/training/build-your-chest-with-resistance-bands",
+      "accessed": "2026-10-12",
+      "consultedSection": "Standing incline/decline press et one-arm flye",
+      "limits": "Procédures et souffle de famille. Développé descendant ancrage au-dessus tête et fin devant bas poitrine. Niveaux, doses et promesses régionales non adoptés."
+    },
+    {
+      "id": "KP04",
+      "publisher": "XBAR Fitness",
+      "title": "Resistance Band Chest Workout Guide",
+      "url": "https://xbar.com/blogs/news/the-ultimate-resistance-band-chest-workout-guide",
+      "accessed": "2026-10-12",
+      "consultedSection": "Anchor Height = Exercise Angle",
+      "limits": "Ancrages bas/haut pour incliné/décliné, soutien de famille ; ne valide pas réglages fins ni gains musculaires régionaux."
+    },
+    {
+      "id": "KP05",
+      "publisher": "Thera-Band / Hygenic",
+      "title": "Instruction Manual 2012",
+      "url": "https://www.tumbltrak.com/content/pdf/Assembly_Instructions/TheraBand_User_Guide.pdf",
+      "accessed": "2026-10-12",
+      "consultedSection": "Horizontal Adduction p.22",
+      "limits": "Unilatéral et absence de rotation, mais prise directe/bras droit différent des poignées et léger pli de Tempo."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "EX75",
+      "name": "Développé pectoral vers le haut avec kit et ancrage bas",
+      "minimumLevelProposed": "intermediate",
+      "documentaryStatus": "prototype_editorial_with_variant_limits_not_human_validated",
+      "source_ids": [
+        "KP01",
+        "KP02",
+        "KP03",
+        "KP04"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Dos à la porte, ancrage bas, pieds décalés et une poignée près de chaque côté de la poitrine.",
+          "postureCues": [
+            "Dos à la porte, ancrage bas, pieds décalés et une poignée près de chaque côté de la poitrine."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Développé pectoral vers le haut avec kit et ancrage bas : Dos à la porte, ancrage bas, pieds décalés et une poignée près de chaque côté de la poitrine."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Pousse les poignées devant toi et vers le haut, jusqu’à une hauteur confortable devant le visage, sans cambrer le dos.",
+          "postureCues": [
+            "Pousse les poignées devant toi et vers le haut, jusqu’à une hauteur confortable devant le visage, sans cambrer le dos."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Développé pectoral vers le haut avec kit et ancrage bas : Pousse les poignées devant toi et vers le haut, jusqu’à une hauteur confortable devant le visage, sans cambrer le dos."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Ramène les poignées près de la poitrine en freinant le retour. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée.",
+          "postureCues": [
+            "Ramène les poignées près de la poitrine en freinant le retour. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Développé pectoral vers le haut avec kit et ancrage bas : Ramène les poignées près de la poitrine en freinant le retour. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée."
+        }
+      ],
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "anterior_deltoids",
+          "triceps"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "muscleEvidence": "Pectoraux et participation épaules/triceps qualitatifs, stabilisateurs = synthèse anatomique. Aucun pourcentage ou promesse régionale.",
+      "counting": "total",
+      "sides": 1,
+      "equipment": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        },
+        {
+          "kind": "doorAnchor"
+        }
+      ],
+      "bandMount": "door_low",
+      "prerequisites": [
+        "Montage maîtrisé et conforme à la notice.",
+        "Mouvement contrôlé à faible résistance, sans rotation ni cambrure forcée."
+      ],
+      "errorsAndCorrections": [
+        "Tourner ou cambrer le buste : réduis la résistance et conserve des appuis stables.",
+        "Laisser le tube ramener le bras brutalement : freine le retour.",
+        "Chercher une grande amplitude malgré une gêne : raccourcis le mouvement ou arrête la série."
+      ],
+      "remainingUnresolved": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis.",
+        "Angles et amplitude individuels, sans promesse d’isolation ni de croissance d’une région pectorale.",
+        "Montage réel, consignes, programmation et illustrations sans revue technique humaine."
+      ],
+      "evidenceByDomain": {
+        "positions": "Procédures exactes ou famille explicitées dans sources.limits, géométrie fine éditoriale.",
+        "muscles": "Qualitatif et inférences, carte sans validation anatomique humaine.",
+        "advice": "Retour contrôlé, absence de rotation et fixation recoupés ; sortie et limites du kit réel non homologuées.",
+        "media": "Deux poses image_gen, pas démonstration continue ni revue humaine.",
+        "audio": "Consignes textuelles avec voix système, clips F1/M2 non produits et écoute humaine non faite."
+      },
+      "media": {
+        "status": "generated_illustrations_unreviewed",
+        "source": "assets/sources/kit-expansion/EX75.png",
+        "humanReview": null
+      },
+      "audioDraft": {
+        "preparation": "Dos à la porte, ancrage bas, pieds décalés et une poignée près de chaque côté de la poitrine.",
+        "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+        "status": "system_voice_fallback"
+      },
+      "localPrototypeIntegration": {
+        "status": "integrated_illustrated_prototype",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX76",
+      "name": "Développé pectoral vers le bas avec kit et ancrage haut",
+      "minimumLevelProposed": "intermediate",
+      "documentaryStatus": "prototype_editorial_with_variant_limits_not_human_validated",
+      "source_ids": [
+        "KP02",
+        "KP03",
+        "KP04"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Dos à la porte, ancrage haut, pieds décalés, poignées près de la poitrine et coudes fléchis.",
+          "postureCues": [
+            "Dos à la porte, ancrage haut, pieds décalés, poignées près de la poitrine et coudes fléchis."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Développé pectoral vers le bas avec kit et ancrage haut : Dos à la porte, ancrage haut, pieds décalés, poignées près de la poitrine et coudes fléchis."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Pousse les poignées devant toi et vers le bas, jusqu’à hauteur du bas de la poitrine ou du haut du ventre.",
+          "postureCues": [
+            "Pousse les poignées devant toi et vers le bas, jusqu’à hauteur du bas de la poitrine ou du haut du ventre."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Développé pectoral vers le bas avec kit et ancrage haut : Pousse les poignées devant toi et vers le bas, jusqu’à hauteur du bas de la poitrine ou du haut du ventre."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Replie les coudes sous contrôle pour revenir près de la poitrine. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée.",
+          "postureCues": [
+            "Replie les coudes sous contrôle pour revenir près de la poitrine. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Développé pectoral vers le bas avec kit et ancrage haut : Replie les coudes sous contrôle pour revenir près de la poitrine. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée."
+        }
+      ],
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "anterior_deltoids",
+          "triceps"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "muscleEvidence": "Pectoraux et participation épaules/triceps qualitatifs, stabilisateurs = synthèse anatomique. Aucun pourcentage ou promesse régionale.",
+      "counting": "total",
+      "sides": 1,
+      "equipment": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        },
+        {
+          "kind": "doorAnchor"
+        }
+      ],
+      "bandMount": "door_high",
+      "prerequisites": [
+        "Montage maîtrisé et conforme à la notice.",
+        "Mouvement contrôlé à faible résistance, sans rotation ni cambrure forcée."
+      ],
+      "errorsAndCorrections": [
+        "Tourner ou cambrer le buste : réduis la résistance et conserve des appuis stables.",
+        "Laisser le tube ramener le bras brutalement : freine le retour.",
+        "Chercher une grande amplitude malgré une gêne : raccourcis le mouvement ou arrête la série."
+      ],
+      "remainingUnresolved": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis.",
+        "Angles et amplitude individuels, sans promesse d’isolation ni de croissance d’une région pectorale.",
+        "Montage réel, consignes, programmation et illustrations sans revue technique humaine."
+      ],
+      "evidenceByDomain": {
+        "positions": "Procédures exactes ou famille explicitées dans sources.limits, géométrie fine éditoriale.",
+        "muscles": "Qualitatif et inférences, carte sans validation anatomique humaine.",
+        "advice": "Retour contrôlé, absence de rotation et fixation recoupés ; sortie et limites du kit réel non homologuées.",
+        "media": "Deux poses image_gen, pas démonstration continue ni revue humaine.",
+        "audio": "Consignes textuelles avec voix système, clips F1/M2 non produits et écoute humaine non faite."
+      },
+      "media": {
+        "status": "generated_illustrations_unreviewed",
+        "source": "assets/sources/kit-expansion/EX76.png",
+        "humanReview": null
+      },
+      "audioDraft": {
+        "preparation": "Dos à la porte, ancrage haut, pieds décalés, poignées près de la poitrine et coudes fléchis.",
+        "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+        "status": "system_voice_fallback"
+      },
+      "localPrototypeIntegration": {
+        "status": "integrated_illustrated_prototype",
+        "humanTechnicalReview": null
+      }
+    },
+    {
+      "id": "EX77",
+      "name": "Écarté pectoral unilatéral avec kit et ancrage latéral",
+      "minimumLevelProposed": "intermediate",
+      "documentaryStatus": "prototype_editorial_with_variant_limits_not_human_validated",
+      "source_ids": [
+        "KP01",
+        "KP02",
+        "KP03",
+        "KP05"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "title": "Installation",
+          "description": "Place ton côté actif vers l’ancrage à hauteur de poitrine. Fixe les deux extrémités des tubes à une même poignée compatible et tiens-la avec la main active. Main libre sur la hanche.",
+          "postureCues": [
+            "Place ton côté actif vers l’ancrage à hauteur de poitrine. Fixe les deux extrémités des tubes à une même poignée compatible et tiens-la avec la main active. Main libre sur la hanche."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-01.webp",
+          "alt": "Écarté pectoral unilatéral avec kit et ancrage latéral : Place ton côté actif vers l’ancrage à hauteur de poitrine. Fixe les deux extrémités des tubes à une même poignée compatible et tiens-la avec la main active. Main libre sur la hanche."
+        },
+        {
+          "id": 2,
+          "title": "Mouvement",
+          "description": "Rapproche la poignée devant le sternum dans un arc horizontal, en gardant le même léger pli au coude et le buste face à l’avant.",
+          "postureCues": [
+            "Rapproche la poignée devant le sternum dans un arc horizontal, en gardant le même léger pli au coude et le buste face à l’avant."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-02.webp",
+          "alt": "Écarté pectoral unilatéral avec kit et ancrage latéral : Rapproche la poignée devant le sternum dans un arc horizontal, en gardant le même léger pli au coude et le buste face à l’avant."
+        },
+        {
+          "id": 3,
+          "title": "Retour et sortie",
+          "description": "Reviens doucement vers l’ancrage. Réduis la tension avant de changer de côté, puis refais la même installation. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée.",
+          "postureCues": [
+            "Reviens doucement vers l’ancrage. Réduis la tension avant de changer de côté, puis refais la même installation. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée."
+          ],
+          "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+          "asset": "step-03.webp",
+          "alt": "Écarté pectoral unilatéral avec kit et ancrage latéral : Reviens doucement vers l’ancrage. Réduis la tension avant de changer de côté, puis refais la même installation. Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée."
+        }
+      ],
+      "muscles": {
+        "primary": [
+          "pectorals"
+        ],
+        "secondary": [
+          "anterior_deltoids"
+        ],
+        "stabilizers": [
+          "core"
+        ]
+      },
+      "muscleEvidence": "Pectoraux et participation épaules/triceps qualitatifs, stabilisateurs = synthèse anatomique. Aucun pourcentage ou promesse régionale.",
+      "counting": "per_side",
+      "sides": 2,
+      "equipment": [
+        {
+          "kind": "band",
+          "types": [
+            "tube"
+          ]
+        },
+        {
+          "kind": "doorAnchor"
+        }
+      ],
+      "bandMount": "door_mid",
+      "prerequisites": [
+        "Montage maîtrisé et conforme à la notice.",
+        "Mouvement contrôlé à faible résistance, sans rotation ni cambrure forcée."
+      ],
+      "errorsAndCorrections": [
+        "Tourner ou cambrer le buste : réduis la résistance et conserve des appuis stables.",
+        "Laisser le tube ramener le bras brutalement : freine le retour.",
+        "Chercher une grande amplitude malgré une gêne : raccourcis le mouvement ou arrête la série."
+      ],
+      "remainingUnresolved": [
+        "La résistance des tubes varie avec leur allongement ; les valeurs nominales ne sont pas une force constante.",
+        "Longueur et amplitude à adapter sans dépasser les limites du fabricant.",
+        "Reviens à une tension faible avant de déposer les poignées ou de libérer les appuis.",
+        "Angles et amplitude individuels, sans promesse d’isolation ni de croissance d’une région pectorale.",
+        "Montage réel, consignes, programmation et illustrations sans revue technique humaine.",
+        "Une poignée reçoit les deux extrémités ; respecter la capacité des connexions. Le dosage est par côté, pas un total alterné."
+      ],
+      "evidenceByDomain": {
+        "positions": "Procédures exactes ou famille explicitées dans sources.limits, géométrie fine éditoriale.",
+        "muscles": "Qualitatif et inférences, carte sans validation anatomique humaine.",
+        "advice": "Retour contrôlé, absence de rotation et fixation recoupés ; sortie et limites du kit réel non homologuées.",
+        "media": "Deux poses image_gen, pas démonstration continue ni revue humaine.",
+        "audio": "Consignes textuelles avec voix système, clips F1/M2 non produits et écoute humaine non faite."
+      },
+      "media": {
+        "status": "generated_illustrations_unreviewed",
+        "source": "assets/sources/kit-expansion/EX77.png",
+        "humanReview": null
+      },
+      "audioDraft": {
+        "preparation": "Place ton côté actif vers l’ancrage à hauteur de poitrine. Fixe les deux extrémités des tubes à une même poignée compatible et tiens-la avec la main active. Main libre sur la hanche.",
+        "breathing": "Souffle pendant l’effort, inspire pendant le retour, sans bloquer la respiration.",
+        "status": "system_voice_fallback"
+      },
+      "localPrototypeIntegration": {
+        "status": "integrated_illustrated_prototype",
+        "humanTechnicalReview": null
+      }
+    }
+  ],
+  "method": "Compléments de direction et latéralité, pas promesse d’isoler une région ni preuve de supériorité hypertrophique. Les prescriptions restent des hypothèses Tempo. Les notices des autres marques ne certifient pas le kit réel. Captures PDF non accessibles non déclarées examinées."
+}

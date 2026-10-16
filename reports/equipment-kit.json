@@ -1,0 +1,27 @@
+{
+  "physicalIPhoneTested": false,
+  "results": [
+    {
+      "width": 360,
+      "status": "passed",
+      "checks": [
+        "option du kit et accessoires",
+        "bande plate conservée après sélection/désélection",
+        "profil conservé après rechargement",
+        "limite des démonstrations explicite",
+        "absence de débordement et erreur JS"
+      ]
+    },
+    {
+      "width": 390,
+      "status": "passed",
+      "checks": [
+        "option du kit et accessoires",
+        "bande plate conservée après sélection/désélection",
+        "profil conservé après rechargement",
+        "limite des démonstrations explicite",
+        "absence de débordement et erreur JS"
+      ]
+    }
+  ]
+}

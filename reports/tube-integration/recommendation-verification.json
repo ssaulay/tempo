@@ -1,0 +1,22 @@
+{
+  "unitTestsPassed": 72,
+  "build": "passed",
+  "browserWidths": [
+    390,
+    1440
+  ],
+  "globalTubeSelectionRemoved": true,
+  "exerciseRecommendationVisible": true,
+  "adjustableCombinations": 31,
+  "physicalIPhoneTested": false,
+  "humanTechnicalReview": false,
+  "heuristic": "3 kg initial calibration; latest matching completed exercise with validated attempt; gradual nominal step after two comparable easy/good sessions, lighter on hard/improve feedback",
+  "nominalSumIsNotMeasuredForce": true,
+  "sha256": {
+    "src/composer/index.ts": "e21861dd6240f1c188fccd3d6f59aa547280c9c048e089fc010fc0b548ffcb56",
+    "src/ui/components.tsx": "edb3a46d7a8953a82c3785461b364338ab46d11887956beb9302e05bc3a704cf",
+    "src/ui/App.tsx": "a8d1cc7dff2be7774c32eb7e1bf3984fc804f23b74194ff6d536f03a007174e9",
+    "tests/tube-variants.test.ts": "12a391a50e3ea9a56e67d14b9a77836e36217cac1260709abd4e06654ee84261",
+    "reports/tube-variants-ui.json": "a566e1bfbed8bde6733ba0332a01ccf4acf4f1972d352ef2430ac0fde8f74b72"
+  }
+}

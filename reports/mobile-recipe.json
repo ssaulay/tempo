@@ -1,0 +1,73 @@
+{
+  "physicalIPhoneTested": false,
+  "humanTechnicalReview": "pending",
+  "results": [
+    {
+      "browser": "chromium",
+      "width": 390,
+      "base": "http://localhost:4173",
+      "status": "passed",
+      "checks": [
+        "génération, modification, sauvegarde",
+        "timer et pause stable",
+        "saisie conservée pendant pause",
+        "rechargement et reprise volontaire hors ligne",
+        "prévu, déclaré, non renseigné distincts",
+        "snapshot historique immuable",
+        "historique unique après rechargement, aucune erreur JS",
+        "timer terminé automatiquement hors ligne, bilan complet unique"
+      ]
+    },
+    {
+      "browser": "chromium",
+      "width": 390,
+      "base": "http://192.168.1.92:4173",
+      "status": "passed",
+      "checks": [
+        "génération, modification, sauvegarde",
+        "HTTP Wi-Fi sans fausse promesse hors ligne",
+        "timer et pause stable",
+        "saisie conservée pendant pause",
+        "rechargement et reprise volontaire",
+        "prévu, déclaré, non renseigné distincts",
+        "snapshot historique immuable",
+        "historique unique après rechargement, aucune erreur JS"
+      ]
+    },
+    {
+      "browser": "chromium",
+      "width": 360,
+      "base": "http://localhost:4173",
+      "status": "passed",
+      "checks": [
+        "génération, modification, sauvegarde",
+        "timer et pause stable",
+        "saisie conservée pendant pause",
+        "rechargement et reprise volontaire hors ligne",
+        "prévu, déclaré, non renseigné distincts",
+        "snapshot historique immuable",
+        "historique unique après rechargement, aucune erreur JS"
+      ]
+    },
+    {
+      "browser": "chromium",
+      "width": 1440,
+      "base": "http://localhost:4173",
+      "status": "passed",
+      "checks": [
+        "génération, modification, sauvegarde",
+        "timer et pause stable",
+        "saisie conservée pendant pause",
+        "rechargement et reprise volontaire hors ligne",
+        "prévu, déclaré, non renseigné distincts",
+        "snapshot historique immuable",
+        "historique unique après rechargement, aucune erreur JS"
+      ]
+    },
+    {
+      "browser": "webkit",
+      "status": "unavailable",
+      "reason": "browserType.launch: Executable doesn't exist at /Users/simon.saulay/Library/Caches/ms-playwright/webkit-2336/pw_run.sh\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install "
+    }
+  ]
+}

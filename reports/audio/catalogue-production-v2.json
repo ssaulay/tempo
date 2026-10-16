@@ -1,0 +1,1972 @@
+{
+  "version": 2,
+  "date": "2026-10-12",
+  "status": "text_frozen_audio_not_produced",
+  "locale": "fr-FR",
+  "voice_ids": [
+    "F1",
+    "M2-deep-v2"
+  ],
+  "logicalClipCount": 239,
+  "uniqueClipCount": 239,
+  "audioFileCount": 478,
+  "aliases": {},
+  "clips": [
+    {
+      "id": "EX01.name",
+      "text": "Marche active sur place.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "3c193107bbff689fdb0582e40b95b368b7f62479309ae01cbe16337ac197c8ec"
+    },
+    {
+      "id": "EX01.prepare",
+      "text": "Marche active sur place. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "e3dcf4417ebc180c2eed41329bb6298b43dc7191982e9f36a3baf7542d9987fd"
+    },
+    {
+      "id": "EX02.name",
+      "text": "Step jacks sans saut.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "015e8fc9832c4959ffa00295c4156b0f9935292e552d762afff58f6fbb39226a"
+    },
+    {
+      "id": "EX02.prepare",
+      "text": "Step jacks sans saut. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "cb28ad2e728876e7caf20ea2c94068e1f46554ded6e1b93123420a9f2087874b"
+    },
+    {
+      "id": "EX03.name",
+      "text": "Jumping jacks.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "e482ab6afe83c4275b1ae8724f322b00ede85c12623d9b273be807b4fbe48190"
+    },
+    {
+      "id": "EX03.prepare",
+      "text": "Jumping jacks. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "fbcf458cbeab710d7bf6b6569c97e81b3215cebccedffa3bbcf2008286901d38"
+    },
+    {
+      "id": "EX04.name",
+      "text": "Corde à sauter, saut simple.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "a15cda913198a13a2ff15dec3c75c50ccd7cc21d24139b64fbb777800fe37e30"
+    },
+    {
+      "id": "EX04.prepare",
+      "text": "Corde à sauter, saut simple. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "b4ffeaa1233956a40b4ac6cc24c92e987b4bced5f9d12f73833a16917477fed2"
+    },
+    {
+      "id": "EX05.name",
+      "text": "Montées de genoux sans saut.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "8e2c16aed704a1d1b464f17a30ff8e181e3fb874078e9b4653f032d66b6a7f0e"
+    },
+    {
+      "id": "EX05.prepare",
+      "text": "Montées de genoux sans saut. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "ec3cffd9c7e182b0dc8108bdb69f57f1ad0b5f46bea5a7ec1da0f68944e0be6e"
+    },
+    {
+      "id": "EX06.name",
+      "text": "Squat au poids du corps.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "8115ed9314d5d7d374152a6d1e8b46b1196a305809985d5a1a78ab9860187be9"
+    },
+    {
+      "id": "EX06.prepare",
+      "text": "Squat au poids du corps. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "bb6469ee99c9fec76c2eaeda8c4e2aae7cbe827302a0c8514697bd63b7db22b7"
+    },
+    {
+      "id": "EX07.name",
+      "text": "Fentes arrière alternées.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "e10ddd08278d3156e8cd68a1cb0d6fab1b511a0b7ccf4fccac033076021e68a6"
+    },
+    {
+      "id": "EX07.prepare",
+      "text": "Fentes arrière alternées. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "05ded49a867021ed79c2288a296a3480ff07c0a4a8cc9ec8ed6062f14ebe9171"
+    },
+    {
+      "id": "EX08.name",
+      "text": "Fente statique.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "2986015bfb35005741080000077ae146186ac244a862138d8688ae3bdd93984e"
+    },
+    {
+      "id": "EX08.prepare",
+      "text": "Fente statique. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "fc446ae1c879e91a569f3f883872f2f863e34f8a0946dac4d89f479f2f7e698a"
+    },
+    {
+      "id": "EX09.name",
+      "text": "Pont fessier.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "b0fd519c50dbb052d88a3c3a2022e3e4db2045f0d718b4c17792a2043acad846"
+    },
+    {
+      "id": "EX09.prepare",
+      "text": "Pont fessier. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "0bd9ce5955ee61b83c834daf1642e2f87a6f7c1e18440c6f3407a7e1dc86b64b"
+    },
+    {
+      "id": "EX10.name",
+      "text": "Élévations des mollets.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "6b260cb92275ce00d7cffbe5da8a7cbfe1399f7ab04651e7175090be337483d4"
+    },
+    {
+      "id": "EX10.prepare",
+      "text": "Élévations des mollets. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "a3e92a3afb82add45e086e6f78c43b6ac3c00a10a2c4151da488326cc63571bc"
+    },
+    {
+      "id": "EX11.name",
+      "text": "Pompes inclinées.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "657513ad52fffdf745994cf8ab995d8ec6c2b56adb5162199d1c5d696f8591bf"
+    },
+    {
+      "id": "EX11.prepare",
+      "text": "Pompes inclinées. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "69b810e879ff516a281bc55c2f4adbe19014313e2eb187a549e830ce93d0896c"
+    },
+    {
+      "id": "EX12.name",
+      "text": "Pompes sur les genoux.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "5a3464270c9742968199a5b5de635ebffbba3fe232964e3c5700a2e178102c0f"
+    },
+    {
+      "id": "EX12.prepare",
+      "text": "Pompes sur les genoux. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "b2f31e5a3097612ccd3848ad32e0e3b183df72197adf607ec2722e828531aadc"
+    },
+    {
+      "id": "EX13.name",
+      "text": "Pompes classiques.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "1ea0172cbf46236c220f46f78a3663a0586f4bfe7b84ef03c9909fcf909d1804"
+    },
+    {
+      "id": "EX13.prepare",
+      "text": "Pompes classiques. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "6fc61c8302cecc9473c002252159900ce29fb4218885999d86e4313763298327"
+    },
+    {
+      "id": "EX14.name",
+      "text": "Pompes mains rapprochées.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "6f6610abee6047b3df76c8d6e1971849c9d6b5a674b921226ccf55781a0e62d2"
+    },
+    {
+      "id": "EX14.prepare",
+      "text": "Pompes mains rapprochées. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "831ba0f7ebf7c56bde646f6d112539d8e85fdf9a25a13734b9fcee2b9b0e1aef"
+    },
+    {
+      "id": "EX15.name",
+      "text": "Développé poitrine avec bande derrière le dos.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "d53d85b02636b850ab2284bc08bff61ad36ae37cacfd465dad4c3572e370827e"
+    },
+    {
+      "id": "EX15.prepare",
+      "text": "Développé poitrine avec bande derrière le dos. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "7448b3ac5e22be79feba4724021f15b5ba86e561a6bca985b804f00dd4efeae5"
+    },
+    {
+      "id": "EX16.name",
+      "text": "Développé haltères au sol.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "75a56f9ac10b94411cf8c0e0caf902871d9fbf1b6ed3d8bdcc826ba60ab82a30"
+    },
+    {
+      "id": "EX16.prepare",
+      "text": "Développé haltères au sol. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "fe5adc1e187d2bd5bbbc9fba95f32096fba7c6593d6089909e70f230e53f2976"
+    },
+    {
+      "id": "EX17.name",
+      "text": "Développé épaules avec haltères.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "292ef8b6565a7df5adff2a702bf13649ea78baa6aa30567f51db16806d7d6a63"
+    },
+    {
+      "id": "EX17.prepare",
+      "text": "Développé épaules avec haltères. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "989d5ac46a7bff88a9e056aaead26c078b761fd0a27c689120320a0b118ea6d4"
+    },
+    {
+      "id": "EX18.name",
+      "text": "Élévations latérales légères.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "73fd6774ec98dd8bc457ed0a0ef511deb8e7cf59d85689d7c5a686746f6549c2"
+    },
+    {
+      "id": "EX18.prepare",
+      "text": "Élévations latérales légères. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "abb22a32df350ff99c4c6c227082d3cd0d7873ca5de63a50b0a9abefa8ffe2f8"
+    },
+    {
+      "id": "EX19.name",
+      "text": "Rowing bande sous les pieds.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "c069a92335478544c79f152956f79d97eca401eaee3232d38ed8d3910b912c1e"
+    },
+    {
+      "id": "EX19.prepare",
+      "text": "Rowing bande sous les pieds. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "3e1dbf15e2ad6d993675d699bd6e084d5061ee863e8324bec543c09e4a6cf9b1"
+    },
+    {
+      "id": "EX20.name",
+      "text": "Rowing haltère unilatéral sans banc.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "926e498c799fc507d6ff78bdec2010aec7c28b7adf672fe0c270ba9e09342736"
+    },
+    {
+      "id": "EX20.prepare",
+      "text": "Rowing haltère unilatéral sans banc. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "b64af5d9a31f34462721c9a17fdcfeae72145aedd2c386a735155bcdbaa6423d"
+    },
+    {
+      "id": "EX21.name",
+      "text": "Écartement de bande devant soi.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "fb8da0ca6e7b74589c94a816059d34b5b2c4cb3b89b07810d4e513bce48eb55e"
+    },
+    {
+      "id": "EX21.prepare",
+      "text": "Écartement de bande devant soi. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "f75f6dad9c77c69c6120b53896503a060eeab38f4a4a796cc5a12f402b2f5a94"
+    },
+    {
+      "id": "EX22.name",
+      "text": "Rétraction scapulaire en W au sol.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "21c5c3c8bb3dad30751b2bbefda3c60ca1b8c6cd17e39b9e16f5323a75cfc940"
+    },
+    {
+      "id": "EX22.prepare",
+      "text": "Rétraction scapulaire en W au sol. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "e850a98969d0591ddc239b5047d570a6d0162e92fc03981c0c5e10762a41d804"
+    },
+    {
+      "id": "EX23.name",
+      "text": "Extension triceps avec bande sous un pied.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "906ba1d692bb39754b6f6b1afb00ff728f4a10f2ca42fa73789ef89ef9b8e249"
+    },
+    {
+      "id": "EX23.prepare",
+      "text": "Extension triceps avec bande sous un pied. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "9d1a7dde01ce082116a9ad8f1bdb668334ea62f9ea3ec08cc15cdcc4c2200373"
+    },
+    {
+      "id": "EX24.name",
+      "text": "Extension triceps haltère au-dessus de la tête.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "596955434e1a0709d77fa1990e3ab5f77b03d242e2a584bd217790fe8e9b8a36"
+    },
+    {
+      "id": "EX24.prepare",
+      "text": "Extension triceps haltère au-dessus de la tête. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "628c5d0be2ef3347204e6ea9f9e8b76b74f6cbbc570193a23038c0bfbdf36376"
+    },
+    {
+      "id": "EX25.name",
+      "text": "Curl haltères.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "2ed1091ba3463488b222d313400fb1441ca0b050c90e15937b22686559013f08"
+    },
+    {
+      "id": "EX25.prepare",
+      "text": "Curl haltères. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "828db440506a5e796047725a53a05c2249573421c263e5abd80068096051eb5f"
+    },
+    {
+      "id": "EX26.name",
+      "text": "Curl avec bande sous les pieds.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "c390a92a8bfde507ff31f21fd47dba93e55eee398a353aa1a8b741220f4a12e6"
+    },
+    {
+      "id": "EX26.prepare",
+      "text": "Curl avec bande sous les pieds. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "bda4701d6540f1b09dbca5ed37e73ef0a4064e7aa67314b75d4d80c8caa26b4c"
+    },
+    {
+      "id": "EX27.name",
+      "text": "Planche sur avant-bras.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "3aa783f03eef4739dd181493ab639c3800f87d67db453df697fc848fc393b726"
+    },
+    {
+      "id": "EX27.prepare",
+      "text": "Planche sur avant-bras. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "2fd36f305cab463db43b07adb93bc08aac47da5ab3873d5422209b178ee2e90d"
+    },
+    {
+      "id": "EX28.name",
+      "text": "Planche latérale genoux fléchis.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "00af200eb6755539273766291b3d50a5bfccea12ea8737c371627df56e9f3e3d"
+    },
+    {
+      "id": "EX28.prepare",
+      "text": "Planche latérale genoux fléchis. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "255142681933b14960ffbd5f97fa79a99a6a2ab9adeb14d69adaf84c81cc9a28"
+    },
+    {
+      "id": "EX29.name",
+      "text": "Dead bug.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "b5a75c14d6e26a2c03f7b2096cc93727a72c96f100680505e0f1e0f9853d21c7"
+    },
+    {
+      "id": "EX29.prepare",
+      "text": "Dead bug. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "5ef124ac618a9389a6b6c67019c0ec24c12660cc60a53e8824749c50e688fe6b"
+    },
+    {
+      "id": "EX30.name",
+      "text": "Bird dog.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "a0398c2717fefd5abfcacb9445afe65eb36bde737e5b7a99052842109202f571"
+    },
+    {
+      "id": "EX30.prepare",
+      "text": "Bird dog. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "325de2b5cc5807ea90cdf70940465844e039014e4d15b5354d74b850e1ae7674"
+    },
+    {
+      "id": "EX31.name",
+      "text": "Crunch inversé.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "53daf36638b1df330dbcfeff8ae01d4c2f6b7fb8da093df96ede79e0b0c3f3a2"
+    },
+    {
+      "id": "EX31.prepare",
+      "text": "Crunch inversé. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "6a8d805670dd1fe85b8f8990349fd7c7d4d746b937f3ee2c5495c98737b7c570"
+    },
+    {
+      "id": "EX32.name",
+      "text": "Crunch court.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "e509c305d3fc82cf2f472153fed1556675f61f14f9642a0cafc644ae71ff01d1"
+    },
+    {
+      "id": "EX32.prepare",
+      "text": "Crunch court. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "98fe4c886ab33d1ad2b929056c605d307078e99092fd1a02691550d67a7a954d"
+    },
+    {
+      "id": "EX33.name",
+      "text": "Mountain climbers lents.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "68faa16efed28f62ca175183015f679a14932448d7de050963bcf5df9673071a"
+    },
+    {
+      "id": "EX33.prepare",
+      "text": "Mountain climbers lents. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "d8f43da926ae35fe3124408e87be6b5da70dd7e6c8f459be3a913bb4ad2d3c40"
+    },
+    {
+      "id": "EX34.name",
+      "text": "Roue abdominale à genoux, amplitude courte.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "c079a08a6750a04cac35a725d4cb0af376697b0522a2e505e6c1a0d6e79a3956"
+    },
+    {
+      "id": "EX34.prepare",
+      "text": "Roue abdominale à genoux, amplitude courte. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "2888c9729876f5fe6dd3415113559495727a99358ee1f3efbe2ae7040bf3700d"
+    },
+    {
+      "id": "EX35.name",
+      "text": "Hollow hold groupé.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "f289d5c8c6a3d6465aaae82ae023fa74c3b492bf4cd88f6f38b03d95a21da7b4"
+    },
+    {
+      "id": "EX35.prepare",
+      "text": "Hollow hold groupé. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "725e77da12c091fde626084e80a1e5f3ebfcdce0d150f29ca6bf5e2cd261ec3f"
+    },
+    {
+      "id": "EX36.name",
+      "text": "Touchers de talons alternés.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "4c290e79cf38c4d81d2eed3d967f225215ef3d1716bb9bf51206f6d4ad77df9d"
+    },
+    {
+      "id": "EX36.prepare",
+      "text": "Touchers de talons alternés. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "d596c733774fb260f55a28c6bbc2eff25c14fb3fa3485cd6c9423831f9fb0a53"
+    },
+    {
+      "id": "EX37.name",
+      "text": "Squat goblet léger.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "77499cc63b432b2e88cd24cbacc0595671f310a6734a31889e85b061e0530e66"
+    },
+    {
+      "id": "EX37.prepare",
+      "text": "Squat goblet léger. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "4c04a58c0b9c6d175cbcb66de5a7666261d4a801d8bf4fb142b5a48b74bed956"
+    },
+    {
+      "id": "EX38.name",
+      "text": "Charnière de hanches avec bande sous les pieds.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "468d6be8b2b134eeaebb1dc4b21ab88236524654b2335e2730616f6ce130bdae"
+    },
+    {
+      "id": "EX38.prepare",
+      "text": "Charnière de hanches avec bande sous les pieds. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "b538ac58426c457aedf83f7ddd2b8a7c0984f1e0df93769d9cd709cbe2bb6cbe"
+    },
+    {
+      "id": "EX39.name",
+      "text": "Fente latérale alternée.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "c986704ca6b179508c386eea63ad84315ece17569151ff48779a7e87f63d7a04"
+    },
+    {
+      "id": "EX39.prepare",
+      "text": "Fente latérale alternée. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "4c64fe316455e7e9f33e676376888760f0682b9477edac159cb1b369db3b099a"
+    },
+    {
+      "id": "EX40.name",
+      "text": "Rotations thoraciques debout.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "4797cd0eac4a357dade2eae0997f3fa9bfcc7bc3ea9fe64618a53b139845953c"
+    },
+    {
+      "id": "EX40.prepare",
+      "text": "Rotations thoraciques debout. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "558340cc7368e1cef10734dc614c7293de236bec9a93c21a70a9cbf49686ffe9"
+    },
+    {
+      "id": "EX41.name",
+      "text": "Cercles d’épaules.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "cb05da9336a1fb5dddf2582e0b27ccd5bc3288f3165c5b4ac03b076fac7e68d2"
+    },
+    {
+      "id": "EX41.prepare",
+      "text": "Cercles d’épaules. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "f268e9a7cd6791e9aefc8c8b8c6a010ef89d4a2ed7262231ac5da882b2c34cb4"
+    },
+    {
+      "id": "EX42.name",
+      "text": "Mobilisation de cheville en fente.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "7d575274aa76b6d9ac810a1de843e79e87fdff5c5e8eefb5048e0222b3a2c7e7"
+    },
+    {
+      "id": "EX42.prepare",
+      "text": "Mobilisation de cheville en fente. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "f65b2b7452d3d3d04e265a04cf2e0990117065dfcf04c4861b66efad0b1e9f6c"
+    },
+    {
+      "id": "EX43.name",
+      "text": "Ouverture de poitrine debout.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "7b357537fcaeeb48e649c756bd823a9c75f56c6cbc3c4a4ac0ba5f76603ca0ff"
+    },
+    {
+      "id": "EX43.prepare",
+      "text": "Ouverture de poitrine debout. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "0ee949cceaff30170e7f92fbbc8ee3157aca01136bec8d8c5a5e35ee3bb064cd"
+    },
+    {
+      "id": "EX44.name",
+      "text": "Posture de repos à genoux.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "926f089ff38c0ac42bdc117bce9c81f9640e6cff31896eeb3c239e9e9faf1068"
+    },
+    {
+      "id": "EX44.prepare",
+      "text": "Posture de repos à genoux. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "102e2b263ec39c74dc6d77f776b3d6a181faf5bbffd6b8dfc089ced21ae03cea"
+    },
+    {
+      "id": "EX45.name",
+      "text": "Étirement fléchisseurs de hanche à genoux.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "6e2000fc905e2f4bb6c9cbb51be7d8aae1094c158ff4d58c022ffae2a164d9f2"
+    },
+    {
+      "id": "EX45.prepare",
+      "text": "Étirement fléchisseurs de hanche à genoux. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "b6838cc7a84040e7889486f0c7d2d64aca6a80fa2de5febd0eb6a148695bc81f"
+    },
+    {
+      "id": "EX46.name",
+      "text": "Étirement ischio-jambiers allongé.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "5170082f977ecfdac8c4dd74b50388b02a6699044d22b2b9eec049ce6a68ee5c"
+    },
+    {
+      "id": "EX46.prepare",
+      "text": "Étirement ischio-jambiers allongé. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "c7315946a561f4b04db57f7b63b1d769bc679d82c69a0b857f3c9ea538a2c287"
+    },
+    {
+      "id": "EX47.name",
+      "text": "Boxe dans le vide sans impact.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "3ce0298c5df4149f611f6616246faf210c7bbac49c318944f683cf27e1638e68"
+    },
+    {
+      "id": "EX47.prepare",
+      "text": "Boxe dans le vide sans impact. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "e0a19a1ff3d530e0bb70b08a66923583214cffd3581b5cb0c438005f7be909cd"
+    },
+    {
+      "id": "EX48.name",
+      "text": "Pas de patineur sans saut.",
+      "family": "exercise_name",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "682c99b0f1143c2540b3586845712154f5ff49a8322291d8b3159649cb2d853c"
+    },
+    {
+      "id": "EX48.prepare",
+      "text": "Pas de patineur sans saut. Prépare-toi.",
+      "family": "preparation",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "a3f47cfe1dd179c2ced74f50a428ff1aab0fd60f49db6787f9927e759417b190"
+    },
+    {
+      "id": "set.1.1",
+      "text": "Série un sur un.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "9430094c4c494f95d2f997fe6fd206fa80432ded98b00f55667a3f36dd8baa34"
+    },
+    {
+      "id": "set.1.2",
+      "text": "Série un sur deux.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "39acf3437f47a62d15ff6baa2347c14a6cc4e87e952d04e46c165a7b475d5376"
+    },
+    {
+      "id": "set.2.2",
+      "text": "Série deux sur deux.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "3d98115511539c29e5800ad72ff287fdac632c730cbae6854fd20a6418e96922"
+    },
+    {
+      "id": "set.1.3",
+      "text": "Série un sur trois.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "41bbd987fbf2ec6d16bc8e7e313bb0fb063666c868c6ac5f53c87008eaa5d141"
+    },
+    {
+      "id": "set.2.3",
+      "text": "Série deux sur trois.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "eaad42351930a310f1a931d8ea0ebc1064a6f9f4865c68872c2c414abb106cc8"
+    },
+    {
+      "id": "set.3.3",
+      "text": "Série trois sur trois.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "fe12441d0d270f1ebf875f40edc4bf6154ac497c0705186cafe93c22fc64633c"
+    },
+    {
+      "id": "set.1.4",
+      "text": "Série un sur quatre.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "f75814098823e7677eaf26f0be4edcc025a63bd0b7297630880be148fab3867f"
+    },
+    {
+      "id": "set.2.4",
+      "text": "Série deux sur quatre.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "d1e364e5bb4add4fdd3ef7e0785b0750d3c3e67c1b30527f51f5eeea4b474c18"
+    },
+    {
+      "id": "set.3.4",
+      "text": "Série trois sur quatre.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "299ce193bf693e18b955bc2500948d26195ad480be7345fb93dc9fbfe06c0284"
+    },
+    {
+      "id": "set.4.4",
+      "text": "Série quatre sur quatre.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "78f59ee0ce813ce91617c4ebb9d3b50e9b437d205dbbb4864b8ff6fc4f70d3b6"
+    },
+    {
+      "id": "set.1.5",
+      "text": "Série un sur cinq.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "f2727e78dc4fe00d3132cb6d4967c9ed24988aa160eac61f1253803c473b7dd0"
+    },
+    {
+      "id": "set.2.5",
+      "text": "Série deux sur cinq.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "4fb8eb524e0797b93191891a07c8e90593474091e688ca3e77bab82ee1d215f6"
+    },
+    {
+      "id": "set.3.5",
+      "text": "Série trois sur cinq.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "64c83ca1a604f27707fe60050af0838ed8932e58ab407bbaa7c5fef33e00e1d9"
+    },
+    {
+      "id": "set.4.5",
+      "text": "Série quatre sur cinq.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "7bdaad24bdf69eaf25ebc2d46f445a74b9b962882805401c89295d5e688fa763"
+    },
+    {
+      "id": "set.5.5",
+      "text": "Série cinq sur cinq.",
+      "family": "set",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "2d08ce45c53d558edffba803302a221262fd7841ad2b578ef5f313b843f47f20"
+    },
+    {
+      "id": "reps.2",
+      "text": "Deux répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "a26c9dfc2fd48587f20e037f6b8496be413257deb4a224b5a9a6da70c57bbce1"
+    },
+    {
+      "id": "reps.3",
+      "text": "Trois répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "7b18ac3bb0b9a881c9e94b2c2d2280de8e54974a9041cc7be0051cb82b159236"
+    },
+    {
+      "id": "reps.4",
+      "text": "Quatre répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "ebd96d1f9323c795ebbd42c892b777f698e6635f5e3c8e3a2d278bed0c0c081f"
+    },
+    {
+      "id": "reps.5",
+      "text": "Cinq répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "5ddda626d643db739fe50a909df8b57ffe544b4e234ab47548adb50d8d286966"
+    },
+    {
+      "id": "reps.6",
+      "text": "Six répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "c7ae9d635b301b6196928996928bd6bd6cab1310fda9768ef8cedca9d555ede7"
+    },
+    {
+      "id": "reps.7",
+      "text": "Sept répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "88ce8ea841aecc4af548f498b56d301167cc45e0ddd9d712fd9af5bb720ebfdd"
+    },
+    {
+      "id": "reps.8",
+      "text": "Huit répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "47dc0830dd6211b25535c6b0dd8120b5dc272d7869b56c8fc83647e29b1f536c"
+    },
+    {
+      "id": "reps.9",
+      "text": "Neuf répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "43010b9701cbeec595484706aa883c69b71e87ae90d61057e9b0d84ade9701b1"
+    },
+    {
+      "id": "reps.10",
+      "text": "Dix répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "aac74c51ff26c11b627f2616a28d00970d2a17d727f4b06acf4c55400c475206"
+    },
+    {
+      "id": "reps.11",
+      "text": "Onze répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "0d3b5a3fb22db15c649426468094efd4fc8be1cf7ee284771ca1e2e1b8218206"
+    },
+    {
+      "id": "reps.12",
+      "text": "Douze répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "39a56b3a03c9a682001e2149201d06de9fcd8eb59f250ca90aa19040d16d1128"
+    },
+    {
+      "id": "reps.13",
+      "text": "Treize répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "458a234a9869ca00962b9a7849c873ecd8f256dfc69c1a65567dd6b51044c82a"
+    },
+    {
+      "id": "reps.14",
+      "text": "Quatorze répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "221f82af85528595b5ed87f15c9c925a7eb4474db1427383ff20e98748a08484"
+    },
+    {
+      "id": "reps.15",
+      "text": "Quinze répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "19eb05c324bbc4a6da3c780cc6df615d1a136985765869d0648f30c416a1624f"
+    },
+    {
+      "id": "reps.16",
+      "text": "Seize répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "426ff13d5ee35207e9f7e74f4ad35b9fbd1a5235197190dce33070cdcd296900"
+    },
+    {
+      "id": "reps.17",
+      "text": "Dix-sept répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "ad17c675fc8b34315db511e16cad83738cfe2086bf41bc5f51ea88fdd65c5398"
+    },
+    {
+      "id": "reps.18",
+      "text": "Dix-huit répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "44d05247b86ed2023d9de7492645f5a9f2c53577ee0597bb36726adfe77016e1"
+    },
+    {
+      "id": "reps.19",
+      "text": "Dix-neuf répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "b0c0a3ad0a2697c33493258b9ccbb81cca973b5a579c4ca425aad73a1c78739e"
+    },
+    {
+      "id": "reps.20",
+      "text": "Vingt répétitions.",
+      "family": "repetitions",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "a49c3a030174fead719339348f4984915bc90fa5a49a9cab0358437907744165"
+    },
+    {
+      "id": "duration.10",
+      "text": "Dix secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "004ad0eaa010bc914f92773a1b4207c6be7ac3a807d51b47db05be44e99a3e87"
+    },
+    {
+      "id": "duration.15",
+      "text": "Quinze secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "135e48d31ac2e6a3e8327989af42096102ea0501e384659ed1e16b211cf37a6b"
+    },
+    {
+      "id": "duration.20",
+      "text": "Vingt secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "de05c0f24be15f4aa0363fca336d42d291a5f0dd7f1929fa0ddb21df439f5666"
+    },
+    {
+      "id": "duration.25",
+      "text": "Vingt-cinq secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "781a38f3bb19e8e93236f34c3e41c7f7ba4b997edfd4b17660d41fd3f764f999"
+    },
+    {
+      "id": "duration.30",
+      "text": "Trente secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "441a96723dc3c057d6f675673d5bc0923ae7a19eec8abf013fe8d3e02e5fac4d"
+    },
+    {
+      "id": "duration.35",
+      "text": "Trente-cinq secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "6a91db98100c9bdbb33d31962013930ecc578984ac8e01ab831d021e5808cf84"
+    },
+    {
+      "id": "duration.40",
+      "text": "Quarante secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "2bd7d4beddb60ecf66bc0f4dc44dea7f3cc1a3e15a26e1155030f35d02e9f99a"
+    },
+    {
+      "id": "duration.45",
+      "text": "Quarante-cinq secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "8393423aa619b368390439cd4fc44914b64649b3439482c953194be3987cfbc9"
+    },
+    {
+      "id": "duration.50",
+      "text": "Cinquante secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "c16c3f67e542e4a3568ace7bce23f738c13b4760850ed73c650d0af7fa3eee34"
+    },
+    {
+      "id": "duration.55",
+      "text": "Cinquante-cinq secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "9c5502d0c2350a9c7405189f0a23a31ee9d962980a1700468c0eba7f1e969c84"
+    },
+    {
+      "id": "duration.60",
+      "text": "Soixante secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "13fc11192e465dc124061f5467aeded353dfc47ca37b510959eee26f819ffaba"
+    },
+    {
+      "id": "duration.65",
+      "text": "Soixante-cinq secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "f1c0b357c37d5a6c6fdd862e1edd423237421f46626155b6522720373e415bcc"
+    },
+    {
+      "id": "duration.70",
+      "text": "Soixante-dix secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "79bf0baae67c5c1674ad8cd9974b89d8249da8a400eb872e92654dd9f0e17384"
+    },
+    {
+      "id": "duration.75",
+      "text": "Soixante-quinze secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "8a5463786e93de87a886369235bd587b1edbe5973692c88f59d6da4e231afffc"
+    },
+    {
+      "id": "duration.80",
+      "text": "Quatre-vingts secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "84f3fd4194731d79f0c2f60a51d7f944b3f4b0079685effdd37748e825831da1"
+    },
+    {
+      "id": "duration.85",
+      "text": "Quatre-vingt-cinq secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "bf765cc694b5e398daa8cf02d2f4e582500a4cfe23e29addee0ac8edee9d6669"
+    },
+    {
+      "id": "duration.90",
+      "text": "Quatre-vingt-dix secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "d174cd86bfc79e0cca8f9d9947823703f324de01a2e16b1289829d99412fae67"
+    },
+    {
+      "id": "duration.95",
+      "text": "Quatre-vingt-quinze secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "98eccae32720ffbfe42e1970b72ae073a8c3d292d5f3dcc68119f36f985db1e9"
+    },
+    {
+      "id": "duration.100",
+      "text": "Cent secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "f90ae2eebea7c6b5c29d5f07a73a4abbff6c5a83f2564270c544e9744d08f538"
+    },
+    {
+      "id": "duration.105",
+      "text": "Cent cinq secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "6a62020adfb8657ca3d3b5ec82df563a9798650490e16523a4d290754c30a7a9"
+    },
+    {
+      "id": "duration.110",
+      "text": "Cent dix secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "19de561bc6bd479933ba36454491cd887f7586417981f42958c83bd501df44f3"
+    },
+    {
+      "id": "duration.115",
+      "text": "Cent quinze secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "75d29896c866df61347c51b3257f42dd7b02935af2c2677748bb336c244fc8f1"
+    },
+    {
+      "id": "duration.120",
+      "text": "Cent vingt secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "640076fa06fd6b46c94e93486cd94b22243ae2109252a799d5872c55f3d7a076"
+    },
+    {
+      "id": "duration.125",
+      "text": "Cent vingt-cinq secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "3ae29940bfe02e5e856ce9931bb5a4e854d5d6bbb417794cd604349fecd06b01"
+    },
+    {
+      "id": "duration.130",
+      "text": "Cent trente secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "1559ca54e417b22a120815c212693e9c120948b4a4f022e69a67eb8ec49a6e5d"
+    },
+    {
+      "id": "duration.135",
+      "text": "Cent trente-cinq secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "540ffcc11c3f50bec7b97dab0e2031ec9c6d992464de308c3ded30a6baef5d3e"
+    },
+    {
+      "id": "duration.140",
+      "text": "Cent quarante secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "22239df04812efea493622f7a62648d54c66dd410eea3ac315f0b15ca0a47241"
+    },
+    {
+      "id": "duration.145",
+      "text": "Cent quarante-cinq secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "21fc08b12d5e65c2b7ad934219afb231faa98464e83006b9fed7eb905097e250"
+    },
+    {
+      "id": "duration.150",
+      "text": "Cent cinquante secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "6a0453bc0806e75befbcb675eabfcce2e77529b28b404a9e9a92af19bee63a06"
+    },
+    {
+      "id": "duration.155",
+      "text": "Cent cinquante-cinq secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "8ff449f2219d72f8bfa6cf819a87778eeabf6b457914108decbff23647010c7d"
+    },
+    {
+      "id": "duration.160",
+      "text": "Cent soixante secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "751a0a3c84e4b7cd700a5042644aa11faf7667f5ab55bd4fb3a094166552a1a6"
+    },
+    {
+      "id": "duration.165",
+      "text": "Cent soixante-cinq secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "acf4ab93fd6f5e7153090fb4362d9942071a44c2984d304018fbac9eaa1619e9"
+    },
+    {
+      "id": "duration.170",
+      "text": "Cent soixante-dix secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "1bcad8d5d5807abfed1a50a609a9d8fb6788908d586f70875b1cfc77eb8ef821"
+    },
+    {
+      "id": "duration.175",
+      "text": "Cent soixante-quinze secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "6388c53c0409f8365a3e6a44fd6313b41089d9877374e4982c318f73b1876603"
+    },
+    {
+      "id": "duration.180",
+      "text": "Cent quatre-vingts secondes.",
+      "family": "work_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "6ce669ebb0c216cbc97f46b56d16bee522bb448206bf57a4eff534b6fd57f83b"
+    },
+    {
+      "id": "rest.0",
+      "text": "Pas de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "e2743e7121e91e15baf6aeba847555ab5e835d3bae80dbc60f75291074bb99d0"
+    },
+    {
+      "id": "rest.5",
+      "text": "Cinq secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "c37a82e1618b14cd4bba86fdd2e53c64f66338ff4727711764bfbc2c5a4f0352"
+    },
+    {
+      "id": "rest.10",
+      "text": "Dix secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "34029fb1b4634b4a78feb5bf492d0dcc9b7f77d7ccde0bcc9248d14350a39dda"
+    },
+    {
+      "id": "rest.15",
+      "text": "Quinze secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "399fb67bc435d568eee35f6c2ccdadefa0a47332470201b89d71d4d2402d0df3"
+    },
+    {
+      "id": "rest.20",
+      "text": "Vingt secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "3bb5d049080e0dede6749b6690e483163c1d6c45be71eac2b29c4cfb3e474189"
+    },
+    {
+      "id": "rest.25",
+      "text": "Vingt-cinq secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "f576584b72eb56bc35b8bdc6d4476c1819980e54b1a0afb33e27bf55ec6c3b4f"
+    },
+    {
+      "id": "rest.30",
+      "text": "Trente secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "aeec10936a5c4baf352dccc771c2dbb08f782664da90a18edaf6aae6e1f35f67"
+    },
+    {
+      "id": "rest.35",
+      "text": "Trente-cinq secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "23068a6ae735f80eba938d8debf2b7c096089ee3a174fbfaa5d4d9ee9e661dda"
+    },
+    {
+      "id": "rest.40",
+      "text": "Quarante secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "44a5c5fac0d4cf559cdd908cd5a3f5bbcf220eb71e891a83baf096ca9682f1b0"
+    },
+    {
+      "id": "rest.45",
+      "text": "Quarante-cinq secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "7e581794d145642286fef068927821678d08679fa6d7aeea2fac7180ea109ff7"
+    },
+    {
+      "id": "rest.50",
+      "text": "Cinquante secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "8e91d88e95c18b0d26c0efe1df1158a5ab26f0d1f646b83a8468e4d3bab6ab2c"
+    },
+    {
+      "id": "rest.55",
+      "text": "Cinquante-cinq secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "d3aa6534b10862ff274a99a24a5e08e36debc8a7329fb122e8b691e0d1bed151"
+    },
+    {
+      "id": "rest.60",
+      "text": "Soixante secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "942456bd2ba09ee248511e31ac6a1e231db676e847b1f0b6648db618be1dbd3b"
+    },
+    {
+      "id": "rest.65",
+      "text": "Soixante-cinq secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "5771eb58d65ca106bc2bf4542e2167e9f11fd9b42f85944d53bd2a6dac74d243"
+    },
+    {
+      "id": "rest.70",
+      "text": "Soixante-dix secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "902d633a4a26e800a7249f0180d897a92a164c24f687f47f0d644fe108b9c726"
+    },
+    {
+      "id": "rest.75",
+      "text": "Soixante-quinze secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "5859aa20fab1f278569a9f353cc8999606e0eca4de6d82a2a83cbeed8b6b4609"
+    },
+    {
+      "id": "rest.80",
+      "text": "Quatre-vingts secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "669e31a560356a1b918b8cc0f6c92c79342e782be85be3e26829ad76d58f4167"
+    },
+    {
+      "id": "rest.85",
+      "text": "Quatre-vingt-cinq secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "9d9395291ccdb0e689bbf166512379058e86b05a9068873283de4cff75a81783"
+    },
+    {
+      "id": "rest.90",
+      "text": "Quatre-vingt-dix secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "7ce48282eca0ae4ab51ab88861b49354fb95f1cc05e7e658553bd7ddba5db43b"
+    },
+    {
+      "id": "rest.95",
+      "text": "Quatre-vingt-quinze secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "6eeb8fa4e49fce3713fdd238634f21f7daaef38d8b06881030b0fb1edde19fd6"
+    },
+    {
+      "id": "rest.100",
+      "text": "Cent secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "8d79c22b2071f59615104421ae925c747a55c6c628c9a3f913d88d003402b8e3"
+    },
+    {
+      "id": "rest.105",
+      "text": "Cent cinq secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "53f47c9cfa1babe1978c5f9e6baf52189e9151249609e9c06d5867208bc8aa55"
+    },
+    {
+      "id": "rest.110",
+      "text": "Cent dix secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "3c1b41b5d940fba2a2fce5ce5b90435344d7b60ac57988695afd2829ee0b0f8f"
+    },
+    {
+      "id": "rest.115",
+      "text": "Cent quinze secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "f6495c2382d442546e59a1fe403629e9a1fe9d3b630434547b7050dd1ffeeb35"
+    },
+    {
+      "id": "rest.120",
+      "text": "Cent vingt secondes de récupération.",
+      "family": "rest_duration",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "1af20540a5b107642d9b938a51cdc22431eeaadf55bf0952d484c4f943d868c6"
+    },
+    {
+      "id": "countdown.1",
+      "text": "Un.",
+      "family": "countdown",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "625c44aa8eba71a67835221d4b5fa7383cbb99f8a8d731a42bcdf7a35ae5a399"
+    },
+    {
+      "id": "countdown.2",
+      "text": "Deux.",
+      "family": "countdown",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "ca8f6de91b5d7bd684ff0f60f51c7936222f25f6fd568d27d2d45e2639395475"
+    },
+    {
+      "id": "countdown.3",
+      "text": "Trois.",
+      "family": "countdown",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "81ddbfc98bff37eaafc7e0793eeae7f3ee1d866a78915b00374ef376447c1047"
+    },
+    {
+      "id": "countdown.4",
+      "text": "Quatre.",
+      "family": "countdown",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "c1758d4eb7fe7ce6407d5e9a8e76cd7385a208ea8ff5b2701393d915ceec089b"
+    },
+    {
+      "id": "countdown.5",
+      "text": "Cinq.",
+      "family": "countdown",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "165d4c9250ac2e4f8b71a4ca6642c589c79df3bd752507a531ae023ec07ec951"
+    },
+    {
+      "id": "countdown.6",
+      "text": "Six.",
+      "family": "countdown",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "cfd6e8dd2766d6cf27044370c0d45023b7b6ff5e3bdb73947831ff7bdada2e03"
+    },
+    {
+      "id": "countdown.7",
+      "text": "Sept.",
+      "family": "countdown",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "2d6a0583c67be76b5dbffa1ef4bb1ff6661f8a324420c20b9413f0eb5fbb1b70"
+    },
+    {
+      "id": "countdown.8",
+      "text": "Huit.",
+      "family": "countdown",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "9fcff1a51d5a4b736c62b52daabc889160ecf2c617781fcc6e27e15ff9c70717"
+    },
+    {
+      "id": "countdown.9",
+      "text": "Neuf.",
+      "family": "countdown",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "55dc40f801421c9f26ae54e118d87a48dcfcdc31f83edb23cf5980dfcd56dff9"
+    },
+    {
+      "id": "countdown.10",
+      "text": "Dix.",
+      "family": "countdown",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "6bdd46c24c2abd21ab9c1860e105f8d90307eb826e21d73d9a322cfb8bf6281f"
+    },
+    {
+      "id": "common.welcome",
+      "text": "Bienvenue chez Tempo. On s’entraîne à ton rythme.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "2a2b470300114f6ed0ac9a2fa3261584d7817364228ce8594022a250224657cd"
+    },
+    {
+      "id": "common.start",
+      "text": "C’est parti.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "26fcfa9c0bb26d75a5516c61a85657ea81659ee408b579a530d21f24158d8726"
+    },
+    {
+      "id": "common.complete",
+      "text": "Séance terminée.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "2f026b052abe5282964f1466b55b338b8e9c8ab4331fa919d61d90d1aff329a9"
+    },
+    {
+      "id": "common.pause",
+      "text": "Séance en pause.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "1a171ee4d3d6a62964036072f5cb91695bf893619dfd3fc9fb27b7863ed955ff"
+    },
+    {
+      "id": "common.resume",
+      "text": "On reprend.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "18f7f9a7e7394ae611962e70f2e3f281a2ebd7e8881d10f4277c0e046a847dc1"
+    },
+    {
+      "id": "common.switch",
+      "text": "Change de côté.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "32a081ad9a2f5baee1521b0d11a8a7305ea8d0e001b3b95cd0356a2d5786ff00"
+    },
+    {
+      "id": "common.side.1",
+      "text": "Premier côté.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "b62b0eb828bda66406a97f8e8655ffe1fe194218d4bab6c35de5dd063946ed71"
+    },
+    {
+      "id": "common.side.2",
+      "text": "Deuxième côté.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "6da59cb7e449805d68e226960946da6b15028b329d728821b995f934076e9cc3"
+    },
+    {
+      "id": "common.per_side",
+      "text": "Par côté.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "db5bdbdb49ecc0325d4dbd6882104ba17f008f20fb3fc953faf57ff4f062044f"
+    },
+    {
+      "id": "common.next",
+      "text": "Ensuite.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "e9180e6e2974431f4e33e2ba5092588f5f7eefb39602125dca4f3b244453eb22"
+    },
+    {
+      "id": "common.next_prepare",
+      "text": "Préparation du prochain exercice.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "08fe4b2246a556f5b1fb65e7cd12232e983e2fd6502e6dc1d026948be6692617"
+    },
+    {
+      "id": "common.next_switch",
+      "text": "Changement de côté.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "022510f495de986827f364ea3b5ac622d7ad6e3c835adbd460938b1c736e1d5d"
+    },
+    {
+      "id": "common.next_rest",
+      "text": "Récupération.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "310c9664cb13bf35b8aae8763af5c1a32a57d51b2670811700c282effa1213a3"
+    },
+    {
+      "id": "common.next_summary",
+      "text": "Place au bilan.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "22ad8c95b307274f3ae9c4a4a3e29ba0ae0006452d6aa4506965d1a2f47c0e93"
+    },
+    {
+      "id": "common.rest_generic",
+      "text": "Prends le temps de récupérer.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "9d5798b6872db3e95246719770d8ec6bf287116dbb1160d2d36b501b99c61c43"
+    },
+    {
+      "id": "common.rest_extend",
+      "text": "Quinze secondes de récupération en plus.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "2f38b57109c22bf805cd8a1792e580fe177e972d38eb8f77219b72d78bccbda7"
+    },
+    {
+      "id": "common.ten_remaining",
+      "text": "Dix secondes restantes.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "a1eb1122ab736e59013c68e4e449514eb1ca5ef23a5180fa0a0f9c96cab87865"
+    },
+    {
+      "id": "common.encourage.rhythm",
+      "text": "Garde ton rythme et respire.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "73f7ca61e2e28f0560a77737c3da6743467d43c25eb6044e9f9c493218679512"
+    },
+    {
+      "id": "common.encourage.control",
+      "text": "Prends ton temps.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "74a7eebeeacdb8a61da1654e8fa78299a3b157f4745b54457aaeaa327c60c341"
+    },
+    {
+      "id": "common.encourage.finish",
+      "text": "Bien joué.",
+      "family": "common",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "f4515cb2e61f7943fc581851c44d61248d9c6132cb15ea5f56f05d46f33eb30c"
+    },
+    {
+      "id": "reps.2.per_side",
+      "text": "Deux répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "49c3c87cdb3f5bd8d993f161309c7988f4dbc7401b3d785a99b6e6b516922602"
+    },
+    {
+      "id": "reps.3.per_side",
+      "text": "Trois répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "cd799433a161145b14d07d8d7b7df2a7d40ddf1b0c20468144a32f4ede351e4d"
+    },
+    {
+      "id": "reps.4.per_side",
+      "text": "Quatre répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "3daadc538be245175579e0053f6fdbd0b3f7a8388c0bcf890b9af6ba4d5dce12"
+    },
+    {
+      "id": "reps.5.per_side",
+      "text": "Cinq répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "a861d96f5b273d3c1173268616f6fc3fef2e00a1ad5414f4d8d9f95c63b7f7ae"
+    },
+    {
+      "id": "reps.6.per_side",
+      "text": "Six répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "be4d54ee24a7062616c5d077a12f3abc59215ceee3b6ff89cbfac9c2ddc6b273"
+    },
+    {
+      "id": "reps.7.per_side",
+      "text": "Sept répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "2686b2cacc1dd645ed3a6a3f8fefa52a3d5286959f4c3e58e3d86c4dff8c0160"
+    },
+    {
+      "id": "reps.8.per_side",
+      "text": "Huit répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "1789d20e3bcdb4974d7a1d3da89a0990bb7e56149f5cda55236356fbec08b783"
+    },
+    {
+      "id": "reps.9.per_side",
+      "text": "Neuf répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "fb2bf165a3d61af24049a4db58546501b95397499d7cbecbe6fd2ab2c913cc3f"
+    },
+    {
+      "id": "reps.10.per_side",
+      "text": "Dix répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "228323c1d4179eae9b406064a6022afd76ba42175a0d2e1ba5d400c247013e27"
+    },
+    {
+      "id": "reps.11.per_side",
+      "text": "Onze répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "d0667d2def7fca5d0217373a0908646f2ac73550e4bedc7f36ae26e8c954865f"
+    },
+    {
+      "id": "reps.12.per_side",
+      "text": "Douze répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "3f1cde2b529701fbe309766e4df009709eb6e71381f4116b6a0b089d0828e72d"
+    },
+    {
+      "id": "reps.13.per_side",
+      "text": "Treize répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "40099dc508b68f692c3b43acb5593e0bda094714ba6a3092cfaae016efc08c69"
+    },
+    {
+      "id": "reps.14.per_side",
+      "text": "Quatorze répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "9eaf0d1782ee334be862033709d9b83b8e8bcf7c045b520e072c79d95ae00dd7"
+    },
+    {
+      "id": "reps.15.per_side",
+      "text": "Quinze répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "4406ad7fb9341260cc2dfe2b75d5e7bf74b9ae378ccb69f1f612f343ecd86911"
+    },
+    {
+      "id": "reps.16.per_side",
+      "text": "Seize répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "dc094de474d71292a09927798f0184c9c4b3d2fc9dea85ce84a43d127a353eeb"
+    },
+    {
+      "id": "reps.17.per_side",
+      "text": "Dix-sept répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "b5f7dabccd7cda19ac3ecb51a027661b7d6615337d1e6ed248226713e09c03a0"
+    },
+    {
+      "id": "reps.18.per_side",
+      "text": "Dix-huit répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "2a04a9a042e2b83ad265bd75e71178f7a8bc6d5a1076d79345dacb8f5a999ccc"
+    },
+    {
+      "id": "reps.19.per_side",
+      "text": "Dix-neuf répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "4d2c28da8e1d4c8cf2c67427b53218a46f703e45bc212e2869f5fbebdd30a852"
+    },
+    {
+      "id": "reps.20.per_side",
+      "text": "Vingt répétitions par côté.",
+      "family": "repetitions_per_side",
+      "status": "text_frozen",
+      "review": "editorial_prepared_not_sport_technical",
+      "text_sha256": "da349edce23d1ce17358ac1f6fbccc68b9f7dd9414a4cbff36bf6d1ebc344e13"
+    }
+  ],
+  "composition": {
+    "preparing": [
+      "{exercise}.prepare"
+    ],
+    "working_reps": [
+      "{exercise}.name",
+      "set.{set}.{sets}",
+      "reps.{value}.per_side if per_side else reps.{value}"
+    ],
+    "working_timed": [
+      "{exercise}.name",
+      "set.{set}.{sets}",
+      "duration.{value}"
+    ],
+    "resting": [
+      "rest.{remaining} or common.rest_generic",
+      "common.next",
+      "structured_next_phase"
+    ],
+    "switching_side": [
+      "common.switch",
+      "common.side.{side} if 1 or 2"
+    ],
+    "completed": [
+      "common.complete"
+    ],
+    "ten_remaining": [
+      "common.ten_remaining"
+    ],
+    "encouragement": [
+      "common.encourage.rhythm"
+    ],
+    "voice_test": [
+      "common.welcome"
+    ]
+  },
+  "policy": {
+    "next_phase": "Use scheduled next phase, including same exercise next set and side changes; never parse UI labels.",
+    "unknown_values": "Skip unavailable numeric segment; use generic recovery for rest. Exact values stay visible.",
+    "pause": "Stop audio immediately; do not queue pause message automatically.",
+    "countdown": "Optional library; do not schedule automatically in V1.",
+    "technique": "144 technique drafts excluded pending human technical review.",
+    "pronunciation": "Preserve exercise names, including English names. Check all pronunciations by listening; do not invent phonetic spellings without audition."
+  }
+}

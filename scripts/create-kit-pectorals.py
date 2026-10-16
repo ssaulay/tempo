@@ -1,0 +1,21 @@
+"""Append three complementary kit chest exercises without changing existing records."""
+from pathlib import Path
+import copy,json
+ROOT=Path(__file__).resolve().parents[1]
+def read(p):return json.loads((ROOT/p).read_text())
+def write(p,d):(ROOT/p).write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+kit=read('catalog/kit-exercises.json');base={e['id']:e for e in kit['exercises']};rs=read('catalog/kit-rules.json');records=[]
+defs=[('EX75','Développé pectoral vers le haut avec kit et ancrage bas','door_low','EX70','Dos à la porte, ancrage bas, pieds décalés et une poignée près de chaque côté de la poitrine.','Pousse les poignées devant toi et vers le haut, jusqu’à une hauteur confortable devant le visage, sans cambrer le dos.','Ramène les poignées près de la poitrine en freinant le retour.','Pousse en diagonale devant toi, sans te pencher en arrière.'),('EX76','Développé pectoral vers le bas avec kit et ancrage haut','door_high','EX70','Dos à la porte, ancrage haut, pieds décalés, poignées près de la poitrine et coudes fléchis.','Pousse les poignées devant toi et vers le bas, jusqu’à hauteur du bas de la poitrine ou du haut du ventre.','Replie les coudes sous contrôle pour revenir près de la poitrine.','Pousse devant toi en diagonale, pas verticalement près des cuisses.'),('EX77','Écarté pectoral unilatéral avec kit et ancrage latéral','door_mid','EX71','Place ton côté actif vers l’ancrage à hauteur de poitrine. Fixe les deux extrémités des tubes à une même poignée compatible et tiens-la avec la main active. Main libre sur la hanche.','Rapproche la poignée devant le sternum dans un arc horizontal, en gardant le même léger pli au coude et le buste face à l’avant.','Reviens doucement vers l’ancrage. Réduis la tension avant de changer de côté, puis refais la même installation.','Garde le bassin et le buste immobiles pendant le mouvement du bras.')]
+for id,name,mount,parent,start,action,ret,tip in defs:
+ e=copy.deepcopy(base[parent]);e.update(id=id,name=name,minimumLevel='intermediate',bandMount=mount,audioKey=id,preparationCue=start,tip=tip,relatedExercises=[parent],installation=base[parent]['installation'].split(' Vérifie la sangle')[0].rstrip('.')+'. Vérifie la sangle et les connexions. '+start,review={'technical':None,'visual':None})
+ e['muscles']={'primary':['pectorals'],'secondary':['anterior_deltoids']+(['triceps'] if id!='EX77' else []),'stabilizers':['core']};e['counting']='per_side' if id=='EX77' else 'total';e['sides']=2 if id=='EX77' else 1;e['alternating']=False
+ e['steps']=[dict(id=i,title=t,description=d,postureCues=[d],breathing=e['breathing'],asset=f'step-0{i}.webp',alt=name+' : '+d) for i,t,d in [(1,'Installation',start),(2,'Mouvement',action),(3,'Retour et sortie',ret+' Reviens près de l’ancrage pour réduire la tension avant de lâcher la poignée.')]]
+ e['errors']=['Tourner ou cambrer le buste : réduis la résistance et conserve des appuis stables.','Laisser le tube ramener le bras brutalement : freine le retour.','Chercher une grande amplitude malgré une gêne : raccourcis le mouvement ou arrête la série.']
+ e['constraints']+=['Angles et amplitude individuels, sans promesse d’isolation ni de croissance d’une région pectorale.','Montage réel, consignes, programmation et illustrations sans revue technique humaine.']
+ if id=='EX77':e['constraints'].append('Une poignée reçoit les deux extrémités ; respecter la capacité des connexions. Le dosage est par côté, pas un total alterné.')
+ records.append(e);rs['byExercise'][id]=copy.deepcopy(rs['byExercise'][parent])
+kit['exercises']=[e for e in kit['exercises'] if e['id'] not in [x[0] for x in defs]]+records;write('catalog/kit-exercises.json',kit);write('catalog/kit-rules.json',rs)
+links=read('catalog/kit-equivalences.json');links['links']=[l for l in links['links'] if l['to'] not in ['EX75','EX76','EX77']]
+for id,_,_,parent,*_ in defs:links['links'].append({'from':parent,'to':id,'version':1,'kind':'nearby_movement','note':{'EX75':'Poussée montante avec ancrage bas.','EX76':'Poussée descendante avec ancrage haut.','EX77':'Un bras à la fois, avec ancrage sur le côté.'}[id]})
+write('catalog/kit-equivalences.json',links)
+write('reports/kit-pectorals/definition.json',{'exercises':[{'id':e['id'],'name':e['name'],'mount':e['bandMount']} for e in records]})

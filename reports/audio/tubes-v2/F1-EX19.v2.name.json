@@ -1,0 +1,62 @@
+{
+  "clip": {
+    "id": "EX19.v2.name",
+    "text": "Rowing avec tubes et poignées"
+  },
+  "voice": "F1",
+  "usage": {
+    "total_tokens": 74,
+    "total_input_tokens": 8,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 8
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 66,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 66
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0,
+    "raw_prompt_token": 1022,
+    "model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 175
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 68
+          }
+        ]
+      }
+    ],
+    "non_grounding_model_invocation_token_counts": [
+      {
+        "prompt_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 175
+          }
+        ],
+        "candidates_tokens_details": [
+          {
+            "modality": "text",
+            "tokens": 68
+          }
+        ]
+      }
+    ]
+  },
+  "status": "generated_not_listened",
+  "sha256": "ff23b2ae58f5122f9cf768a50c35d519c5ecd2592df51764aca442ff18b28b57"
+}

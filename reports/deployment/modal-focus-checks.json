@@ -1,0 +1,25 @@
+{
+  "version": "5ed3cf0d-e273-479b-8bcb-e0c310833376",
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "identical": true
+    },
+    {
+      "path": "/sw.js",
+      "status": 200,
+      "identical": true
+    },
+    {
+      "path": "/assets/index-CjN1Jbbk.js",
+      "status": 200,
+      "identical": true
+    },
+    {
+      "path": "/assets/index-DCglHTlm.css",
+      "status": 200,
+      "identical": true
+    }
+  ]
+}

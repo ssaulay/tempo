@@ -1,0 +1,39 @@
+{
+  "voice": "M2-deep-v2",
+  "voice_id": "voice_j1nyh1atfcz8",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni.",
+  "clip": {
+    "id": "duration.170",
+    "text": "Cent soixante-dix secondes.",
+    "family": "work_duration",
+    "status": "text_frozen",
+    "review": "editorial_prepared_not_sport_technical",
+    "text_sha256": "1bcad8d5d5807abfed1a50a609a9d8fb6788908d586f70875b1cfc77eb8ef821"
+  },
+  "usage": {
+    "total_tokens": 54,
+    "total_input_tokens": 10,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 10
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 44,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 44
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0
+  },
+  "status": "generated_listening_pending",
+  "duration_seconds": 1.76,
+  "sample_rate": 24000,
+  "checksum": "da06db9c7daf9efd1c8c20578843158c42a061d917287f80f089e9e6f1971ec1",
+  "cost_standard_usd": 0.000401
+}

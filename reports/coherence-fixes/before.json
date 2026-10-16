@@ -1,0 +1,51 @@
+[
+  {
+    "name": "settings",
+    "width": 390,
+    "height": 844,
+    "status": "failed",
+    "error": "préférence perdue après navigation"
+  },
+  {
+    "name": "editor",
+    "width": 390,
+    "height": 844,
+    "status": "failed",
+    "error": "impossible de vider le champ\n\n'1' !== ''\n"
+  },
+  {
+    "name": "search",
+    "width": 390,
+    "height": 844,
+    "status": "failed",
+    "error": "état vide manquant"
+  },
+  {
+    "name": "accessible",
+    "width": 390,
+    "height": 844,
+    "status": "failed",
+    "error": "Expected values to be strictly equal:\n\nnull !== 'page'\n"
+  },
+  {
+    "name": "player",
+    "width": 320,
+    "height": 844,
+    "status": "failed",
+    "error": "{\"top\":676.421875,\"bottom\":773.0625,\"dock\":644.21875,\"visible\":true,\"uncovered\":false}"
+  },
+  {
+    "name": "player",
+    "width": 390,
+    "height": 844,
+    "status": "failed",
+    "error": "{\"top\":676.421875,\"bottom\":736.421875,\"dock\":644.21875,\"visible\":true,\"uncovered\":false}"
+  },
+  {
+    "name": "player",
+    "width": 1440,
+    "height": 844,
+    "status": "failed",
+    "error": "abandon sans confirmation\n\n0 !== 1\n"
+  }
+]

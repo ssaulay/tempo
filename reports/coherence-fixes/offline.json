@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "onlineStatus": "Application : prête hors ligne\nVisuels : 540 / 540 fichiers présents\nVoix Tempo : 293 / 293 enregistrements disponibles présents",
+  "offlineStatus": "Application : prête hors ligne\nVisuels : 540 / 540 fichiers présents\nVoix Tempo : 293 / 293 enregistrements disponibles présents",
+  "checks": [
+    "application et audio précachés",
+    "540 visuels disponibles",
+    "statuts conservés après rechargement hors ligne",
+    "génération et démarrage hors ligne",
+    "illustration chargée",
+    "pause fonctionnelle"
+  ],
+  "physicalIPhoneTested": false
+}

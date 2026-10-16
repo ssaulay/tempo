@@ -1,0 +1,25 @@
+{
+  "status": "files_verified_listening_pending",
+  "clips": [
+    {
+      "id": "F1",
+      "duration": 9.24,
+      "checksum": "2d14042c5abacb4cca4fa8088091682fe531111fb08614514a0bd780e7062074"
+    },
+    {
+      "id": "F2",
+      "duration": 8.68,
+      "checksum": "ae1764ff2229f1e8f4f5220a1a37ed6ba94ef8805c35e65a879bed4c75b6bdbf"
+    },
+    {
+      "id": "M1",
+      "duration": 8.68,
+      "checksum": "ee6d317564e4f093cbc6d582a14fc60eb12c5dd903538ec2404b4632711aa244"
+    },
+    {
+      "id": "M2",
+      "duration": 7.84,
+      "checksum": "a6a35dfa3acdf4960a795ad1160c1c519f056687d994cadef848b4ed83a70653"
+    }
+  ]
+}

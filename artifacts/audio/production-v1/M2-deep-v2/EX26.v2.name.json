@@ -1,0 +1,38 @@
+{
+  "voice": "M2-deep-v2",
+  "voice_id": "voice_j1nyh1atfcz8",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni.",
+  "clip": {
+    "id": "EX26.v2.name",
+    "text": "Curl avec tubes et poignées.",
+    "family": "exercise_name",
+    "status": "text_frozen",
+    "text_sha256": "afc6f284be9c42dfed95a0d89b22d2ca50a375e3e6838f69b7a6e69c991eabdd"
+  },
+  "usage": {
+    "total_tokens": 67,
+    "total_input_tokens": 8,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 8
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 59,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 59
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0
+  },
+  "status": "generated_listening_pending",
+  "duration_seconds": 2.36,
+  "sample_rate": 24000,
+  "checksum": "41e14a2b342b4d4a3597c9aeda35b73524f373bd973babee36a2f3e3e1f32405",
+  "cost_standard_usd": 0.000535
+}

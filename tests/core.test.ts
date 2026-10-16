@@ -10,7 +10,7 @@ const event=(a:ActiveSession,type:Parameters<typeof transition>[1]['type'],now=a
 const work=(a:ActiveSession)=>event(a,'Next');
 const eligible=(e:Exercise)=>compatible(e,profile,defaultEquipment);
 describe('Catalogue et contraintes',()=>{
- it('conserve les 48 fiches complètes, sans validations inventées',()=>{expect(exercises).toHaveLength(48);expect(new Set(exercises.map(e=>e.id)).size).toBe(48);for(const e of exercises){expect(e.steps).toHaveLength(3);expect(e.errors.length).toBeGreaterThanOrEqual(2);expect(e.review.technical).toBeNull();expect(e.contentStatus).toBe('draft');}});
+ it('conserve les 48 fiches complètes, sans validations inventées',()=>{expect(exercises).toHaveLength(77);expect(new Set(exercises.map(e=>e.id)).size).toBe(77);for(const e of exercises){expect(e.steps).toHaveLength(3);expect(e.errors.length).toBeGreaterThanOrEqual(2);expect(e.review.technical).toBeNull();expect(e.contentStatus).toBe('draft');}});
  it('le mode publié exclut tous les contenus provisoires',()=>{for(const e of exercises)expect(selectable(e,{...profile,prototype:false},defaultEquipment)).toBe(false);});
  it('aucun matériel ne présume corde, roue ou support',()=>{for(const id of ['EX04','EX11','EX34','EX16','EX26'])expect(compatible(ex(id),profile,defaultEquipment)).toBe(false);});
  it('un haltère ne permet pas un mouvement à deux haltères',()=>{const eq={...defaultEquipment,dumbbells:true,dumbbellCount:1 as const};expect(compatible(ex('EX16'),profile,eq)).toBe(false);expect(compatible(ex('EX20'),profile,eq)).toBe(true);});

@@ -1,0 +1,53 @@
+{
+  "status": "four_candidates_generated_listening_pending",
+  "model": "gemini-3.8-flash-tts",
+  "locale": "fr-FR",
+  "method": "Voice Design identity + separate speech_metadata style",
+  "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni.",
+  "profiles": [
+    {
+      "id": "F1",
+      "gender": "female",
+      "display_name": "Coach féminine solaire",
+      "identity_prompt": "Français de France métropolitain, accent contemporain neutre. Prononciation, rythme et intonation de France, sans accent québécois, canadien, belge ou suisse. Voix adulte jeune, environ 25 à 35 ans, naturelle, dynamique et sympathique. Articulation claire des nombres et du vocabulaire sportif. Timbre féminin médium, lumineux et chaleureux, sourire audible discret, énergie vive et proximité conversationnelle. Texture humaine légère, cadence souple et respirations discrètes. Éviter voix enfantine, aigu forcé, grave forcé, ton robotique, militaire ou publicitaire."
+    },
+    {
+      "id": "F2",
+      "gender": "female",
+      "display_name": "Coach féminine complice",
+      "identity_prompt": "Français de France métropolitain, accent contemporain neutre. Prononciation, rythme et intonation de France, sans accent québécois, canadien, belge ou suisse. Voix adulte jeune, environ 25 à 35 ans, naturelle, dynamique et sympathique. Articulation claire des nombres et du vocabulaire sportif. Timbre féminin médium légèrement plus bas et velouté, ton complice, spontané et enthousiaste, avec une énergie posée. Texture humaine légère, cadence souple et respirations discrètes. Éviter voix enfantine, aigu forcé, grave forcé, ton robotique, militaire ou publicitaire."
+    },
+    {
+      "id": "M1",
+      "gender": "male",
+      "display_name": "Coach masculin solaire",
+      "identity_prompt": "Français de France métropolitain, accent contemporain neutre. Prononciation, rythme et intonation de France, sans accent québécois, canadien, belge ou suisse. Voix adulte jeune, environ 25 à 35 ans, naturelle, dynamique et sympathique. Articulation claire des nombres et du vocabulaire sportif. Timbre masculin médium, clair et chaleureux, sourire audible discret, énergie vive et proximité conversationnelle. Texture humaine légère, cadence souple et respirations discrètes. Éviter voix enfantine, aigu forcé, grave forcé, ton robotique, militaire ou publicitaire."
+    },
+    {
+      "id": "M2",
+      "gender": "male",
+      "display_name": "Coach masculin complice",
+      "identity_prompt": "Français de France métropolitain, accent contemporain neutre. Prononciation, rythme et intonation de France, sans accent québécois, canadien, belge ou suisse. Voix adulte jeune, environ 25 à 35 ans, naturelle, dynamique et sympathique. Articulation claire des nombres et du vocabulaire sportif. Timbre masculin médium légèrement grave, souple et chaleureux, ton complice et spontané, avec une énergie entraînante. Texture humaine légère, cadence souple et respirations discrètes. Éviter voix enfantine, aigu forcé, grave forcé, ton robotique, militaire ou publicitaire."
+    }
+  ],
+  "screening_phrase": "Allez, on y va ! Prépare-toi pour les squats. Garde ton rythme et respire. Encore dix secondes, puis tu récupères.",
+  "diagnostic_phrases": [
+    "Série deux sur trois. Douze répétitions par côté.",
+    "Trente secondes de récupération. Ensuite, fentes arrière.",
+    "Dead bug. Prépare-toi.",
+    "Place tes haltères. On passe au gainage.",
+    "Bien joué ! Prends le temps de récupérer."
+  ],
+  "acceptance": [
+    "Accent français de France à l’écoute, sans accent canadien ou québécois.",
+    "Voix adulte jeune, dynamique, sympathique et confortable sur des annonces répétées.",
+    "Nombres, liaisons et vocabulaire sportif correctement prononcés.",
+    "Noms anglais des exercices prononcés naturellement dans une phrase française.",
+    "Aucun mot ajouté ni consigne de style prononcée."
+  ],
+  "notes": [
+    "Le code fr-FR et le prompt ne garantissent pas l’accent : écoute humaine obligatoire.",
+    "Créer une identité une seule fois, puis réutiliser son identifiant dans le même projet Google.",
+    "La création Voice Design doit être chiffrée séparément : le coût TTS seul ne suffit pas."
+  ]
+}

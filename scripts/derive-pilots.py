@@ -1,26 +1,26 @@
-"""Extraction/composition déterministe demandée par le PRD, sans retoucher les poses."""
+"""Clean extraction and shared registration requested by Simon; no pose edits."""
 from pathlib import Path
-from PIL import Image, ImageOps
+import json
+from PIL import Image
+from asset_framing import register
 root=Path(__file__).resolve().parents[1]
 sources=root/'assets/sources'
-shared=root/'public/assets/shared/v1'
-shared.mkdir(parents=True,exist_ok=True)
+shared=root/'public/assets/shared/v1';shared.mkdir(parents=True,exist_ok=True)
 Image.open(sources/'reference-character.png').save(shared/'reference-character.webp','WEBP',quality=84)
+records=[]
 for source in sorted(sources.glob('EX[0-9][0-9].png')):
- ex=source.stem
- out=root/'public/assets/exercises/v1'/ex;out.mkdir(parents=True,exist_ok=True)
- sheet=Image.open(sources/(ex+'.png')).convert('RGB');w,h=sheet.size
- frames=[]
- for i in range(3):
-  crop=sheet.crop((0,h*i//3,w,h*(i+1)//3))
-  pose=ImageOps.pad(crop,(1200,900),color='#F6F4EF',method=Image.Resampling.LANCZOS)
-  pose.save(out/f'step-0{i+1}.webp','WEBP',quality=83)
-  frames.append(pose.resize((600,450),Image.Resampling.LANCZOS))
- frames[0].save(out/'demo.gif',save_all=True,append_images=frames[1:],duration=1000,loop=0,optimize=True)
- Image.open(out/'step-02.webp').resize((400,300),Image.Resampling.LANCZOS).save(out/'thumb.webp','WEBP',quality=80)
- top=sources/(ex+'-top.png')
- if top.exists():
-  sheet=Image.open(top).convert('RGB');w,h=sheet.size
-  for i in range(3):
-   ImageOps.pad(sheet.crop((0,h*i//3,w,h*(i+1)//3)),(1200,900),color='#F6F4EF',method=Image.Resampling.LANCZOS).save(out/f'top-step-0{i+1}.webp','WEBP',quality=83)
-print('Tous les lots sources disponibles dérivés ; aucune revue technique attribuée.')
+ ex=source.stem;out=root/'public/assets/exercises/v1'/ex;out.mkdir(parents=True,exist_ok=True)
+ for top in [False,True]:
+  path=sources/(ex+('-top' if top else '')+'.png')
+  if not path.exists():continue
+  frames,report=register(Image.open(path).convert('RGB'),ex,top)
+  report.update(exercise=ex,angle='top' if top else 'base',source=str(path.relative_to(root)))
+  for i,frame in enumerate(frames):frame.save(out/f'{"top-" if top else ""}step-0{i+1}.webp','WEBP',quality=88)
+  if not top:
+   small=[f.resize((600,450),Image.Resampling.LANCZOS) for f in frames[:2]]
+   small[0].save(out/'demo.gif',save_all=True,append_images=small[1:],duration=1000,loop=0,optimize=True)
+   frames[1].resize((400,300),Image.Resampling.LANCZOS).save(out/'thumb.webp','WEBP',quality=85)
+  records.append(report)
+(root/'reports/framing').mkdir(parents=True,exist_ok=True)
+(root/'reports/framing/audit.json').write_text(json.dumps({'sheets':len(records),'poses':len(records)*3,'humanTechnicalReview':'pending','records':records},indent=2))
+print(f'{len(records)} planches, {len(records)*3} poses isolées et recalées. Revue technique humaine en attente.')

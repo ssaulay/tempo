@@ -1,0 +1,310 @@
+{
+  "version": 1,
+  "status": "editorial_draft",
+  "byExercise": {
+    "EX70": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 10,
+        "max": 90,
+        "default": 30,
+        "step": 5
+      },
+      "rest": {
+        "min": 15,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 3,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 0.8,
+        "intermediate": 1,
+        "advanced": 1.15
+      },
+      "intensityFactors": {
+        "gentle": 0.8,
+        "moderate": 1,
+        "intense": 1.15
+      }
+    },
+    "EX71": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 10,
+        "max": 90,
+        "default": 30,
+        "step": 5
+      },
+      "rest": {
+        "min": 15,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 3,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 0.8,
+        "intermediate": 1,
+        "advanced": 1.15
+      },
+      "intensityFactors": {
+        "gentle": 0.8,
+        "moderate": 1,
+        "intense": 1.15
+      }
+    },
+    "EX72": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 10,
+        "max": 90,
+        "default": 30,
+        "step": 5
+      },
+      "rest": {
+        "min": 15,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 3,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 0.8,
+        "intermediate": 1,
+        "advanced": 1.15
+      },
+      "intensityFactors": {
+        "gentle": 0.8,
+        "moderate": 1,
+        "intense": 1.15
+      }
+    },
+    "EX73": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 10,
+        "max": 90,
+        "default": 30,
+        "step": 5
+      },
+      "rest": {
+        "min": 15,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 3,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 0.8,
+        "intermediate": 1,
+        "advanced": 1.15
+      },
+      "intensityFactors": {
+        "gentle": 0.8,
+        "moderate": 1,
+        "intense": 1.15
+      }
+    },
+    "EX74": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 10,
+        "max": 90,
+        "default": 30,
+        "step": 5
+      },
+      "rest": {
+        "min": 15,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 3,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 0.8,
+        "intermediate": 1,
+        "advanced": 1.15
+      },
+      "intensityFactors": {
+        "gentle": 0.8,
+        "moderate": 1,
+        "intense": 1.15
+      }
+    },
+    "EX75": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 10,
+        "max": 90,
+        "default": 30,
+        "step": 5
+      },
+      "rest": {
+        "min": 15,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 3,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 0.8,
+        "intermediate": 1,
+        "advanced": 1.15
+      },
+      "intensityFactors": {
+        "gentle": 0.8,
+        "moderate": 1,
+        "intense": 1.15
+      }
+    },
+    "EX76": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 10,
+        "max": 90,
+        "default": 30,
+        "step": 5
+      },
+      "rest": {
+        "min": 15,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 3,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 0.8,
+        "intermediate": 1,
+        "advanced": 1.15
+      },
+      "intensityFactors": {
+        "gentle": 0.8,
+        "moderate": 1,
+        "intense": 1.15
+      }
+    },
+    "EX77": {
+      "sets": {
+        "min": 1,
+        "max": 4,
+        "default": 2
+      },
+      "reps": {
+        "min": 4,
+        "max": 20,
+        "default": 8,
+        "step": 1
+      },
+      "duration": {
+        "min": 10,
+        "max": 90,
+        "default": 30,
+        "step": 5
+      },
+      "rest": {
+        "min": 15,
+        "max": 180,
+        "default": 45,
+        "step": 5
+      },
+      "secondsPerRep": 3,
+      "capacityFraction": 0.55,
+      "capacityCeilingFraction": 0.7,
+      "levelFactors": {
+        "beginner": 0.8,
+        "intermediate": 1,
+        "advanced": 1.15
+      },
+      "intensityFactors": {
+        "gentle": 0.8,
+        "moderate": 1,
+        "intense": 1.15
+      }
+    }
+  }
+}

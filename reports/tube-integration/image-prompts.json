@@ -1,0 +1,19 @@
+{
+  "tool": "built-in imagegen",
+  "referenceImage": "assets/sources/reference-character.png",
+  "status": "generated_not_human_approved",
+  "prompts": [
+    {
+      "exercise": "EX19",
+      "useCase": "scientific-educational",
+      "output": "assets/sources/tubes-v2/EX19.png",
+      "prompt": "Landscape exercise sheet, exactly two equal side-by-side panels, no text/borders. Same brown-haired adult man in navy shirt/shorts and grey trainers as identity reference, warm off-white studio. Fixed three-quarter side camera, full body entirely visible, identical size/floor level, generous margins. Bilateral bent-over row using one thin grey round resistance tube, midpoint under both shoes, two symmetrical branches to black handle in each hand with webbing/connectors. No flat ribbons, door anchor or extra loops. Same hip hinge, soft knees, natural back curve, head aligned/downward gaze in both poses. Left arms extended beneath shoulders with neutral grip. Right elbows flex back near trunk, hands near lower ribs/flanks. Tube taut and longer right, torso/feet unchanged. Clear anatomy, continuous tubes, no professional approval claim."
+    },
+    {
+      "exercise": "EX26",
+      "useCase": "scientific-educational",
+      "output": "assets/sources/tubes-v2/EX26.png",
+      "prompt": "Landscape exercise sheet exactly two equal side-by-side panels, no text/borders. Identity/clothes from reference adult man, navy outfit/grey trainers, warm off-white studio. Fixed three-quarter front full-body camera, same scale/floor and generous margins. Bilateral standing biceps curl with one thin round light-grey tube under both shoes, symmetrical branches to black grip handle/webbing/connector in each hand. No flat ribbons or door. Feet shoulder-width, soft knees, upright stable torso, upper arms beside ribs, neutral neck. Left hands low beside thighs, elbows comfortably extended, palms forward. Right flex both elbows to bring handles near shoulders, palms up, elbows unchanged near torso, no lean or shrug. Tube longer/taut on right, identical shoe positions. Clear anatomy and both handles visible. Provisional unreviewed imagery."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "settings",
+    "width": 390,
+    "height": 844,
+    "status": "passed"
+  },
+  {
+    "name": "editor",
+    "width": 390,
+    "height": 844,
+    "status": "passed"
+  },
+  {
+    "name": "search",
+    "width": 390,
+    "height": 844,
+    "status": "passed"
+  },
+  {
+    "name": "accessible",
+    "width": 390,
+    "height": 844,
+    "status": "passed"
+  },
+  {
+    "name": "player",
+    "width": 320,
+    "height": 844,
+    "status": "passed"
+  },
+  {
+    "name": "player",
+    "width": 390,
+    "height": 844,
+    "status": "passed"
+  },
+  {
+    "name": "player",
+    "width": 1440,
+    "height": 844,
+    "status": "passed"
+  }
+]

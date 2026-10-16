@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="fr">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tempo - Diagnostic audio</title>
+<style>
+body{font:17px system-ui;color:#172239;background:#fff8f3;max-width:640px;margin:0 auto;padding:24px}h1{font-size:28px}section{background:white;padding:18px;border:1px solid #e7dcd4;border-radius:16px;margin:18px 0}button,audio{width:100%;min-height:48px;margin:8px 0}button{font:inherit;background:#172239;color:white;border:0;border-radius:10px;padding:12px}p{line-height:1.5}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:13px monospace;background:#172239;color:white;padding:14px;border-radius:10px}a{color:#172239}
+</style>
+<h1>Diagnostic audio Tempo</h1>
+<p>Monte le volume multimédia. Essaie chaque bouton séparément et note ceux que tu entends. Les messages confirment le fonctionnement du navigateur, pas le son réellement entendu.</p>
+<section><h2>1. F1 en lecture directe</h2><p>Utilise le bouton lecture du lecteur ci-dessous.</p>
+<audio id="direct" controls preload="metadata" src="/assets/audio/v1/F1/EX03.prepare-47294655493a.wav"></audio></section>
+<section><h2>2. Moteur audio</h2><button id="voice">Lire F1 avec Web Audio</button><button id="beep">Jouer un bip</button></section>
+<section><h2>3. Mode lecture iPhone</h2><p>Si la lecture directe fonctionne mais les deux autres essais sont muets, essaie ce mode puis recommence les boutons de l’étape 2.</p><button id="playback">Essayer le mode lecture iPhone</button></section>
+<h2>Résultats à transmettre</h2><pre id="log" role="status" aria-live="polite"></pre>
+<p><a href="/">Revenir à Tempo</a></p>
+<script>
+const output=document.getElementById('log');
+function log(message){output.textContent+=message+'\n';}
+function error(e){return `${e.name||'Erreur'} : ${e.message||e}`;}
+let context=null,playing=null,run=0;
+function stop(){run++;document.getElementById('direct').pause();if(playing){playing.onended=null;try{playing.stop();}catch{}playing=null;}if(window.speechSynthesis)window.speechSynthesis.cancel();}
+function activate(){
+ context ||= new AudioContext();
+ context.resume().catch(e=>log('Activation : '+error(e)));
+ const prime=context.createBufferSource();prime.buffer=context.createBuffer(1,1,context.sampleRate);prime.connect(context.destination);prime.start();
+ return context;
+}
+async function running(c){
+ if(c.state!=='running')await Promise.race([c.resume(),new Promise((_,reject)=>setTimeout(()=>reject(new Error('activation sans réponse après 2 secondes')),2000))]);
+ if(c.state!=='running')throw new Error('audio '+c.state);
+}
+log('Diagnostic v1 | '+navigator.userAgent);
+log('HTTPS : '+window.isSecureContext+' | AudioSession : '+(navigator.audioSession?.type||'indisponible'));
+const direct=document.getElementById('direct');
+direct.addEventListener('play',()=>{run++;if(playing){playing.onended=null;try{playing.stop();}catch{}playing=null;}log('Lecture directe demandée');});
+direct.addEventListener('playing',()=>log('Lecture directe en cours'));
+direct.addEventListener('ended',()=>log('Lecture directe terminée'));
+direct.addEventListener('error',()=>log('Erreur fichier direct : code '+direct.error?.code+' '+(direct.error?.message||'')));
+document.getElementById('voice').onclick=async()=>{
+ stop();const token=run;
+ try{
+  const c=activate();log('F1 : contexte '+c.state);
+  const response=await fetch(direct.getAttribute('src'));log('Fichier : HTTP '+response.status);
+  if(!response.ok)throw new Error('fichier inaccessible');
+  const buffer=await c.decodeAudioData(await response.arrayBuffer());
+  log('Décodage OK : '+buffer.duration.toFixed(2)+' s');
+  await running(c);if(token!==run)return;
+  const source=c.createBufferSource();source.buffer=buffer;source.connect(c.destination);playing=source;
+  source.onended=()=>{if(token===run)log('F1 Web Audio terminée | contexte '+c.state);if(playing===source)playing=null;};
+  source.start();log('F1 Web Audio démarrée | contexte '+c.state);
+ }catch(e){if(token===run)log('F1 : '+error(e));}
+};
+document.getElementById('beep').onclick=async()=>{
+ stop();const token=run;
+ try{
+  const c=activate();await running(c);if(token!==run)return;
+  const source=c.createOscillator(),gain=c.createGain();source.frequency.value=660;gain.gain.value=.15;source.connect(gain);gain.connect(c.destination);playing=source;
+  source.onended=()=>{if(token===run)log('Bip terminé | contexte '+c.state);if(playing===source)playing=null;};
+  source.start();source.stop(c.currentTime+.5);log('Bip démarré | contexte '+c.state);
+ }catch(e){if(token===run)log('Bip : '+error(e));}
+};
+document.getElementById('playback').onclick=()=>{
+ try{if(!navigator.audioSession){log('Mode lecture indisponible sur ce navigateur');return;}navigator.audioSession.type='playback';log('Mode lecture : '+navigator.audioSession.type+' ; recommence F1 et le bip');}catch(e){log('Mode lecture : '+error(e));}
+};
+document.addEventListener('visibilitychange',()=>{if(document.hidden)stop();});
+</script>
+</html>

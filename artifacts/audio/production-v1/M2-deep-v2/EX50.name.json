@@ -1,0 +1,38 @@
+{
+  "voice": "M2-deep-v2",
+  "voice_id": "voice_j1nyh1atfcz8",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Tu accompagnes une personne qui fait du sport à domicile. Parle en français de France métropolitain, avec une énergie chaleureuse et un sourire naturel. Débit vivant mais facile à comprendre pendant l’effort. Marque de courtes pauses entre les consignes. Encourage avec simplicité, sans crier ni jouer une publicité. Prononce uniquement le texte fourni.",
+  "clip": {
+    "id": "EX50.name",
+    "text": "Pompes avec prise modérément large.",
+    "family": "exercise_name",
+    "status": "text_frozen",
+    "text_sha256": "f9a1b37fa4cb1b58b09fe9771b981901fbbc396d8f5c2314c76c76916cc8a13c"
+  },
+  "usage": {
+    "total_tokens": 72,
+    "total_input_tokens": 10,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 10
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 62,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 62
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0
+  },
+  "status": "generated_listening_pending",
+  "duration_seconds": 2.48,
+  "sample_rate": 24000,
+  "checksum": "c8b3f1a97258d999a53bc82a574ba9d3d8d248c7e6654af981d276a760e078e0",
+  "cost_standard_usd": 0.000563
+}

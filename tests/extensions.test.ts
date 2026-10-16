@@ -1,0 +1,14 @@
+import {it,expect,vi,afterEach} from 'vitest';
+import original from '../catalog/exercises.json';
+import {exercises,historicalExercises,defaultProfile,defaultEquipment,selectable,compatible} from '../src/catalog';
+import {createBlock,blankProgram,validateBlock,phasePlan} from '../src/composer';
+import {prepareAssets} from '../src/assets';
+import {parseImport,exportData,emptyData} from '../src/storage';
+const p={...defaultProfile,level:'advanced' as const,prototype:true,wheelMastery:true,viewedTechniques:['EX68']};
+const eq={...defaultEquipment,dumbbells:true,dumbbellCount:2 as const,wheel:true,support:true};
+const ex=(id:string)=>exercises.find(e=>e.id===id)!;
+afterEach(()=>vi.unstubAllGlobals());
+it('ajoute 21 IDs sans modifier les 48 historiques',()=>{expect(historicalExercises).toEqual(original.exercises);expect(exercises).toHaveLength(77);expect(new Set(exercises.map(e=>e.id)).size).toBe(77);});
+it('raccorde 20 fiches illustrées au prototype selon matériel et niveau',()=>{for(const e of exercises.slice(48,69).filter(e=>e.id!=='EX53')){expect(selectable(e,p,eq),e.id).toBe(true);expect(validateBlock(createBlock(e,p,eq))).toEqual([]);expect(e.review.technical).toBeNull();expect(e.assetStatus).toBe('generated');}expect(selectable(ex('EX49'),defaultProfile,eq)).toBe(false);});
+it('ne convertit pas une bande courte ou le kit en bande longue pour EX53',()=>{for(const equipment of [eq,{...eq,band:true,bandUnderFoot:true},{...eq,resistanceKit:true,bandUnderFoot:true}])expect(compatible(ex('EX53'),p,equipment)).toBe(false);expect(compatible(ex('EX52'),{...p,noImpact:true},eq)).toBe(false);expect(compatible(ex('EX68'),{...p,viewedTechniques:[]},eq)).toBe(false);});
+it('prépare une séance textuelle sans requête de média absent et conserve son export',async()=>{const program=blankProgram();program.blocks=[createBlock(ex('EX57'),p,eq)];const textProgram=structuredClone(program);textProgram.blocks[0].exercise.version=999;textProgram.blocks[0].exercise.textOnlyPrototype=true;vi.stubGlobal('window',{});const fetch=vi.fn();vi.stubGlobal('fetch',fetch);await expect(prepareAssets(textProgram)).resolves.toMatchObject({count:0});expect(fetch).not.toHaveBeenCalled();expect(phasePlan(program).filter(x=>x.kind==='switching_side')).toHaveLength(2);const data=emptyData();data.programs=[program];expect(parseImport(exportData(data)).unknownIds).toEqual([]);});

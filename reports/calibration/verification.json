@@ -1,0 +1,61 @@
+{
+  "physicalIPhoneTested": false,
+  "results": [
+    {
+      "width": 320,
+      "status": "passed",
+      "checks": [
+        "saisie manuelle et validation",
+        "persistance et variante",
+        "accès réglages",
+        "compte à rebours et arrêt",
+        "récupération 90 s",
+        "fin automatique chaise 30 s et planche 60 s",
+        "édition après bilan",
+        "aucun débordement ou erreur JS"
+      ]
+    },
+    {
+      "width": 390,
+      "status": "passed",
+      "checks": [
+        "saisie manuelle et validation",
+        "persistance et variante",
+        "accès réglages",
+        "compte à rebours et arrêt",
+        "récupération 90 s",
+        "fin automatique chaise 30 s et planche 60 s",
+        "édition après bilan",
+        "aucun débordement ou erreur JS"
+      ]
+    },
+    {
+      "width": 1440,
+      "status": "passed",
+      "checks": [
+        "saisie manuelle et validation",
+        "persistance et variante",
+        "accès réglages",
+        "compte à rebours et arrêt",
+        "récupération 90 s",
+        "fin automatique chaise 30 s et planche 60 s",
+        "édition après bilan",
+        "aucun débordement ou erreur JS"
+      ]
+    },
+    {
+      "scenario": "onboarding passé",
+      "status": "passed"
+    },
+    {
+      "scenario": "préparation, interruption et douleur",
+      "status": "passed",
+      "checks": [
+        "préparation 120 s",
+        "fermeture bloquée pendant test",
+        "interruption non exploitable",
+        "douleur termine le bilan et ne calibre pas la dose"
+      ]
+    }
+  ]
+}

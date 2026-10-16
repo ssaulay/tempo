@@ -1,0 +1,892 @@
+{
+  "schema_version": 1,
+  "scope": "EX40-EX46 mobility",
+  "accessed": "2026-10-12",
+  "purpose": "Référence documentaire proposée pour textes, images et audio ; aucun média actuel inspecté ni validé techniquement.",
+  "synthesis_policy": "Chaque fiche sépare preuves de variante et inférences. Les précisions non expressément décrites sont des propositions éditoriales de contrôle à faire relire, pas des faits cliniques universels.",
+  "sources": [
+    {
+      "id": "M40a",
+      "publisher": "ACE",
+      "title": "Standing Trunk Rotation",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/106/standing-trunk-rotation/",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Debout avec medicine-ball, buste et tête coordonnés, retour contrôlé. Transfert sans charge, pas validation de rotation thoracique isolée."
+    },
+    {
+      "id": "M40b",
+      "publisher": "Cambridge University Hospitals NHS",
+      "title": "Thoracic spine exercises",
+      "url": "https://www.cuh.nhs.uk/patient-information/thoracic-spine-exercises/",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Rotation assise, bras croisés, retour au milieu. Transfert debout à confirmer ; aucune amplitude chiffrée."
+    },
+    {
+      "id": "M41a",
+      "publisher": "NHS England",
+      "title": "How to warm up before exercising",
+      "url": "https://www.nhs.uk/live-well/exercise/how-to-warm-up-before-exercising/",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Cercles avant/arrière, bras pendants, en marchant. Appuis fixes Tempo constituent une adaptation."
+    },
+    {
+      "id": "M41b",
+      "publisher": "Mayo Clinic",
+      "title": "The importance of stretching during your workday",
+      "url": "https://sportsmedicine.mayoclinic.org/news/the-importance-of-stretching-during-your-workday/",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Kinésithérapeute : rouler les épaules vers arrière et bas. Ne documente ni dose Tempo ni recrutement musculaire exact."
+    },
+    {
+      "id": "M42a",
+      "publisher": "OPAL / NHS",
+      "title": "Knee to wall stretch",
+      "url": "https://www.opalreturntowork.nhs.uk/exercises/knee-to-wall-stretch/",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Fente face au mur, genou avant qui avance, pied entier posé. Source statique ; répétitions dynamiques et retrait du mur adaptés."
+    },
+    {
+      "id": "M42b",
+      "publisher": "American Academy of Orthopaedic Surgeons",
+      "title": "Foot and Ankle Conditioning Program",
+      "url": "https://www.orthoinfo.org/recovery/foot-and-ankle-conditioning-program/",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Étirement genou arrière fléchi : soléaire, talons posés. Variante différente, ne confirme pas le genou avant de Tempo."
+    },
+    {
+      "id": "M43a",
+      "publisher": "ACE",
+      "title": "Standing Chest Stretch",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/209/standing-chest-stretch/",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Version debout sans matériel : rotation externe épaules et rapprochement omoplates sans hyperlordose. Bras derrière joints = progression distincte."
+    },
+    {
+      "id": "M43b",
+      "publisher": "Mayo Clinic",
+      "title": "Upper body stretches for the workplace",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/multimedia/shoulder-stretches/vid-20084699",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Rapprocher les omoplates pour étirer la poitrine ; mains derrière tête optionnelles. Respiration libre, sans rebond, douleur = excès."
+    },
+    {
+      "id": "M44a",
+      "publisher": "Cleveland Clinic",
+      "title": "Child’s Pose in Yoga: Benefits and Variations",
+      "url": "https://health.clevelandclinic.org/childs-pose",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Bassin vers talons, front soutenu, bras avant ou côtés, coussins possibles. Position finale directe ; entrée quadrupède adaptée."
+    },
+    {
+      "id": "M44b",
+      "publisher": "Mayo Clinic",
+      "title": "Mindful Movements: To Help You Heal and Recover",
+      "url": "https://sharedfiles.mayoclinic.org/bedside/ope/GNT-20421908.html",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Posture enfant, genoux écartés, appui face/tronc adaptable, bras au choix. Ne prouve pas un effet thérapeutique chez tous."
+    },
+    {
+      "id": "M45a",
+      "publisher": "Hospital for Special Surgery",
+      "title": "Four Hip Flexor Stretches to Relieve Tightness, from a PT",
+      "url": "https://www.hss.edu/health-library/move-better/hip-flexor-stretch",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Demi-agenouillé, bassin légèrement rentré avec fessiers, faible transfert avant sans cambrure. Bras haut est progression distincte."
+    },
+    {
+      "id": "M45b",
+      "publisher": "Mayo Clinic",
+      "title": "A guide to basic stretches",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20546848",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Genou sur serviette, pied opposé avant, tronc stable et déplacement avant. Même page : ischio avec talon au mur, variante différente de mains sous cuisse."
+    },
+    {
+      "id": "M46a",
+      "publisher": "Newcastle Hospitals NHS",
+      "title": "Anterior knee pain",
+      "url": "https://www.newcastle-hospitals.nhs.uk/services/newcastle-occupational-health-service/information-for-staff/physiotherapy/self-help-leaflets/anterior-knee-pain/",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Dos au sol, mains derrière cuisse, genou initialement fléchi puis extension tolérée. Contexte rééducation, dose clinique non transférée."
+    },
+    {
+      "id": "M46b",
+      "publisher": "Leeds Community Healthcare NHS",
+      "title": "Physiotherapy exercises ICAN",
+      "url": "https://leedscommunityhealthcare.nhs.uk/our-services-a-z/physiotherapy-ican/physiotherapy-exercises-ican-physio/",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Dos au sol, cuisse relevée, extension genou ; autre jambe droite. Ne confirme pas jambe appui fléchie. Public pédiatrique, dose non transférée."
+    },
+    {
+      "id": "M40c",
+      "publisher": "British Heart Foundation",
+      "title": "Low intensity aerobic exercises - Spinal rotations",
+      "url": "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/activity/aerobic-exercises",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Debout ou assis, bras croisés, haut du corps tourne, hanches devant. Confirme directement variante de base, pas isolation thoracique absolue."
+    },
+    {
+      "id": "M41c",
+      "publisher": "American Heart Association",
+      "title": "Stretches for Exercise and Flexibility",
+      "url": "https://www.heart.org/en/healthy-living/exercise-and-physical-activity/staying-motivated/stretches-for-exercise-and-flexibility",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Épaules montent puis descendent et roulent arrière ; bilatéral ou alterné. Source indépendante supplémentaire du cercle, sans dose Tempo."
+    },
+    {
+      "id": "M42c",
+      "publisher": "Peak Physio",
+      "title": "Ankle Dorsiflexion Knee to Wall",
+      "url": "https://www.peak-physio.com.au/exercise/ankle-dorsiflexion-knee-to-wall/",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Cabinet de kinésithérapie auteur de son exercice : fente au mur, pied plat, genou avance. Confirme directement mécanique ; retrait mur reste adaptation."
+    },
+    {
+      "id": "M42d",
+      "publisher": "Physitrack",
+      "title": "Knee to wall - ankle dorsiflexion",
+      "url": "https://na.physitrack.com/home-exercise-video/knee-to-wall---ankle-dorsiflexion",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Éditeur clinique : pied avant, genou vers mur, balancement avant/arrière. Le texte évoque seuil de talon levé ; Tempo reste en deçà et garde talon posé."
+    },
+    {
+      "id": "M42e",
+      "publisher": "University Hospitals Plymouth NHS",
+      "title": "Ankle Sprain Injury",
+      "url": "https://www.plymouthhospitals.nhs.uk/display-pil/pil-ankle-sprain-injury-3960/",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Genou vers mur, bassin sans rotation. Corroboration clinique, contexte entorse et maintien statique, doses individuelles non transférées."
+    },
+    {
+      "id": "M46c",
+      "publisher": "American Academy of Orthopaedic Surgeons",
+      "title": "Hip Conditioning Program - Supine Hamstring Stretch",
+      "url": "https://orthoinfo.aaos.org/globalassets/pdfs/hip-conditioning-program-2026.pdf",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Dos au sol, deux genoux initialement fléchis, mains derrière cuisse, genou cible étendu ; appui opposé fléchi confirmé. Ne pas tirer articulation genou."
+    },
+    {
+      "id": "M40d",
+      "publisher": "Physitrack",
+      "title": "Alternating trunk rotation in standing adaptive BKA",
+      "url": "https://ca.physitrack.com/home-exercise-video/alternating-trunk-rotation-in-standing-%2528adaptive---bka%2529",
+      "accessed": "2026-10-12",
+      "opened": true,
+      "scope": "Debout sans matériel, bras croisés poitrine, bassin devant, rotation alternée avec retour. Même consigne de base, contexte adaptation amputation sous genou à ne pas transférer comme prescription."
+    },
+    {
+      "id": "M44c",
+      "publisher": "Whittington Health NHS",
+      "title": "Axial spondyloarthritis",
+      "url": "https://www.whittington.nhs.uk/mini-apps/leaflet/?id=492",
+      "accessed": "2026-10-12",
+      "readStatus": "actual_text_read",
+      "locator": "Exercises, Child pose",
+      "scope": "Entrée depuis quatre pattes et recul bassin.",
+      "limits": "Contexte spondyloarthrite; contact talons décrit mais non imposé, reaches latéraux exclus.",
+      "author": "Non identifié sur la page consultée",
+      "independence": "Deux trusts et documents distincts, réseau NHS commun; pas deux essais indépendants."
+    },
+    {
+      "id": "M44d",
+      "publisher": "University Hospitals Plymouth NHS Trust",
+      "title": "Physiotherapy for Breast Surgery",
+      "url": "https://www.plymouthhospitals.nhs.uk/display-pil/pil-physiotherapy-for-breast-surgery-7032",
+      "accessed": "2026-10-12",
+      "readStatus": "actual_text_read",
+      "locator": "Child pose",
+      "scope": "Entrée depuis quatre pattes et recul bassin.",
+      "limits": "Contexte chirurgie mammaire; doses/indications exclues, front et sortie pas décrits.",
+      "author": "Non identifié sur la page consultée",
+      "independence": "Deux trusts et documents distincts, réseau NHS commun; pas deux essais indépendants."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "EX40",
+      "name": "Rotations thoraciques debout",
+      "exact_variant": "Debout, bras croisés sur poitrine, sans charge, bassin orienté devant.",
+      "documentary_status": "corroborated_base_variant",
+      "technical_human_review": "pending",
+      "accessed": "2026-10-12",
+      "source_ids": [
+        "M40c",
+        "M40d",
+        "M40a",
+        "M40b"
+      ],
+      "evidence_limitations": [
+        "BHF et Physitrack décrivent indépendamment la même consigne debout sans charge, bras croisés, bassin devant. Physitrack étiquette une adaptation BKA : confirmation descriptive seulement, pas prescription pour ce public.",
+        "ACE avec charge et CUH assis restent corroborations de variantes distinctes. Aucune source ne démontre isolation parfaite thoracique ni amplitude universelle."
+      ],
+      "starting_position": {
+        "feet": "Deux pieds entiers au sol, écartement confortable, poids réparti.",
+        "knees": "Souples, sans verrouillage.",
+        "pelvis": "Face devant ; ne pas rechercher immobilité absolue en forçant.",
+        "spine": "Buste redressé sans extension lombaire volontaire.",
+        "head": "Suit le haut du buste, sans rotation cervicale supplémentaire.",
+        "scapulae": "Détendues ; ne pas les serrer en permanence.",
+        "arms": "Avant-bras croisés, mains posées sur épaules opposées, aucune traction.",
+        "supports": "Sol stable ; chaise pour variante assise distincte."
+      },
+      "movement": {
+        "action": "Tourner lentement le haut du buste vers un côté, pieds posés.",
+        "end": "Arrêter avant que bassin entraîne tout le corps, avant inclinaison ou inconfort.",
+        "hold": "Brève pause confortable, aucun étirement forcé.",
+        "exit": "Revenir au centre, puis autre côté. Un côté constitue une rotation ; documenter le comptage total."
+      },
+      "breathing": "Respiration libre et régulière. Expirer à la mise en tension peut guider le rythme, sans obligation ni apnée ; consigne éditoriale à revoir humainement.",
+      "muscles": {
+        "mobilized": [
+          "Région thoracique, sans prétendre isoler chaque vertèbre."
+        ],
+        "stretched": [],
+        "strengthened": [],
+        "inferred_roles": [
+          "Obliques et muscles du dos participent au contrôle ; pas preuve de renforcement avec cette charge."
+        ]
+      },
+      "errors_and_corrections": [
+        "Pieds pivotants/bassin qui suit entièrement : réduire rotation.",
+        "Tête tournée seule : orienter sternum et tête ensemble.",
+        "Cambrure ou élan : ralentir et repartir du milieu."
+      ],
+      "regressions_and_equipment": [
+        "Amplitude plus petite ; version assise stable avec pieds posés.",
+        "Ne pas ajouter medicine-ball ou bras tendus à la démonstration de base."
+      ],
+      "safety": "Arrêter si douleur, pincement articulaire, vertige ou fourmillement. Une tension douce ne doit pas devenir douloureuse. Après blessure, opération ou avec restrictions individuelles, faire adapter la variante par un professionnel. Aucune garantie universelle de sécurité.",
+      "visual": {
+        "camera": "Trois quarts avant, corps entier ; vue du dessus complémentaire pour différencier bassin et épaules.",
+        "keyframe_1": "Pieds et bassin face devant, sternum milieu, bras croisés.",
+        "keyframe_2": "Sternum tourné, bassin encore globalement devant, pieds inchangés, tête suit sternum.",
+        "checks": [
+          "Pas de changement de taille ou perspective entre images.",
+          "Montrer retour centre et symétrie dans animation."
+        ]
+      },
+      "audio_cues": [
+        "Croise les bras sur la poitrine.",
+        "Tourne doucement le buste, pieds stables.",
+        "Reviens au centre, puis change de côté."
+      ],
+      "catalogue_audit": [
+        "Choisir bras croisés au lieu de « mains ou bras devant ».",
+        "thoracic_spine est une région, pas un muscle.",
+        "Installation tapis au sol inutile pour cette variante."
+      ],
+      "dosage": "Durée/répétitions à décider dans le programme après revue ; les doses de rééducation ou les amplitudes des sources ne sont pas un standard universel.",
+      "claim_evidence": {
+        "variant_and_motion": [
+          "M40c",
+          "M40d",
+          "M40a",
+          "M40b"
+        ],
+        "muscle_target": [],
+        "remaining_postural_details": "Synthèse éditoriale proposée ; pas chaque détail décrit dans chacune des sources.",
+        "audio_and_visual": "Consignes dérivées de la synthèse, aucune validation indépendante des médias actuels."
+      },
+      "conflicts_and_choices": "Choix bras croisés sans charge selon BHF ; ne pas transférer bras tendus lestés ACE."
+    },
+    {
+      "id": "EX41",
+      "name": "Cercles d’épaules",
+      "exact_variant": "Debout immobile, bras pendants, cercles vers arrière.",
+      "documentary_status": "corroborated_base_movement_three_publishers",
+      "technical_human_review": "pending",
+      "accessed": "2026-10-12",
+      "source_ids": [
+        "M41a",
+        "M41b",
+        "M41c"
+      ],
+      "evidence_limitations": [
+        "NHS ajoute la marche, AHA et Mayo corroborent le cercle arrière. Appuis fixes et détail genoux sont compléments éditoriaux.",
+        "Ordre avant/bas arrière peut varier : trajectoire circulaire continue, pas simple haussement."
+      ],
+      "starting_position": {
+        "feet": "Pieds posés, largeur confortable.",
+        "knees": "Souples.",
+        "pelvis": "Stable, sans balancement.",
+        "spine": "Redressée, sans bomber excessivement poitrine.",
+        "head": "Regard devant, cou allongé sans menton projeté.",
+        "scapulae": "Libres de monter, reculer et descendre.",
+        "arms": "Pendantes, coudes relâchés, mains souples.",
+        "supports": "Sol ; chaise stable pour variante assise."
+      },
+      "movement": {
+        "action": "Faire monter légèrement les épaules, les amener vers arrière puis vers bas, en petit cercle continu.",
+        "end": "Retrouver position relâchée.",
+        "hold": "Pas de maintien nécessaire au sommet.",
+        "exit": "Finir épaules relâchées ; sens avant éventuel montré séparément."
+      },
+      "breathing": "Respiration libre et régulière. Expirer à la mise en tension peut guider le rythme, sans obligation ni apnée ; consigne éditoriale à revoir humainement.",
+      "muscles": {
+        "mobilized": [
+          "Ceinture scapulaire."
+        ],
+        "stretched": [],
+        "strengthened": [],
+        "inferred_roles": [
+          "Trapèzes, élévateur scapula, rhomboïdes et dentelé participent selon phase ; pas carte de renforcement ni étirement sélectif prouvé."
+        ]
+      },
+      "errors_and_corrections": [
+        "Cou crispé : diminuer élévation et relâcher mâchoire.",
+        "Grand cercle de bras : laisser bras pendants.",
+        "Dos qui cambre : réduire mouvement épaules."
+      ],
+      "regressions_and_equipment": [
+        "Assis si équilibre limité ; cercles plus petits.",
+        "Aucun poids."
+      ],
+      "safety": "Arrêter si douleur, pincement articulaire, vertige ou fourmillement. Une tension douce ne doit pas devenir douloureuse. Après blessure, opération ou avec restrictions individuelles, faire adapter la variante par un professionnel. Aucune garantie universelle de sécurité.",
+      "visual": {
+        "camera": "Trois quarts avant et petite vue arrière complémentaire.",
+        "keyframe_1": "Épaules relâchées, bras le long du corps.",
+        "keyframe_2": "Épaules légèrement hautes et en arrière, cou sans compression exagérée.",
+        "checks": [
+          "Deux poses seules produisent un va-et-vient, pas un cercle.",
+          "Trajectoire montée-arrière-descente doit être interpolée et revue ; conserver bras stables."
+        ]
+      },
+      "audio_cues": [
+        "Laisse les bras relâchés.",
+        "Monte doucement les épaules, puis roule vers arrière et bas.",
+        "Respire et garde de petits cercles."
+      ],
+      "catalogue_audit": [
+        "Deux positions ne suffisent pas à identifier un vrai cercle sans trajectoire.",
+        "shoulder_girdle est une région.",
+        "Définir sens arrière de base et sens avant optionnel."
+      ],
+      "dosage": "Durée/répétitions à décider dans le programme après revue ; les doses de rééducation ou les amplitudes des sources ne sont pas un standard universel.",
+      "claim_evidence": {
+        "variant_and_motion": [
+          "M41a",
+          "M41b",
+          "M41c"
+        ],
+        "muscle_target": [],
+        "remaining_postural_details": "Synthèse éditoriale proposée ; pas chaque détail décrit dans chacune des sources.",
+        "audio_and_visual": "Consignes dérivées de la synthèse, aucune validation indépendante des médias actuels."
+      },
+      "conflicts_and_choices": "Cercle arrière de base ; cercle avant distinct. Les deux positions actuelles ne prouvent pas un cercle."
+    },
+    {
+      "id": "EX42",
+      "name": "Mobilisation de cheville en fente",
+      "exact_variant": "Petite fente debout, genou avant avançant, talon avant posé, sans mur obligatoire.",
+      "documentary_status": "corroborated_wall_variant_free_standing_adaptation",
+      "technical_human_review": "pending",
+      "accessed": "2026-10-12",
+      "source_ids": [
+        "M42a",
+        "M42b",
+        "M42c",
+        "M42d",
+        "M42e"
+      ],
+      "evidence_limitations": [
+        "OPAL, Peak Physio, Physitrack et Plymouth convergent sur genou avant et pied posé. Retrait du mur constitue adaptation à vérifier pour équilibre.",
+        "AAOS concerne genou arrière et confirme seulement anatomie soléaire indirecte. Ne pas reprendre ses orteils légèrement rentrés pour imposer une orientation du pied avant.",
+        "Physitrack utilise seuil de décollement du talon pour réglage ; démonstration Tempo doit rester avant ce seuil."
+      ],
+      "starting_position": {
+        "feet": "Pied avant entièrement posé, pied arrière décalé pour équilibre, non en corde raide.",
+        "knees": "Avant légèrement fléchi, suit orientation du pied ; arrière souple.",
+        "pelvis": "Face devant, avance sans torsion.",
+        "spine": "Buste stable, sans cambrure ajoutée.",
+        "head": "Regard devant ou légèrement bas, sans plier nuque.",
+        "scapulae": "Détendues.",
+        "arms": "Mains sur mur facultatif pour équilibre, sans tirer le genou.",
+        "supports": "Sol non glissant ; mur si nécessaire."
+      },
+      "movement": {
+        "action": "Avancer doucement le genou avant en transférant un peu de poids sur ce pied.",
+        "end": "Talon et avant-pied restent posés ; arrêter avant pincement ou perte appui. Le genou peut dépasser les orteils si confortable.",
+        "hold": "Pause courte pour version mobilité ; maintien statique est autre dosage.",
+        "exit": "Reculer doucement, terminer série puis changer jambe avant."
+      },
+      "breathing": "Respiration libre et régulière. Expirer à la mise en tension peut guider le rythme, sans obligation ni apnée ; consigne éditoriale à revoir humainement.",
+      "muscles": {
+        "mobilized": [
+          "Dorsiflexion de cheville avant."
+        ],
+        "stretched": [
+          "Mollet de la jambe avant : sensation attendue selon amplitude."
+        ],
+        "strengthened": [],
+        "inferred_roles": [
+          "Soléaire probablement privilégié genou fléchi, transfert AAOS depuis jambe arrière ; dominance exacte non mesurée.",
+          "Muscles du pied et hanche contrôlent équilibre, sans promesse de renforcement."
+        ]
+      },
+      "errors_and_corrections": [
+        "Talon décollé : raccourcir déplacement.",
+        "Genou qui dévie nettement vers dedans : réduire amplitude et suivre pied.",
+        "Pied qui pivote : replacer appui puis recommencer."
+      ],
+      "regressions_and_equipment": [
+        "Mur facultatif ; petite amplitude, stance plus large si équilibre.",
+        "Ne pas ajouter cale, bande ou charge."
+      ],
+      "safety": "Arrêter si douleur, pincement articulaire, vertige ou fourmillement. Une tension douce ne doit pas devenir douloureuse. Après blessure, opération ou avec restrictions individuelles, faire adapter la variante par un professionnel. Aucune garantie universelle de sécurité.",
+      "visual": {
+        "camera": "Profil centré sur cheville/genou avant ; trois quarts face complémentaire pour axe.",
+        "keyframe_1": "Petite fente avec pied avant entier posé.",
+        "keyframe_2": "Genou avant plus avancé et cheville fléchie, talon inchangé.",
+        "checks": [
+          "Même côté, même longueur de jambe, sol fixe.",
+          "Ne pas montrer un étirement du mollet arrière genou tendu."
+        ]
+      },
+      "audio_cues": [
+        "Pose tout le pied avant au sol.",
+        "Avance doucement le genou dans la direction du pied.",
+        "Garde le talon posé, puis reviens."
+      ],
+      "catalogue_audit": [
+        "ankle est articulation ; calves n’implique pas renforcement.",
+        "Préciser jambe avant ciblée et mur optionnel.",
+        "Dosage répétitions Tempo diffère maintien source."
+      ],
+      "dosage": "Durée/répétitions à décider dans le programme après revue ; les doses de rééducation ou les amplitudes des sources ne sont pas un standard universel.",
+      "claim_evidence": {
+        "variant_and_motion": [
+          "M42a",
+          "M42b",
+          "M42c",
+          "M42d",
+          "M42e"
+        ],
+        "muscle_target": [
+          "M42a",
+          "M42b"
+        ],
+        "remaining_postural_details": "Synthèse éditoriale proposée ; pas chaque détail décrit dans chacune des sources.",
+        "audio_and_visual": "Consignes dérivées de la synthèse, aucune validation indépendante des médias actuels."
+      },
+      "conflicts_and_choices": "Choix genou avant sur pied posé ; AAOS cible arrière. Orientation neutre adaptée, sans imposer toe-in AAOS. Version mur documentée, retrait mur adapté.",
+      "followupReview": {
+        "date": "2026-10-12",
+        "decision": "Conserver genou avant mobile et talon avant posé; sans mur reste adaptation d’équilibre, pas seconde variante exacte validée. Aucun toe-in AAOS imposé.",
+        "sourceIds": [
+          "M42a",
+          "M42b",
+          "M42c",
+          "M42d",
+          "M42e"
+        ],
+        "evidenceByDomain": {
+          "positions": "Pas nouvelle confirmation sans mur dans cette passe.",
+          "muscles": "Dominance soléaire inférée, pas mesurée.",
+          "advice": "Mur optionnel explicite, amplitude sans perte appui.",
+          "media": "Brief dérivé des consignes seulement; aucune nouvelle inspection ou validation de média. Trajectoire complète, entrée et sortie à revoir humainement.",
+          "audio": "Brouillon dépendant de la variante; aucune approbation de script, production, écoute ou intégration dans cette passe."
+        },
+        "humanApproval": false
+      }
+    },
+    {
+      "id": "EX43",
+      "name": "Ouverture de poitrine debout",
+      "exact_variant": "Debout, bras au côté, rotation externe douce, omoplates légèrement rapprochées.",
+      "documentary_status": "corroborated_base_variant",
+      "technical_human_review": "pending",
+      "accessed": "2026-10-12",
+      "source_ids": [
+        "M43a",
+        "M43b"
+      ],
+      "evidence_limitations": [
+        "Pas preuve d’une amplitude optimale universelle.",
+        "Critères tête/genoux sont compléments éditoriaux à vérifier."
+      ],
+      "starting_position": {
+        "feet": "Pieds posés à écartement confortable.",
+        "knees": "Souples.",
+        "pelvis": "Au-dessus des appuis, sans pousser hanches devant.",
+        "spine": "Côtes et bassin restent contrôlés ; pas de cambrure forcée.",
+        "head": "Dans prolongement buste, regard horizontal.",
+        "scapulae": "Se rapprochent légèrement, sans serrage maximal.",
+        "arms": "Au côté, épaules tournent doucement vers extérieur ; mains libres, coudes souples.",
+        "supports": "Sol ; chaise stable possible pour adaptation assise."
+      },
+      "movement": {
+        "action": "Ouvrir légèrement épaules et poitrine par rotation externe des bras et rapprochement doux des omoplates.",
+        "end": "Tension douce devant poitrine, pas dans articulation épaule.",
+        "hold": "Garder une position respirable, sans rebond.",
+        "exit": "Relâcher lentement et retrouver bras au côté."
+      },
+      "breathing": "Respiration libre et régulière. Expirer à la mise en tension peut guider le rythme, sans obligation ni apnée ; consigne éditoriale à revoir humainement.",
+      "muscles": {
+        "mobilized": [
+          "Épaules et ceinture scapulaire."
+        ],
+        "stretched": [
+          "Pectoraux, cible poitrine confirmée."
+        ],
+        "strengthened": [],
+        "inferred_roles": [
+          "Rétracteurs scapulaires contrôlent posture ; pas exercice de renforcement.",
+          "Deltoïde antérieur davantage concerné dans progression bras derrière, ne pas transférer à base."
+        ]
+      },
+      "errors_and_corrections": [
+        "Côtes qui jaillissent : réduire ouverture.",
+        "Épaules tirées brutalement : relâcher et réduire.",
+        "Menton en avant : replacer tête."
+      ],
+      "regressions_and_equipment": [
+        "Ouverture moindre, assis sur chaise stable.",
+        "Pas mains jointes derrière, pas partenaire ni serviette dans version de base."
+      ],
+      "safety": "Arrêter si douleur, pincement articulaire, vertige ou fourmillement. Une tension douce ne doit pas devenir douloureuse. Après blessure, opération ou avec restrictions individuelles, faire adapter la variante par un professionnel. Aucune garantie universelle de sécurité.",
+      "visual": {
+        "camera": "Trois quarts avant + profil complémentaire pour côtes/bassin.",
+        "keyframe_1": "Bras côté, poitrine neutre.",
+        "keyframe_2": "Rotation externe visible mains/bras, épaules légèrement reculées, bassin inchangé.",
+        "checks": [
+          "Ne pas inventer bras horizontaux ou mains jointes derrière.",
+          "Ouverture modérée avec respiration possible."
+        ]
+      },
+      "audio_cues": [
+        "Debout, bras relâchés.",
+        "Ouvre doucement les épaules sans cambrer.",
+        "Respire, puis relâche."
+      ],
+      "catalogue_audit": [
+        "« Ouvrir bras » trop ambigu : définir rotation externe sans élévation imposée.",
+        "Séparer pectoraux étirés et épaules mobilisées."
+      ],
+      "dosage": "Durée/répétitions à décider dans le programme après revue ; les doses de rééducation ou les amplitudes des sources ne sont pas un standard universel.",
+      "claim_evidence": {
+        "variant_and_motion": [
+          "M43a",
+          "M43b"
+        ],
+        "muscle_target": [
+          "M43a",
+          "M43b"
+        ],
+        "remaining_postural_details": "Synthèse éditoriale proposée ; pas chaque détail décrit dans chacune des sources.",
+        "audio_and_visual": "Consignes dérivées de la synthèse, aucune validation indépendante des médias actuels."
+      },
+      "conflicts_and_choices": "Ouverture douce bras bas ; mains jointes derrière ou mains derrière tête sont variantes distinctes."
+    },
+    {
+      "id": "EX44",
+      "name": "Posture de repos à genoux",
+      "exact_variant": "Depuis quatre pattes, bassin vers talons, bras devant, front soutenu si besoin.",
+      "documentary_status": "corroborated_quadruped_entry_support_exit_pending",
+      "technical_human_review": "pending",
+      "accessed": "2026-10-12",
+      "source_ids": [
+        "M44a",
+        "M44b",
+        "M44c",
+        "M44d"
+      ],
+      "evidence_limitations": [
+        "Entrée quatre pattes désormais décrite par Whittington et Plymouth; documents NHS de contextes cliniques différents, sans transfert des dosages. Front/support et sortie restent propositions.",
+        "Ne pas reprendre promesses digestion, sommeil ou baisse tension comme effet établi de Tempo."
+      ],
+      "starting_position": {
+        "feet": "Dessus des pieds au tapis, position tolérée sans forcer chevilles.",
+        "knees": "Au tapis, écartement confortable adapté espace tronc.",
+        "pelvis": "Au-dessus genoux au départ ; descend vers talons selon confort.",
+        "spine": "Laisse tronc se plier sans chercher un dos rectiligne forcé.",
+        "head": "Front vers support, nuque détendue ; pas visage écrasé.",
+        "scapulae": "Détendues ; ne pas forcer épaules en arrière bras devant.",
+        "arms": "Mains au tapis, bras devant, coudes peuvent rester souples.",
+        "supports": "Tapis ; coussin stable sous front/tronc ou genoux si nécessaire."
+      },
+      "movement": {
+        "action": "Reculer bassin en laissant tronc descendre et mains glisser ou rester confortables devant.",
+        "end": "Bassin peut rester éloigné des talons ; front soutenu et respiration libre.",
+        "hold": "Repos sans traction volontaire des bras.",
+        "exit": "Ramener mains pour appui et revenir lentement à quatre pattes avant de se relever."
+      },
+      "breathing": "Respiration libre et régulière. Expirer à la mise en tension peut guider le rythme, sans obligation ni apnée ; consigne éditoriale à revoir humainement.",
+      "muscles": {
+        "mobilized": [
+          "Hanches, genoux, dos et épaules selon placement."
+        ],
+        "stretched": [
+          "Dos/épaules : tension possible, variable, sans garantie pour tous."
+        ],
+        "strengthened": [],
+        "inferred_roles": [
+          "Extenseurs du rachis et grand dorsal peuvent être mis en longueur ; rôle spécifique non mesuré dans sources."
+        ]
+      },
+      "errors_and_corrections": [
+        "Forcer talons : accepter espace sous bassin.",
+        "Front suspendu et nuque crispée : support.",
+        "Respiration gênée : écarter genoux ou relever tronc."
+      ],
+      "regressions_and_equipment": [
+        "Coussin sous front/tronc ; couverture genoux ; bras au côté variante de repos distincte.",
+        "Si agenouillement intolérable : variante assise ou appui mains sur surface stable, à montrer séparément."
+      ],
+      "safety": "Arrêter si douleur, pincement articulaire, vertige ou fourmillement. Une tension douce ne doit pas devenir douloureuse. Après blessure, opération ou avec restrictions individuelles, faire adapter la variante par un professionnel. Aucune garantie universelle de sécurité.",
+      "visual": {
+        "camera": "Profil entier + trois quarts avant pour largeur genoux.",
+        "keyframe_1": "Quatre pattes, appuis clairement visibles.",
+        "keyframe_2": "Bassin reculé, tronc abaissé, front posé sur support éventuel, bras devant.",
+        "checks": [
+          "Pas obligation fesses-talons.",
+          "Ne pas montrer poitrine forcée au sol ni épaules disloquées."
+        ]
+      },
+      "audio_cues": [
+        "À quatre pattes, trouve des appuis confortables.",
+        "Recule le bassin vers les talons sans forcer.",
+        "Pose le front si besoin, respire tranquillement."
+      ],
+      "catalogue_audit": [
+        "Expliciter front, bras et pieds ; posture actuelle trop ouverte aux interprétations.",
+        "back et shoulders sont zones, pas muscles étirés précis.",
+        "Prévoir support au lieu de prétendre sans équipement pour tous."
+      ],
+      "dosage": "Durée/répétitions à décider dans le programme après revue ; les doses de rééducation ou les amplitudes des sources ne sont pas un standard universel.",
+      "claim_evidence": {
+        "variant_and_motion": [
+          "M44a",
+          "M44b",
+          "M44c",
+          "M44d"
+        ],
+        "muscle_target": [
+          "M44a"
+        ],
+        "remaining_postural_details": "Synthèse éditoriale proposée ; pas chaque détail décrit dans chacune des sources.",
+        "audio_and_visual": "Consignes dérivées de la synthèse, aucune validation indépendante des médias actuels."
+      },
+      "conflicts_and_choices": "Genoux adaptés au confort, bras devant de base ; bras côtés et supports restent variantes, pas obligation contact talons.",
+      "followupReview": {
+        "date": "2026-10-12",
+        "decision": "Entrée quatre pattes recoupée; conserver recul confortable sans obligation fesses-talons. Front soutenu et sortie vers quatre pattes restent choix à revoir.",
+        "sourceIds": [
+          "M44a",
+          "M44b",
+          "M44c",
+          "M44d"
+        ],
+        "evidenceByDomain": {
+          "positions": "Entrée et recul recoupés; supports exacts et sortie pas entièrement documentés.",
+          "muscles": "Mobilité du dos, aucune nouvelle preuve musculaire spécifique.",
+          "advice": "Exclure dosage clinique et déplacements latéraux; tolérance genoux/chevilles à revoir.",
+          "media": "Brief dérivé des consignes seulement; aucune nouvelle inspection ou validation de média. Trajectoire complète, entrée et sortie à revoir humainement.",
+          "audio": "Brouillon dépendant de la variante; aucune approbation de script, production, écoute ou intégration dans cette passe."
+        },
+        "humanApproval": false
+      }
+    },
+    {
+      "id": "EX45",
+      "name": "Étirement fléchisseurs de hanche à genoux",
+      "exact_variant": "Demi-agenouillé, légère rétroversion, petit transfert avant sans bras haut.",
+      "documentary_status": "corroborated_base_variant",
+      "technical_human_review": "pending",
+      "accessed": "2026-10-12",
+      "source_ids": [
+        "M45a",
+        "M45b"
+      ],
+      "evidence_limitations": [
+        "HSS illustre genou avant proche angle droit, à adapter plutôt que rendre obligatoire.",
+        "Dose clinique sources ne vaut pas prescription Tempo."
+      ],
+      "starting_position": {
+        "feet": "Pied avant entier posé, arrière derrière le genou dans une position confortable.",
+        "knees": "Genou arrière sur surface rembourrée, genou avant fléchi ; appuis assez écartés pour équilibre.",
+        "pelvis": "Face devant, légère orientation coccyx vers bas sans contraction maximale.",
+        "spine": "Buste redressé, ne pas augmenter creux lombaire.",
+        "head": "Regard devant, nuque prolongement buste.",
+        "scapulae": "Relâchées.",
+        "arms": "Mains sur bassin ou cuisse avant sans appuyer fortement.",
+        "supports": "Tapis/serviette pliée genou ; chaise ou mur stable facultatif."
+      },
+      "movement": {
+        "action": "Serrer doucement fessier côté genou au sol puis avancer légèrement bassin en bloc.",
+        "end": "Tension douce devant hanche/cuisse arrière, sans pincement hanche avant.",
+        "hold": "Rester respirable et stable, faible déplacement suffisant.",
+        "exit": "Reculer bassin, reprendre appuis mains si nécessaire puis changer côté sans pivot sur genou."
+      },
+      "breathing": "Respiration libre et régulière. Expirer à la mise en tension peut guider le rythme, sans obligation ni apnée ; consigne éditoriale à revoir humainement.",
+      "muscles": {
+        "mobilized": [
+          "Extension hanche côté genou au sol."
+        ],
+        "stretched": [
+          "Fléchisseurs hanche côté arrière : cible confirmée."
+        ],
+        "strengthened": [],
+        "inferred_roles": [
+          "Iliopsoas mis en longueur ; droit fémoral dépend flexion genou et bassin, pas isolation démontrée.",
+          "Fessier et abdominaux contrôlent bassin ; pas renforcement promis."
+        ]
+      },
+      "errors_and_corrections": [
+        "Cambrer pour avancer : réduire déplacement et contrôler bassin.",
+        "Pieds sur même ligne : écarter légèrement.",
+        "Pression douloureuse genou : rembourrer ou choisir variante différente."
+      ],
+      "regressions_and_equipment": [
+        "Moins avancer ; genou rembourré ; support main stable.",
+        "Pas pied arrière sur chaise, ni bras haut, ni traction de cheville dans base."
+      ],
+      "safety": "Arrêter si douleur, pincement articulaire, vertige ou fourmillement. Une tension douce ne doit pas devenir douloureuse. Après blessure, opération ou avec restrictions individuelles, faire adapter la variante par un professionnel. Aucune garantie universelle de sécurité.",
+      "visual": {
+        "camera": "Profil + trois quarts avant pour bassin/appuis.",
+        "keyframe_1": "Demi-agenouillé, bassin vertical, appuis espacés.",
+        "keyframe_2": "Bassin très légèrement avancé, côtes non projetées, même courbure lombaire.",
+        "checks": [
+          "Côté étiré = genou au sol, montrer repère.",
+          "Aucune cible obligatoire angle genou ou distance fixe."
+        ]
+      },
+      "audio_cues": [
+        "Pose un genou sur une surface confortable.",
+        "Rentre légèrement le bassin et serre doucement ce fessier.",
+        "Avance un peu, sans cambrer, puis respire."
+      ],
+      "catalogue_audit": [
+        "Ajouter contrôle bassin préalable : catalogue ne le précise pas.",
+        "Identifier hanche arrière et sortie/changement appuis."
+      ],
+      "dosage": "Durée/répétitions à décider dans le programme après revue ; les doses de rééducation ou les amplitudes des sources ne sont pas un standard universel.",
+      "claim_evidence": {
+        "variant_and_motion": [
+          "M45a",
+          "M45b"
+        ],
+        "muscle_target": [
+          "M45a",
+          "M45b"
+        ],
+        "remaining_postural_details": "Synthèse éditoriale proposée ; pas chaque détail décrit dans chacune des sources.",
+        "audio_and_visual": "Consignes dérivées de la synthèse, aucune validation indépendante des médias actuels."
+      },
+      "conflicts_and_choices": "Légère rétroversion HSS complète tronc droit Mayo ; bras haut exclu de base."
+    },
+    {
+      "id": "EX46",
+      "name": "Étirement ischio-jambiers allongé",
+      "exact_variant": "Dos au sol, pied opposé posé genou fléchi, mains soutiennent cuisse relevée, genou s’étend selon confort.",
+      "documentary_status": "corroborated_base_variant",
+      "technical_human_review": "pending",
+      "accessed": "2026-10-12",
+      "source_ids": [
+        "M46c",
+        "M46a",
+        "M46b",
+        "M45b"
+      ],
+      "evidence_limitations": [
+        "AAOS confirme la jambe opposée fléchie et la prise sous cuisse ; Newcastle confirme extension progressive genou. Leeds propose autre jambe droite, Mayo un mur : variantes séparées.",
+        "AAOS ajoute traction douce cuisse vers tête : Tempo peut conserver cuisse plus stable pour version douce, choix éditorial à relire. Les durées sources diffèrent, aucune valeur universelle déduite."
+      ],
+      "starting_position": {
+        "feet": "Pied jambe appui posé ; pied levé relâché sans tirer orteils vers soi.",
+        "knees": "Jambe appui fléchie ; genou cible d’abord fléchi.",
+        "pelvis": "Au tapis, ne roule pas volontairement vers poitrine.",
+        "spine": "Dos confortable, ne pas forcer plaquage ni cambrure.",
+        "head": "Posée au tapis, petit support possible sans forte flexion cou.",
+        "scapulae": "Au tapis, épaules relâchées.",
+        "arms": "Mains derrière cuisse, en amont genou, sans pression dans creux poplité.",
+        "supports": "Tapis ; support tête si nécessaire ; aucun élastique base."
+      },
+      "movement": {
+        "action": "Soulever cuisse soutenue puis tendre doucement ce genou en conservant la cuisse dans une position tolérée.",
+        "end": "Tension douce arrière cuisse ; genou peut rester fléchi.",
+        "hold": "Conserver prise cuisse, respiration libre, pied non forcé.",
+        "exit": "Replier genou, abaisser jambe lentement, puis changer côté."
+      },
+      "breathing": "Respiration libre et régulière. Expirer à la mise en tension peut guider le rythme, sans obligation ni apnée ; consigne éditoriale à revoir humainement.",
+      "muscles": {
+        "mobilized": [
+          "Hanche fléchie et extension genou."
+        ],
+        "stretched": [
+          "Ischio-jambiers jambe relevée."
+        ],
+        "strengthened": [],
+        "inferred_roles": [
+          "Quadriceps produit extension active du genou, sans objectif renforcement.",
+          "Trois composantes ischio : biceps fémoral, semi-tendineux, semi-membraneux ; contributions relatives non établies ici."
+        ]
+      },
+      "errors_and_corrections": [
+        "Tirer pied : revenir prise cuisse.",
+        "Chercher genou droit coûte que coûte : conserver flexion.",
+        "Tête levée/épaules crispées : soutien tête et cuisse moins haute."
+      ],
+      "regressions_and_equipment": [
+        "Moins relever cuisse, moins tendre genou, petit support tête.",
+        "Si prise difficile : serviette autour de la cuisse selon AAOS, sans traction autour du pied. Talon au mur Mayo = variante distincte."
+      ],
+      "safety": "Arrêter si douleur, pincement articulaire, vertige ou fourmillement. Une tension douce ne doit pas devenir douloureuse. Après blessure, opération ou avec restrictions individuelles, faire adapter la variante par un professionnel. Aucune garantie universelle de sécurité.",
+      "visual": {
+        "camera": "Profil entier + trois quarts avant pour prise des deux mains.",
+        "keyframe_1": "Dos posé, pied appui posé, cuisse cible relevée et genou fléchi, mains sous cuisse.",
+        "keyframe_2": "Même cuisse et bassin, genou plus ouvert, pied relâché, légère flexion possible.",
+        "checks": [
+          "Ne pas montrer une élévation jambe tendue de renforcement.",
+          "Mains et doigts ne traversent pas cuisse ; pas traction pied."
+        ]
+      },
+      "audio_cues": [
+        "Allonge-toi, un pied posé au sol.",
+        "Soutiens l’autre cuisse avec les mains.",
+        "Tends doucement le genou, sans chercher à le verrouiller."
+      ],
+      "catalogue_audit": [
+        "Étape 1 doit déjà définir quelle cuisse sera soutenue.",
+        "Préciser jambe opposée fléchie et pied posé.",
+        "Fourmillement n’est pas une preuve d’étirement musculaire réussi."
+      ],
+      "dosage": "Durée/répétitions à décider dans le programme après revue ; les doses de rééducation ou les amplitudes des sources ne sont pas un standard universel.",
+      "claim_evidence": {
+        "variant_and_motion": [
+          "M46c",
+          "M46a",
+          "M46b",
+          "M45b"
+        ],
+        "muscle_target": [
+          "M46c",
+          "M46a",
+          "M45b"
+        ],
+        "remaining_postural_details": "Synthèse éditoriale proposée ; pas chaque détail décrit dans chacune des sources.",
+        "audio_and_visual": "Consignes dérivées de la synthèse, aucune validation indépendante des médias actuels."
+      },
+      "conflicts_and_choices": "Jambe opposée fléchie selon AAOS ; ne pas mélanger jambes opposées droites Leeds ou talon au mur Mayo. Extension sans verrouillage ; aucune durée universelle."
+    }
+  ]
+}

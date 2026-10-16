@@ -1,0 +1,73 @@
+{
+  "url": "https://tempo.ssaulay.workers.dev",
+  "version": "70c97f91-9996-410f-a6c8-88f66589b88c",
+  "shell": "fd3a97096d1a",
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "identical": true,
+      "bytes": 832
+    },
+    {
+      "path": "/sw.js",
+      "status": 200,
+      "identical": true,
+      "bytes": 1444
+    },
+    {
+      "path": "/precache.json",
+      "status": 200,
+      "identical": true,
+      "bytes": 16749
+    },
+    {
+      "path": "/manifest.webmanifest",
+      "status": 200,
+      "identical": true,
+      "bytes": 350
+    },
+    {
+      "path": "/assets/catalog-BWVft3H8.js",
+      "status": 200,
+      "identical": true,
+      "bytes": 328815
+    },
+    {
+      "path": "/assets/index-B-mAzNOk.js",
+      "status": 200,
+      "identical": true,
+      "bytes": 408674
+    },
+    {
+      "path": "/assets/index-K0e2yI6P.css",
+      "status": 200,
+      "identical": true,
+      "bytes": 62862
+    },
+    {
+      "path": "/assets/react-dgengZBm.js",
+      "status": 200,
+      "identical": true,
+      "bytes": 221828
+    },
+    {
+      "path": "/assets/audio/v1/manifest.json",
+      "status": 200,
+      "identical": true,
+      "bytes": 79774
+    },
+    {
+      "path": "/assets/audio/v1/M2-deep-v2/reps.3.per_side-153e02da18e2.wav",
+      "status": 200,
+      "identical": true,
+      "bytes": 86754
+    },
+    {
+      "path": "/assets/exercises/v1/EX12/step-01.webp",
+      "status": 200,
+      "identical": true,
+      "bytes": 33516
+    }
+  ]
+}

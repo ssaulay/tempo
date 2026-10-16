@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-13",
+  "testsPassed": 84,
+  "buildPassed": true,
+  "preservedFiles": 621,
+  "changedPreexistingFiles": [],
+  "catalogueCards": 84,
+  "uniqueIds": 77,
+  "kitCards": 15,
+  "newIds": [
+    "EX75",
+    "EX76",
+    "EX77"
+  ],
+  "humanTechnicalReviewPerformed": false,
+  "audio": "Voix système pour les nouveaux noms et préparations ; aucun nouveau clip F1/M2",
+  "illustrationInspection": "EX77 corrigé : même bras actif et léger pli au coude. Inspection par assistant uniquement. GIF = deux poses, pas trajectoire continue."
+}

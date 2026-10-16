@@ -1,6 +1,6 @@
 # Tempo
 
-Application française de sport à domicile, React + TypeScript + Vite. Dépôt local, sans compte, serveur ni publication publique. Les médias sont préproduits ; la composition ne génère aucun exercice ni image.
+Application française de sport à domicile, React + TypeScript + Vite. Sans compte, avec données conservées localement dans le navigateur. Hébergement statique Cloudflare autorisé par Simon le 13 octobre 2026. Les médias sont préproduits ; la composition ne génère aucun exercice ni image.
 
 ## Lancer et construire
 
@@ -19,11 +19,25 @@ npm run build
 npm run preview
 ```
 
-Ouvrir l’URL locale imprimée par Vite. Un iPhone nécessite une origine HTTPS ou un tunnel local sécurisé pour les fonctions PWA, service worker et Wake Lock. Aucun hébergement n’est créé par ce dépôt.
+Ouvrir l’URL locale imprimée par Vite. Un iPhone nécessite une origine HTTPS ou un tunnel local sécurisé pour les fonctions PWA, service worker et Wake Lock. Version mobile HTTPS : https://tempo.ssaulay.workers.dev/.
+
+## Déploiement mobile
+
+Adresse : https://tempo.ssaulay.workers.dev/. Sur iPhone, ouvrir dans Safari, puis Partager → Sur l’écran d’accueil. Les données restent propres à chaque navigateur et appareil ; utiliser l’export/import pour transférer un historique local.
+
+Pour mettre à jour la version hébergée avec le compte Cloudflare connecté :
+
+```sh
+npm test
+npm run build
+npx --yes wrangler@4.150.0 deploy
+```
+
+Seul `dist/` est publié, sans sources, rapports ni clés. Le build prototype reste utilisé conformément à l’acceptation documentaire de Simon ; aucune revue technique humaine n’est déclarée.
 
 ## État de livraison
 
-Le code permet de composer, ajuster, sauvegarder, pratiquer, suspendre/reprendre et conserver un bilan. Programmes, brouillon, profil, résultats et séance active sont stockés dans IndexedDB. Les exercices restent `draft` et les images produites `generated` tant que les revues réelles ne sont pas enregistrées. Le mode normal sélectionne uniquement du contenu publié. Activer **le prototype** explicitement dans l’accueil initial ou les réglages pour tester le catalogue provisoire.
+Le code permet de composer, ajuster, sauvegarder, pratiquer, suspendre/reprendre et conserver un bilan. Programmes, brouillon, profil, résultats et séance active sont stockés dans IndexedDB. Les exercices restent `draft` et les images produites `generated` tant que les revues réelles ne sont pas enregistrées. Le mode normal sélectionne uniquement du contenu publié. Le bouton **Découvrir Tempo** de l’accueil initial ouvre le prototype annoncé comme provisoire. Le mode prototype peut aussi être activé ou désactivé dans les réglages.
 
 La production des 48 lots complets est demandée et conservée : le rapport machine `reports/asset-audit.json` donne le nombre exact de fichiers présents, manquants, leurs poids et les erreurs. Les sources sont sous `assets/sources/`, les images servies sous `public/assets/exercises/v1/`. Le minimum contractuel comprend 291 fichiers, plus les vues de dessus complémentaires. Aucune génération n’est effectuée pendant une séance utilisateur.
 
@@ -48,7 +62,7 @@ La production ne constitue pas une validation biomécanique. Il faut une personn
 
 ## Produire et revoir le contenu
 
-Python 3 et Pillow sont requis uniquement pour dériver les images : `python3 -m pip install Pillow`. Les planches de génération comprennent trois scènes superposées. L’extraction, le redimensionnement, les miniatures et les GIF sont déterministes et ne font aucun morphing. La référence du personnage est conservée pour toute génération supplémentaire.
+Python 3, Pillow et NumPy sont requis uniquement pour dériver les images : `python3 -m pip install Pillow numpy`. Les planches de génération comprennent trois scènes superposées. L’extraction, le redimensionnement, les miniatures et les GIF sont déterministes et ne font aucun morphing. La référence du personnage est conservée pour toute génération supplémentaire.
 
 ```sh
 npm run catalog:generate
@@ -74,7 +88,7 @@ La séance se suspend lorsque la page quitte le premier plan. Elle n’extrapole
 
 La voix hors ligne dépend des voix installées dans le navigateur. En cas d’absence, le timer et les visuels restent disponibles et les signaux remplacent les annonces. L’écran peut rester allumé via Wake Lock quand la plateforme l’autorise ; aucune promesse de guidage en arrière-plan ou sous écran verrouillé.
 
-Les tests navigateurs exécutables sont dans `scripts/browser-smoke.py` et leur rapport dans `reports/browser-report.json`. Ils couvrent Chromium et WebKit si disponibles, à 360/390/1440 px. **WebKit simulé n’est pas un test Safari sur iPhone physique.** Audio réel, verrouillage, installation PWA, VoiceOver, confort et technique pendant une vraie séance restent à vérifier sur l’appareil cible.
+La recette mobile réalisée est dans `scripts/mobile-recipe.cjs`, avec le rapport `reports/mobile-recipe.json` et le bilan `reports/recette-mobile.md`. Le scénario précédent est conservé dans `scripts/browser-smoke.py` (Playwright Python requis). Ils couvrent Chromium et WebKit si disponibles, à 360/390/1440 px. **WebKit simulé n’est pas un test Safari sur iPhone physique.** Audio réel, verrouillage, installation PWA, VoiceOver, confort et technique pendant une vraie séance restent à vérifier sur l’appareil cible.
 
 ## Export et import
 

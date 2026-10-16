@@ -1,0 +1,41 @@
+{
+  "physicalIPhoneTested": false,
+  "results": [
+    {
+      "width": 360,
+      "status": "passed",
+      "checks": [
+        "accueil limité au matériel essentiel",
+        "détails au sein de chaque équipement",
+        "matériel conservé après rechargement",
+        "réglages complets accessibles",
+        "prototype signalé, niveau débutant conservé",
+        "aucun débordement"
+      ]
+    },
+    {
+      "width": 390,
+      "status": "passed",
+      "checks": [
+        "accueil limité au matériel essentiel",
+        "détails au sein de chaque équipement",
+        "matériel conservé après rechargement",
+        "réglages complets accessibles",
+        "prototype signalé, niveau débutant conservé",
+        "aucun débordement"
+      ]
+    },
+    {
+      "width": 1440,
+      "status": "passed",
+      "checks": [
+        "accueil limité au matériel essentiel",
+        "détails au sein de chaque équipement",
+        "matériel conservé après rechargement",
+        "réglages complets accessibles",
+        "prototype signalé, niveau débutant conservé",
+        "aucun débordement"
+      ]
+    }
+  ]
+}

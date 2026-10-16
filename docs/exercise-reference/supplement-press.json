@@ -1,0 +1,268 @@
+{
+  "version": 1,
+  "accessed": "2026-10-12",
+  "status": "complément documentaire, propositions à intégrer et revoir humainement",
+  "sources": [
+    {
+      "id": "SUP-P-TIGER-CLOSE",
+      "publisher": "Tiger Fitness",
+      "title": "Close Grip Push Ups - Team Tiger Fitness",
+      "url": "https://tigerfitness.com/blogs/exercise-database/close-grip-push-ups-1",
+      "accessed": "2026-10-12",
+      "scope": "Description originale de pompe mains légèrement en dedans des épaules, sans diamant",
+      "confirms": "Corps aligné, appui avant-pieds, mains légèrement orientées vers intérieur, retour contrôlé.",
+      "limitations": "Dit épaules tirées en arrière et plus de flare que pompe standard; consignes contradictoires avec autres auteurs, pas normes universelles. Guide commercial, pas essai clinique.",
+      "read": true,
+      "locator": "Close Grip Push-up Instructions et Tips"
+    },
+    {
+      "id": "SUP-P-MH-CLOSE",
+      "publisher": "Men’s Health / Hearst",
+      "title": "Close-Grip Pushup - Brett Williams NASM, Ebenezer Samuel CSCS",
+      "url": "https://www.menshealth.com/fitness/a71748001/close-grip-pushup-form/",
+      "accessed": "2026-10-12",
+      "scope": "Coaching original de variante exacte",
+      "confirms": "Mains juste en dedans des épaules; diamant non requis.",
+      "limitations": "Auteur prescriptif sur coudes serrés et épaules; pas preuve de sécurité individuelle.",
+      "read": true,
+      "locator": "How to Do; Diamonds; Elbows"
+    },
+    {
+      "id": "SUP-P-FITBOD-CLOSE",
+      "publisher": "Fitbod",
+      "title": "The At-Home Push Up Workout - Emily Trinh",
+      "url": "https://fitbod.me/blog/at-home-push-up/",
+      "accessed": "2026-10-12",
+      "scope": "Pompe rapprochée décrite séparément du diamant",
+      "confirms": "Mains plus proches, coudes près buste; posture de planche et retour bras tendus.",
+      "limitations": "Pas mesure de largeur; auteure écrivaine/powerlifting, pas qualification clinique affichée. Ne pas reprendre promesses de ciblage exclusif ni dosage.",
+      "read": true,
+      "locator": "Push Up Technique; CLOSE GRIP PUSH UP; DIAMOND PUSH UP"
+    },
+    {
+      "id": "SUP-P-STRENGTHLOG-CLOSE",
+      "publisher": "StrengthLog",
+      "title": "How to Do Close-Grip Push-Up",
+      "url": "https://www.strengthlog.com/close-grip-push-up/",
+      "accessed": "2026-10-12",
+      "scope": "Pompe close-grip largeur épaules",
+      "confirms": "Inspiration descente, expiration remontée, corps droit.",
+      "limitations": "Largeur épaules et commentaire plus proche que standard: définition relative, pas corroboration de mesure stricte en dedans. Sol touché non obligatoire pour Tempo.",
+      "read": true,
+      "locator": "How to Do et Commentary"
+    },
+    {
+      "id": "SUP-P-AIF-SCAPULA",
+      "publisher": "Australian Institute of Fitness / Network",
+      "title": "Perfecting the push-up - Stephanie Glickman",
+      "url": "https://fitness.edu.au/the-fitness-zone/perfecting-the-push-up/",
+      "accessed": "2026-10-12",
+      "scope": "Coaching original de pompe générale, contrôle omoplates et appuis mains",
+      "confirms": "Protraction scapulaire lors poussée; paumes et doigts chargés sans concentration sur un bord.",
+      "limitations": "Source de famille, pas variante rapprochée. Auteur défend sensation de protraction même à descente; cela ne mesure pas trajectoire précise EX14.",
+      "read": true,
+      "locator": "Wrists and hands; Scapulae; Putting it together"
+    },
+    {
+      "id": "SUP-P-ACE-OVERHEAD",
+      "publisher": "American Council on Exercise",
+      "title": "Triceps Extension",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/74/triceps-extension/",
+      "accessed": "2026-10-12",
+      "scope": "Extension debout un haltère, deux mains",
+      "confirms": "Appui décalé, bras supérieurs stables, extension expirée/flexion inspirée, pas contact tête.",
+      "limitations": "Prise poignée à deux mains diffère cup d’une tête PureGym; demande omoplates basses/en arrière tout du long, règle à nuancer à installation overhead.",
+      "read": true,
+      "locator": "Steps 1-3"
+    },
+    {
+      "id": "SUP-P-PURE-OVERHEAD",
+      "publisher": "PureGym",
+      "title": "How To Do Overhead Tricep Extensions",
+      "url": "https://www.puregym.com/exercises/arms-and-shoulders/tricep-extension/overhead-tricep-extension/",
+      "accessed": "2026-10-12",
+      "scope": "Sous-section haltère unique soutenu aux deux mains debout",
+      "confirms": "Extrémité en coupe, paumes vers haut, flexion derrière tête et extension, tronc stabilisé.",
+      "limitations": "Page inclut deux haltères et câble, exclus ici. Transcription du lecteur vidéo parle de squat barre, erreur éditoriale: ne pas utiliser vidéo liée comme preuve. « As far as possible » ne fixe pas amplitude adaptée.",
+      "read": true,
+      "locator": "How To Do A Dumbbell Overhead Tricep Extension, étapes écrites 1-5; Tips"
+    },
+    {
+      "id": "SUP-P-FITBOD-OVERHEAD",
+      "publisher": "Fitbod",
+      "title": "Standing Dumbbell Tricep Extension - reviewed Jim Parker CPT, BA Kinesiology",
+      "url": "https://fitbod.me/exercises/standing-dumbbell-tricep-extension",
+      "accessed": "2026-10-12",
+      "scope": "Extension debout haltère unique à deux mains",
+      "confirms": "Tête haltère saisie, pieds largeur bassin/genoux souples, regard devant, extension contrôlée puis descente lente.",
+      "limitations": "Paumes face à face puis vers haut et « wrists straight » doivent être interprétés selon forme du matériel; aucune prise universelle ni charge issue calculateur applicable à Tempo.",
+      "read": true,
+      "locator": "Instructions for Proper Form 1-8"
+    },
+    {
+      "id": "SUP-P-MYPROTEIN-OVERHEAD",
+      "publisher": "Myprotein",
+      "title": "Build Muscle Guide 3 - Standing dumbbell tricep extension",
+      "url": "https://s1.thcdn.com/design-assets/documents/myprotein/Myprotein-Build-Muscle-Guide-3.pdf",
+      "accessed": "2026-10-12",
+      "scope": "Extension debout un haltère tenu à deux mains, p.49 PDF",
+      "confirms": "Départ au-dessus tête, flexion derrière tête avec bras supérieurs immobiles, retour extension.",
+      "limitations": "Prise et respiration non détaillées; guide marque, pas étude biomécanique. Dosage non repris.",
+      "read": true,
+      "locator": "Page PDF 49, index zéro 48"
+    },
+    {
+      "id": "SUP-P-NSCA-OVERHEAD",
+      "publisher": "NSCA / Human Kinetics",
+      "title": "Modification of exercises to allow injured individuals to continue training - Danny McMillian PT DSc CSCS",
+      "url": "https://www.nsca.com/certification/tsac-f/essentials-of-tactical-strength-training-and-conditioning-2nd-edition/excerpts/modification-of-exercises-to-allow-injured-individuals-to-continue-training/",
+      "accessed": "2026-10-12",
+      "scope": "Contrôle scapulaire overhead, pas extension triceps exacte",
+      "confirms": "Ne pas demander scapula en poche avant élévation terminée: cela peut limiter rotation vers haut.",
+      "limitations": "Contexte rééducation/tactique et maintien bras tendu; ne prouve pas une trajectoire ou recommandation individuelle EX24. Ne prescrit pas relâchement complet de l’épaule.",
+      "read": true,
+      "locator": "Shoulder; paragraphe overhead cues"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "EX14",
+      "name": "Pompes mains rapprochées",
+      "status": "exact_documentary_corroboration_with_explicit_disagreements",
+      "humanTechnicalReview": null,
+      "findings": [
+        "Le manque de descriptions indépendantes exactes est levé: Tiger Fitness et Men’s Health décrivent tous deux mains juste en dedans des épaules sans imposer contact pouces/index. Fitbod distingue explicitement rapprochée et diamant.",
+        "La largeur n’est pas universelle: StrengthLog appelle close-grip une prise largeur épaules. Tempo doit définir sa variante relative puis garder l’écart réellement confortable, sans distance en cm.",
+        "Désaccord omoplates: Tiger demande épaules en arrière, AIF explique protraction active. Ne pas coder une rétraction figée pendant toute répétition; proposition retenir soutien actif et mobilité contrôlée. AIF est une source de famille, pas un deuxième exact.",
+        "Les sources coaching valorisent triceps mais ne valident pas isolement ni ordre d’activation applicable à tous. L’étude Cogley existante garde son rôle de mesure limitée, pas validation des poignets."
+      ],
+      "sourceEvidence": [
+        {
+          "sourceId": "SUP-P-TIGER-CLOSE",
+          "match": "exact",
+          "confirms": "Base mains juste plus étroite; appuis et corps solidaire."
+        },
+        {
+          "sourceId": "SUP-P-MH-CLOSE",
+          "match": "exact",
+          "confirms": "Variante non diamant."
+        },
+        {
+          "sourceId": "SUP-P-FITBOD-CLOSE",
+          "match": "exact",
+          "confirms": "Variante rapprochée distincte diamant, coudes proches."
+        },
+        {
+          "sourceId": "SUP-P-STRENGTHLOG-CLOSE",
+          "match": "exact_relative_width_variant",
+          "confirms": "Cycle respiratoire; largeur différente à signaler."
+        },
+        {
+          "sourceId": "SUP-P-AIF-SCAPULA",
+          "match": "family_scapulothoracic_arbitration",
+          "confirms": "Appuis mains distribués et soutien actif, contradiction avec omoplates figées."
+        }
+      ],
+      "proposedAmendments": {
+        "variant": "Pompe au sol, mains légèrement plus rapprochées que la pompe classique, juste à l’intérieur de la largeur des épaules si confortable; pouces/index séparés, sans forme diamant imposée.",
+        "position": "Commencer à genoux pour placer les mains; paumes entièrement au sol, doigts écartés plutôt vers devant. Allonger jambes, prendre appui avant-pieds, pieds ensemble ou légèrement écartés pour équilibre. Tête, tronc et bassin restent alignés; regarder sol devant mains sans relever menton.",
+        "grip": "Sur cette variante, repère largeur relatif aux épaules et à la pompe classique; aucun rapprochement maximal exigé. Orientation légèrement ajustable selon poignet, sans tordre les mains pour obtenir un dessin.",
+        "action": "Inspirer et plier les coudes pour abaisser poitrine et bassin ensemble. Les coudes suivent près du buste sans imposer qu’ils frottent les côtes. Les deux paumes et avant-pieds conservent leur place.",
+        "end": "Arrêter descente à hauteur où corps et appuis restent contrôlés et sans douleur. Pas obligation de toucher sol, pas angle absolu coude/épaule.",
+        "return": "Expirer et repousser le sol pour allonger les coudes, sans claquement en hyperextension ni changement de ligne du bassin.",
+        "scapula": "Omoplates soutiennent le thorax et accompagnent poussée sous contrôle. Ne pas maintenir volontairement une pince maximale en arrière, ni ajouter un push-up plus maximal sans changer variante. Proposition de coaching à revoir.",
+        "exit": "Revenir en haut puis poser les genoux avant de libérer mains; si remontée non maîtrisée, poser genoux doucement pour sortir.",
+        "media": "Vue dessus pour prouver mains séparées et largeur plus étroite; profil pour bassin/nuque. A haut, B descente contrôlée; pas de saut d’appui ni diamant généré par défaut.",
+        "errorsAndCorrections": [
+          "Mains serrées en diamant inconfortable: élargir jusqu’à prise confortable, ou choisir pompe classique.",
+          "Coudes excessivement écartés: réduire course et garder trajet proche du buste, sans pincement forcé.",
+          "Bassin qui chute: arrêter puis utiliser support fixe plus haut.",
+          "Poignets douloureux: quitter appui, ne pas conclure que douleur indique seulement mauvaise largeur."
+        ],
+        "audio": {
+          "setup": "Paumes au sol, mains un peu rapprochées.",
+          "action": "Inspire et descends, coudes près du buste.",
+          "return": "Expire et repousse en gardant le bassin aligné."
+        },
+        "evidenceBoundary": "Appuis et mécanique croisés; nuances de douleur, sortie et critères média sont synthèse pratique à reviewer. Aucun avis technique humain obtenu."
+      },
+      "remainingUnresolved": [
+        "Largeur et orientation des mains réellement tolérées par chaque personne; pas seuil universel démontré.",
+        "Cogley protocole intégral toujours non lu dans ce complément; aucun résultat EMG individuel ou bénéfice de sécurité.",
+        "Trajectoire scapulaire précise de variante rapprochée sous charge non mesurée par ces descriptions; conflit coaching conservé, arbitrage humain requis.",
+        "Assets et enregistrements Tempo non inspectés dans ce complément."
+      ]
+    },
+    {
+      "id": "EX24",
+      "name": "Extension triceps haltère au-dessus de la tête",
+      "status": "exact_documentary_corroboration_with_hardware_and_grip_conditions",
+      "humanTechnicalReview": null,
+      "findings": [
+        "Seconde description exacte levée: ACE, PureGym, Fitbod et Myprotein décrivent tous la version debout, un haltère et deux mains. Le câble et les versions unilatérales ne comptent pas dans cette corroboration.",
+        "Prises distinctes: ACE parle de deux mains sur poignée; PureGym d’extrémité tenue en coupe et Fitbod de tête haltère. Proposition Tempo définir prise en coupe pour haltère compatible, jamais la prétendre universelle pour haltères réglables.",
+        "Poignet: garder prise stable est corroboré; imposer alignement rectiligne de chaque poignet tout en demandant paumes vers plafond peut contredire la prise en coupe. Remplacer ce cue absolu par absence de torsion/pli supplémentaire au cours de répétition.",
+        "Omoplates: règle ACE basses/en arrière pendant tout mouvement ne doit pas empêcher installation au-dessus tête. NSCA explicite besoin de rotation vers haut pendant élévation; source indirecte pour EX24 mais pertinente pour arbitrer cue.",
+        "PureGym lecteur vidéo affiche transcription squat barre: seules étapes écrites pertinentes comptent ici. Aucun média de cette page ne peut être repris comme démonstration vérifiée."
+      ],
+      "sourceEvidence": [
+        {
+          "sourceId": "SUP-P-ACE-OVERHEAD",
+          "match": "exact",
+          "confirms": "Un haltère à deux mains debout; respiration et bras supérieurs stables."
+        },
+        {
+          "sourceId": "SUP-P-PURE-OVERHEAD",
+          "match": "exact_dumbbell_subsection_only",
+          "confirms": "Prise extrémité en coupe à deux mains; mouvement behind-head."
+        },
+        {
+          "sourceId": "SUP-P-FITBOD-OVERHEAD",
+          "match": "exact",
+          "confirms": "Tête haltère deux mains, posture debout, contrôle montée/descente."
+        },
+        {
+          "sourceId": "SUP-P-MYPROTEIN-OVERHEAD",
+          "match": "exact",
+          "confirms": "Texte debout un haltère deux mains, haut-bas-haut."
+        },
+        {
+          "sourceId": "SUP-P-NSCA-OVERHEAD",
+          "match": "family_overhead_scapula_arbitration",
+          "confirms": "Limiter cue de dépression/rétraction pendant installation bras élevés."
+        }
+      ],
+      "proposedAmendments": {
+        "variant": "Extension triceps debout, un seul haltère tenu à deux mains. Proposition illustrer haltère à tête fixe avec prise en coupe compatible avec sa forme; autre matériel exige vérification spécifique.",
+        "position": "Pieds largeur bassin à épaules, éventuellement un peu décalés; plantes au sol, genoux souples. Bassin sous thorax, tronc stabilisé, tête dans axe et regard devant. Préparer prise à deux mains, puis installer doucement haltère au-dessus tête avec charge légère maîtrisée.",
+        "grip": "Pour un haltère compatible: soutenir la tête supérieure avec les deux paumes orientées vers plafond, doigts autour de la partie fixe permettant une prise ferme; haltère orienté principalement vertical, masse inférieure derrière mains. Ne pas suspendre un assemblage par disque/collier amovible ni saisir un embout sans vérifier fabricant et verrouillage.",
+        "action": "Bras supérieurs dirigés vers haut près tête à largeur confortable. Depuis coudes fléchis et poids derrière tête, expirer et étendre les coudes sans balancer bras supérieurs ou cambrer pour aider.",
+        "end": "Allonger coudes sous contrôle, haltère au-dessus tête, sans claquement ni hyperextension. Épaules restent soutenues dans leur position overhead confortable.",
+        "return": "Inspirer et fléchir les coudes lentement; poids descend derrière tête sans la toucher. Stopper avant que bras supérieurs partent en arrière, tronc se cambre ou prise se dégrade. Angle 90° ACE est un repère possible, pas cible obligatoire pour chacun.",
+        "scapula": "Permettre placement naturel des omoplates pendant installation en élévation, puis maintenir soutien sans forcer épaules au plus bas ni les pincer. Coudes ne doivent pas être serrés l’un contre l’autre à tout prix.",
+        "exit": "Ramener charge dans une position de repose contrôlée avec les deux mains. Si passage overhead vers repose n’est pas maîtrisé avec poids léger, ne pas commencer série; apprentissage humain requis pour ce matériel.",
+        "muscles": "Triceps produit extension coude. Épaules maintiennent bras élevés et prise demande avant-bras; tronc stabilise posture debout. Pas pourcentage ni promesse d’isoler exclusivement longue portion.",
+        "media": "A coudes fléchis derrière tête; B coudes allongés, même prise/identité haltère. Vue trois quarts rend prise et distance à tête visibles, profil contrôle bassin et bras supérieurs. Un gros plan prise est nécessaire pour distinguer tête fixe et disque amovible.",
+        "errorsAndCorrections": [
+          "Bassin avancé/dos creusé: alléger et réduire course, retrouver thorax au-dessus bassin.",
+          "Coudes écartés forcés ou bras basculent: diminuer charge/course et garder orientation confortable.",
+          "Prise glissante ou incompatible: arrêter, reposer puis changer matériel, pas improviser.",
+          "Douleur coude/épaule/poignet: cesser série; amplitude réduite ne garantit pas tolérance."
+        ],
+        "audio": {
+          "setup": "Prise stable à deux mains, tronc gainé.",
+          "action": "Expire et tends les coudes sans cambrer.",
+          "return": "Inspire et redescends derrière la tête en contrôle."
+        },
+        "evidenceBoundary": "Prise en coupe documentée, restriction tête fixe et vérification fabricant sont décisions de mise en œuvre matérielle. Une fiche web ne certifie pas un haltère réel, ni un passage de mise en place/repose."
+      },
+      "remainingUnresolved": [
+        "Compatibilité de la prise en coupe avec le modèle réellement possédé, fixation et dimensions; aucun fabricant/modèle fourni.",
+        "Séquence détaillée de mise en place/repose selon charge et morphologie à contrôler humainement; guides consultés ne fournissent pas procédure commune.",
+        "Trajectoire scapulaire exacte pendant flexion/extension coude overhead non démontrée par NSCA: source indirecte, pas validation de chaque image.",
+        "Assets et enregistrements Tempo non inspectés; humanTechnicalReview reste null."
+      ]
+    }
+  ],
+  "method": "Pages complètes pertinentes ouvertes et sections lues; sources coaching originales distinguées des études et sources de famille. Deux pages d’un éditeur comptent comme une famille; aucun lien vidéo inaccessible ou texte de recherche seul ne fonde les corroborations retenues."
+}
